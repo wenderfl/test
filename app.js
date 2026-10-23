@@ -3225,34 +3225,135 @@ function setupNetflixPlayerEngine() {
     };
   }
 
-  // Audio & Subtitles Popover
+  // Audio & Subtitles / Cinema AV Popover
+  const qualityBtn = document.getElementById("netflixBtnQuality");
+  const qualityDropdown = document.getElementById("netflixQualityDropdown");
+  const qualityWrap = qualityBtn ? qualityBtn.closest(".netflix-quality-menu-wrap") : null;
+
   if (subBtn && subDropdown) {
     subBtn.onclick = (e) => {
       e.stopPropagation();
       subDropdown.classList.toggle("open");
       if (speedDropdown) speedDropdown.classList.remove("open");
+      if (qualityDropdown) qualityDropdown.classList.remove("open");
+      if (qualityWrap) qualityWrap.classList.remove("open");
       resetNetflixControlsTimer();
     };
 
-    subDropdown.querySelectorAll(".audio-sub-option").forEach(opt => {
+    // Subtitle options click
+    subDropdown.querySelectorAll("#netflixSubtitlesList .audio-sub-option").forEach(opt => {
       opt.onclick = (e) => {
         e.stopPropagation();
-        const parentCol = opt.closest(".audio-sub-column");
+        const parentCol = opt.closest("#netflixSubtitlesList");
         if (parentCol) {
           parentCol.querySelectorAll(".audio-sub-option").forEach(o => o.classList.remove("active"));
           opt.classList.add("active");
         }
-        const audioVal = opt.dataset.audio;
-        const subVal = opt.dataset.sub;
-        if (audioVal) {
-          showToast(`Áudio: ${opt.textContent.replace("✓", "").trim()}`);
-        } else if (subVal) {
-          showToast(`Legendas: ${opt.textContent.replace("✓", "").trim()}`);
-        }
+        showToast(`Legendas: ${opt.textContent.replace("✓", "").trim()}`);
         subDropdown.classList.remove("open");
         resetNetflixControlsTimer();
       };
     });
+
+    // DSP & Video calibration toggle bindings
+    const dspDialogueBtn = document.getElementById("netflixDspDialogue");
+    const dspCompressorBtn = document.getElementById("netflixDspCompressor");
+    const dspBoostBtn = document.getElementById("netflixDspBoost");
+    const vidGradeBtn = document.getElementById("netflixVideoGrade");
+    const vidDitherBtn = document.getElementById("netflixVideoDither");
+    const vidAspectBtn = document.getElementById("netflixVideoAspect");
+
+    const syncToggleUi = (btn, active) => {
+      if (!btn) return;
+      btn.classList.toggle("active", !!active);
+      const ind = btn.querySelector(".toggle-indicator");
+      if (ind) ind.textContent = active ? "ON" : "OFF";
+    };
+
+    syncToggleUi(dspDialogueBtn, netflixDspSettings.dialogueBoost);
+    syncToggleUi(dspCompressorBtn, netflixDspSettings.compressor);
+    syncToggleUi(dspBoostBtn, netflixDspSettings.volumeBoost);
+    syncToggleUi(vidGradeBtn, netflixVideoSettings.cinemaGrade);
+    syncToggleUi(vidDitherBtn, netflixVideoSettings.ditherGrain);
+    syncToggleUi(vidAspectBtn, netflixVideoSettings.aspectFill);
+
+    if (dspDialogueBtn) {
+      dspDialogueBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixDspSettings.dialogueBoost = !netflixDspSettings.dialogueBoost;
+        syncToggleUi(dspDialogueBtn, netflixDspSettings.dialogueBoost);
+        updateNetflixAudioDSP();
+        try { localStorage.setItem("curator_dsp_settings", JSON.stringify(netflixDspSettings)); } catch (err) {}
+        showToast(netflixDspSettings.dialogueBoost ? "Realce de Voz & Diálogos ATIVADO" : "Realce de Voz DESATIVADO");
+      };
+    }
+
+    if (dspCompressorBtn) {
+      dspCompressorBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixDspSettings.compressor = !netflixDspSettings.compressor;
+        syncToggleUi(dspCompressorBtn, netflixDspSettings.compressor);
+        updateNetflixAudioDSP();
+        try { localStorage.setItem("curator_dsp_settings", JSON.stringify(netflixDspSettings)); } catch (err) {}
+        showToast(netflixDspSettings.compressor ? "Compressor Dinâmico (Noite) ATIVADO" : "Compressor Dinâmico DESATIVADO");
+      };
+    }
+
+    if (dspBoostBtn) {
+      dspBoostBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixDspSettings.volumeBoost = !netflixDspSettings.volumeBoost;
+        syncToggleUi(dspBoostBtn, netflixDspSettings.volumeBoost);
+        updateNetflixAudioDSP();
+        try { localStorage.setItem("curator_dsp_settings", JSON.stringify(netflixDspSettings)); } catch (err) {}
+        showToast(netflixDspSettings.volumeBoost ? "Super Volume (+50%) ATIVADO" : "Super Volume DESATIVADO");
+      };
+    }
+
+    if (vidGradeBtn) {
+      vidGradeBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixVideoSettings.cinemaGrade = !netflixVideoSettings.cinemaGrade;
+        syncToggleUi(vidGradeBtn, netflixVideoSettings.cinemaGrade);
+        applyNetflixVideoSettings();
+        try { localStorage.setItem("curator_video_settings", JSON.stringify(netflixVideoSettings)); } catch (err) {}
+        showToast(netflixVideoSettings.cinemaGrade ? "Modo Cinema Master ATIVADO" : "Modo Cinema Master DESATIVADO");
+      };
+    }
+
+    if (vidDitherBtn) {
+      vidDitherBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixVideoSettings.ditherGrain = !netflixVideoSettings.ditherGrain;
+        syncToggleUi(vidDitherBtn, netflixVideoSettings.ditherGrain);
+        applyNetflixVideoSettings();
+        try { localStorage.setItem("curator_video_settings", JSON.stringify(netflixVideoSettings)); } catch (err) {}
+        showToast(netflixVideoSettings.ditherGrain ? "Anti-Banding Noturno ATIVADO" : "Anti-Banding DESATIVADO");
+      };
+    }
+
+    if (vidAspectBtn) {
+      vidAspectBtn.onclick = (e) => {
+        e.stopPropagation();
+        netflixVideoSettings.aspectFill = !netflixVideoSettings.aspectFill;
+        syncToggleUi(vidAspectBtn, netflixVideoSettings.aspectFill);
+        applyNetflixVideoSettings();
+        try { localStorage.setItem("curator_video_settings", JSON.stringify(netflixVideoSettings)); } catch (err) {}
+        showToast(netflixVideoSettings.aspectFill ? "Preenchimento de Tela (Sem Barras) ATIVADO" : "Aspect Ratio Original RESTAURADO");
+      };
+    }
+  }
+
+  // Quality & Bitrate Dropdown
+  if (qualityBtn && qualityDropdown) {
+    qualityBtn.onclick = (e) => {
+      e.stopPropagation();
+      qualityDropdown.classList.toggle("open");
+      if (qualityWrap) qualityWrap.classList.toggle("open");
+      if (subDropdown) subDropdown.classList.remove("open");
+      if (speedDropdown) speedDropdown.classList.remove("open");
+      resetNetflixControlsTimer();
+    };
   }
 
   // Speed Dropdown
@@ -3261,6 +3362,8 @@ function setupNetflixPlayerEngine() {
       e.stopPropagation();
       speedDropdown.classList.toggle("open");
       if (subDropdown) subDropdown.classList.remove("open");
+      if (qualityDropdown) qualityDropdown.classList.remove("open");
+      if (qualityWrap) qualityWrap.classList.remove("open");
       resetNetflixControlsTimer();
     };
     speedDropdown.querySelectorAll("button").forEach(b => {
@@ -3272,18 +3375,13 @@ function setupNetflixPlayerEngine() {
   document.addEventListener("click", () => {
     if (speedDropdown) speedDropdown.classList.remove("open");
     if (subDropdown) subDropdown.classList.remove("open");
+    if (qualityDropdown) qualityDropdown.classList.remove("open");
+    if (qualityWrap) qualityWrap.classList.remove("open");
   });
 
   if (fsBtn) fsBtn.onclick = toggleNetflixFullscreen;
   if (editStreamBtn) editStreamBtn.onclick = openStreamConfigModal;
-  if (externalBtn) {
-    externalBtn.onclick = () => {
-      if (netflixCurrentMovie) {
-        const url = resolveMovieStreamUrl(netflixCurrentMovie);
-        window.open(url, "_blank");
-      }
-    };
-  }
+  if (externalBtn) externalBtn.onclick = openExternalPlayerModal;
 
   // Scrubber Events
   if (scrubberContainer) {
