@@ -40,13 +40,15 @@
       "imdbVotes": "261,468",
       "imdbID": "tt0063522",
       "boxOffice": null,
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112974.mp4",
     "streamName": "O Bebê de Rosemary",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
   },
   {
     "title": "Halloween",
@@ -89,13 +91,15 @@
       "imdbVotes": "344,439",
       "imdbID": "tt0077651",
       "boxOffice": "$47,160,000",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/133073.mp4",
     "streamName": "Halloween - A Noite do Terror",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "Suspiria",
@@ -138,13 +142,15 @@
       "imdbVotes": "116,905",
       "imdbID": "tt0076786",
       "boxOffice": null,
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyYmI3ZjMtODI3ZC00NGQwLTk3ZGUtYWU4MDE3MzI3ZTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24945.mp4",
     "streamName": "Suspiria A Dança do Medo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGIyYmI3ZjMtODI3ZC00NGQwLTk3ZGUtYWU4MDE3MzI3ZTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Carrie",
@@ -187,13 +193,15 @@
       "imdbVotes": "232,277",
       "imdbID": "tt0074285",
       "boxOffice": "$33,800,000",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/177696.mp4",
     "streamName": "Carrie: A Estranha",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Invasion of the Body Snatchers",
@@ -236,13 +244,15 @@
       "imdbVotes": "83,493",
       "imdbID": "tt0077745",
       "boxOffice": "$24,946,533",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDdjOTAtOThlNS00OTc0LWIyZjEtMzA3YTA4Mjk2Yjc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/210975.mp4",
     "streamName": "Os Invasores de Corpos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDdjOTAtOThlNS00OTc0LWIyZjEtMzA3YTA4Mjk2Yjc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -285,13 +295,15 @@
       "imdbVotes": "295,722",
       "imdbID": "tt0087800",
       "boxOffice": "$25,624,448",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/286865.mp4",
     "streamName": "A Hora do Pesadelo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg"
   },
   {
     "title": "Don't Look Now",
@@ -334,13 +346,15 @@
       "imdbVotes": "69,476",
       "imdbID": "tt0069995",
       "boxOffice": null,
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVlYjE0MjItZTRmZC00ZGM1LWIyNzMtYTMzZTViZGFlYzMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/307945.mp4",
     "streamName": "Inverno de Sangue em Veneza",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVlYjE0MjItZTRmZC00ZGM1LWIyNzMtYTMzZTViZGFlYzMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
   },
   {
     "title": "The Omen",
@@ -383,13 +397,15 @@
       "imdbVotes": "148,143",
       "imdbID": "tt0075005",
       "boxOffice": "$60,922,980",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/338594.mp4",
     "streamName": "A Profecia",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
   },
   {
     "title": "The Changeling",
@@ -432,13 +448,15 @@
       "imdbVotes": "41,600",
       "imdbID": "tt0080516",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzZWFmZWEtNWE0My00MDcwLTg4YzItMTczOTJkN2Q2NGY0XkEyXkFqcGc@._V1_SX300.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Intermedi%C3%A1rio.mp4",
     "streamName": "O Intermediário",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjMzZWFmZWEtNWE0My00MDcwLTg4YzItMTczOTJkN2Q2NGY0XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
     "title": "In the Mouth of Madness",
@@ -481,13 +499,15 @@
       "imdbVotes": "91,927",
       "imdbID": "tt0113409",
       "boxOffice": "$8,924,549",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_%C3%80%20Beira%20da%20Loucura.mp4",
     "streamName": "À Beira da Loucura",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "The Fog",
@@ -530,13 +550,15 @@
       "imdbVotes": "93,294",
       "imdbID": "tt0080749",
       "boxOffice": "$21,448,782",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/76675.mp4",
     "streamName": "A Bruma Assassina O Nevoeiro",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   },
   {
     "title": "Cat People",
@@ -579,13 +601,15 @@
       "imdbVotes": "27,006",
       "imdbID": "tt0083722",
       "boxOffice": "$7,000,000",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0MDY3NjQtOGM4ZC00YjQ3LTg4ZTEtZDA3OWJhZWRjMzhmXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Marca%20da%20Pantera.mp4",
     "streamName": "A Marca da Pantera",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzk0MDY3NjQtOGM4ZC00YjQ3LTg4ZTEtZDA3OWJhZWRjMzhmXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
   },
   {
     "title": "Demons",
@@ -628,13 +652,15 @@
       "imdbVotes": "30,098",
       "imdbID": "tt0089013",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ3Nzc2ZjctNTc2Yi00ZDRkLThmY2EtNDEyNTYwZjIzMGFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Demons%3A%20Filhos%20das%20Trevas.mp4",
     "streamName": "Demons: Filhos das Trevas",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ3Nzc2ZjctNTc2Yi00ZDRkLThmY2EtNDEyNTYwZjIzMGFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg"
   },
   {
     "title": "Fright Night",
@@ -677,13 +703,15 @@
       "imdbVotes": "89,454",
       "imdbID": "tt0089175",
       "boxOffice": "$24,922,237",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQzMTM4NzUyM15BMl5BanBnXkFtZTgwNDYyODgwNzE@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/202955.mp4",
     "streamName": "A Hora do Espanto",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQzMTM4NzUyM15BMl5BanBnXkFtZTgwNDYyODgwNzE@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   },
   {
     "title": "The Faculty",
@@ -726,13 +754,15 @@
       "imdbVotes": "149,983",
       "imdbID": "tt0133751",
       "boxOffice": "$40,283,321",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ5Njk0MzUtZTliZC00ODgzLTlmZTEtZGY0NDgyMTM0NGJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320917.mp4",
     "streamName": "Prova Final",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5Njk0MzUtZTliZC00ODgzLTlmZTEtZGY0NDgyMTM0NGJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Near Dark",
@@ -775,13 +805,15 @@
       "imdbVotes": "50,264",
       "imdbID": "tt0093605",
       "boxOffice": "$3,369,307",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ5YTQ0YmMtOWVjYi00M2M2LWIwZjktYjcwZTRlMDg5ODlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quando%20a%20Escurid%C3%A3o%20Chega.mp4",
     "streamName": "Quando a Escuridão Chega",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5YTQ0YmMtOWVjYi00M2M2LWIwZjktYjcwZTRlMDg5ODlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   },
   {
     "title": "Day of the Dead",
@@ -824,13 +856,15 @@
       "imdbVotes": "80,703",
       "imdbID": "tt0088993",
       "boxOffice": "$5,000,000",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg0ZTVmMDMtMTkxZC00MDY1LTliZTUtNjg5NTAzNjAxY2Y0XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21728.mp4",
     "streamName": "Dia Dos Mortos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTg0ZTVmMDMtMTkxZC00MDY1LTliZTUtNjg5NTAzNjAxY2Y0XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
   },
   {
     "title": "Child's Play",
@@ -873,13 +907,15 @@
       "imdbVotes": "134,314",
       "imdbID": "tt0094862",
       "boxOffice": "$33,244,684",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247345.mp4",
     "streamName": "Brinquedo Assassino (1988)",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Phantasm II",
@@ -922,13 +958,15 @@
       "imdbVotes": "18,355",
       "imdbID": "tt0095863",
       "boxOffice": "$7,282,851",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWIxM2U2ZWMtNjU4OC00Mzc3LWI2MjYtNTc5OWE4YmJlOWUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Fantasma%20II.mp4",
     "streamName": "Fantasma II",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxM2U2ZWMtNjU4OC00Mzc3LWI2MjYtNTc5OWE4YmJlOWUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
   },
   {
     "title": "The People Under the Stairs",
@@ -967,12 +1005,14 @@
           "Source": "Metacritic",
           "Value": "57/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjgyOGEtNjM5ZS00MDM4LWJlNDEtN2JmNDY2NjRiZmY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Criaturas%20Atras%20das%20Paredes.mp4",
     "streamName": "As Criaturas Atras das Paredes",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjgyOGEtNjM5ZS00MDM4LWJlNDEtN2JmNDY2NjRiZmY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
   },
   {
     "title": "Tales from the Crypt: Demon Knight",
@@ -1011,12 +1051,14 @@
           "Source": "Metacritic",
           "Value": "48/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0ZGJkYjYtOTI4Ni00MzJiLTg2OWItMmJmNWMxODIzOTM5XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309546.mp4",
     "streamName": "Os Demônios da Noite",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjY0ZGJkYjYtOTI4Ni00MzJiLTg2OWItMmJmNWMxODIzOTM5XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
   },
   {
     "title": "Psycho",
@@ -1055,12 +1097,14 @@
           "Source": "Metacritic",
           "Value": "97/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/311928.mp4",
     "streamName": "Psicose",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "The Texas Chain Saw Massacre",
@@ -1099,12 +1143,14 @@
           "Source": "Metacritic",
           "Value": "92/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/394533.mp4",
     "streamName": "O Massacre da Serra Elétrica",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Amityville Horror",
@@ -1143,11 +1189,13 @@
           "Source": "Metacritic",
           "Value": "28/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWRmOTdhMWEtYmExOC00Y2E5LTkwYjEtYTAwY2Q0MTU0MTBlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309715.mp4",
     "streamName": "Terror em Amityville",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRmOTdhMWEtYmExOC00Y2E5LTkwYjEtYTAwY2Q0MTU0MTBlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

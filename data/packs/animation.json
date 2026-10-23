@@ -40,13 +40,15 @@
       "imdbVotes": "151,848",
       "imdbID": "tt6587046",
       "boxOffice": "$47,343,204",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Promare.mp4",
     "streamName": "Promare",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
   },
   {
     "title": "Dragon Ball Super: Broly",
@@ -89,13 +91,15 @@
       "imdbVotes": "38,255",
       "imdbID": "tt7961060",
       "boxOffice": "$30,712,119",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24704.mp4",
     "streamName": "Dragon Ball Super: Broly",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
@@ -134,13 +138,15 @@
       "imdbVotes": "103,692",
       "imdbID": "tt11032374",
       "boxOffice": "$49,888,550",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/series/frc-561250/Yrwa1z/1393.mp4",
     "streamName": "Demon Slayer Kimetsu no Yaiba",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Lupin III: The First",
@@ -183,13 +189,15 @@
       "imdbVotes": "4,410",
       "imdbID": "tt10621032",
       "boxOffice": "$245,724",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UwMjlmZWEtZjBiMi00ZmJmLTg1MDAtOWQ4NjFjMTY5MzhkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/48191.mp4",
     "streamName": "Lupin III: O Primeiro",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMjlmZWEtZjBiMi00ZmJmLTg1MDAtOWQ4NjFjMTY5MzhkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Treasure Planet",
@@ -232,13 +240,15 @@
       "imdbVotes": "150,996",
       "imdbID": "tt0133240",
       "boxOffice": "$38,176,783",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20434.mp4",
     "streamName": "Planeta Do Tesouro",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -281,13 +291,15 @@
       "imdbVotes": "150,581",
       "imdbID": "tt0230011",
       "boxOffice": "$84,056,472",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/395670.mp4",
     "streamName": "Atlantis: O Reino Perdido",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Titan A.E.",
@@ -330,13 +342,15 @@
       "imdbVotes": "67,328",
       "imdbID": "tt0120913",
       "boxOffice": "$22,753,426",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Titan%20A.E..mp4",
     "streamName": "Titan A.E.",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Kubo and the Two Strings",
@@ -379,13 +393,15 @@
       "imdbVotes": "148,706",
       "imdbID": "tt4302938",
       "boxOffice": "$48,023,088",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128570.mp4",
     "streamName": "Kubo e as Cordas Mágicas",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "How to Train Your Dragon",
@@ -428,13 +444,15 @@
       "imdbVotes": "910,697",
       "imdbID": "tt0892769",
       "boxOffice": "$217,581,231",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/335543.mp4",
     "streamName": "Como Treinar o Seu Dragão 4K",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Sinbad: Legend of the Seven Seas",
@@ -477,13 +495,15 @@
       "imdbVotes": "65,134",
       "imdbID": "tt0165982",
       "boxOffice": "$26,483,452",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyMzE1ODI3NF5BMl5BanBnXkFtZTYwMDE3NDc2._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sinbad%3A%20A%20Lenda%20dos%20Sete%20Mares.mp4",
     "streamName": "Sinbad: A Lenda dos Sete Mares",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMzE1ODI3NF5BMl5BanBnXkFtZTYwMDE3NDc2._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "The Road to El Dorado",
@@ -526,13 +546,15 @@
       "imdbVotes": "121,138",
       "imdbID": "tt0138749",
       "boxOffice": "$50,863,742",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/64389.mp4",
     "streamName": "O Caminho para El Dorado",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
   },
   {
     "title": "The Mitchells vs. the Machines",
@@ -575,13 +597,15 @@
       "imdbVotes": "145,255",
       "imdbID": "tt7979580",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/142971.mp4",
     "streamName": "A Família Mitchell e a Revolta das Máquinas",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Rise of the Guardians",
@@ -624,13 +648,15 @@
       "imdbVotes": "211,979",
       "imdbID": "tt1446192",
       "boxOffice": "$103,412,758",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_QL75_UX380_CR0,14,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/378648.mp4",
     "streamName": "A Origem dos Guardiões",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_QL75_UX380_CR0,14,380,562_.jpg"
   },
   {
     "title": "Klaus",
@@ -669,12 +695,14 @@
           "Source": "Metacritic",
           "Value": "65/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/30651.mp4",
     "streamName": "Klaus",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "ParaNorman",
@@ -713,12 +741,14 @@
           "Source": "Metacritic",
           "Value": "72/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI0MjA3M2ItY2QzMS00MzZiLWE5YTAtM2ZlODk1MjBhNjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318534.mp4",
     "streamName": "ParaNorman",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI0MjA3M2ItY2QzMS00MzZiLWE5YTAtM2ZlODk1MjBhNjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Wolfwalkers",
@@ -757,11 +787,13 @@
           "Source": "Metacritic",
           "Value": "87/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/89606.mp4",
     "streamName": "Wolfwalkers",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   }
 ]

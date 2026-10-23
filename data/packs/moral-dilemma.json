@@ -45,12 +45,14 @@
       "imdbVotes": "117,131",
       "imdbID": "tt0111495",
       "boxOffice": "$3,581,969",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0YTQyYzItNGEzMi00NmI4LWJkOTMtOWMyMjAwMWEzYTZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20210.mp4",
     "streamName": "Red - Aposentados e Perigosos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0YTQyYzItNGEzMi00NmI4LWJkOTMtOWMyMjAwMWEzYTZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Three Colors: Blue",
@@ -98,12 +100,14 @@
       "imdbVotes": "119,599",
       "imdbID": "tt0108394",
       "boxOffice": "$1,324,974",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxNWE2NGYtMzYwOS00NmJhLTgwNjAtNGM3ODIwNjU5MTZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/93738.mp4",
     "streamName": "Blue Is The Warmest Color [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMxNWE2NGYtMzYwOS00NmJhLTgwNjAtNGM3ODIwNjU5MTZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
   },
   {
     "title": "Three Colors: White",
@@ -151,12 +155,14 @@
       "imdbVotes": "85,706",
       "imdbID": "tt0111507",
       "boxOffice": "$1,237,219",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUyMWJiYTEtNmIzYi00OTYxLTlkYjEtMGFjMjY3NDc5Mjk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
     "streamName": "Great White [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyMWJiYTEtNmIzYi00OTYxLTlkYjEtMGFjMjY3NDc5Mjk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   },
   {
     "title": "Amour",
@@ -204,12 +210,14 @@
       "imdbVotes": "111,455",
       "imdbID": "tt1602620",
       "boxOffice": "$6,739,492",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108279.mp4",
     "streamName": "Amour [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The White Ribbon",
@@ -257,12 +265,14 @@
       "imdbVotes": "82,223",
       "imdbID": "tt1149362",
       "boxOffice": "$2,222,862",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
     "streamName": "Great White [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "The Seventh Seal",
@@ -310,12 +320,14 @@
       "imdbVotes": "218,162",
       "imdbID": "tt0050976",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20S%C3%A9timo%20Selo.mp4",
     "streamName": "O Sétimo Selo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg"
   },
   {
     "title": "Persona",
@@ -363,12 +375,14 @@
       "imdbVotes": "142,440",
       "imdbID": "tt0060827",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quando%20Duas%20Mulheres%20Pecam.mp4",
     "streamName": "Quando Duas Mulheres Pecam",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   },
   {
     "title": "Caché",
@@ -416,12 +430,14 @@
       "imdbVotes": "91,194",
       "imdbID": "tt0387898",
       "boxOffice": "$3,647,381",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cach%C3%A9.mp4",
     "streamName": "Caché",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg"
   },
   {
     "title": "A Short Film About Love",
@@ -465,12 +481,14 @@
       "imdbVotes": "28,686",
       "imdbID": "tt0095467",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJmMjZlYzctMmQwNS00ZGU5LWI2N2EtOTI0YzQ2NTJmNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_N%C3%A3o%20Amar%C3%A1s.mp4",
     "streamName": "Não Amarás",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMjZlYzctMmQwNS00ZGU5LWI2N2EtOTI0YzQ2NTJmNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Ikiru",
@@ -518,11 +536,13 @@
       "imdbVotes": "104,236",
       "imdbID": "tt0044741",
       "boxOffice": "$60,239",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZiNzExNmUtODU5YS00MDE1LWI0YTItMzVmNjM1ZTQ5NGVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/210982.mp4",
     "streamName": "Viver",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZiNzExNmUtODU5YS00MDE1LWI0YTItMzVmNjM1ZTQ5NGVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   }
 ]

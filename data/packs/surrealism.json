@@ -45,12 +45,14 @@
       "imdbVotes": "435,237",
       "imdbID": "tt0166924",
       "boxOffice": "$7,220,243",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cidade%20dos%20Sonhos.mp4",
     "streamName": "Cidade dos Sonhos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Blue Velvet",
@@ -98,12 +100,14 @@
       "imdbVotes": "249,825",
       "imdbID": "tt0090756",
       "boxOffice": "$8,551,228",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354290.mp4",
     "streamName": "Veludo Azul [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "The Discreet Charm of the Bourgeoisie",
@@ -151,12 +155,14 @@
       "imdbVotes": "51,042",
       "imdbID": "tt0068361",
       "boxOffice": "$82,471",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MDA0YTEtZTY4Mi00N2Y5LTk0ZjktMTY2ZGQzNGVlYzViXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Discreto%20Charme%20da%20Burguesia.mp4",
     "streamName": "O Discreto Charme da Burguesia",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MDA0YTEtZTY4Mi00N2Y5LTk0ZjktMTY2ZGQzNGVlYzViXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg"
   },
   {
     "title": "The Holy Mountain",
@@ -204,12 +210,14 @@
       "imdbVotes": "53,414",
       "imdbID": "tt0071615",
       "boxOffice": "$61,001",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Montanha%20Sagrada.mp4",
     "streamName": "A Montanha Sagrada",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Eraserhead",
@@ -257,12 +265,14 @@
       "imdbVotes": "146,036",
       "imdbID": "tt0074486",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Eraserhead.mp4",
     "streamName": "Eraserhead",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Lost Highway",
@@ -310,12 +320,14 @@
       "imdbVotes": "173,798",
       "imdbID": "tt0116922",
       "boxOffice": "$3,726,792",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Estrada%20Perdida.mp4",
     "streamName": "Estrada Perdida",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Last Year at Marienbad",
@@ -359,12 +371,14 @@
       "imdbVotes": "27,381",
       "imdbID": "tt0054632",
       "boxOffice": "$207,917",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzczM2FjY2ItOTZjNC00ZmFhLTgxYWEtNTQ3MzhlZTJlYjZlXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/138859.mp4",
     "streamName": "O Passado Não Perdoa",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzczM2FjY2ItOTZjNC00ZmFhLTgxYWEtNTQ3MzhlZTJlYjZlXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
   },
   {
     "title": "Holy Motors",
@@ -412,12 +426,14 @@
       "imdbVotes": "51,731",
       "imdbID": "tt2076220",
       "boxOffice": "$641,100",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_QL75_UY562_CR2,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Holy%20Motors.mp4",
     "streamName": "Holy Motors",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_QL75_UY562_CR2,0,380,562_.jpg"
   },
   {
     "title": "Dead Man",
@@ -465,12 +481,14 @@
       "imdbVotes": "110,001",
       "imdbID": "tt0112817",
       "boxOffice": "$1,037,847",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Dead%20Man.mp4",
     "streamName": "Dead Man",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Exterminating Angel",
@@ -514,11 +532,13 @@
       "imdbVotes": "38,574",
       "imdbID": "tt0056732",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Anjo%20Exterminador.mp4",
     "streamName": "O Anjo Exterminador",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
   }
 ]

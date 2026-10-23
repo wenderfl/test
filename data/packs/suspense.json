@@ -40,13 +40,15 @@
       "imdbVotes": "137,955",
       "imdbID": "tt0071360",
       "boxOffice": "$4,852,199",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYyZmYwZmItMDQ1My00MTc3LTk4MDktZTcxMzYyNWU3MWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Conversa%C3%A7%C3%A3o.mp4",
     "streamName": "A Conversação",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmYyZmYwZmItMDQ1My00MTc3LTk4MDktZTcxMzYyNWU3MWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg"
   },
   {
     "title": "12 Monkeys",
@@ -89,13 +91,15 @@
       "imdbVotes": "685,408",
       "imdbID": "tt0114746",
       "boxOffice": "$57,141,459",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/series/frc-561250/Yrwa1z/243.mp4",
     "streamName": "12 Monkeys",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Blow Out",
@@ -138,13 +142,15 @@
       "imdbVotes": "78,696",
       "imdbID": "tt0082085",
       "boxOffice": "$12,000,000",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0MTY2ZWMtOTY4NC00ZDUyLWI0MTUtMmYxYjA4MzJhYTk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/138887.mp4",
     "streamName": "Um Tiro na Noite",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc0MTY2ZWMtOTY4NC00ZDUyLWI0MTUtMmYxYjA4MzJhYTk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "The Game",
@@ -187,13 +193,15 @@
       "imdbVotes": "478,430",
       "imdbID": "tt0119174",
       "boxOffice": "$48,323,648",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/218870.mp4",
     "streamName": "Vidas em Jogo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Gattaca",
@@ -236,13 +244,15 @@
       "imdbVotes": "351,559",
       "imdbID": "tt0119177",
       "boxOffice": "$12,532,777",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/383331.mp4",
     "streamName": "Gattaca: A Experiência Genética",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Children of Men",
@@ -285,13 +295,15 @@
       "imdbVotes": "572,962",
       "imdbID": "tt0206634",
       "boxOffice": "$35,552,383",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20989.mp4",
     "streamName": "Filhos da Esperanca",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Memento",
@@ -334,13 +346,15 @@
       "imdbVotes": "1,462,185",
       "imdbID": "tt0209144",
       "boxOffice": "$25,544,867",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21601.mp4",
     "streamName": "Amnésia",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Dark City",
@@ -379,13 +393,15 @@
       "imdbVotes": "228,979",
       "imdbID": "tt0118929",
       "boxOffice": "$14,378,331",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDQ3YWUtZTkxNS00MTFlLWE4Y2UtNGIxZTc3ZmEwMzgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/350922.mp4",
     "streamName": "Cidade das Sombras",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDQ3YWUtZTkxNS00MTFlLWE4Y2UtNGIxZTc3ZmEwMzgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "The Usual Suspects",
@@ -428,13 +444,15 @@
       "imdbVotes": "1,257,343",
       "imdbID": "tt0114814",
       "boxOffice": "$23,341,568",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/286869.mp4",
     "streamName": "Os Suspeitos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Primal Fear",
@@ -477,12 +495,14 @@
       "imdbVotes": "299,150",
       "imdbID": "tt0117381",
       "boxOffice": "$56,116,183",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/257790.mp4",
     "streamName": "As Duas Faces de um Crime",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
   }
 ]

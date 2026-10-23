@@ -36,12 +36,14 @@
           "Source": "Metacritic",
           "Value": "94/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/114389.mp4",
     "streamName": "Operação França",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg"
   },
   {
     "title": "Bullitt",
@@ -80,12 +82,14 @@
           "Source": "Metacritic",
           "Value": "81/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTA0ZjRhNjgtYWNlMC00Y2U4LTg1OGEtMTU4NGM1MTRjZGUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363867.mp4",
     "streamName": "Bullitt [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA0ZjRhNjgtYWNlMC00Y2U4LTg1OGEtMTU4NGM1MTRjZGUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Hard Times",
@@ -124,12 +128,14 @@
           "Source": "Metacritic",
           "Value": "69/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZhZDNlOWQtODkxMi00MDMyLWE0YzAtNDFiMGFjMDhkN2Q0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Lutador%20da%20Rua.mp4",
     "streamName": "Lutador da Rua",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhZDNlOWQtODkxMi00MDMyLWE0YzAtNDFiMGFjMDhkN2Q0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Driver",
@@ -168,12 +174,14 @@
           "Source": "Metacritic",
           "Value": "56/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAxMDc2MzQtNWJhNi00ZWNmLWJiNjctNWQzNDNlOTRiZWQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380554.mp4",
     "streamName": "Caçador de Assassinos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxMDc2MzQtNWJhNi00ZWNmLWJiNjctNWQzNDNlOTRiZWQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg"
   },
   {
     "title": "The Wild Bunch",
@@ -212,12 +220,14 @@
           "Source": "Metacritic",
           "Value": "98/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmFlMWJlMDEtNjFlNC00YjQ1LWI1ZTYtZDZkNDY0N2RiMDA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/371904.mp4",
     "streamName": "Meu Ódio Será Sua Herança [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFlMWJlMDEtNjFlNC00YjQ1LWI1ZTYtZDZkNDY0N2RiMDA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "The Killer",
@@ -256,12 +266,14 @@
           "Source": "Metacritic",
           "Value": "82/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/229163.mp4",
     "streamName": "O Assassino 4K [Hybrid]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "To Live and Die in L.A.",
@@ -300,12 +312,14 @@
           "Source": "Metacritic",
           "Value": "81/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Viver%20e%20Morrer%20em%20Los%20Angeles.mp4",
     "streamName": "Viver e Morrer em Los Angeles",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "The Road Warrior",
@@ -336,12 +350,14 @@
           "Source": "Rotten Tomatoes",
           "Value": "93%"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20089.mp4",
     "streamName": "Mad Max 2",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg"
   },
   {
     "title": "Demolition Man",
@@ -380,12 +396,14 @@
           "Source": "Metacritic",
           "Value": "34/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/129534.mp4",
     "streamName": "O Demolidor",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
   },
   {
     "title": "Lethal Weapon",
@@ -424,12 +442,14 @@
           "Source": "Metacritic",
           "Value": "68/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20096.mp4",
     "streamName": "Maquina Mortifera",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Heat",
@@ -468,12 +488,14 @@
           "Source": "Metacritic",
           "Value": "76/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/92575.mp4",
     "streamName": "Fogo Contra Fogo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg"
   },
   {
     "title": "In the Line of Fire",
@@ -512,12 +534,14 @@
           "Source": "Metacritic",
           "Value": "74/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108290.mp4",
     "streamName": "Na Linha de Fogo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "True Lies",
@@ -556,12 +580,14 @@
           "Source": "Metacritic",
           "Value": "63/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20266.mp4",
     "streamName": "True Lies",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "The Dirty Dozen",
@@ -600,12 +626,14 @@
           "Source": "Metacritic",
           "Value": "73/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZjhiN2EtM2I3Mi00MDNlLWJiY2UtNmU0Zjg0YTQyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/42942.mp4",
     "streamName": "Dirty Harry na Lista Negra",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZjhiN2EtM2I3Mi00MDNlLWJiY2UtNmU0Zjg0YTQyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "On Location: Where Eagles Dare",
@@ -625,7 +653,7 @@
       "actors": "Clint Eastwood, Richard Burton, Ingrid Pitt",
       "genre": "Documentary, Short",
       "plot": "A behind-the-scenes look at the difficulties of shooting a movie on location in the Austrian Alps.",
-      "poster": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
       "imdbRating": "6.5",
       "rottenTomatoes": "85%",
       "metascore": "N/A/100",
@@ -636,12 +664,14 @@
           "Source": "Internet Movie Database",
           "Value": "6.5/10"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96870.mp4",
     "streamName": "O Grande Desafio",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "The Taking of Pelham One Two Three",
@@ -680,12 +710,14 @@
           "Source": "Metacritic",
           "Value": "68/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NDk3Ml5BMl5BanBnXkFtZTcwMTAzMTM3NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354258.mp4",
     "streamName": "O Sequestro do Metrô [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NDk3Ml5BMl5BanBnXkFtZTcwMTAzMTM3NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Deliverance",
@@ -724,12 +756,14 @@
           "Source": "Metacritic",
           "Value": "80/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/339927.mp4",
     "streamName": "Amargo Pesadelo [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "Dirty Harry",
@@ -768,12 +802,14 @@
           "Source": "Metacritic",
           "Value": "87/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/329676.mp4",
     "streamName": "Perseguição Implacável",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg"
   },
   {
     "title": "Escape from Alcatraz",
@@ -812,12 +848,14 @@
           "Source": "Metacritic",
           "Value": "76/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQyMzEwYzctMzYzZC00ZGM0LWIyZDQtZmJjYWE3OTYxNDA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/37893.mp4",
     "streamName": "Fuga de Alcatraz",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQyMzEwYzctMzYzZC00ZGM0LWIyZDQtZmJjYWE3OTYxNDA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
   },
   {
     "title": "Ronin",
@@ -856,11 +894,13 @@
           "Source": "Metacritic",
           "Value": "67/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "isRecommended": true,
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ronin.mp4",
     "streamName": "Ronin",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   }
 ]

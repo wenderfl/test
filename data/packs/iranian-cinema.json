@@ -45,12 +45,14 @@
       "imdbVotes": "280,979",
       "imdbID": "tt1832382",
       "boxOffice": "$7,099,055",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Separa%C3%A7%C3%A3o.mp4",
     "streamName": "A Separação",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Salesman",
@@ -98,12 +100,14 @@
       "imdbVotes": "69,388",
       "imdbID": "tt5186714",
       "boxOffice": "$2,402,067",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTc0ODEwOV5BMl5BanBnXkFtZTgwNDAyOTY1MDI@._V1_QL75_UY562_CR4,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Apartamento.mp4",
     "streamName": "O Apartamento",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTc0ODEwOV5BMl5BanBnXkFtZTgwNDAyOTY1MDI@._V1_QL75_UY562_CR4,0,380,562_.jpg"
   },
   {
     "title": "Taste of Cherry",
@@ -151,12 +155,14 @@
       "imdbVotes": "45,325",
       "imdbID": "tt0120265",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM3NzlmOGEtMWVjMS00ZjVlLTk4ZjItNzlmYWNjMmE2NzFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Gosto%20de%20Cereja.mp4",
     "streamName": "Gosto de Cereja",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM3NzlmOGEtMWVjMS00ZjVlLTk4ZjItNzlmYWNjMmE2NzFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "The White Balloon",
@@ -200,12 +206,14 @@
       "imdbVotes": "8,414",
       "imdbID": "tt0112445",
       "boxOffice": "$924,940",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E0OGRkOGQtMzhiOC00NDUxLThjMzYtNTM4ZTNhYWU1NmQ1XkEyXkFqcGc@._V1_SX300.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
     "streamName": "Great White [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2E0OGRkOGQtMzhiOC00NDUxLThjMzYtNTM4ZTNhYWU1NmQ1XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
     "title": "Close-Up",
@@ -253,12 +261,14 @@
       "imdbVotes": "27,389",
       "imdbID": "tt0100234",
       "boxOffice": "$2,670",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/261639.mp4",
     "streamName": "Close [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "The Color of Paradise",
@@ -306,12 +316,14 @@
       "imdbVotes": "19,590",
       "imdbID": "tt0191043",
       "boxOffice": "$1,817,216",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc3ZWJlMjQtYWEyZS00ZmQyLTk0YWMtMzdjYWJhMmJhMmMzXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Cor%20do%20Para%C3%ADso.mp4",
     "streamName": "A Cor do Paraíso",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc3ZWJlMjQtYWEyZS00ZmQyLTk0YWMtMzdjYWJhMmJhMmMzXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Turtles Can Fly",
@@ -359,12 +371,14 @@
       "imdbVotes": "21,238",
       "imdbID": "tt0424227",
       "boxOffice": "$258,578",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU4MmU2MjAtYjI3ZC00MDhkLThhZTMtMmFkZWJmMTU2YjFhXkEyXkFqcGc@._V1_SX300.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Tartarugas%20Podem%20Voar.mp4",
     "streamName": "Tartarugas Podem Voar",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU4MmU2MjAtYjI3ZC00MDhkLThhZTMtMmFkZWJmMTU2YjFhXkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
     "title": "The Past",
@@ -412,12 +426,14 @@
       "imdbVotes": "51,340",
       "imdbID": "tt2404461",
       "boxOffice": "$1,331,747",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTgzNDg1N15BMl5BanBnXkFtZTgwNjg4MzI1MDE@._V1_SX300.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/178557.mp4",
     "streamName": "O Passado [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTgzNDg1N15BMl5BanBnXkFtZTgwNjg4MzI1MDE@._V1_SX300.jpg"
   },
   {
     "title": "Taxi",
@@ -465,12 +481,14 @@
       "imdbVotes": "16,789",
       "imdbID": "tt4359416",
       "boxOffice": "$321,642",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVkODc4M2YtNzVlYi00M2NkLTgyMjUtMzkzNWIzNGYyNThlXkEyXkFqcGc@._V1_SX300.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31788.mp4",
     "streamName": "Taxi",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVkODc4M2YtNzVlYi00M2NkLTgyMjUtMzkzNWIzNGYyNThlXkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
     "title": "About Elly",
@@ -518,11 +536,13 @@
       "imdbVotes": "58,135",
       "imdbID": "tt1360860",
       "boxOffice": "$470,760",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQxODQ0MV5BMl5BanBnXkFtZTgwNTQ0NzY4NDE@._V1_SX300.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103967.mp4",
     "streamName": "À Procura da Vingança",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQxODQ0MV5BMl5BanBnXkFtZTgwNTQ0NzY4NDE@._V1_SX300.jpg"
   }
 ]

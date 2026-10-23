@@ -16,19 +16,21 @@
       "actors": "Unknown",
       "genre": "Drama",
       "plot": "Em uma ilha rochosa isolada no final do seculo XIX, dois faroleiros sucumbem a solidao claustrofobica, segredos sombrios e forcas sobrenaturais insondaveis.",
-      "poster": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "imdbRating": "7.5",
       "rottenTomatoes": "85%",
       "metascore": "75/100",
       "runtime": "110 min",
       "rated": "R",
       "imdbID": "tt8273664",
-      "ratings": []
+      "ratings": [],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380573.mp4",
     "streamName": "O Farol [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Pan's Labyrinth",
@@ -67,12 +69,14 @@
           "Source": "Metacritic",
           "Value": "98/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/192671.mp4",
     "streamName": "O Labirinto do Fauno",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "The Sixth Sense",
@@ -111,12 +115,14 @@
           "Source": "Metacritic",
           "Value": "64/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/323732.mp4",
     "streamName": "O Sexto Sentido [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Invisible Man",
@@ -151,12 +157,14 @@
           "Source": "Metacritic",
           "Value": "72/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/179719.mp4",
     "streamName": "O Homem Invisível",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Marrowbone",
@@ -195,12 +203,14 @@
           "Source": "Metacritic",
           "Value": "63/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5NDM1MjMzNl5BMl5BanBnXkFtZTgwNDUyMTA4NDM@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/148650.mp4",
     "streamName": "O Segredo de Marrowbone",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5NDM1MjMzNl5BMl5BanBnXkFtZTgwNDUyMTA4NDM@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "The Babadook",
@@ -239,12 +249,14 @@
           "Source": "Metacritic",
           "Value": "86/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21669.mp4",
     "streamName": "The Babadook",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Drag Me to Hell",
@@ -283,12 +295,14 @@
           "Source": "Metacritic",
           "Value": "83/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21714.mp4",
     "streamName": "Arraste Me Para O Inferno",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Poltergeist II: The Other Side",
@@ -327,12 +341,14 @@
           "Source": "Metacritic",
           "Value": "49/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVhOTgxYjgtNTdjYS00ZTg4LTlmMzQtMTIxZDQ5OGMzZjIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130273.mp4",
     "streamName": "Poltergeist II: O Outro Lado",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVhOTgxYjgtNTdjYS00ZTg4LTlmMzQtMTIxZDQ5OGMzZjIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Insidious",
@@ -371,12 +387,14 @@
           "Source": "Metacritic",
           "Value": "52/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/122864.mp4",
     "streamName": "Sobrenatural",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Midsommar",
@@ -415,11 +433,13 @@
           "Source": "Metacritic",
           "Value": "72/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/383346.mp4",
     "streamName": "Midsommar: O Mal Não Espera a Noite [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

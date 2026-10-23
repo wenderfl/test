@@ -45,12 +45,14 @@
       "imdbVotes": "145,470",
       "imdbID": "tt0087884",
       "boxOffice": "$2,422,082",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paris%2C%20Texas.mp4",
     "streamName": "Paris, Texas",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg"
   },
   {
     "title": "Wings of Desire",
@@ -98,12 +100,14 @@
       "imdbVotes": "85,038",
       "imdbID": "tt0093191",
       "boxOffice": "$3,333,969",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Asas%20do%20Desejo.mp4",
     "streamName": "As Asas do Desejo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg"
   },
   {
     "title": "Solaris",
@@ -151,12 +155,14 @@
       "imdbVotes": "105,426",
       "imdbID": "tt0069293",
       "boxOffice": "$22,168",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Solaris.mp4",
     "streamName": "Solaris",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
   },
   {
     "title": "The Mirror",
@@ -204,12 +210,14 @@
       "imdbVotes": "58,506",
       "imdbID": "tt0072443",
       "boxOffice": "$22,168",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352410.mp4",
     "streamName": "O Espelho",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
   },
   {
     "title": "Paterson",
@@ -257,12 +265,14 @@
       "imdbVotes": "96,712",
       "imdbID": "tt5247022",
       "boxOffice": "$2,152,738",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paterson.mp4",
     "streamName": "Paterson",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "The Tree of Life",
@@ -310,12 +320,14 @@
       "imdbVotes": "193,651",
       "imdbID": "tt0478304",
       "boxOffice": "$13,303,319",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_QL75_UY562_CR2,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100939.mp4",
     "streamName": "A Arvore da Vida",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_QL75_UY562_CR2,0,380,562_.jpg"
   },
   {
     "title": "Winter Sleep",
@@ -363,12 +375,14 @@
       "imdbVotes": "59,558",
       "imdbID": "tt2758880",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_QL75_UY562_CR16,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sono%20de%20Inverno.mp4",
     "streamName": "Sono de Inverno",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_QL75_UY562_CR16,0,380,562_.jpg"
   },
   {
     "title": "Stalker",
@@ -416,12 +430,14 @@
       "imdbVotes": "158,399",
       "imdbID": "tt0079944",
       "boxOffice": "$292,049",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/68444.mp4",
     "streamName": "Escaping My Stalker [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
   },
   {
     "title": "The Turin Horse",
@@ -469,12 +485,14 @@
       "imdbVotes": "21,820",
       "imdbID": "tt1316540",
       "boxOffice": "$56,391",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/389605.mp4",
     "streamName": "O Cavalo E A Influenciadora [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Nostalghia",
@@ -522,11 +540,13 @@
       "imdbVotes": "33,732",
       "imdbID": "tt0086022",
       "boxOffice": "$303,022",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22572.mp4",
     "streamName": "Nostalgia",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

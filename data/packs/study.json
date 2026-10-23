@@ -40,13 +40,15 @@
       "imdbVotes": "53,736",
       "imdbID": "tt7533152",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTg5MTA0OV5BMl5BanBnXkFtZTgwNTMyNTY0NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21451.mp4",
     "streamName": "O Menino que Descobriu o Vento",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTg5MTA0OV5BMl5BanBnXkFtZTgwNTMyNTY0NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Dead Poets Society",
@@ -89,13 +91,15 @@
       "imdbVotes": "671,769",
       "imdbID": "tt0097165",
       "boxOffice": "$95,860,116",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/42006.mp4",
     "streamName": "Sociedade dos Poetas Mortos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Good Will Hunting",
@@ -138,13 +142,15 @@
       "imdbVotes": "1,246,559",
       "imdbID": "tt0119217",
       "boxOffice": "$138,433,435",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352208.mp4",
     "streamName": "Gênio Indomável [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "Finding Forrester",
@@ -187,13 +193,15 @@
       "imdbVotes": "95,991",
       "imdbID": "tt0181536",
       "boxOffice": "$51,804,714",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjQ4MjcyOF5BMl5BanBnXkFtZTYwNTMzODg2._V1_QL75_UX380_CR0,5,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128511.mp4",
     "streamName": "Encontrando Forrester",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjQ4MjcyOF5BMl5BanBnXkFtZTYwNTMzODg2._V1_QL75_UX380_CR0,5,380,562_.jpg"
   },
   {
     "title": "Temple Grandin",
@@ -232,13 +240,15 @@
       "imdbVotes": "37,375",
       "imdbID": "tt1278469",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Temple%20Grandin.mp4",
     "streamName": "Temple Grandin",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Spare Parts",
@@ -281,13 +291,15 @@
       "imdbVotes": "12,490",
       "imdbID": "tt3233418",
       "boxOffice": "$3,618,912",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzI4NTIyMF5BMl5BanBnXkFtZTgwMzIzNDMxMzE@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Spare%20Parts%3A%20Unidos%20por%20um%20Sonho.mp4",
     "streamName": "Spare Parts: Unidos por um Sonho",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzI4NTIyMF5BMl5BanBnXkFtZTgwMzIzNDMxMzE@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Contact",
@@ -326,12 +338,14 @@
           "Source": "Metacritic",
           "Value": "62/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/76918.mp4",
     "streamName": "Contato",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Apollo 13",
@@ -370,12 +384,14 @@
           "Source": "Metacritic",
           "Value": "78/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Apollo%2013%3A%20Do%20Desastre%20ao%20Triunfo.mp4",
     "streamName": "Apollo 13: Do Desastre ao Triunfo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg"
   },
   {
     "title": "Awakenings",
@@ -414,12 +430,14 @@
           "Source": "Metacritic",
           "Value": "74/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/368263.mp4",
     "streamName": "Tempo de Despertar",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Medicine Man",
@@ -458,12 +476,14 @@
           "Source": "Metacritic",
           "Value": "43/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU0YzY3MTgtYzhkMi00ZjQxLTk3NzctY2NmYWU5YjFkMDllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Curandeiro%20da%20Selva.mp4",
     "streamName": "O Curandeiro da Selva",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU0YzY3MTgtYzhkMi00ZjQxLTk3NzctY2NmYWU5YjFkMDllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Real Genius",
@@ -502,12 +522,14 @@
           "Source": "Metacritic",
           "Value": "71/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Academia%20de%20Genios.mp4",
     "streamName": "Academia de Genios",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Searching for Bobby Fischer",
@@ -546,12 +568,14 @@
           "Source": "Metacritic",
           "Value": "89/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhmMDU3MTctN2M3Ny00YTBhLWExZmUtYmRlZTAxNDhmZTQ1XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/230156.mp4",
     "streamName": "Lances Inocentes",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMDU3MTctN2M3Ny00YTBhLWExZmUtYmRlZTAxNDhmZTQ1XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Akeelah and the Bee",
@@ -590,12 +614,14 @@
           "Source": "Metacritic",
           "Value": "72/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMDIwNjIzM15BMl5BanBnXkFtZTcwNTczODQzMQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/383009.mp4",
     "streamName": "Prova de Fogo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMDIwNjIzM15BMl5BanBnXkFtZTcwNTczODQzMQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "21",
@@ -634,12 +660,14 @@
           "Source": "Metacritic",
           "Value": "48/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkZWI5OGMtYmI0NC00MWJmLWE4ZWMtMDA0OTY4NTkzYmNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/120709.mp4",
     "streamName": "Quebrando a Banca",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVkZWI5OGMtYmI0NC00MWJmLWE4ZWMtMDA0OTY4NTkzYmNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "The Professor and the Madman",
@@ -678,11 +706,13 @@
           "Source": "Metacritic",
           "Value": "27/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JlYzRmNjYtYTg4Mi00MjMyLTlhYTYtMmNiY2Y0ODg5M2I1XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/25107.mp4",
     "streamName": "O Genio e o Louco",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JlYzRmNjYtYTg4Mi00MjMyLTlhYTYtMmNiY2Y0ODg5M2I1XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
   }
 ]

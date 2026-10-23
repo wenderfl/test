@@ -39,6 +39,38 @@ function isMovieExcluded(movie) {
   return false;
 }
 
+function getMoviePosterUrl(movie) {
+  if (!movie) return "";
+  const omdb = movie.omdb || {};
+  const candidates = [
+    omdb.poster,
+    omdb.Poster,
+    movie.poster,
+    movie.image,
+    movie.backdrop
+  ];
+  for (const c of candidates) {
+    if (c && c !== "N/A" && typeof c === "string" && (c.startsWith("http://") || c.startsWith("https://") || c.startsWith("data:image/"))) {
+      return c;
+    }
+  }
+  return "";
+}
+
+function getFallbackPosterSvg(title) {
+  const cleanTitle = escapeHtml(title || "Cinema");
+  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="380" height="562" viewBox="0 0 380 562">
+      <rect width="100%" height="100%" fill="#18181b"/>
+      <rect x="15" y="15" width="350" height="532" fill="#27272a" rx="8" stroke="#3f3f46" stroke-width="2"/>
+      <circle cx="190" cy="220" r="45" fill="#3f3f46"/>
+      <polygon points="180,205 210,220 180,235" fill="#e50914"/>
+      <text x="190" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">${cleanTitle.length > 20 ? cleanTitle.substring(0, 18) + "..." : cleanTitle}</text>
+      <text x="190" y="415" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#a1a1aa" text-anchor="middle">Letterboxd Curator TV</text>
+    </svg>`
+  )}`;
+}
+
 const DEFAULT_IPTV_URL = "http://contrafilenabrasa.net:80/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=m3u8";
 const DEFAULT_IPTV_NAME = "contrafilenabrasa.net";
 
@@ -229,7 +261,7 @@ function getRandomHeroMovie(customPool = null) {
   if (!pool.length) return null;
 
   // Prefer movies with valid image or poster
-  const withImages = pool.filter(m => m.backdrop || m.image || (m.omdb?.poster && m.omdb.poster !== "N/A"));
+  const withImages = pool.filter(m => Boolean(getMoviePosterUrl(m)));
   const candidatePool = withImages.length ? withImages : pool;
 
   // Avoid repeating the current active hero movie if multiple are available
@@ -381,9 +413,8 @@ function renderHero(movie) {
   activeHeroMovie = movie;
 
   const cat = categories.find(c => c.id === movie.category);
-  const poster = movie.omdb?.poster && movie.omdb.poster !== "N/A"
-    ? movie.omdb.poster
-    : "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200";
+  const rawPoster = getMoviePosterUrl(movie);
+  const poster = rawPoster || "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200";
 
   const backdropEl = document.getElementById("heroBackdrop");
   if (backdropEl) backdropEl.src = poster;
@@ -1149,7 +1180,7 @@ function renderTop10Row(container) {
           <div class="top10-item" tabindex="0" data-title="${encodeURIComponent(m.title)}">
             <span class="top10-number">${index + 1}</span>
             <div class="top10-poster-wrap">
-              <img src="${m.omdb?.poster || ''}" alt="${escapeHtml(m.title)}" loading="lazy">
+              <img src="${getMoviePosterUrl(m) || getFallbackPosterSvg(m.ptTitle || m.title)}" alt="${escapeHtml(m.title)}" loading="lazy">
               ${m.omdb?.imdbRating ? `<div class="card-rating-badge">★ ${m.omdb.imdbRating}</div>` : ''}
               ${m.dubbed ? `<div class="card-dub-badge">DUB</div>` : ''}
               ${userWatched.has(m.title) ? `
@@ -1175,7 +1206,9 @@ function renderTop10Row(container) {
 }
 
 function createPosterCardHtml(m, options = {}) {
-  const poster = m.omdb?.poster || "";
+  const rawPoster = getMoviePosterUrl(m);
+  const fallbackSvg = getFallbackPosterSvg(m.ptTitle || m.title);
+  const poster = rawPoster || fallbackSvg;
   const rating = m.omdb?.imdbRating;
   const isWatched = userWatched.has(m.title);
   const matchScore = options.matchScore || (options.showMatch ? calculateMovieAffinity(m, buildUserProfile()) : null);
@@ -1183,7 +1216,7 @@ function createPosterCardHtml(m, options = {}) {
 
   return `
     <div class="poster-card" tabindex="0" data-title="${encodeURIComponent(m.title)}">
-      <img src="${poster}" alt="${escapeHtml(m.title)}" loading="lazy">
+      <img src="${poster}" alt="${escapeHtml(m.title)}" loading="lazy" onerror="if(this.src!=='${fallbackSvg}'){this.src='${fallbackSvg}';}">
       ${matchScore && matchScore >= 80 ? `<div class="card-match-badge">${matchScore}% Relevante</div>` : (rating && rating !== "N/A" ? `<div class="card-rating-badge">★ ${rating}</div>` : "")}
       ${m.dubbed ? `<div class="card-dub-badge">DUB</div>` : ""}
       <button class="card-quick-play-btn" title="Assistir Agora no Player Netflix" aria-label="Assistir ${escapeHtml(m.title)}">
@@ -1324,11 +1357,13 @@ function openDetailModal(movie) {
     modalCard.scrollTop = 0;
   }
 
-  const poster = movie.omdb?.poster || "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba";
+  const rawPoster = getMoviePosterUrl(movie);
+  const fallbackSvg = getFallbackPosterSvg(movie.ptTitle || movie.title);
+  const poster = rawPoster || fallbackSvg;
   const modalImg = document.getElementById("modalImg");
   if (modalImg) {
     modalImg.onerror = () => {
-      modalImg.src = "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba";
+      modalImg.src = fallbackSvg;
     };
     modalImg.src = poster;
     modalImg.alt = movie.title || "Poster";
@@ -1490,7 +1525,7 @@ function renderModalSimilarMovies(movie) {
   similar.forEach(sim => {
     const card = document.createElement("div");
     card.className = "modal-similar-card";
-    const poster = sim.omdb?.poster || "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba";
+    const poster = getMoviePosterUrl(sim) || getFallbackPosterSvg(sim.ptTitle || sim.title);
     const profile = buildUserProfile();
     const matchScore = calculateMovieAffinity(sim, profile);
     const year = sim.year || (sim.omdb?.year) || "";

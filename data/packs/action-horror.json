@@ -35,12 +35,14 @@
           "Source": "Metacritic",
           "Value": "51/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU3YjhmMTQtNmM5Yi00MDI2LTk0M2UtZGY5ZTNkYjIzNDE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128585.mp4",
     "streamName": "Maligno [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU3YjhmMTQtNmM5Yi00MDI2LTk0M2UtZGY5ZTNkYjIzNDE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Shallows",
@@ -78,12 +80,14 @@
           "Source": "Metacritic",
           "Value": "59/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/347105.mp4",
     "streamName": "Águas Rasas [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Ready or Not",
@@ -126,13 +130,15 @@
       "imdbVotes": "267,798",
       "imdbID": "tt7798634",
       "boxOffice": "$28,714,231",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376097.mp4",
     "streamName": "Casamento Sangrento 4K [HDR]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Green Room",
@@ -175,13 +181,15 @@
       "imdbVotes": "156,014",
       "imdbID": "tt4062536",
       "boxOffice": "$3,220,371",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sala%20Verde.mp4",
     "streamName": "Sala Verde",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Hunt",
@@ -224,13 +232,15 @@
       "imdbVotes": "158,984",
       "imdbID": "tt8244784",
       "boxOffice": "$5,812,500",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317446.mp4",
     "streamName": "A Caçada",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg"
   },
   {
     "title": "Crawl",
@@ -273,13 +283,15 @@
       "imdbVotes": "104,653",
       "imdbID": "tt8364368",
       "boxOffice": "$39,014,193",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/391960.mp4",
     "streamName": "Predadores Assassinos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Attack the Block",
@@ -322,13 +334,15 @@
       "imdbVotes": "116,433",
       "imdbID": "tt1478964",
       "boxOffice": "$1,024,175",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/133085.mp4",
     "streamName": "Ataque ao Prédio",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Guest",
@@ -371,13 +385,15 @@
       "imdbVotes": "115,928",
       "imdbID": "tt2980592",
       "boxOffice": "$332,890",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_QL75_UX380_CR0,16,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/74759.mp4",
     "streamName": "O Hóspede",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_QL75_UX380_CR0,16,380,562_.jpg"
   },
   {
     "title": "Mayhem",
@@ -420,13 +436,15 @@
       "imdbVotes": "30,518",
       "imdbID": "tt4348012",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2ZGMzNzItZTdkYS00YWNmLWE0NGEtOGY3MTM1YmFkMjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/35264.mp4",
     "streamName": "Mayhem - Senhores Do Caos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I2ZGMzNzItZTdkYS00YWNmLWE0NGEtOGY3MTM1YmFkMjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "10 Cloverfield Lane",
@@ -469,13 +487,15 @@
       "imdbVotes": "390,237",
       "imdbID": "tt1179933",
       "boxOffice": "$72,082,998",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21840.mp4",
     "streamName": "Rua Cloverfield 10",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Dog Soldiers",
@@ -514,13 +534,15 @@
       "imdbVotes": "71,770",
       "imdbID": "tt0280609",
       "boxOffice": "N/A",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI3ZTk0ZjItOTMwMi00NWM1LTk4YmItMjY3NDYyZWI4ZjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "dubbed": true,
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/series/frc-561250/Yrwa1z/3918.mp4",
     "streamName": "Cães de Caça",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDI3ZTk0ZjItOTMwMi00NWM1LTk4YmItMjY3NDYyZWI4ZjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Planet Terror",
@@ -555,12 +577,14 @@
           "Source": "Rotten Tomatoes",
           "Value": "76%"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEzZTAxNDQtN2ZmMy00NGNlLWI3NDYtNGI3ZTlkNWU1NWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/104431.mp4",
     "streamName": "Planeta Terror",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmEzZTAxNDQtN2ZmMy00NGNlLWI3NDYtNGI3ZTlkNWU1NWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "The Belko Experiment",
@@ -599,12 +623,14 @@
           "Source": "Metacritic",
           "Value": "44/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_The%20Belko%20Experiment.mp4",
     "streamName": "The Belko Experiment",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Bone Tomahawk",
@@ -643,12 +669,14 @@
           "Source": "Metacritic",
           "Value": "72/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21828.mp4",
     "streamName": "Rastro De Maldade",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Wyrmwood: Road of the Dead",
@@ -687,11 +715,13 @@
           "Source": "Metacritic",
           "Value": "54/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjExNzM3NF5BMl5BanBnXkFtZTgwNTgxOTU5MzE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Wyrmwood%3A%20O%20Fim%20dos%20Tempos.mp4",
     "streamName": "Wyrmwood: O Fim dos Tempos",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjExNzM3NF5BMl5BanBnXkFtZTgwNTgxOTU5MzE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   }
 ]

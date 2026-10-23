@@ -35,12 +35,14 @@
           "Source": "Metacritic",
           "Value": "75/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmN2NjOTMtMjZiNy00NDU2LTk3OTgtODFkYWQ2MDFiYzAwXkEyXkFqcGc@._V1_QL75_UY562_CR14,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/106464.mp4",
     "streamName": "Viva Django",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVmN2NjOTMtMjZiNy00NDU2LTk3OTgtODFkYWQ2MDFiYzAwXkEyXkFqcGc@._V1_QL75_UY562_CR14,0,380,562_.jpg"
   },
   {
     "title": "Inglourious Basterds",
@@ -78,12 +80,14 @@
           "Source": "Metacritic",
           "Value": "69/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/344499.mp4",
     "streamName": "Bastardos Inglórios [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Punisher",
@@ -121,12 +125,14 @@
           "Source": "Metacritic",
           "Value": "33/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/97145.mp4",
     "streamName": "O Justiceiro",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Outlaw Josey Wales",
@@ -164,12 +170,14 @@
           "Source": "Metacritic",
           "Value": "69/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1_QL75_UY562_CR3,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/330399.mp4",
     "streamName": "Josey Wales: O Fora da Lei [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1_QL75_UY562_CR3,0,380,562_.jpg"
   },
   {
     "title": "Death Wish",
@@ -207,12 +215,14 @@
           "Source": "Metacritic",
           "Value": "51/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYwYzQ4YTAtMzkwZS00MThmLWEyZmYtNDVlYTkyMjc5Mjk3XkEyXkFqcGc@._V1_SX300.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22502.mp4",
     "streamName": "Desejo de Matar 4K",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwYzQ4YTAtMzkwZS00MThmLWEyZmYtNDVlYTkyMjc5Mjk3XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
     "title": "Sicario",
@@ -250,12 +260,14 @@
           "Source": "Metacritic",
           "Value": "82/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348080.mp4",
     "streamName": "Sicario: Terra de Ninguém [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Wrath of Man",
@@ -293,12 +305,14 @@
           "Source": "Metacritic",
           "Value": "57/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/131095.mp4",
     "streamName": "Infiltrado [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Avengement",
@@ -336,12 +350,14 @@
           "Source": "Metacritic",
           "Value": "63/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/389642.mp4",
     "streamName": "Renascimento Sua Vinganca [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Becky",
@@ -379,12 +395,14 @@
           "Source": "Metacritic",
           "Value": "54/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjllZWQyMGEtYTA2YS00ZTRkLTk5ZDMtYjU3YjI2OWM4ZmU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96844.mp4",
     "streamName": "Becky",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjllZWQyMGEtYTA2YS00ZTRkLTk5ZDMtYjU3YjI2OWM4ZmU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
   },
   {
     "title": "Taken",
@@ -422,12 +440,14 @@
           "Source": "Metacritic",
           "Value": "51/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/19955.mp4",
     "streamName": "Busca Implacável",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Death Sentence",
@@ -466,12 +486,14 @@
           "Source": "Metacritic",
           "Value": "36/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY4Yzc5MjgtNWU5ZC00MzhiLTg0ZDQtNjM1ZWRjYzZhY2NhXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/314680.mp4",
     "streamName": "Sentença de Morte",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4Yzc5MjgtNWU5ZC00MzhiLTg0ZDQtNjM1ZWRjYzZhY2NhXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
   },
   {
     "title": "The Foreigner",
@@ -510,12 +532,14 @@
           "Source": "Metacritic",
           "Value": "55/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBmY2MzYmMtNjdmMi00MWYyLTgwYTgtOTYwMTdmZTUxOGQxXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382470.mp4",
     "streamName": "O Estrangeiro [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBmY2MzYmMtNjdmMi00MWYyLTgwYTgtOTYwMTdmZTUxOGQxXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Brave One",
@@ -554,12 +578,14 @@
           "Source": "Metacritic",
           "Value": "56/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4OTA4Njk4MDdeQTJeQWpwZ15BbWU3MDc0NDY1MzM@._V1_SX300.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/370939.mp4",
     "streamName": "Valente [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4OTA4Njk4MDdeQTJeQWpwZ15BbWU3MDc0NDY1MzM@._V1_SX300.jpg"
   },
   {
     "title": "Remember",
@@ -598,12 +624,14 @@
           "Source": "Metacritic",
           "Value": "52/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3OTY3Njc1OV5BMl5BanBnXkFtZTgwNDY0MzE1NzE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/187578.mp4",
     "streamName": "ReMember [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3OTY3Njc1OV5BMl5BanBnXkFtZTgwNDY0MzE1NzE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "Revenge",
@@ -642,12 +670,14 @@
           "Source": "Metacritic",
           "Value": "81/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQzMzk5YjctNjdiMC00ZTIxLTg2MTUtNTNhNjg1YWJmNTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/186464.mp4",
     "streamName": "Vingança 4K [HDR]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQzMzk5YjctNjdiMC00ZTIxLTg2MTUtNTNhNjg1YWJmNTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Blue Ruin",
@@ -686,12 +716,14 @@
           "Source": "Metacritic",
           "Value": "78/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTM2MDg5OV5BMl5BanBnXkFtZTgwMDA3OTAwMTE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/374320.mp4",
     "streamName": "Thomas & Friends: Blue Mountain Mystery",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTM2MDg5OV5BMl5BanBnXkFtZTgwMDA3OTAwMTE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Chaser",
@@ -730,12 +762,14 @@
           "Source": "Metacritic",
           "Value": "64/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZjMDU2ODAtMzFlNy00MWU1LWE1YTEtYTFmZTE0ZmEyYjYxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96869.mp4",
     "streamName": "O Cacador de Encrencas",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZjMDU2ODAtMzFlNy00MWU1LWE1YTEtYTFmZTE0ZmEyYjYxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg"
   },
   {
     "title": "I Spit on Your Grave",
@@ -774,12 +808,14 @@
           "Source": "Metacritic",
           "Value": "27/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTE3NzEzMl5BMl5BanBnXkFtZTcwMzc4MTU2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/35947.mp4",
     "streamName": "Doce Vingança 4 - Deja Vu [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTE3NzEzMl5BMl5BanBnXkFtZTcwMzc4MTU2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Cape Fear",
@@ -818,12 +854,14 @@
           "Source": "Metacritic",
           "Value": "73/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/302754.mp4",
     "streamName": "Cabo do Medo",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
   },
   {
     "title": "A Time to Kill",
@@ -862,11 +900,13 @@
           "Source": "Metacritic",
           "Value": "53/100"
         }
-      ]
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
     },
     "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376816.mp4",
     "streamName": "Tempo de Matar [L]",
-    "streamAvailable": true
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   }
 ]
