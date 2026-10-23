@@ -1,0 +1,58 @@
+{
+  "watched": [
+    "Tucker and Dale vs Evil"
+  ],
+  "ignored": [
+    "Malignant",
+    "Crawl",
+    "Kubo and the Two Strings",
+    "The Peanut Butter Falcon",
+    "Crank",
+    "Beverly Hills Cop",
+    "Drive Angry",
+    "Spontaneous",
+    "The Babysitter",
+    "The Babysitter: Killer Queen",
+    "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+    "Jolt",
+    "Kate",
+    "How to Train Your Dragon",
+    "The Road to El Dorado",
+    "Rise of the Guardians",
+    "Klaus",
+    "ParaNorman"
+  ],
+  "comments": {},
+  "undubbed": [],
+  "savedMovies": [
+    {
+      "title": "The Substance",
+      "year": "2024",
+      "category": "body-horror"
+    },
+    {
+      "title": "Ready or Not",
+      "ptTitle": "Casamento Sangrento",
+      "year": "2019",
+      "category": "action-horror",
+      "categoryName": "Ação/Terror",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "imdbRating": "6.9",
+      "savedAt": "2026-10-22T23:22:20Z"
+    }
+  ],
+  "savedCategories": [
+    "Survival & Terror Psicológico",
+    "Cyberpunk & Sci-Fi"
+  ],
+  "iptvUrl": "http://contrafilenabrasa.net:80/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=m3u8",
+  "iptvName": "contrafilenabrasa.net",
+  "googleUser": {
+    "id": "google_aG91c2VwbGF5ZXJzb2Zm",
+    "name": "Houseplayersoff",
+    "email": "houseplayersoff@gmail.com",
+    "picture": "https://ui-avatars.com/api/?name=Houseplayersoff&background=4285F4&color=fff&bold=true",
+    "provider": "google_dev",
+    "loggedAt": "2026-10-22T20:41:45.928Z"
+  }
+}

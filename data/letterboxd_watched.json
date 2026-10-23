@@ -1,0 +1,6026 @@
+[
+  {
+    "name": "Dredd",
+    "title": "Dredd",
+    "slug": "dredd",
+    "year": 2012,
+    "watchedDate": "2026-10-16",
+    "rating": 4
+  },
+  {
+    "name": "Spider-Man: Brand New Day",
+    "title": "Spider-Man: Brand New Day",
+    "slug": "spider-man-brand-new-day",
+    "year": 2026,
+    "watchedDate": "2026-10-06",
+    "rating": 4.5
+  },
+  {
+    "name": "Minions & Monsters",
+    "title": "Minions & Monsters",
+    "slug": "minions-monsters-2026",
+    "year": 2026,
+    "watchedDate": "2026-08-20",
+    "rating": 2.5
+  },
+  {
+    "name": "The Running Man",
+    "title": "The Running Man",
+    "slug": "the-running-man-2025",
+    "year": 2025,
+    "watchedDate": "2025-12-12",
+    "rating": 3
+  },
+  {
+    "name": "The Long Walk",
+    "title": "The Long Walk",
+    "slug": "the-long-walk-2025",
+    "year": 2025,
+    "watchedDate": "2025-09-24",
+    "rating": 3.5
+  },
+  {
+    "name": "Roofman",
+    "title": "Roofman",
+    "slug": "roofman",
+    "year": 2025,
+    "watchedDate": "2025-12-28",
+    "rating": 3
+  },
+  {
+    "name": "Nobody 2",
+    "title": "Nobody 2",
+    "slug": "nobody-2",
+    "year": 2025,
+    "watchedDate": "2025-09-26",
+    "rating": 3.5
+  },
+  {
+    "name": "War of the Worlds",
+    "title": "War of the Worlds",
+    "slug": "war-of-the-worlds-2025",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "The Naked Gun",
+    "title": "The Naked Gun",
+    "slug": "the-naked-gun",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Wall to Wall",
+    "title": "Wall to Wall",
+    "slug": "wall-to-wall",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Superman",
+    "title": "Superman",
+    "slug": "superman-2025",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "28 Years Later",
+    "title": "28 Years Later",
+    "slug": "28-years-later",
+    "year": 2025,
+    "watchedDate": "2026-01-17",
+    "rating": 3.5
+  },
+  {
+    "name": "The Woman in the Yard",
+    "title": "The Woman in the Yard",
+    "slug": "the-woman-in-the-yard",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "The Accountant²",
+    "title": "The Accountant²",
+    "slug": "the-accountant-2025",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Novocaine",
+    "title": "Novocaine",
+    "slug": "novocaine-2025",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Mickey 17",
+    "title": "Mickey 17",
+    "slug": "mickey-17",
+    "year": 2025,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Rogue's Trial",
+    "title": "The Rogue's Trial",
+    "slug": "the-rogues-trial",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "Wallace & Gromit: Vengeance Most Fowl",
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "slug": "wallace-gromit-vengeance-most-fowl",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Revival",
+    "title": "Revival",
+    "slug": "revival-2024",
+    "year": 2024,
+    "watchedDate": "2026-02-06",
+    "rating": 2
+  },
+  {
+    "name": "Outside",
+    "title": "Outside",
+    "slug": "outside-2024-1",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Smile 2",
+    "title": "Smile 2",
+    "slug": "smile-2-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Brothers",
+    "title": "Brothers",
+    "slug": "brothers-2024",
+    "year": 2024,
+    "watchedDate": "2026-01-19",
+    "rating": 3
+  },
+  {
+    "name": "SpongeBob SquarePants: Kreepaway Kamp",
+    "title": "SpongeBob SquarePants: Kreepaway Kamp",
+    "slug": "spongebob-squarepants-kreepaway-kamp",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Platform 2",
+    "title": "The Platform 2",
+    "slug": "the-platform-2",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Little Bites",
+    "title": "Little Bites",
+    "slug": "little-bites",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "V/H/S/Beyond",
+    "title": "V/H/S/Beyond",
+    "slug": "v-h-s-beyond",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Never Let Go",
+    "title": "Never Let Go",
+    "slug": "never-let-go-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Wild Robot",
+    "title": "The Wild Robot",
+    "slug": "the-wild-robot",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "We Live in Time",
+    "title": "We Live in Time",
+    "slug": "we-live-in-time",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Joker: Folie à Deux",
+    "title": "Joker: Folie à Deux",
+    "slug": "joker-folie-a-deux",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hellboy: The Crooked Man",
+    "title": "Hellboy: The Crooked Man",
+    "slug": "hellboy-the-crooked-man",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Alien: Romulus",
+    "title": "Alien: Romulus",
+    "slug": "alien-romulus",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "title": "Deadpool & Wolverine",
+    "slug": "deadpool-wolverine",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Longlegs",
+    "title": "Longlegs",
+    "slug": "longlegs",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Quiet Place: Day One",
+    "title": "A Quiet Place: Day One",
+    "slug": "a-quiet-place-day-one",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Memoir of a Snail",
+    "title": "Memoir of a Snail",
+    "slug": "memoir-of-a-snail",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Touch",
+    "title": "Touch",
+    "slug": "touch-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Watchers",
+    "title": "The Watchers",
+    "slug": "the-watchers-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South Park: The End of Obesity",
+    "title": "South Park: The End of Obesity",
+    "slug": "south-park-the-end-of-obesity",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tarot",
+    "title": "Tarot",
+    "slug": "tarot-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "SAND LAND: THE SERIES",
+    "title": "SAND LAND: THE SERIES",
+    "slug": "sand-land-the-series",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Civil War",
+    "title": "Civil War",
+    "slug": "civil-war-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Arcadian",
+    "title": "Arcadian",
+    "slug": "arcadian",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Y2K",
+    "title": "Y2K",
+    "slug": "y2k-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "Kung Fu Panda 4",
+    "title": "Kung Fu Panda 4",
+    "slug": "kung-fu-panda-4",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ricky Stanicky",
+    "title": "Ricky Stanicky",
+    "slug": "ricky-stanicky",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cuckoo",
+    "title": "Cuckoo",
+    "slug": "cuckoo-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Snoopy Presents: Welcome Home, Franklin",
+    "title": "Snoopy Presents: Welcome Home, Franklin",
+    "slug": "snoopy-presents-welcome-home-franklin",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Different Man",
+    "title": "A Different Man",
+    "slug": "a-different-man",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Krazy House",
+    "title": "Krazy House",
+    "slug": "krazy-house",
+    "year": 2024,
+    "watchedDate": "2026-01-12",
+    "rating": 3
+  },
+  {
+    "name": "A Real Pain",
+    "title": "A Real Pain",
+    "slug": "a-real-pain",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Out of My Mind",
+    "title": "Out of My Mind",
+    "slug": "out-of-my-mind-2024",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "I Saw the TV Glow",
+    "title": "I Saw the TV Glow",
+    "slug": "i-saw-the-tv-glow",
+    "year": 2024,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "South Park (Not Suitable for Children)",
+    "title": "South Park (Not Suitable for Children)",
+    "slug": "south-park-not-suitable-for-children",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Candy Cane Lane",
+    "title": "Candy Cane Lane",
+    "slug": "candy-cane-lane",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Good Burger 2",
+    "title": "Good Burger 2",
+    "slug": "good-burger-2",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Please Don't Destroy: The Treasure of Foggy Mountain",
+    "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+    "slug": "please-dont-destroy-the-treasure-of-foggy-mountain",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Thanksgiving",
+    "title": "Thanksgiving",
+    "slug": "thanksgiving-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Chicken Run: Dawn of the Nugget",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "slug": "chicken-run-dawn-of-the-nugget",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dark Harvest",
+    "title": "Dark Harvest",
+    "slug": "dark-harvest-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "No One Will Save You",
+    "title": "No One Will Save You",
+    "slug": "no-one-will-save-you",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Creator",
+    "title": "The Creator",
+    "slug": "the-creator-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "When Evil Lurks",
+    "title": "When Evil Lurks",
+    "slug": "when-evil-lurks",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Society of the Snow",
+    "title": "Society of the Snow",
+    "slug": "society-of-the-snow",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dream Scenario",
+    "title": "Dream Scenario",
+    "slug": "dream-scenario",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Tuesday",
+    "title": "Tuesday",
+    "slug": "tuesday-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Snoopy Presents: One-of-a-Kind Marcie",
+    "title": "Snoopy Presents: One-of-a-Kind Marcie",
+    "slug": "snoopy-presents-one-of-a-kind-marcie",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Passenger",
+    "title": "The Passenger",
+    "slug": "the-passenger-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Justice League: Warworld",
+    "title": "Justice League: Warworld",
+    "slug": "justice-league-warworld",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Great Cleric",
+    "title": "The Great Cleric",
+    "slug": "the-great-cleric",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Gold Brick",
+    "title": "Gold Brick",
+    "slug": "gold-brick",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Nimona",
+    "title": "Nimona",
+    "slug": "nimona-2023",
+    "year": 2023,
+    "watchedDate": "2026-03-27",
+    "rating": 3.5
+  },
+  {
+    "name": "The Flash",
+    "title": "The Flash",
+    "slug": "the-flash",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Poisoned: The Dirty Truth About Your Food",
+    "title": "Poisoned: The Dirty Truth About Your Food",
+    "slug": "poisoned-the-dirty-truth-about-your-food",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man: Across the Spider-Verse",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "slug": "spider-man-across-the-spider-verse",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Transformers: Rise of the Beasts",
+    "title": "Transformers: Rise of the Beasts",
+    "slug": "transformers-rise-of-the-beasts",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Perfect Days",
+    "title": "Perfect Days",
+    "slug": "perfect-days-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Asteroid City",
+    "title": "Asteroid City",
+    "slug": "asteroid-city",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Boogeyman",
+    "title": "The Boogeyman",
+    "slug": "the-boogeyman",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Robot Dreams",
+    "title": "Robot Dreams",
+    "slug": "robot-dreams",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "slug": "guardians-of-the-galaxy-vol-3",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Pope's Exorcist",
+    "title": "The Pope's Exorcist",
+    "slug": "the-popes-exorcist",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "title": "The Super Mario Bros. Movie",
+    "slug": "the-super-mario-bros-movie",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Beau Is Afraid",
+    "title": "Beau Is Afraid",
+    "slug": "beau-is-afraid",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Jules",
+    "title": "Jules",
+    "slug": "jules-2023",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Evil Dead Rise",
+    "title": "Evil Dead Rise",
+    "slug": "evil-dead-rise",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Problemista",
+    "title": "Problemista",
+    "slug": "problemista",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Dungeons & Dragons: Honor Among Thieves",
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "slug": "dungeons-dragons-honor-among-thieves",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Late Night with the Devil",
+    "title": "Late Night with the Devil",
+    "slug": "late-night-with-the-devil",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Cocaine Bear",
+    "title": "Cocaine Bear",
+    "slug": "cocaine-bear",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ant-Man and the Wasp: Quantumania",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "slug": "ant-man-and-the-wasp-quantumania",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Knock at the Cabin",
+    "title": "Knock at the Cabin",
+    "slug": "knock-at-the-cabin",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Infinity Pool",
+    "title": "Infinity Pool",
+    "slug": "infinity-pool",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Past Lives",
+    "title": "Past Lives",
+    "slug": "past-lives",
+    "year": 2023,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "A Man Called Otto",
+    "title": "A Man Called Otto",
+    "slug": "a-man-called-otto",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Silo",
+    "title": "Silo",
+    "slug": "silo-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "M3GAN",
+    "title": "M3GAN",
+    "slug": "m3gan",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Avatar: The Way of Water",
+    "title": "Avatar: The Way of Water",
+    "slug": "avatar-the-way-of-water",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Boy, the Mole, the Fox and the Horse",
+    "title": "The Boy, the Mole, the Fox and the Horse",
+    "slug": "the-boy-the-mole-the-fox-and-the-horse",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Puss in Boots: The Last Wish",
+    "title": "Puss in Boots: The Last Wish",
+    "slug": "puss-in-boots-the-last-wish",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Strange World",
+    "title": "Strange World",
+    "slug": "strange-world-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Talk to Me",
+    "title": "Talk to Me",
+    "slug": "talk-to-me-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Black Panther: Wakanda Forever",
+    "title": "Black Panther: Wakanda Forever",
+    "slug": "black-panther-wakanda-forever",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Guillermo del Toro's Pinocchio",
+    "title": "Guillermo del Toro's Pinocchio",
+    "slug": "guillermo-del-toros-pinocchio",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Significant Other",
+    "title": "Significant Other",
+    "slug": "significant-other",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Offering",
+    "title": "The Offering",
+    "slug": "the-offering-2022-1",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Smile",
+    "title": "Smile",
+    "slug": "smile-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Bruiser",
+    "title": "Bruiser",
+    "slug": "bruiser-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Menu",
+    "title": "The Menu",
+    "slug": "the-menu-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "The Whale",
+    "title": "The Whale",
+    "slug": "the-whale-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Barbarian",
+    "title": "Barbarian",
+    "slug": "barbarian-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Snoopy Presents: Lucy's School",
+    "title": "Snoopy Presents: Lucy's School",
+    "slug": "snoopy-presents-lucys-school",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Fall",
+    "title": "Fall",
+    "slug": "fall-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Prey",
+    "title": "Prey",
+    "slug": "prey-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "They/Them",
+    "title": "They/Them",
+    "slug": "they-them-2022-1",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Nope",
+    "title": "Nope",
+    "slug": "nope",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South Park the Streaming Wars Part 2",
+    "title": "South Park the Streaming Wars Part 2",
+    "slug": "south-park-the-streaming-wars-part-2",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Persuasion",
+    "title": "Persuasion",
+    "slug": "persuasion-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Minions: The Rise of Gru",
+    "title": "Minions: The Rise of Gru",
+    "slug": "minions-the-rise-of-gru",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Fullmetal Alchemist: The Final Alchemy",
+    "title": "Fullmetal Alchemist: The Final Alchemy",
+    "slug": "fullmetal-alchemist-the-final-alchemy",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Man vs Bee",
+    "title": "Man vs Bee",
+    "slug": "man-vs-bee",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Beavis and Butt-Head Do the Universe",
+    "title": "Beavis and Butt-Head Do the Universe",
+    "slug": "beavis-and-butt-head-do-the-universe",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "title": "Thor: Love and Thunder",
+    "slug": "thor-love-and-thunder",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lightyear",
+    "title": "Lightyear",
+    "slug": "lightyear-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Breaking Hypocritical Flesh / Welcome to Kaiser City",
+    "title": "Breaking Hypocritical Flesh / Welcome to Kaiser City",
+    "slug": "breaking-hypocritical-flesh-welcome-to-kaiser-city",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Bob's Burgers Movie",
+    "title": "The Bob's Burgers Movie",
+    "slug": "the-bobs-burgers-movie",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Close",
+    "title": "Close",
+    "slug": "close-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Men",
+    "title": "Men",
+    "slug": "men-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "slug": "doctor-strange-in-the-multiverse-of-madness",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Snoopy Presents: It's the Small Things, Charlie Brown",
+    "title": "Snoopy Presents: It's the Small Things, Charlie Brown",
+    "slug": "snoopy-presents-its-the-small-things-charlie-brown",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "In the Light of the Night",
+    "title": "In the Light of the Night",
+    "slug": "in-the-light-of-the-night",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Incantation",
+    "title": "Incantation",
+    "slug": "incantation-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Bad Guys",
+    "title": "The Bad Guys",
+    "slug": "the-bad-guys-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Bodies Bodies Bodies",
+    "title": "Bodies Bodies Bodies",
+    "slug": "bodies-bodies-bodies",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Unbearable Weight of Massive Talent",
+    "title": "The Unbearable Weight of Massive Talent",
+    "slug": "the-unbearable-weight-of-massive-talent",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Deadstream",
+    "title": "Deadstream",
+    "slug": "deadstream",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "title": "Everything Everywhere All at Once",
+    "slug": "everything-everywhere-all-at-once",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "The Batman",
+    "title": "The Batman",
+    "slug": "the-batman",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ox-Head Village",
+    "title": "Ox-Head Village",
+    "slug": "ox-head-village",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Ice Age Adventures of Buck Wild",
+    "title": "The Ice Age Adventures of Buck Wild",
+    "slug": "the-ice-age-adventures-of-buck-wild",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Piggy",
+    "title": "Piggy",
+    "slug": "piggy-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Hotel Transylvania: Transformania",
+    "title": "Hotel Transylvania: Transformania",
+    "slug": "hotel-transylvania-transformania",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Scream",
+    "title": "Scream",
+    "slug": "scream-2022",
+    "year": 2022,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South Park: Post COVID: The Return of COVID",
+    "title": "South Park: Post COVID: The Return of COVID",
+    "slug": "south-park-post-covid-the-return-of-covid",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Matrix Resurrections",
+    "title": "The Matrix Resurrections",
+    "slug": "the-matrix-resurrections",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "title": "Spider-Man: No Way Home",
+    "slug": "spider-man-no-way-home",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Snoopy Presents: For Auld Lang Syne",
+    "title": "Snoopy Presents: For Auld Lang Syne",
+    "slug": "snoopy-presents-for-auld-lang-syne",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Loud House Christmas",
+    "title": "A Loud House Christmas",
+    "slug": "a-loud-house-christmas",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South Park: Post COVID",
+    "title": "South Park: Post COVID",
+    "slug": "south-park-post-covid",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Resident Evil: Welcome to Raccoon City",
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "slug": "resident-evil-welcome-to-raccoon-city",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tear Along the Dotted Line",
+    "title": "Tear Along the Dotted Line",
+    "slug": "tear-along-the-dotted-line",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "River of Fear",
+    "title": "River of Fear",
+    "slug": "river-of-fear",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Injustice",
+    "title": "Injustice",
+    "slug": "injustice-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Seal Team",
+    "title": "Seal Team",
+    "slug": "seal-team",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Grandmother",
+    "title": "The Grandmother",
+    "slug": "the-grandmother-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dashcam",
+    "title": "Dashcam",
+    "slug": "dashcam-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dune",
+    "title": "Dune",
+    "slug": "dune-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Marcel the Shell with Shoes On",
+    "title": "Marcel the Shell with Shoes On",
+    "slug": "marcel-the-shell-with-shoes-on-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Cyrano",
+    "title": "Cyrano",
+    "slug": "cyrano-2021",
+    "year": 2021,
+    "watchedDate": "2026-05-25",
+    "rating": 4
+  },
+  {
+    "name": "Trunk Train: The Movie",
+    "title": "Trunk Train: The Movie",
+    "slug": "trunk-train-the-movie",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Vacation Friends",
+    "title": "Vacation Friends",
+    "slug": "vacation-friends",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Candyman",
+    "title": "Candyman",
+    "slug": "candyman-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Witcher: Nightmare of the Wolf",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "slug": "the-witcher-nightmare-of-the-wolf",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Free Guy",
+    "title": "Free Guy",
+    "slug": "free-guy",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Suicide Squad",
+    "title": "The Suicide Squad",
+    "slug": "the-suicide-squad",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Medium",
+    "title": "The Medium",
+    "slug": "the-medium-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Worst Person in the World",
+    "title": "The Worst Person in the World",
+    "slug": "the-worst-person-in-the-world",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Till Death",
+    "title": "Till Death",
+    "slug": "till-death-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Impossible Things",
+    "title": "Impossible Things",
+    "slug": "impossible-things",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Even Mice Belong in Heaven",
+    "title": "Even Mice Belong in Heaven",
+    "slug": "even-mice-belong-in-heaven",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hero Mode",
+    "title": "Hero Mode",
+    "slug": "hero-mode",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Zack Snyder's Justice League",
+    "title": "Zack Snyder's Justice League",
+    "slug": "zack-snyders-justice-league",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Nobody",
+    "title": "Nobody",
+    "slug": "nobody-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Offseason",
+    "title": "Offseason",
+    "slug": "offseason-2021",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South ParQ Vaccination Special",
+    "title": "South ParQ Vaccination Special",
+    "slug": "south-parq-vaccination-special",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Suicide Forest Village",
+    "title": "Suicide Forest Village",
+    "slug": "suicide-forest-village",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "John and the Hole",
+    "title": "John and the Hole",
+    "slug": "john-and-the-hole",
+    "year": 2021,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Josee, the Tiger and the Fish",
+    "title": "Josee, the Tiger and the Fish",
+    "slug": "josee-the-tiger-and-the-fish-2020",
+    "year": 2020,
+    "watchedDate": "2026-05-17",
+    "rating": 5
+  },
+  {
+    "name": "Soul",
+    "title": "Soul",
+    "slug": "soul-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Vicious Fun",
+    "title": "Vicious Fun",
+    "slug": "vicious-fun",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Run",
+    "title": "Run",
+    "slug": "run-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Widow",
+    "title": "The Widow",
+    "slug": "the-widow-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Last Journey",
+    "title": "The Last Journey",
+    "slug": "the-last-journey-2020",
+    "year": 2020,
+    "watchedDate": "2025-09-14",
+    "rating": 4
+  },
+  {
+    "name": "I'm Thinking of Ending Things",
+    "title": "I'm Thinking of Ending Things",
+    "slug": "im-thinking-of-ending-things",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The SpongeBob Movie: Sponge on the Run",
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "slug": "the-spongebob-movie-sponge-on-the-run",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Toll",
+    "title": "The Toll",
+    "slug": "the-toll-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "#Alive",
+    "title": "#Alive",
+    "slug": "alive-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Justice League Dark: Apokolips War",
+    "title": "Justice League Dark: Apokolips War",
+    "slug": "justice-league-dark-apokolips-war",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Inheritance",
+    "title": "Inheritance",
+    "slug": "inheritance-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Arbors",
+    "title": "The Arbors",
+    "slug": "the-arbors",
+    "year": 2020,
+    "watchedDate": "2025-09-23",
+    "rating": 3
+  },
+  {
+    "name": "Don't Speak",
+    "title": "Don't Speak",
+    "slug": "dont-speak-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Escape from Pretoria",
+    "title": "Escape from Pretoria",
+    "slug": "escape-from-pretoria",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Superman: Red Son",
+    "title": "Superman: Red Son",
+    "slug": "superman-red-son-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Onward",
+    "title": "Onward",
+    "slug": "onward-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Nine Days",
+    "title": "Nine Days",
+    "slug": "nine-days",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "title": "Sonic the Hedgehog",
+    "slug": "sonic-the-hedgehog",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spree",
+    "title": "Spree",
+    "slug": "spree-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Scare Me",
+    "title": "Scare Me",
+    "slug": "scare-me",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Underwater",
+    "title": "Underwater",
+    "slug": "underwater-2020",
+    "year": 2020,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Little Women",
+    "title": "Little Women",
+    "slug": "little-women-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Countdown",
+    "title": "Countdown",
+    "slug": "countdown-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Shed",
+    "title": "The Shed",
+    "slug": "the-shed-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Guns Akimbo",
+    "title": "Guns Akimbo",
+    "slug": "guns-akimbo",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Color Out of Space",
+    "title": "Color Out of Space",
+    "slug": "color-out-of-space",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Platform",
+    "title": "The Platform",
+    "slug": "the-platform",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Joker",
+    "title": "Joker",
+    "slug": "joker-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Rabid",
+    "title": "Rabid",
+    "slug": "rabid-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "It Chapter Two",
+    "title": "It Chapter Two",
+    "slug": "it-chapter-two",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "Invader Zim: Enter the Florpus",
+    "title": "Invader Zim: Enter the Florpus",
+    "slug": "invader-zim-enter-the-florpus",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Teen Titans Go! vs. Teen Titans",
+    "title": "Teen Titans Go! vs. Teen Titans",
+    "slug": "teen-titans-go-vs-teen-titans",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "title": "Spider-Man: Far From Home",
+    "slug": "spider-man-far-from-home",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spycies",
+    "title": "Spycies",
+    "slug": "spycies",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Toy Story 4",
+    "title": "Toy Story 4",
+    "slug": "toy-story-4",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Imagined Wolf",
+    "title": "The Imagined Wolf",
+    "slug": "the-imagined-wolf",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Once Upon a Time... in Hollywood",
+    "title": "Once Upon a Time... in Hollywood",
+    "slug": "once-upon-a-time-in-hollywood",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Vivarium",
+    "title": "Vivarium",
+    "slug": "vivarium",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Bacurau",
+    "title": "Bacurau",
+    "slug": "bacurau",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dead Don't Die",
+    "title": "The Dead Don't Die",
+    "slug": "the-dead-dont-die-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Avengers: Endgame",
+    "title": "Avengers: Endgame",
+    "slug": "avengers-endgame",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Batman vs Teenage Mutant Ninja Turtles",
+    "title": "Batman vs Teenage Mutant Ninja Turtles",
+    "slug": "batman-vs-teenage-mutant-ninja-turtles",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shazam!",
+    "title": "Shazam!",
+    "slug": "shazam",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Stuber",
+    "title": "Stuber",
+    "slug": "stuber",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Us",
+    "title": "Us",
+    "slug": "us-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Get Duked!",
+    "title": "Get Duked!",
+    "slug": "get-duked",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Isn't It Romantic",
+    "title": "Isn't It Romantic",
+    "slug": "isnt-it-romantic-2019",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Saga of Tanya the Evil: The Movie",
+    "title": "Saga of Tanya the Evil: The Movie",
+    "slug": "saga-of-tanya-the-evil-the-movie",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "The Great Hack",
+    "title": "The Great Hack",
+    "slug": "the-great-hack",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "American Factory",
+    "title": "American Factory",
+    "slug": "american-factory",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "I Am Mother",
+    "title": "I Am Mother",
+    "slug": "i-am-mother",
+    "year": 2019,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "slug": "spider-man-into-the-spider-verse",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Mortal Engines",
+    "title": "Mortal Engines",
+    "slug": "mortal-engines",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ralph Breaks the Internet",
+    "title": "Ralph Breaks the Internet",
+    "slug": "ralph-breaks-the-internet",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Antrum",
+    "title": "Antrum",
+    "slug": "antrum",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Pool",
+    "title": "The Pool",
+    "slug": "the-pool-2018",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Overlord",
+    "title": "Overlord",
+    "slug": "overlord-2018",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Green Book",
+    "title": "Green Book",
+    "slug": "green-book",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sierra Burgess Is a Loser",
+    "title": "Sierra Burgess Is a Loser",
+    "slug": "sierra-burgess-is-a-loser",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Happytime Murders",
+    "title": "The Happytime Murders",
+    "slug": "the-happytime-murders",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "The Package",
+    "title": "The Package",
+    "slug": "the-package-2018",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Before Someone Gets Hurt",
+    "title": "Before Someone Gets Hurt",
+    "slug": "before-someone-gets-hurt",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Teen Titans Go! To the Movies",
+    "title": "Teen Titans Go! To the Movies",
+    "slug": "teen-titans-go-to-the-movies",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Deadly Still",
+    "title": "Deadly Still",
+    "slug": "deadly-still",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Deadpool 2",
+    "title": "Deadpool 2",
+    "slug": "deadpool-2",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "title": "Avengers: Infinity War",
+    "slug": "avengers-infinity-war",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dark",
+    "title": "The Dark",
+    "slug": "the-dark-2018",
+    "year": 2018,
+    "watchedDate": "2025-09-20",
+    "rating": 4
+  },
+  {
+    "name": "Gonjiam: Haunted Asylum",
+    "title": "Gonjiam: Haunted Asylum",
+    "slug": "gonjiam-haunted-asylum",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Pacific Rim: Uprising",
+    "title": "Pacific Rim: Uprising",
+    "slug": "pacific-rim-uprising",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ready Player One",
+    "title": "Ready Player One",
+    "slug": "ready-player-one",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Strangers: Prey at Night",
+    "title": "The Strangers: Prey at Night",
+    "slug": "the-strangers-prey-at-night",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Haunted Hospital: Heilstatten",
+    "title": "Haunted Hospital: Heilstatten",
+    "slug": "haunted-hospital-heilstatten",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Isle of Dogs",
+    "title": "Isle of Dogs",
+    "slug": "isle-of-dogs-2018",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Game Night",
+    "title": "Game Night",
+    "slug": "game-night",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Annihilation",
+    "title": "Annihilation",
+    "slug": "annihilation",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Cloverfield Paradox",
+    "title": "The Cloverfield Paradox",
+    "slug": "the-cloverfield-paradox",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hereditary",
+    "title": "Hereditary",
+    "slug": "hereditary",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Night Eats the World",
+    "title": "The Night Eats the World",
+    "slug": "the-night-eats-the-world",
+    "year": 2018,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Terrified",
+    "title": "Terrified",
+    "slug": "terrified-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Coco",
+    "title": "Coco",
+    "slug": "coco-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Thor: Ragnarok",
+    "title": "Thor: Ragnarok",
+    "slug": "thor-ragnarok",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Blade Runner 2049",
+    "title": "Blade Runner 2049",
+    "slug": "blade-runner-2049",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Jerry Before Seinfeld",
+    "title": "Jerry Before Seinfeld",
+    "slug": "jerry-before-seinfeld",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Kingsman: The Golden Circle",
+    "title": "Kingsman: The Golden Circle",
+    "slug": "kingsman-the-golden-circle",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Toc Toc",
+    "title": "Toc Toc",
+    "slug": "toc-toc-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Little Evil",
+    "title": "Little Evil",
+    "slug": "little-evil",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "War for the Planet of the Apes",
+    "title": "War for the Planet of the Apes",
+    "slug": "war-for-the-planet-of-the-apes",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man: Homecoming",
+    "title": "Spider-Man: Homecoming",
+    "slug": "spider-man-homecoming",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Despicable Me 3",
+    "title": "Despicable Me 3",
+    "slug": "despicable-me-3",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cars 3",
+    "title": "Cars 3",
+    "slug": "cars-3",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "It Comes at Night",
+    "title": "It Comes at Night",
+    "slug": "it-comes-at-night",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "slug": "guardians-of-the-galaxy-vol-2",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Bigfoot Project",
+    "title": "The Bigfoot Project",
+    "slug": "the-bigfoot-project",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Life",
+    "title": "Life",
+    "slug": "life-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lucky",
+    "title": "Lucky",
+    "slug": "lucky-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Baby Driver",
+    "title": "Baby Driver",
+    "slug": "baby-driver",
+    "year": 2017,
+    "watchedDate": "2025-12-04",
+    "rating": 3.5
+  },
+  {
+    "name": "The Lego Batman Movie",
+    "title": "The Lego Batman Movie",
+    "slug": "the-lego-batman-movie",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Bar",
+    "title": "The Bar",
+    "slug": "the-bar",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "iBoy",
+    "title": "iBoy",
+    "slug": "iboy",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Get Out",
+    "title": "Get Out",
+    "slug": "get-out-2017",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Big Sick",
+    "title": "The Big Sick",
+    "slug": "the-big-sick",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "The Bye Bye Man",
+    "title": "The Bye Bye Man",
+    "slug": "the-bye-bye-man",
+    "year": 2017,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Passengers",
+    "title": "Passengers",
+    "slug": "passengers-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Cure for Wellness",
+    "title": "A Cure for Wellness",
+    "slug": "a-cure-for-wellness",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hidden Figures",
+    "title": "Hidden Figures",
+    "slug": "hidden-figures",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Doctor Strange",
+    "title": "Doctor Strange",
+    "slug": "doctor-strange-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Accountant",
+    "title": "The Accountant",
+    "slug": "the-accountant-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Free Fire",
+    "title": "Free Fire",
+    "slug": "free-fire",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Moonlight",
+    "title": "Moonlight",
+    "slug": "moonlight-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Arrival",
+    "title": "Arrival",
+    "slug": "arrival-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "War Dogs",
+    "title": "War Dogs",
+    "slug": "war-dogs-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Suicide Squad",
+    "title": "Suicide Squad",
+    "slug": "suicide-squad-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Batman: The Killing Joke",
+    "title": "Batman: The Killing Joke",
+    "slug": "batman-the-killing-joke-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Blair Witch",
+    "title": "Blair Witch",
+    "slug": "blair-witch",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Preacher",
+    "title": "Preacher",
+    "slug": "preacher",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Central Intelligence",
+    "title": "Central Intelligence",
+    "slug": "central-intelligence",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Finding Dory",
+    "title": "Finding Dory",
+    "slug": "finding-dory",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lights Out",
+    "title": "Lights Out",
+    "slug": "lights-out-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hardcore",
+    "title": "Hardcore",
+    "slug": "hardcore-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Do-Over",
+    "title": "The Do-Over",
+    "slug": "the-do-over",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Warcraft",
+    "title": "Warcraft",
+    "slug": "warcraft",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Me Before You",
+    "title": "Me Before You",
+    "slug": "me-before-you",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "slug": "teenage-mutant-ninja-turtles-out-of-the-shadows",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "My Life as a Zucchini",
+    "title": "My Life as a Zucchini",
+    "slug": "my-life-as-a-zucchini",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Wailing",
+    "title": "The Wailing",
+    "slug": "the-wailing",
+    "year": 2016,
+    "watchedDate": "2026-04-15",
+    "rating": 4
+  },
+  {
+    "name": "The Nice Guys",
+    "title": "The Nice Guys",
+    "slug": "the-nice-guys",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Devil Within",
+    "title": "The Devil Within",
+    "slug": "the-devil-within-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Angry Birds Movie",
+    "title": "The Angry Birds Movie",
+    "slug": "the-angry-birds-movie",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Captain America: Civil War",
+    "title": "Captain America: Civil War",
+    "slug": "captain-america-civil-war",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dark Tapes",
+    "title": "The Dark Tapes",
+    "slug": "the-dark-tapes",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sausage Party",
+    "title": "Sausage Party",
+    "slug": "sausage-party",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Anne of Green Gables",
+    "title": "Anne of Green Gables",
+    "slug": "anne-of-green-gables-2016",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "Deadpool",
+    "title": "Deadpool",
+    "slug": "deadpool",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Zootopia",
+    "title": "Zootopia",
+    "slug": "zootopia",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Swiss Army Man",
+    "title": "Swiss Army Man",
+    "slug": "swiss-army-man",
+    "year": 2016,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Hateful Eight",
+    "title": "The Hateful Eight",
+    "slug": "the-hateful-eight",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Peanuts Movie",
+    "title": "The Peanuts Movie",
+    "slug": "the-peanuts-movie",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "They Call Me Jeeg",
+    "title": "They Call Me Jeeg",
+    "slug": "they-call-me-jeeg",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hotel Transylvania 2",
+    "title": "Hotel Transylvania 2",
+    "slug": "hotel-transylvania-2",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Martian",
+    "title": "The Martian",
+    "slug": "the-martian",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Legend",
+    "title": "Legend",
+    "slug": "legend-2015",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Regular Show: The Movie",
+    "title": "Regular Show: The Movie",
+    "slug": "regular-show-the-movie",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Vacation",
+    "title": "Vacation",
+    "slug": "vacation-2015",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Jurassic World",
+    "title": "Jurassic World",
+    "slug": "jurassic-world",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Area 51",
+    "title": "Area 51",
+    "slug": "area-51",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "title": "Mad Max: Fury Road",
+    "slug": "mad-max-fury-road",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Far from the Madding Crowd",
+    "title": "Far from the Madding Crowd",
+    "slug": "far-from-the-madding-crowd-2015",
+    "year": 2015,
+    "watchedDate": "2026-06-01",
+    "rating": 2.5
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "title": "Avengers: Age of Ultron",
+    "slug": "avengers-age-of-ultron",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Get Hard",
+    "title": "Get Hard",
+    "slug": "get-hard",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Superfast!",
+    "title": "Superfast!",
+    "slug": "superfast",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Chappie",
+    "title": "Chappie",
+    "slug": "chappie",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "File 253",
+    "title": "File 253",
+    "slug": "file-253",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Project Almanac",
+    "title": "Project Almanac",
+    "slug": "project-almanac",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Witch",
+    "title": "The Witch",
+    "slug": "the-witch-2015",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Ex Machina",
+    "title": "Ex Machina",
+    "slug": "ex-machina-2015",
+    "year": 2015,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "BoJack Horseman Christmas Special: Sabrina's Christmas Wish",
+    "title": "BoJack Horseman Christmas Special: Sabrina's Christmas Wish",
+    "slug": "bojack-horseman-christmas-special-sabrinas",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Interview",
+    "title": "The Interview",
+    "slug": "the-interview-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Horrible Bosses 2",
+    "title": "Horrible Bosses 2",
+    "slug": "horrible-bosses-2",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dumb and Dumber To",
+    "title": "Dumb and Dumber To",
+    "slug": "dumb-and-dumber-to",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Taking of Deborah Logan",
+    "title": "The Taking of Deborah Logan",
+    "slug": "the-taking-of-deborah-logan",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cooties",
+    "title": "Cooties",
+    "slug": "cooties",
+    "year": 2014,
+    "watchedDate": "2025-09-12",
+    "rating": 3
+  },
+  {
+    "name": "Automata",
+    "title": "Automata",
+    "slug": "automata-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Who Am I",
+    "title": "Who Am I",
+    "slug": "who-am-i-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tusk",
+    "title": "Tusk",
+    "slug": "tusk-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Mortadelo & Filemon: Mission Implausible",
+    "title": "Mortadelo & Filemon: Mission Implausible",
+    "slug": "mortadelo-filemon-mission-implausible",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "As Above, So Below",
+    "title": "As Above, So Below",
+    "slug": "as-above-so-below-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "title": "Teenage Mutant Ninja Turtles",
+    "slug": "teenage-mutant-ninja-turtles-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lucy",
+    "title": "Lucy",
+    "slug": "lucy-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "title": "Guardians of the Galaxy",
+    "slug": "guardians-of-the-galaxy",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tammy",
+    "title": "Tammy",
+    "slug": "tammy",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cowspiracy: The Sustainability Secret",
+    "title": "Cowspiracy: The Sustainability Secret",
+    "slug": "cowspiracy-the-sustainability-secret",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dawn of the Planet of the Apes",
+    "title": "Dawn of the Planet of the Apes",
+    "slug": "dawn-of-the-planet-of-the-apes",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "title": "Edge of Tomorrow",
+    "slug": "edge-of-tomorrow",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Million Ways to Die in the West",
+    "title": "A Million Ways to Die in the West",
+    "slug": "a-million-ways-to-die-in-the-west",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Rover",
+    "title": "The Rover",
+    "slug": "the-rover",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "It Follows",
+    "title": "It Follows",
+    "slug": "it-follows",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Last: Naruto the Movie",
+    "title": "The Last: Naruto the Movie",
+    "slug": "the-last-naruto-the-movie",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Haunted House 2",
+    "title": "A Haunted House 2",
+    "slug": "a-haunted-house-2",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Serial (Bad) Weddings",
+    "title": "Serial (Bad) Weddings",
+    "slug": "serial-bad-weddings",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Alien Abduction",
+    "title": "Alien Abduction",
+    "slug": "alien-abduction-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "God's Not Dead",
+    "title": "God's Not Dead",
+    "slug": "gods-not-dead",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "title": "Captain America: The Winter Soldier",
+    "slug": "captain-america-the-winter-soldier",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Creep",
+    "title": "Creep",
+    "slug": "creep-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Need for Speed",
+    "title": "Need for Speed",
+    "slug": "need-for-speed",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Exists",
+    "title": "Exists",
+    "slug": "exists",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "The Hungover Games",
+    "title": "The Hungover Games",
+    "slug": "the-hungover-games",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "RoboCop",
+    "title": "RoboCop",
+    "slug": "robocop-2014",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "title": "What We Do in the Shadows",
+    "slug": "what-we-do-in-the-shadows",
+    "year": 2014,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sanatorium",
+    "title": "Sanatorium",
+    "slug": "sanatorium",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Her",
+    "title": "Her",
+    "slug": "her",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Double",
+    "title": "The Double",
+    "slug": "the-double-2013",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "What If",
+    "title": "What If",
+    "slug": "what-if-2013",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Sacrament",
+    "title": "The Sacrament",
+    "slug": "the-sacrament",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Elysium",
+    "title": "Elysium",
+    "slug": "elysium-2013",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Wind Rises",
+    "title": "The Wind Rises",
+    "slug": "the-wind-rises",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Underdogs",
+    "title": "Underdogs",
+    "slug": "underdogs-2013-2",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Kick-Ass 2",
+    "title": "Kick-Ass 2",
+    "slug": "kick-ass-2",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Pacific Rim",
+    "title": "Pacific Rim",
+    "slug": "pacific-rim",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The World's End",
+    "title": "The World's End",
+    "slug": "the-worlds-end",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "About Time",
+    "title": "About Time",
+    "slug": "about-time",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Despicable Me 2",
+    "title": "Despicable Me 2",
+    "slug": "despicable-me-2",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Internship",
+    "title": "The Internship",
+    "slug": "the-internship",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Monsters University",
+    "title": "Monsters University",
+    "slug": "monsters-university",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "This Is the End",
+    "title": "This Is the End",
+    "slug": "this-is-the-end",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Hangover Part III",
+    "title": "The Hangover Part III",
+    "slug": "the-hangover-part-iii",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Turbo",
+    "title": "Turbo",
+    "slug": "turbo",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Willow Creek",
+    "title": "Willow Creek",
+    "slug": "willow-creek",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Arrested Development Documentary Project",
+    "title": "The Arrested Development Documentary Project",
+    "slug": "the-arrested-development-documentary-project",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dragon Ball Z: Battle of Gods",
+    "title": "Dragon Ball Z: Battle of Gods",
+    "slug": "dragon-ball-z-battle-of-gods",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cottage Country",
+    "title": "Cottage Country",
+    "slug": "cottage-country",
+    "year": 2013,
+    "watchedDate": "2026-04-26",
+    "rating": 2
+  },
+  {
+    "name": "Evil Dead",
+    "title": "Evil Dead",
+    "slug": "evil-dead",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Dyatlov Pass Incident",
+    "title": "The Dyatlov Pass Incident",
+    "slug": "the-dyatlov-pass-incident",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Leaving D.C.",
+    "title": "Leaving D.C.",
+    "slug": "leaving-dc",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Croods",
+    "title": "The Croods",
+    "slug": "the-croods",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Identity Thief",
+    "title": "Identity Thief",
+    "slug": "identity-thief",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Silicon Valley",
+    "title": "Silicon Valley",
+    "slug": "silicon-valley-2013",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Warm Bodies",
+    "title": "Warm Bodies",
+    "slug": "warm-bodies",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Batman: The Dark Knight Returns, Part 2",
+    "title": "Batman: The Dark Knight Returns, Part 2",
+    "slug": "batman-the-dark-knight-returns-part-2",
+    "year": 2013,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Django Unchained",
+    "title": "Django Unchained",
+    "slug": "django-unchained",
+    "year": 2012,
+    "watchedDate": "2026-01-24",
+    "rating": 5
+  },
+  {
+    "name": "Wreck-It Ralph",
+    "title": "Wreck-It Ralph",
+    "slug": "wreck-it-ralph",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Asterix & Obelix: God Save Britannia",
+    "title": "Asterix & Obelix: God Save Britannia",
+    "slug": "asterix-obelix-god-save-britannia",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Frankenweenie",
+    "title": "Frankenweenie",
+    "slug": "frankenweenie-2012",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Silver Linings Playbook",
+    "title": "Silver Linings Playbook",
+    "slug": "silver-linings-playbook",
+    "year": 2012,
+    "watchedDate": "2025-11-22",
+    "rating": 2.5
+  },
+  {
+    "name": "Hotel Transylvania",
+    "title": "Hotel Transylvania",
+    "slug": "hotel-transylvania",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Perks of Being a Wallflower",
+    "title": "The Perks of Being a Wallflower",
+    "slug": "the-perks-of-being-a-wallflower",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "The Place Beyond the Pines",
+    "title": "The Place Beyond the Pines",
+    "slug": "the-place-beyond-the-pines",
+    "year": 2012,
+    "watchedDate": "2026-01-20",
+    "rating": 3
+  },
+  {
+    "name": "The Conspiracy",
+    "title": "The Conspiracy",
+    "slug": "the-conspiracy",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Batman: The Dark Knight Returns, Part 1",
+    "title": "Batman: The Dark Knight Returns, Part 1",
+    "slug": "batman-the-dark-knight-returns-part-1",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Resident Evil: Damnation",
+    "title": "Resident Evil: Damnation",
+    "slug": "resident-evil-damnation",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dinosaur Project",
+    "title": "The Dinosaur Project",
+    "slug": "the-dinosaur-project",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Celeste & Jesse Forever",
+    "title": "Celeste & Jesse Forever",
+    "slug": "celeste-jesse-forever",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ted",
+    "title": "Ted",
+    "slug": "ted",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Paperman",
+    "title": "Paperman",
+    "slug": "paperman",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Chernobyl Diaries",
+    "title": "Chernobyl Diaries",
+    "slug": "chernobyl-diaries",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Madagascar 3: Europe's Most Wanted",
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "slug": "madagascar-3-europes-most-wanted",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Dictator",
+    "title": "The Dictator",
+    "slug": "the-dictator-2012",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Resolution",
+    "title": "Resolution",
+    "slug": "resolution",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 0.5
+  },
+  {
+    "name": "The Avengers",
+    "title": "The Avengers",
+    "slug": "the-avengers-2012",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sinister",
+    "title": "Sinister",
+    "slug": "sinister",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "Robot & Frank",
+    "title": "Robot & Frank",
+    "slug": "robot-frank",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "The Devil Inside",
+    "title": "The Devil Inside",
+    "slug": "the-devil-inside",
+    "year": 2012,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Sitter",
+    "title": "The Sitter",
+    "slug": "the-sitter",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Puss in Boots",
+    "title": "Puss in Boots",
+    "slug": "puss-in-boots",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Adventures of Tintin",
+    "title": "The Adventures of Tintin",
+    "slug": "the-adventures-of-tintin",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "30 Minutes or Less",
+    "title": "30 Minutes or Less",
+    "slug": "30-minutes-or-less",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Rise of the Planet of the Apes",
+    "title": "Rise of the Planet of the Apes",
+    "slug": "rise-of-the-planet-of-the-apes",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Crazy, Stupid, Love.",
+    "title": "Crazy, Stupid, Love.",
+    "slug": "crazy-stupid-love",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Cars 2",
+    "title": "Cars 2",
+    "slug": "cars-2",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Kung Fu Panda 2",
+    "title": "Kung Fu Panda 2",
+    "slug": "kung-fu-panda-2",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Drive",
+    "title": "Drive",
+    "slug": "drive-2011",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Grave Encounters",
+    "title": "Grave Encounters",
+    "slug": "grave-encounters",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Rio",
+    "title": "Rio",
+    "slug": "rio-2011",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Limitless",
+    "title": "Limitless",
+    "slug": "limitless",
+    "year": 2011,
+    "watchedDate": "2025-11-21",
+    "rating": 3
+  },
+  {
+    "name": "One Day",
+    "title": "One Day",
+    "slug": "one-day-2011",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Hall Pass",
+    "title": "Hall Pass",
+    "slug": "hall-pass",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Paul",
+    "title": "Paul",
+    "slug": "paul-2011",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Rango",
+    "title": "Rango",
+    "slug": "rango",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Just Go with It",
+    "title": "Just Go with It",
+    "slug": "just-go-with-it",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Husk",
+    "title": "Husk",
+    "slug": "husk",
+    "year": 2011,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Due Date",
+    "title": "Due Date",
+    "slug": "due-date",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Troll Hunter",
+    "title": "Troll Hunter",
+    "slug": "troll-hunter",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Megamind",
+    "title": "Megamind",
+    "slug": "megamind",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Elite Squad: The Enemy Within",
+    "title": "Elite Squad: The Enemy Within",
+    "slug": "elite-squad-the-enemy-within",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Astral City: A Spiritual Journey",
+    "title": "Astral City: A Spiritual Journey",
+    "slug": "astral-city-a-spiritual-journey",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Vampires Suck",
+    "title": "Vampires Suck",
+    "slug": "vampires-suck",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Grown Ups",
+    "title": "Grown Ups",
+    "slug": "grown-ups",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Toy Story 3",
+    "title": "Toy Story 3",
+    "slug": "toy-story-3",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Despicable Me",
+    "title": "Despicable Me",
+    "slug": "despicable-me",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Kick-Ass",
+    "title": "Kick-Ass",
+    "slug": "kick-ass",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Crazies",
+    "title": "The Crazies",
+    "slug": "the-crazies-2010",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shutter Island",
+    "title": "Shutter Island",
+    "slug": "shutter-island",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Corridor",
+    "title": "Corridor",
+    "slug": "corridor",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tucker and Dale vs. Evil",
+    "title": "Tucker and Dale vs. Evil",
+    "slug": "tucker-and-dale-vs-evil",
+    "year": 2010,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Alvin and the Chipmunks: The Squeakquel",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "slug": "alvin-and-the-chipmunks-the-squeakquel",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Blind Side",
+    "title": "The Blind Side",
+    "slug": "the-blind-side",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ben 10: Alien Swarm",
+    "title": "Ben 10: Alien Swarm",
+    "slug": "ben-10-alien-swarm",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Fantastic Mr. Fox",
+    "title": "Fantastic Mr. Fox",
+    "slug": "fantastic-mr-fox",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Zombieland",
+    "title": "Zombieland",
+    "slug": "zombieland",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs",
+    "title": "Cloudy with a Chance of Meatballs",
+    "slug": "cloudy-with-a-chance-of-meatballs",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Mr. Nobody",
+    "title": "Mr. Nobody",
+    "slug": "mr-nobody",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Pandorum",
+    "title": "Pandorum",
+    "slug": "pandorum",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Gamer",
+    "title": "Gamer",
+    "slug": "gamer",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "9",
+    "title": "9",
+    "slug": "9",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "District 9",
+    "title": "District 9",
+    "slug": "district-9",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Adam",
+    "title": "Adam",
+    "slug": "adam",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Evil Things",
+    "title": "Evil Things",
+    "slug": "evil-things",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ed, Edd n Eddy's Big Picture Show",
+    "title": "Ed, Edd n Eddy's Big Picture Show",
+    "slug": "ed-edd-n-eddys-big-picture-show",
+    "year": 2009,
+    "watchedDate": "2026-01-11",
+    "rating": 2.5
+  },
+  {
+    "name": "The Hangover",
+    "title": "The Hangover",
+    "slug": "the-hangover",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Up",
+    "title": "Up",
+    "slug": "up",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Watchmen",
+    "title": "Watchmen",
+    "slug": "watchmen",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Coraline",
+    "title": "Coraline",
+    "slug": "coraline",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Adventureland",
+    "title": "Adventureland",
+    "slug": "adventureland",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "(500) Days of Summer",
+    "title": "(500) Days of Summer",
+    "slug": "500-days-of-summer",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "My Bloody Valentine",
+    "title": "My Bloody Valentine",
+    "slug": "my-bloody-valentine-2009",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Mary and Max",
+    "title": "Mary and Max",
+    "slug": "mary-and-max",
+    "year": 2009,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Marley & Me",
+    "title": "Marley & Me",
+    "slug": "marley-me",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Yes Man",
+    "title": "Yes Man",
+    "slug": "yes-man",
+    "year": 2008,
+    "watchedDate": "2025-11-14",
+    "rating": 3
+  },
+  {
+    "name": "Splinter",
+    "title": "Splinter",
+    "slug": "splinter-2008",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Killer Bean Forever",
+    "title": "Killer Bean Forever",
+    "slug": "killer-bean-forever",
+    "year": 2008,
+    "watchedDate": "2025-09-24",
+    "rating": 3
+  },
+  {
+    "name": "Disaster Movie",
+    "title": "Disaster Movie",
+    "slug": "disaster-movie",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Tropic Thunder",
+    "title": "Tropic Thunder",
+    "slug": "tropic-thunder",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dark Knight",
+    "title": "The Dark Knight",
+    "slug": "the-dark-knight",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "WALL·E",
+    "title": "WALL·E",
+    "slug": "walle",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hancock",
+    "title": "Hancock",
+    "slug": "hancock",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lake Mungo",
+    "title": "Lake Mungo",
+    "slug": "lake-mungo",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Incredible Hulk",
+    "title": "The Incredible Hulk",
+    "slug": "the-incredible-hulk",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Wieners",
+    "title": "Wieners",
+    "slug": "wieners",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Strangers",
+    "title": "The Strangers",
+    "slug": "the-strangers",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Kung Fu Panda",
+    "title": "Kung Fu Panda",
+    "slug": "kung-fu-panda",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Boy in the Striped Pyjamas",
+    "title": "The Boy in the Striped Pyjamas",
+    "slug": "the-boy-in-the-striped-pyjamas",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Iron Man",
+    "title": "Iron Man",
+    "slug": "iron-man-2008",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Harold & Kumar Escape from Guantanamo Bay",
+    "title": "Harold & Kumar Escape from Guantanamo Bay",
+    "slug": "harold-kumar-escape-from-guantanamo-bay",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Superhero Movie",
+    "title": "Superhero Movie",
+    "slug": "superhero-movie",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shutter",
+    "title": "Shutter",
+    "slug": "shutter-2008",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Watch",
+    "title": "The Watch",
+    "slug": "the-watch",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Jumper",
+    "title": "Jumper",
+    "slug": "jumper",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Drillbit Taylor",
+    "title": "Drillbit Taylor",
+    "slug": "drillbit-taylor",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Be Kind Rewind",
+    "title": "Be Kind Rewind",
+    "slug": "be-kind-rewind",
+    "year": 2008,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Mist",
+    "title": "The Mist",
+    "slug": "the-mist",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Bee Movie",
+    "title": "Bee Movie",
+    "slug": "bee-movie",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Lars and the Real Girl",
+    "title": "Lars and the Real Girl",
+    "slug": "lars-and-the-real-girl",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "The Darjeeling Limited",
+    "title": "The Darjeeling Limited",
+    "slug": "the-darjeeling-limited",
+    "year": 2007,
+    "watchedDate": "2026-10-06",
+    "rating": 4
+  },
+  {
+    "name": "Run Fatboy Run",
+    "title": "Run Fatboy Run",
+    "slug": "run-fatboy-run",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Into the Wild",
+    "title": "Into the Wild",
+    "slug": "into-the-wild",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "[REC]",
+    "title": "[REC]",
+    "slug": "rec",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Elite Squad",
+    "title": "Elite Squad",
+    "slug": "elite-squad",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Superbad",
+    "title": "Superbad",
+    "slug": "superbad",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hot Rod",
+    "title": "Hot Rod",
+    "slug": "hot-rod",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Simpsons Movie",
+    "title": "The Simpsons Movie",
+    "slug": "the-simpsons-movie",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "I Now Pronounce You Chuck & Larry",
+    "title": "I Now Pronounce You Chuck & Larry",
+    "slug": "i-now-pronounce-you-chuck-larry",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ratatouille",
+    "title": "Ratatouille",
+    "slug": "ratatouille",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Surf's Up",
+    "title": "Surf's Up",
+    "slug": "surfs-up",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "No Country for Old Men",
+    "title": "No Country for Old Men",
+    "slug": "no-country-for-old-men",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Wind Chill",
+    "title": "Wind Chill",
+    "slug": "wind-chill",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shrek the Third",
+    "title": "Shrek the Third",
+    "slug": "shrek-the-third",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "28 Weeks Later",
+    "title": "28 Weeks Later",
+    "slug": "28-weeks-later",
+    "year": 2007,
+    "watchedDate": "2026-01-22",
+    "rating": 2.5
+  },
+  {
+    "name": "Naruto Shippuden the Movie",
+    "title": "Naruto Shippuden the Movie",
+    "slug": "naruto-shippuden-the-movie",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Are We Done Yet?",
+    "title": "Are We Done Yet?",
+    "slug": "are-we-done-yet",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "TMNT",
+    "title": "TMNT",
+    "slug": "tmnt",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Number 23",
+    "title": "The Number 23",
+    "slug": "the-number-23",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Norbit",
+    "title": "Norbit",
+    "slug": "norbit",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Epic Movie",
+    "title": "Epic Movie",
+    "slug": "epic-movie",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ghost Rider",
+    "title": "Ghost Rider",
+    "slug": "ghost-rider",
+    "year": 2007,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Altered",
+    "title": "Altered",
+    "slug": "altered",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Pursuit of Happyness",
+    "title": "The Pursuit of Happyness",
+    "slug": "the-pursuit-of-happyness",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Holiday",
+    "title": "The Holiday",
+    "slug": "the-holiday",
+    "year": 2006,
+    "watchedDate": "2025-11-29",
+    "rating": 2
+  },
+  {
+    "name": "Happy Feet",
+    "title": "Happy Feet",
+    "slug": "happy-feet",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Flushed Away",
+    "title": "Flushed Away",
+    "slug": "flushed-away",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Open Season",
+    "title": "Open Season",
+    "slug": "open-season",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Ugly Duckling and Me!",
+    "title": "The Ugly Duckling and Me!",
+    "slug": "the-ugly-duckling-and-me",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Stranger Than Fiction",
+    "title": "Stranger Than Fiction",
+    "slug": "stranger-than-fiction-2006",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Idiocracy",
+    "title": "Idiocracy",
+    "slug": "idiocracy",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Little Man",
+    "title": "Little Man",
+    "slug": "little-man",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Barnyard",
+    "title": "Barnyard",
+    "slug": "barnyard",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "slug": "borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "My Super Ex-Girlfriend",
+    "title": "My Super Ex-Girlfriend",
+    "slug": "my-super-ex-girlfriend",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Click",
+    "title": "Click",
+    "slug": "click",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Population 436",
+    "title": "Population 436",
+    "slug": "population-436",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "The Devil Wears Prada",
+    "title": "The Devil Wears Prada",
+    "slug": "the-devil-wears-prada",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Monster House",
+    "title": "Monster House",
+    "slug": "monster-house",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Host",
+    "title": "The Host",
+    "slug": "the-host",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Over the Hedge",
+    "title": "Over the Hedge",
+    "slug": "over-the-hedge",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Movie of Eggs",
+    "title": "A Movie of Eggs",
+    "slug": "a-movie-of-eggs",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Cars",
+    "title": "Cars",
+    "slug": "cars",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Little Miss Sunshine",
+    "title": "Little Miss Sunshine",
+    "slug": "little-miss-sunshine",
+    "year": 2006,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Waiting...",
+    "title": "Waiting...",
+    "slug": "waiting",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Just Like Heaven",
+    "title": "Just Like Heaven",
+    "slug": "just-like-heaven",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Pride & Prejudice",
+    "title": "Pride & Prejudice",
+    "slug": "pride-prejudice",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "slug": "wallace-gromit-the-curse-of-the-were-rabbit",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The 40 Year Old Virgin",
+    "title": "The 40 Year Old Virgin",
+    "slug": "the-40-year-old-virgin",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Day of the Dead 2: Contagium",
+    "title": "Day of the Dead 2: Contagium",
+    "slug": "day-of-the-dead-2-contagium",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Madagascar",
+    "title": "Madagascar",
+    "slug": "madagascar",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Descent",
+    "title": "The Descent",
+    "slug": "the-descent",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Robots",
+    "title": "Robots",
+    "slug": "robots",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ed, Edd n Eddy's Hanky Panky Hullabaloo",
+    "title": "Ed, Edd n Eddy's Hanky Panky Hullabaloo",
+    "slug": "ed-edd-n-eddys-hanky-panky-hullabaloo",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Hitch",
+    "title": "Hitch",
+    "slug": "hitch-2005",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Are We There Yet?",
+    "title": "Are We There Yet?",
+    "slug": "are-we-there-yet",
+    "year": 2005,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Incident at Loch Ness",
+    "title": "Incident at Loch Ness",
+    "slug": "incident-at-loch-ness",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The SpongeBob SquarePants Movie",
+    "title": "The SpongeBob SquarePants Movie",
+    "slug": "the-spongebob-squarepants-movie",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Incredibles",
+    "title": "The Incredibles",
+    "slug": "the-incredibles",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "El padrino: The Latin Godfather",
+    "title": "El padrino: The Latin Godfather",
+    "slug": "el-padrino-the-latin-godfather",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shark Tale",
+    "title": "Shark Tale",
+    "slug": "shark-tale",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "I, Robot",
+    "title": "I, Robot",
+    "slug": "i-robot",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man 2",
+    "title": "Spider-Man 2",
+    "slug": "spider-man-2",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "White Chicks",
+    "title": "White Chicks",
+    "slug": "white-chicks",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Harold & Kumar Go to White Castle",
+    "title": "Harold & Kumar Go to White Castle",
+    "slug": "harold-kumar-go-to-white-castle",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shrek 2",
+    "title": "Shrek 2",
+    "slug": "shrek-2",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Home on the Range",
+    "title": "Home on the Range",
+    "slug": "home-on-the-range",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dawn of the Dead",
+    "title": "Dawn of the Dead",
+    "slug": "dawn-of-the-dead-2004",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "slug": "eternal-sunshine-of-the-spotless-mind",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "50 First Dates",
+    "title": "50 First Dates",
+    "slug": "50-first-dates",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Machinist",
+    "title": "The Machinist",
+    "slug": "the-machinist",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Super Size Me",
+    "title": "Super Size Me",
+    "slug": "super-size-me",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Napoleon Dynamite",
+    "title": "Napoleon Dynamite",
+    "slug": "napoleon-dynamite",
+    "year": 2004,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Duplex",
+    "title": "Duplex",
+    "slug": "duplex",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spy Kids 3-D: Game Over",
+    "title": "Spy Kids 3-D: Game Over",
+    "slug": "spy-kids-3-d-game-over",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Harvie Krumpet",
+    "title": "Harvie Krumpet",
+    "slug": "harvie-krumpet",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Man Who Copied",
+    "title": "The Man Who Copied",
+    "slug": "the-man-who-copied",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Finding Nemo",
+    "title": "Finding Nemo",
+    "slug": "finding-nemo",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Animatrix",
+    "title": "The Animatrix",
+    "slug": "the-animatrix",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dumb and Dumberer: When Harry Met Lloyd",
+    "title": "Dumb and Dumberer: When Harry Met Lloyd",
+    "slug": "dumb-and-dumberer-when-harry-met-lloyd",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Beyond Re-Animator",
+    "title": "Beyond Re-Animator",
+    "slug": "beyond-re-animator",
+    "year": 2003,
+    "watchedDate": "2025-09-15",
+    "rating": 1
+  },
+  {
+    "name": "Willard",
+    "title": "Willard",
+    "slug": "willard-2003",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Bringing Down the House",
+    "title": "Bringing Down the House",
+    "slug": "bringing-down-the-house",
+    "year": 2003,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Austin Powers in Goldmember",
+    "title": "Austin Powers in Goldmember",
+    "slug": "austin-powers-in-goldmember",
+    "year": 2002,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Stuart Little 2",
+    "title": "Stuart Little 2",
+    "slug": "stuart-little-2",
+    "year": 2002,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Punch-Drunk Love",
+    "title": "Punch-Drunk Love",
+    "slug": "punch-drunk-love",
+    "year": 2002,
+    "watchedDate": "2025-11-20",
+    "rating": 4
+  },
+  {
+    "name": "City of God",
+    "title": "City of God",
+    "slug": "city-of-god",
+    "year": 2002,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Spider-Man",
+    "title": "Spider-Man",
+    "slug": "spider-man",
+    "year": 2002,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ice Age",
+    "title": "Ice Age",
+    "slug": "ice-age",
+    "year": 2002,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shallow Hal",
+    "title": "Shallow Hal",
+    "slug": "shallow-hal",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Monsters, Inc.",
+    "title": "Monsters, Inc.",
+    "slug": "monsters-inc",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Rush Hour 2",
+    "title": "Rush Hour 2",
+    "slug": "rush-hour-2",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Others",
+    "title": "The Others",
+    "slug": "the-others",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Rat Race",
+    "title": "Rat Race",
+    "slug": "rat-race",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Shrek",
+    "title": "Shrek",
+    "slug": "shrek",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Joe Dirt",
+    "title": "Joe Dirt",
+    "slug": "joe-dirt",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Animal",
+    "title": "The Animal",
+    "slug": "the-animal",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Pulse",
+    "title": "Pulse",
+    "slug": "pulse-2001",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Donnie Darko",
+    "title": "Donnie Darko",
+    "slug": "donnie-darko",
+    "year": 2001,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dude, Where's My Car?",
+    "title": "Dude, Where's My Car?",
+    "slug": "dude-wheres-my-car",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "How the Grinch Stole Christmas",
+    "title": "How the Grinch Stole Christmas",
+    "slug": "how-the-grinch-stole-christmas-2000",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Little Nicky",
+    "title": "Little Nicky",
+    "slug": "little-nicky",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Book of Shadows: Blair Witch 2",
+    "title": "Book of Shadows: Blair Witch 2",
+    "slug": "book-of-shadows-blair-witch-2",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Dog's Will",
+    "title": "A Dog's Will",
+    "slug": "a-dogs-will",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Nutty Professor II: The Klumps",
+    "title": "Nutty Professor II: The Klumps",
+    "slug": "nutty-professor-ii-the-klumps",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "Chicken Run",
+    "title": "Chicken Run",
+    "slug": "chicken-run",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Shanghai Noon",
+    "title": "Shanghai Noon",
+    "slug": "shanghai-noon",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Requiem for a Dream",
+    "title": "Requiem for a Dream",
+    "slug": "requiem-for-a-dream",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "O Brother, Where Art Thou?",
+    "title": "O Brother, Where Art Thou?",
+    "slug": "o-brother-where-art-thou",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "American Psycho",
+    "title": "American Psycho",
+    "slug": "american-psycho",
+    "year": 2000,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Stuart Little",
+    "title": "Stuart Little",
+    "slug": "stuart-little",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Toy Story 2",
+    "title": "Toy Story 2",
+    "slug": "toy-story-2",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Sissy Duckling",
+    "title": "The Sissy Duckling",
+    "slug": "the-sissy-duckling",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Fight Club",
+    "title": "Fight Club",
+    "slug": "fight-club",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Iron Giant",
+    "title": "The Iron Giant",
+    "slug": "the-iron-giant",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "South Park: Bigger, Longer & Uncut",
+    "title": "South Park: Bigger, Longer & Uncut",
+    "slug": "south-park-bigger-longer-uncut",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Austin Powers: The Spy Who Shagged Me",
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "slug": "austin-powers-the-spy-who-shagged-me",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Matrix",
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "October Sky",
+    "title": "October Sky",
+    "slug": "october-sky",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "The Blair Witch Project",
+    "title": "The Blair Witch Project",
+    "slug": "the-blair-witch-project",
+    "year": 1999,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Meet Joe Black",
+    "title": "Meet Joe Black",
+    "slug": "meet-joe-black",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Antz",
+    "title": "Antz",
+    "slug": "antz",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Rush Hour",
+    "title": "Rush Hour",
+    "slug": "rush-hour",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dirty Work",
+    "title": "Dirty Work",
+    "slug": "dirty-work-1998",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Truman Show",
+    "title": "The Truman Show",
+    "slug": "the-truman-show",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Senseless",
+    "title": "Senseless",
+    "slug": "senseless",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Sphere",
+    "title": "Sphere",
+    "slug": "sphere",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Phantoms",
+    "title": "Phantoms",
+    "slug": "phantoms",
+    "year": 1998,
+    "watchedDate": "2025-09-19",
+    "rating": 3
+  },
+  {
+    "name": "Pi",
+    "title": "Pi",
+    "slug": "pi",
+    "year": 1998,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Scream 2",
+    "title": "Scream 2",
+    "slug": "scream-2",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Anastasia",
+    "title": "Anastasia",
+    "slug": "anastasia-1997",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Money Talks",
+    "title": "Money Talks",
+    "slug": "money-talks",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "Mimic",
+    "title": "Mimic",
+    "slug": "mimic",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Event Horizon",
+    "title": "Event Horizon",
+    "slug": "event-horizon",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Children of Heaven",
+    "title": "Children of Heaven",
+    "slug": "children-of-heaven",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Good Burger",
+    "title": "Good Burger",
+    "slug": "good-burger",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Face/Off",
+    "title": "Face/Off",
+    "slug": "face-off",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Austin Powers: International Man of Mystery",
+    "title": "Austin Powers: International Man of Mystery",
+    "slug": "austin-powers-international-man-of-mystery",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Liar Liar",
+    "title": "Liar Liar",
+    "slug": "liar-liar",
+    "year": 1997,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Cherokee Kid",
+    "title": "The Cherokee Kid",
+    "slug": "the-cherokee-kid",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Thinner",
+    "title": "Thinner",
+    "slug": "thinner",
+    "year": 1996,
+    "watchedDate": "2026-04-21",
+    "rating": 3.5
+  },
+  {
+    "name": "Jack",
+    "title": "Jack",
+    "slug": "jack-1996",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "The Nutty Professor",
+    "title": "The Nutty Professor",
+    "slug": "the-nutty-professor-1996",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Cable Guy",
+    "title": "The Cable Guy",
+    "slug": "the-cable-guy",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Fargo",
+    "title": "Fargo",
+    "slug": "fargo",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Big Bully",
+    "title": "Big Bully",
+    "slug": "big-bully",
+    "year": 1996,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Close Shave",
+    "title": "A Close Shave",
+    "slug": "a-close-shave-1995",
+    "year": 1995,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Toy Story",
+    "title": "Toy Story",
+    "slug": "toy-story",
+    "year": 1995,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Ace Ventura: When Nature Calls",
+    "title": "Ace Ventura: When Nature Calls",
+    "slug": "ace-ventura-when-nature-calls",
+    "year": 1995,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Waterworld",
+    "title": "Waterworld",
+    "slug": "waterworld",
+    "year": 1995,
+    "watchedDate": "2026-02-11",
+    "rating": 2.5
+  },
+  {
+    "name": "Judge Dredd",
+    "title": "Judge Dredd",
+    "slug": "judge-dredd",
+    "year": 1995,
+    "watchedDate": "2026-01-06",
+    "rating": 3
+  },
+  {
+    "name": "Friday",
+    "title": "Friday",
+    "slug": "friday",
+    "year": 1995,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Outbreak",
+    "title": "Outbreak",
+    "slug": "outbreak",
+    "year": 1995,
+    "watchedDate": "2025-09-10",
+    "rating": 2.5
+  },
+  {
+    "name": "Heavyweights",
+    "title": "Heavyweights",
+    "slug": "heavyweights",
+    "year": 1995,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Dumb and Dumber",
+    "title": "Dumb and Dumber",
+    "slug": "dumb-and-dumber",
+    "year": 1994,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Mask",
+    "title": "The Mask",
+    "slug": "the-mask-1994",
+    "year": 1994,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Speed",
+    "title": "Speed",
+    "slug": "speed",
+    "year": 1994,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Pulp Fiction",
+    "title": "Pulp Fiction",
+    "slug": "pulp-fiction",
+    "year": 1994,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Through the Olive Trees",
+    "title": "Through the Olive Trees",
+    "slug": "through-the-olive-trees",
+    "year": 1994,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Return of the Living Dead III",
+    "title": "Return of the Living Dead III",
+    "slug": "return-of-the-living-dead-iii",
+    "year": 1993,
+    "watchedDate": null,
+    "rating": 1
+  },
+  {
+    "name": "Cool Runnings",
+    "title": "Cool Runnings",
+    "slug": "cool-runnings",
+    "year": 1993,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Menace II Society",
+    "title": "Menace II Society",
+    "slug": "menace-ii-society",
+    "year": 1993,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Falling Down",
+    "title": "Falling Down",
+    "slug": "falling-down",
+    "year": 1993,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Groundhog Day",
+    "title": "Groundhog Day",
+    "slug": "groundhog-day",
+    "year": 1993,
+    "watchedDate": "2025-11-26",
+    "rating": 2.5
+  },
+  {
+    "name": "Alive",
+    "title": "Alive",
+    "slug": "alive",
+    "year": 1993,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Candyman",
+    "title": "Candyman",
+    "slug": "candyman",
+    "year": 1992,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Braindead",
+    "title": "Braindead",
+    "slug": "braindead-1992",
+    "year": 1992,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Lawnmower Man",
+    "title": "The Lawnmower Man",
+    "slug": "the-lawnmower-man",
+    "year": 1992,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Reservoir Dogs",
+    "title": "Reservoir Dogs",
+    "slug": "reservoir-dogs",
+    "year": 1992,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Terminator 2: Judgment Day",
+    "title": "Terminator 2: Judgment Day",
+    "slug": "terminator-2-judgment-day",
+    "year": 1991,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Boyz n the Hood",
+    "title": "Boyz n the Hood",
+    "slug": "boyz-n-the-hood",
+    "year": 1991,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "slug": "teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze",
+    "year": 1991,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Misery",
+    "title": "Misery",
+    "slug": "misery",
+    "year": 1990,
+    "watchedDate": "2026-01-02",
+    "rating": 4
+  },
+  {
+    "name": "Bride of Re-Animator",
+    "title": "Bride of Re-Animator",
+    "slug": "bride-of-re-animator",
+    "year": 1990,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "title": "Teenage Mutant Ninja Turtles",
+    "slug": "teenage-mutant-ninja-turtles",
+    "year": 1990,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Weekend at Bernie's",
+    "title": "Weekend at Bernie's",
+    "slug": "weekend-at-bernies",
+    "year": 1989,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Batman",
+    "title": "Batman",
+    "slug": "batman-1989",
+    "year": 1989,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Do the Right Thing",
+    "title": "Do the Right Thing",
+    "slug": "do-the-right-thing",
+    "year": 1989,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Pet Sematary",
+    "title": "Pet Sematary",
+    "slug": "pet-sematary",
+    "year": 1989,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Fly II",
+    "title": "The Fly II",
+    "slug": "the-fly-ii",
+    "year": 1989,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Akira",
+    "title": "Akira",
+    "slug": "akira",
+    "year": 1988,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Beetlejuice",
+    "title": "Beetlejuice",
+    "slug": "beetlejuice",
+    "year": 1988,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Return of the Living Dead Part II",
+    "title": "Return of the Living Dead Part II",
+    "slug": "return-of-the-living-dead-part-ii",
+    "year": 1988,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Planes, Trains and Automobiles",
+    "title": "Planes, Trains and Automobiles",
+    "slug": "planes-trains-and-automobiles",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Running Man",
+    "title": "The Running Man",
+    "slug": "the-running-man",
+    "year": 1987,
+    "watchedDate": "2025-12-19",
+    "rating": 2.5
+  },
+  {
+    "name": "Three O'Clock High",
+    "title": "Three O'Clock High",
+    "slug": "three-oclock-high",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Hellraiser",
+    "title": "Hellraiser",
+    "slug": "hellraiser",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Can't Buy Me Love",
+    "title": "Can't Buy Me Love",
+    "slug": "cant-buy-me-love",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "RoboCop",
+    "title": "RoboCop",
+    "slug": "robocop",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Predator",
+    "title": "Predator",
+    "slug": "predator",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Where Is the Friend's House?",
+    "title": "Where Is the Friend's House?",
+    "slug": "where-is-the-friends-house",
+    "year": 1987,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Little Shop of Horrors",
+    "title": "Little Shop of Horrors",
+    "slug": "little-shop-of-horrors",
+    "year": 1986,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Armed and Dangerous",
+    "title": "Armed and Dangerous",
+    "slug": "armed-and-dangerous",
+    "year": 1986,
+    "watchedDate": null,
+    "rating": 1.5
+  },
+  {
+    "name": "The Fly",
+    "title": "The Fly",
+    "slug": "the-fly-1986",
+    "year": 1986,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Maximum Overdrive",
+    "title": "Maximum Overdrive",
+    "slug": "maximum-overdrive",
+    "year": 1986,
+    "watchedDate": "2025-09-08",
+    "rating": 2.5
+  },
+  {
+    "name": "Troll",
+    "title": "Troll",
+    "slug": "troll",
+    "year": 1986,
+    "watchedDate": "2025-09-07",
+    "rating": 2.5
+  },
+  {
+    "name": "The Hitcher",
+    "title": "The Hitcher",
+    "slug": "the-hitcher",
+    "year": 1986,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Anne of Green Gables",
+    "title": "Anne of Green Gables",
+    "slug": "anne-of-green-gables-1985-1",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Re-Animator",
+    "title": "Re-Animator",
+    "slug": "re-animator",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Park Is Mine",
+    "title": "The Park Is Mine",
+    "slug": "the-park-is-mine",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Come and See",
+    "title": "Come and See",
+    "slug": "come-and-see",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Back to the Future",
+    "title": "Back to the Future",
+    "slug": "back-to-the-future",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Return of the Living Dead",
+    "title": "The Return of the Living Dead",
+    "slug": "the-return-of-the-living-dead",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Brazil",
+    "title": "Brazil",
+    "slug": "brazil",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": 4.5
+  },
+  {
+    "name": "The Breakfast Club",
+    "title": "The Breakfast Club",
+    "slug": "the-breakfast-club",
+    "year": 1985,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Terminator",
+    "title": "The Terminator",
+    "slug": "the-terminator",
+    "year": 1984,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Christine",
+    "title": "Christine",
+    "slug": "christine-1983",
+    "year": 1983,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Dead Zone",
+    "title": "The Dead Zone",
+    "slug": "the-dead-zone",
+    "year": 1983,
+    "watchedDate": "2025-12-31",
+    "rating": 2.5
+  },
+  {
+    "name": "Smorgasbord",
+    "title": "Smorgasbord",
+    "slug": "smorgasbord",
+    "year": 1983,
+    "watchedDate": "2025-09-19",
+    "rating": 1.5
+  },
+  {
+    "name": "The King of Comedy",
+    "title": "The King of Comedy",
+    "slug": "the-king-of-comedy",
+    "year": 1982,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Blade Runner",
+    "title": "Blade Runner",
+    "slug": "blade-runner",
+    "year": 1982,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "The Thing",
+    "title": "The Thing",
+    "slug": "the-thing",
+    "year": 1982,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Poltergeist",
+    "title": "Poltergeist",
+    "slug": "poltergeist",
+    "year": 1982,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Escape from New York",
+    "title": "Escape from New York",
+    "slug": "escape-from-new-york",
+    "year": 1981,
+    "watchedDate": "2025-12-22",
+    "rating": 4
+  },
+  {
+    "name": "My Bloody Valentine",
+    "title": "My Bloody Valentine",
+    "slug": "my-bloody-valentine",
+    "year": 1981,
+    "watchedDate": "2025-09-14",
+    "rating": 2
+  },
+  {
+    "name": "Airplane!",
+    "title": "Airplane!",
+    "slug": "airplane",
+    "year": 1980,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Shining",
+    "title": "The Shining",
+    "slug": "the-shining",
+    "year": 1980,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "Starting Over",
+    "title": "Starting Over",
+    "slug": "starting-over",
+    "year": 1979,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "Life of Brian",
+    "title": "Life of Brian",
+    "slug": "life-of-brian",
+    "year": 1979,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Car",
+    "title": "The Car",
+    "slug": "the-car",
+    "year": 1977,
+    "watchedDate": "2025-09-19",
+    "rating": 2.5
+  },
+  {
+    "name": "Taxi Driver",
+    "title": "Taxi Driver",
+    "slug": "taxi-driver",
+    "year": 1976,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "Dog Day Afternoon",
+    "title": "Dog Day Afternoon",
+    "slug": "dog-day-afternoon",
+    "year": 1975,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "title": "Monty Python and the Holy Grail",
+    "slug": "monty-python-and-the-holy-grail",
+    "year": 1975,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Charlie Brown Thanksgiving",
+    "title": "A Charlie Brown Thanksgiving",
+    "slug": "a-charlie-brown-thanksgiving",
+    "year": 1973,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Legend of Hell House",
+    "title": "The Legend of Hell House",
+    "slug": "the-legend-of-hell-house",
+    "year": 1973,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "The Last House on the Left",
+    "title": "The Last House on the Left",
+    "slug": "the-last-house-on-the-left",
+    "year": 1972,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "O Grande Xerife",
+    "title": "O Grande Xerife",
+    "slug": "o-grande-xerife",
+    "year": 1972,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "No Paraíso das Solteironas",
+    "title": "No Paraíso das Solteironas",
+    "slug": "no-paraiso-das-solteironas",
+    "year": 1969,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "title": "2001: A Space Odyssey",
+    "slug": "2001-a-space-odyssey",
+    "year": 1968,
+    "watchedDate": null,
+    "rating": 3
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "title": "The Good, the Bad and the Ugly",
+    "slug": "the-good-the-bad-and-the-ugly",
+    "year": 1966,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "How the Grinch Stole Christmas!",
+    "title": "How the Grinch Stole Christmas!",
+    "slug": "how-the-grinch-stole-christmas",
+    "year": 1966,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "It's the Great Pumpkin, Charlie Brown",
+    "title": "It's the Great Pumpkin, Charlie Brown",
+    "slug": "its-the-great-pumpkin-charlie-brown",
+    "year": 1966,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "A Charlie Brown Christmas",
+    "title": "A Charlie Brown Christmas",
+    "slug": "a-charlie-brown-christmas",
+    "year": 1965,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Nutty Professor",
+    "title": "The Nutty Professor",
+    "slug": "the-nutty-professor",
+    "year": 1963,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "Return of the Fly",
+    "title": "Return of the Fly",
+    "slug": "return-of-the-fly",
+    "year": 1959,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Rock-a-Bye Baby",
+    "title": "Rock-a-Bye Baby",
+    "slug": "rock-a-bye-baby",
+    "year": 1958,
+    "watchedDate": null,
+    "rating": 2.5
+  },
+  {
+    "name": "The Fly",
+    "title": "The Fly",
+    "slug": "the-fly",
+    "year": 1958,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Caddy",
+    "title": "The Caddy",
+    "slug": "the-caddy",
+    "year": 1953,
+    "watchedDate": null,
+    "rating": 2
+  },
+  {
+    "name": "Scared Stiff",
+    "title": "Scared Stiff",
+    "slug": "scared-stiff-1953",
+    "year": 1953,
+    "watchedDate": "2025-09-13",
+    "rating": 2
+  },
+  {
+    "name": "The Great Dictator",
+    "title": "The Great Dictator",
+    "slug": "the-great-dictator",
+    "year": 1940,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Wizard of Oz",
+    "title": "The Wizard of Oz",
+    "slug": "the-wizard-of-oz-1939",
+    "year": 1939,
+    "watchedDate": null,
+    "rating": 3.5
+  },
+  {
+    "name": "The Ugly Duckling",
+    "title": "The Ugly Duckling",
+    "slug": "the-ugly-duckling-1939",
+    "year": 1939,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Modern Times",
+    "title": "Modern Times",
+    "slug": "modern-times",
+    "year": 1936,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Anne of Green Gables",
+    "title": "Anne of Green Gables",
+    "slug": "anne-of-green-gables",
+    "year": 1934,
+    "watchedDate": null,
+    "rating": 5
+  },
+  {
+    "name": "City Lights",
+    "title": "City Lights",
+    "slug": "city-lights",
+    "year": 1931,
+    "watchedDate": null,
+    "rating": 4
+  },
+  {
+    "name": "The Gold Rush",
+    "title": "The Gold Rush",
+    "slug": "the-gold-rush",
+    "year": 1925,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "The Kid",
+    "title": "The Kid",
+    "slug": "the-kid",
+    "year": 1921,
+    "watchedDate": null,
+    "rating": null
+  },
+  {
+    "name": "Paddleton",
+    "title": "Paddleton",
+    "slug": "paddleton",
+    "year": 2019,
+    "watchedDate": "2026-10-11",
+    "rating": 3.5
+  },
+  {
+    "name": "Bloody Hell",
+    "title": "Bloody Hell",
+    "slug": "bloody-hell-2020",
+    "year": 2020,
+    "watchedDate": "2026-10-11",
+    "rating": 2
+  },
+  {
+    "name": "The Boy in the Plastic Bubble",
+    "title": "The Boy in the Plastic Bubble",
+    "slug": "the-boy-in-the-plastic-bubble",
+    "year": 1976,
+    "watchedDate": "2026-10-11",
+    "rating": 3
+  },
+  {
+    "name": "The Wicker Man",
+    "title": "The Wicker Man",
+    "slug": "the-wicker-man",
+    "year": 1973,
+    "watchedDate": "2026-10-10",
+    "rating": 3
+  },
+  {
+    "name": "The Raid",
+    "title": "The Raid",
+    "slug": "the-raid-2011",
+    "year": 2011,
+    "watchedDate": "2026-10-10",
+    "rating": 3
+  }
+]

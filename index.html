@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Letterboxd Curator • Catálogo Netflix TV</title>
+
+  <!-- Modern Netflix & Cinema Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,400;1,700&family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Google Identity Services (GIS) for Google Login -->
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container">
+  <!-- NETFLIX TV NAVIGATION RAIL -->
+  <aside class="nav-rail" id="navRail" aria-label="Navegação Principal">
+    <a href="#" class="brand-logo" id="navLogo">
+      <div class="brand-n">N</div>
+      <div class="brand-name">LETTERBOXD</div>
+    </a>
+
+    <div class="nav-items">
+      <button class="nav-item" id="navSearch" title="Buscar no Catálogo">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <span>Buscar</span>
+      </button>
+
+      <button class="nav-item active" id="navHome" data-nav="home" title="Início">
+        <svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+        <span>Início</span>
+      </button>
+
+      <div class="nav-item-group" data-group="terror">
+        <button class="nav-item" id="navTerror" data-nav="terror" title="Terror">
+          <svg viewBox="0 0 24 24"><path d="M9 10h.01"/><path d="M15 10h.01"/><path d="M10 20v-3h4v3"/><path d="M12 2a8 8 0 0 0-8 8v12l3-3 2.5 2.5L12 19l2.5 2.5L17 19l3 3V10a8 8 0 0 0-8-8z"/></svg>
+          <span>Terror</span>
+        </button>
+        <div class="nav-sub-items">
+          <button class="nav-sub-item" data-cat="horror">Clássicos do Terror</button>
+          <button class="nav-sub-item" data-cat="action-horror">Ação/Terror</button>
+          <button class="nav-sub-item" data-cat="body-horror">Body Horror</button>
+          <button class="nav-sub-item" data-cat="suspense">Suspense</button>
+          <button class="nav-sub-item" data-cat="nocturnal">Odisseia Noturna</button>
+          <button class="nav-sub-item" data-cat="silent-mystery">Névoa & Mistério</button>
+          <button class="nav-sub-item" data-cat="hatred">Ódio & Vingança</button>
+          <button class="nav-sub-item" data-cat="cosmic-horror">Terror Cósmico</button>
+        </div>
+      </div>
+
+      <div class="nav-item-group" data-group="besteirol">
+        <button class="nav-item" id="navBesteirol" data-nav="besteirol" title="Besteirol">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg>
+          <span>Besteirol</span>
+        </button>
+        <div class="nav-sub-items">
+          <button class="nav-sub-item" data-cat="comedy">Clássicos da Comédia</button>
+          <button class="nav-sub-item" data-cat="loser-comedy">Perdedores</button>
+          <button class="nav-sub-item" data-cat="adventure">Aventura</button>
+          <button class="nav-sub-item" data-cat="dark-losers">Humor Ácido</button>
+          <button class="nav-sub-item" data-cat="inner-power">Assuma Seu Poder</button>
+          <button class="nav-sub-item" data-cat="heist-misfits">Golpe Furado</button>
+        </div>
+      </div>
+
+      <div class="nav-item-group" data-group="art">
+        <button class="nav-item" id="navArt" data-nav="art" title="Art">
+          <svg viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.563-2.512 5.563-5.563C22 6.5 17.5 2 12 2Z"/><circle cx="13.5" cy="6.5" r=".75" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".75" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".75" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".75" fill="currentColor"/></svg>
+          <span>Art</span>
+        </button>
+        <div class="nav-sub-items">
+          <button class="nav-sub-item" data-cat="classic-action">Clássicos da Ação</button>
+          <button class="nav-sub-item" data-cat="world-cinema">Mundial</button>
+          <button class="nav-sub-item" data-cat="study">Estudos</button>
+          <button class="nav-sub-item" data-cat="misfit">Desajustados</button>
+          <button class="nav-sub-item" data-cat="animation">Animação</button>
+          <button class="nav-sub-item" data-cat="cyberpunk">Cyberpunk</button>
+          <button class="nav-sub-item" data-cat="fury">Fúria & Foco</button>
+          <button class="nav-sub-item" data-cat="anime">Animes Notáveis</button>
+          <button class="nav-sub-item" data-cat="tactical-war">Guerra Tática</button>
+        </div>
+      </div>
+
+      <button class="nav-item" id="navMovies" data-nav="movies" title="Filmes">
+        <svg viewBox="0 0 24 24"><rect width="18" height="18" x="3" y="3" rx="2"></rect><path d="M7 3v18"></path><path d="M3 7.5h4"></path><path d="M3 12h18"></path><path d="M3 16.5h4"></path><path d="M17 3v18"></path><path d="M17 7.5h4"></path><path d="M17 16.5h4"></path></svg>
+        <span>Filmes</span>
+      </button>
+
+      <button class="nav-item" id="btnOpenSavedMovies" data-nav="saved" title="Minha Lista">
+        <svg viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+        <span>Minha Lista</span>
+      </button>
+    </div>
+
+    <!-- Navigation Rail Bottom Section (IPTV, Afinidade & Google Account) -->
+    <div class="nav-bottom-group">
+      <button class="nav-item" id="btnOpenIptvModal" title="Configurar Lista IPTV">
+        <svg viewBox="0 0 24 24"><rect width="20" height="15" x="2" y="7" rx="2" ry="2"></rect><polyline points="17 2 12 7 7 2"></polyline></svg>
+        <span>Lista IPTV</span>
+      </button>
+
+      <button class="nav-item" id="btnOpenEnginePanel" title="Motor de Afinidade IA">
+        <svg viewBox="0 0 24 24"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path></svg>
+        <span>Afinidade IA</span>
+      </button>
+
+      <button class="nav-item" id="btnGoogleLogin" title="Entrar com Conta Google">
+        <svg viewBox="0 0 24 24"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+        <span>Entrar com Google</span>
+      </button>
+
+      <div class="nav-user-badge" id="userProfilePill" style="display: none;" title="Perfil Conectado">
+        <img id="userAvatarImg" class="nav-avatar-img" src="" alt="Avatar">
+        <div class="nav-user-info">
+          <span id="userNameLabel" class="nav-user-name">Usuário</span>
+          <span class="nav-user-status">Google Conectado</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MAIN SCROLLABLE VIEWPORT -->
+  <main class="main-viewport">
+
+    <!-- NETFLIX CINEMATIC HERO SECTION -->
+    <section class="hero-container" id="heroSection">
+      <img src="" alt="" class="hero-backdrop" id="heroBackdrop">
+      <video id="heroTrailerVideo" class="hero-trailer-video" muted autoplay loop playsinline></video>
+      <div class="hero-vignette"></div>
+
+      <div class="hero-trailer-sound-ctrl" id="heroTrailerSoundWrap">
+        <button id="heroTrailerSoundBtn" class="hero-sound-btn" title="Ativar Som">
+          <svg id="heroTrailerIconMute" viewBox="0 0 24 24"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+          <svg id="heroTrailerIconVol" viewBox="0 0 24 24" style="display: none;"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+        </button>
+      </div>
+
+      <div class="hero-content">
+        <div class="hero-badge-row">
+          <div class="netflix-tag">N FILMES</div>
+          <div class="category-curator-tag" id="heroCategoryTag">CURADORIA LETTERBOXD</div>
+        </div>
+
+        <h1 class="hero-title" id="heroTitle">Carregando...</h1>
+
+        <div class="hero-meta-row">
+          <span class="meta-match" id="heroMatch">98% relevante</span>
+          <span id="heroYear">2021</span>
+          <span class="meta-badge" id="heroRated">16+</span>
+          <span id="heroRuntime">111 min</span>
+          <span class="meta-rating" id="heroRating">★ 8.2</span>
+          <span class="meta-badge dub" id="heroDub">DUBLADO</span>
+          <span class="meta-badge">4K ULTRA HD</span>
+        </div>
+
+        <p class="hero-synopsis" id="heroSynopsis">
+          Carregando informações do filme curado...
+        </p>
+
+        <div class="hero-buttons">
+          <button class="btn-play" id="heroPlayBtn" title="Assistir filme ou buscar na lista IPTV">
+            <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+            Assistir
+          </button>
+          <button class="btn-info" id="heroInfoBtn" title="Ver detalhes completos e notas da curadoria">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+            Mais Informações
+          </button>
+          <button class="btn-hero-circle" id="heroSaveBtn" title="Adicionar à Minha Lista">
+            <svg viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+          </button>
+          <button class="btn-hero-circle" id="heroWatchedBtn" title="Marcar como Já Visto">
+            <svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- SEARCH & CONTROLS TOOLBAR -->
+    <div class="top-filter-bar">
+      <div class="search-input-wrap">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" id="searchInput" class="search-input" placeholder="Buscar por título, diretor, ano ou estilo...">
+      </div>
+
+      <select id="sortSelect" class="sort-select" title="Ordenar lista">
+        <option value="affinity-desc" selected>Maior Afinidade (Para Você)</option>
+        <option value="imdb-desc">Maior Nota IMDb</option>
+        <option value="year-desc">Mais Recentes</option>
+        <option value="year-asc">Mais Antigos</option>
+        <option value="title-asc">Título (A-Z)</option>
+      </select>
+    </div>
+
+    <!-- FAST JUMP CATEGORY PILLS -->
+    <div class="category-pills" id="categoryPills">
+      <button class="cat-pill active" data-category="all">Todos os Filmes</button>
+      <!-- Injected dynamically -->
+    </div>
+
+    <!-- CONTENT SHELVES (Top 10 + 19 Category Carousels) -->
+    <div class="content-rows" id="contentRows">
+      <!-- Injected dynamically by app.js -->
+    </div>
+
+  </main>
+</div>
+
+<!-- NETFLIX DETAIL MODAL -->
+<div class="modal-overlay" id="detailModal" role="dialog" aria-modal="true">
+  <div class="modal-card">
+    <button class="modal-close" id="modalCloseBtn" title="Fechar">&times;</button>
+    <div class="modal-hero">
+      <img src="" id="modalImg" alt="">
+      <video id="modalTrailerVideo" class="modal-trailer-video" muted autoplay loop playsinline></video>
+      <div class="modal-hero-vignette"></div>
+      <div class="modal-hero-content">
+        <h2 class="modal-title" id="modalTitle">Título do Filme</h2>
+        <div class="modal-quick-actions">
+          <button class="btn-play" id="modalWatchBtn">
+            <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+            <span id="modalWatchBtnText">Assistir</span>
+          </button>
+          <button class="modal-circle-btn" id="modalBtnSave" title="Salvar na Minha Lista">
+            <svg class="icon icon-stroke" viewBox="0 0 24 24"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"></path></svg>
+          </button>
+          <button class="modal-circle-btn" id="modalBtnLike" title="Gostei">
+            <svg class="icon icon-stroke" viewBox="0 0 24 24"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg>
+          </button>
+          <button class="modal-circle-btn" id="modalBtnDislike" title="Não é para mim">
+            <svg class="icon icon-stroke" viewBox="0 0 24 24"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3"></path></svg>
+          </button>
+          <button class="modal-circle-btn" id="modalSoundBtn" title="Ativar Som do Trailer">
+            <svg class="icon icon-stroke" id="modalIconSoundMuted" viewBox="0 0 24 24"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><line x1="23" y1="9" x2="17" y2="15"></line><line x1="17" y1="9" x2="23" y2="15"></line></svg>
+            <svg class="icon icon-stroke" id="modalIconSoundOn" viewBox="0 0 24 24" style="display: none;"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- TECHNICAL SPECIFICATIONS & UTILITIES BAR -->
+    <div class="modal-specs-bar">
+      <div class="specs-left">
+        <span class="spec-match" id="modalSpecMatch">98% Relevante</span>
+        <span class="spec-year" id="modalSpecYear">2021</span>
+        <span class="spec-age-badge" id="modalSpecRated">16</span>
+        <span class="spec-duration" id="modalSpecDuration">1h 51m</span>
+        <span class="spec-quality-pill">4K Ultra HD</span>
+        <span class="spec-audio-pill" id="modalSpecAudio">Dublado PT-BR</span>
+      </div>
+      <div class="specs-right">
+        <button class="modal-util-btn" id="modalBtnWatch" title="Marcar como já visto">
+          <svg class="icon icon-stroke icon-sm" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+          <span id="modalBtnWatchText">Já Visto</span>
+        </button>
+        <button class="modal-util-btn" id="modalBtnUndubbed" title="Reportar que não achou dublado em PT-BR">
+          <svg class="icon icon-stroke icon-sm" viewBox="0 0 24 24"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><line x1="23" y1="9" x2="17" y2="15"></line><line x1="17" y1="9" x2="23" y2="15"></line></svg>
+          <span id="modalBtnUndubbedText">Sem Dublagem</span>
+        </button>
+        <button class="modal-util-btn" id="modalBtnIgnore" title="Ignorar este título das recomendações">
+          <svg class="icon icon-stroke icon-sm" viewBox="0 0 24 24"><path d="M9.88 9.88a3 3 0 1 0 4.24 4.24"></path><line x1="2" x2="22" y1="2" y2="22"></line></svg>
+          <span id="modalBtnIgnoreText">Ignorar</span>
+        </button>
+        <button class="modal-util-btn" id="modalLetterboxdBtn" title="Abrir página no Letterboxd">
+          <svg class="icon icon-stroke icon-sm" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="M12 8v8m-4-4h8"></path></svg>
+          <span>Letterboxd</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- MAIN BODY -->
+    <div class="modal-body">
+      <div class="modal-body-main">
+        <p class="modal-synopsis" id="modalSynopsis"></p>
+        
+        <div class="modal-curator-box" id="modalCuratorBox">
+          <div class="modal-curator-header">
+            <svg class="icon icon-stroke icon-sm" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            <span>Por que indicamos esta obra</span>
+          </div>
+          <p id="modalCuratorText"></p>
+        </div>
+
+        <div class="modal-review-section">
+          <div class="modal-review-header">
+            <span class="modal-review-title">Sua Avaliação & Comentário</span>
+            <span class="modal-review-sub">Suas impressões calibram o motor de afinidade</span>
+          </div>
+          <textarea id="modalCommentInput" class="modal-review-textarea" placeholder="O que você achou desta obra? Adicione suas impressões..."></textarea>
+          <div class="modal-review-footer">
+            <button id="modalBtnDeleteComment" class="modal-action-btn danger" type="button" style="display: none;">Excluir</button>
+            <button id="modalBtnSaveComment" class="btn-review-save" type="button">Salvar Avaliação</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-meta-list">
+        <div class="meta-row"><strong>Elenco:</strong> <span id="modalCast"></span></div>
+        <div class="meta-row"><strong>Gêneros:</strong> <span id="modalGenre"></span></div>
+        <div class="meta-row"><strong>Diretor:</strong> <span id="modalDirector"></span></div>
+        <div class="meta-row"><strong>Dublagem:</strong> <span id="modalDubStudio"></span></div>
+        <div class="meta-row"><strong>Avaliação:</strong> <span id="modalImdb"></span></div>
+        <div class="meta-row"><strong>Afinidade IA:</strong> <span id="modalAffinityScore" class="meta-affinity-val"></span></div>
+      </div>
+    </div>
+
+    <!-- TÍTULOS SEMELHANTES (MORE LIKE THIS) -->
+    <div class="modal-similar-container">
+      <h3 class="modal-similar-header">Títulos Semelhantes</h3>
+      <div class="modal-similar-grid" id="modalSimilarGrid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- IPTV PLAYLIST MANAGER MODAL -->
+<div id="iptvModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box">
+    <button id="iptvModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div style="margin-bottom: 16px;">
+      <span style="color: var(--accent-blue); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Configuração IPTV</span>
+      <h2 style="font-size: 22px; margin-top: 4px;">Link da Lista IPTV</h2>
+      <p style="color: var(--text-gray); font-size: 13px; margin-top: 4px;">
+        Insira o link da sua lista M3U ou M3U8. Ela será sincronizada diretamente na sua conta Google e no disco local.
+      </p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 12px;">
+      <div>
+        <label for="iptvUrlInput" style="font-size: 13px; font-weight: 600; color: #fff; display: block; margin-bottom: 4px;">URL da Lista IPTV:</label>
+        <input type="url" id="iptvUrlInput" class="search-input" placeholder="https://provedor.com/get.php?username=...&password=...&type=m3u_plus" style="border-radius: 6px;">
+      </div>
+
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <button id="btnPasteIptvUrl" type="button" class="modal-action-btn">Colar URL</button>
+        <button id="btnLoadContraFileIptv" type="button" class="modal-action-btn" style="border-color: rgba(70, 211, 105, 0.4); color: #46d369;">Usar contrafilenabrasa.net</button>
+        <button id="btnLoadSampleIptv" type="button" class="modal-action-btn">Lista Pública Brasil</button>
+      </div>
+
+      <div>
+        <label for="iptvNameInput" style="font-size: 13px; font-weight: 600; color: #fff; display: block; margin-bottom: 4px;">Apelido da Lista (opcional):</label>
+        <input type="text" id="iptvNameInput" class="search-input" placeholder="Minha Lista IPTV Principal" style="border-radius: 6px;">
+      </div>
+
+      <div id="iptvStatusBox" style="display: none; background: rgba(255,255,255,0.06); padding: 12px; border-radius: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span id="iptvStatusTitle" style="font-weight: 700; font-size: 13px;">Status</span>
+          <span id="iptvStatusBadge" style="color: #46d369; font-weight: 700; font-size: 12px;">Ativa</span>
+        </div>
+        <p id="iptvStatusMessage" style="font-size: 12px; color: #aaa; margin-top: 4px;"></p>
+        <div id="iptvChannelsPreview" style="display: none;"></div>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px; margin-top: 8px;">
+        <button id="btnTestIptvList" type="button" class="modal-action-btn">Testar & Validar Canais</button>
+        <div style="display: flex; gap: 8px;">
+          <button id="btnRemoveIptvUrl" type="button" class="modal-action-btn danger" style="display: none;">Remover Lista</button>
+          <button id="btnSaveIptvUrl" type="button" class="btn-play" style="padding: 8px 18px; font-size: 14px;">Salvar Link</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- NETFLIX-STYLE CINEMA VIDEO PLAYER OVERLAY -->
+<div id="netflixPlayerOverlay" class="netflix-player-overlay" role="dialog" aria-modal="true" style="display: none;">
+  <!-- Video Tag -->
+  <video id="netflixVideoPlayer" class="cinema-enhanced" playsinline preload="auto"></video>
+  <div id="netflixDitherGrain" class="netflix-dither-grain"></div>
+
+  <!-- Buffering / Loading Ring -->
+  <div id="netflixBuffering" class="netflix-player-buffering" style="display: none;">
+    <div class="netflix-spinner"></div>
+    <span class="netflix-buffer-text">Carregando transmissão...</span>
+  </div>
+
+  <!-- Center Action Flash Icon (Play / Pause pulse indicator) -->
+  <div id="netflixCenterFlash" class="netflix-center-flash">
+    <svg id="netflixCenterFlashIcon" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+  </div>
+
+  <!-- Netflix Animated Seek Feedback Badges (-10s / +10s) -->
+  <div id="netflixSeekFeedbackLeft" class="netflix-seek-feedback left">
+    <div class="seek-feedback-circle">
+      <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+      <span>-10s</span>
+    </div>
+  </div>
+  <div id="netflixSeekFeedbackRight" class="netflix-seek-feedback right">
+    <div class="seek-feedback-circle">
+      <svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg>
+      <span>+10s</span>
+    </div>
+  </div>
+
+  <!-- Top Navigation & Title Bar -->
+  <div class="netflix-player-top" id="netflixPlayerTop">
+    <div class="netflix-top-left">
+      <button id="netflixPlayerBackBtn" class="netflix-back-btn" title="Voltar ao Catálogo (Esc)">
+        <svg viewBox="0 0 24 24"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+      </button>
+      <div class="netflix-title-info">
+        <h2 id="netflixPlayerTitle" class="netflix-player-title">Título do Filme</h2>
+        <div class="netflix-player-meta">
+          <span id="netflixPlayerPtTitle" class="netflix-meta-sub">Título Nacional</span>
+          <span class="netflix-meta-dot">•</span>
+          <span id="netflixPlayerYear" class="netflix-meta-badge">Ano</span>
+          <span id="netflixPlayerCategory" class="netflix-meta-category">Categoria</span>
+          <span id="netflixPlayerDubbed" class="netflix-meta-dub">Dublado PT-BR</span>
+          <span id="netflixPlayerRating" class="netflix-meta-rating">★ 8.2</span>
+        </div>
+      </div>
+    </div>
+    <div class="netflix-top-right">
+      <button id="netflixBtnEditStream" class="netflix-top-btn" title="Configurar / Trocar Link do Stream IPTV">
+        <svg viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+        <span>Link IPTV</span>
+      </button>
+      <button id="netflixBtnExternalPlayer" class="netflix-top-btn" title="Abrir em Player Externo (VLC / OpenTV)">
+        <svg viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        <span>Player Externo</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Bottom Netflix Controls -->
+  <div class="netflix-player-bottom" id="netflixPlayerBottom">
+    <!-- Scrubber Container -->
+    <div class="netflix-scrubber-container" id="netflixScrubberContainer">
+      <div class="netflix-scrubber-tooltip" id="netflixScrubberTooltip">00:00</div>
+      <div class="netflix-scrubber-track">
+        <div class="netflix-scrubber-buffer" id="netflixScrubberBuffer"></div>
+        <div class="netflix-scrubber-progress" id="netflixScrubberProgress"></div>
+        <div class="netflix-scrubber-thumb" id="netflixScrubberThumb"></div>
+      </div>
+    </div>
+
+    <!-- Controls Row -->
+    <div class="netflix-player-controls-row">
+      <!-- Left Controls -->
+      <div class="netflix-controls-left">
+        <button id="netflixBtnPlayPause" class="nflx-ctrl-btn play-pause-btn" title="Reproduzir / Pausar (Espaço)">
+          <svg id="netflixIconPlay" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          <svg id="netflixIconPause" viewBox="0 0 24 24" style="display: none;"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+        </button>
+
+        <button id="netflixBtnRewind10" class="nflx-ctrl-btn" title="Retroceder 10 segundos (←)">
+          <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><text x="12" y="15" text-anchor="middle" font-size="8" font-family="Montserrat, sans-serif" font-weight="800" fill="currentColor">10</text></svg>
+        </button>
+
+        <button id="netflixBtnForward10" class="nflx-ctrl-btn" title="Avançar 10 segundos (→)">
+          <svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><text x="12" y="15" text-anchor="middle" font-size="8" font-family="Montserrat, sans-serif" font-weight="800" fill="currentColor">10</text></svg>
+        </button>
+
+        <div class="netflix-volume-group">
+          <button id="netflixBtnVolume" class="nflx-ctrl-btn" title="Mutar / Desmutar (M)">
+            <svg id="netflixIconVolHigh" viewBox="0 0 24 24"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+            <svg id="netflixIconVolMute" viewBox="0 0 24 24" style="display: none;"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+          </button>
+          <div class="netflix-volume-slider-wrap">
+            <input type="range" id="netflixVolumeSlider" min="0" max="1" step="0.05" value="1" class="netflix-volume-slider" title="Volume">
+          </div>
+        </div>
+
+        <div class="netflix-time-display" id="netflixTimeDisplayWrap" title="Alternar tempo decorrido / restante">
+          <span id="netflixTimeCurrent">00:00</span>
+          <span class="netflix-time-divider" id="netflixTimeDivider">/</span>
+          <span id="netflixTimeDuration">00:00</span>
+        </div>
+      </div>
+
+      <!-- Right Controls -->
+      <div class="netflix-controls-right">
+        <!-- Next Title Recommendation Button -->
+        <button id="netflixBtnNextTitle" class="nflx-ctrl-btn" title="Próxima Recomendação IA">
+          <svg viewBox="0 0 24 24"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" y1="5" x2="19" y2="19"/></svg>
+        </button>
+
+        <!-- Audio & Cinema AV Popover Menu -->
+        <div class="netflix-popover-wrap">
+          <button id="netflixBtnSubtitles" class="nflx-ctrl-btn" title="Áudio, Cinema DSP e Vídeo">
+            <svg viewBox="0 0 24 24"><rect width="20" height="15" x="2" y="4" rx="2"/><path d="M7 15h3a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1H7v6z"/><path d="M14 15h3a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-3v6z"/></svg>
+          </button>
+          <div id="netflixSubtitlesDropdown" class="netflix-audio-sub-dropdown">
+            <!-- Coluna 1: Trilhas de Áudio -->
+            <div class="audio-sub-column">
+              <span class="audio-sub-heading">FAIXAS DE ÁUDIO</span>
+              <div id="netflixAudioTracksList" class="audio-tracks-container">
+                <button class="audio-sub-option active" data-track="-1">Padrão do Fluxo (PT-BR)</button>
+              </div>
+            </div>
+
+            <!-- Coluna 2: Processamento de Áudio Web Audio DSP -->
+            <div class="audio-sub-column">
+              <span class="audio-sub-heading">DSP DE ÁUDIO CINEMA</span>
+              <button id="netflixDspDialogue" class="audio-sub-toggle active" title="Realça frequências de fala e vozes">
+                <span class="toggle-indicator">ON</span>
+                <span class="toggle-text">Boost de Diálogos</span>
+              </button>
+              <button id="netflixDspCompressor" class="audio-sub-toggle active" title="Reduz explosões ensurdecedoras e eleva sussurros">
+                <span class="toggle-indicator">ON</span>
+                <span class="toggle-text">Anti-Picos / Modo Noite</span>
+              </button>
+              <button id="netflixDspBoost" class="audio-sub-toggle" title="Amplificação de até +50% no volume">
+                <span class="toggle-indicator">OFF</span>
+                <span class="toggle-text">Super Gain (+50%)</span>
+              </button>
+            </div>
+
+            <!-- Coluna 3: Calibração de Vídeo e Imagem -->
+            <div class="audio-sub-column">
+              <span class="audio-sub-heading">CALIBRAÇÃO DE VÍDEO</span>
+              <button id="netflixVideoGrade" class="audio-sub-toggle active" title="Calibra contraste e vibração para tons de preto profundos">
+                <span class="toggle-indicator">ON</span>
+                <span class="toggle-text">Cinema Master Grade</span>
+              </button>
+              <button id="netflixVideoDither" class="audio-sub-toggle active" title="Dithering contra degradação em tons escuros">
+                <span class="toggle-indicator">ON</span>
+                <span class="toggle-text">Anti-Banding Noturno</span>
+              </button>
+              <button id="netflixVideoAspect" class="audio-sub-toggle" title="Alternar entre Original e Preenchimento sem barras pretas">
+                <span class="toggle-indicator">OFF</span>
+                <span class="toggle-text">Preencher Tela</span>
+              </button>
+            </div>
+
+            <!-- Coluna 4: Legendas -->
+            <div class="audio-sub-column">
+              <span class="audio-sub-heading">LEGENDAS</span>
+              <div id="netflixSubtitlesList">
+                <button class="audio-sub-option active" data-sub="off">Desativadas</button>
+                <button class="audio-sub-option" data-sub="pt">Português [CC]</button>
+                <button class="audio-sub-option" data-sub="en">Inglês</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quality & Bitrate Menu -->
+        <div class="netflix-quality-menu-wrap">
+          <button id="netflixBtnQuality" class="netflix-stream-badge clickable" title="Seletor de Qualidade & Bitrate HLS">
+            <span id="netflixQualityLabel">AUTO (1080p)</span>
+            <svg viewBox="0 0 24 24" class="badge-arrow"><path d="M7 10l5 5 5-5z"/></svg>
+          </button>
+          <div id="netflixQualityDropdown" class="netflix-speed-dropdown quality-dropdown">
+            <span class="quality-dropdown-heading">QUALIDADE / RESOLUÇÃO</span>
+            <div id="netflixQualityOptions">
+              <button data-level="-1" class="active">Auto (Máxima Qualidade)</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="netflix-speed-menu-wrap">
+          <button id="netflixBtnSpeed" class="nflx-ctrl-btn text-btn" title="Velocidade de Reprodução">1x</button>
+          <div id="netflixSpeedDropdown" class="netflix-speed-dropdown">
+            <button data-speed="0.5">0.5x</button>
+            <button data-speed="0.75">0.75x</button>
+            <button data-speed="1.0" class="active">1x (Normal)</button>
+            <button data-speed="1.25">1.25x</button>
+            <button data-speed="1.5">1.5x</button>
+            <button data-speed="2.0">2x</button>
+          </div>
+        </div>
+
+        <button id="netflixBtnFullscreen" class="nflx-ctrl-btn" title="Tela Cheia (F)">
+          <svg id="netflixIconFullscreenEnter" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+          <svg id="netflixIconFullscreenExit" viewBox="0 0 24 24" style="display: none;"><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Resume toast notification -->
+  <div id="netflixResumeToast" class="netflix-resume-toast" style="display: none;">
+    <span>Retomando de onde você parou: <strong id="netflixResumeTime">00:00</strong></span>
+    <button id="netflixBtnRestart" class="netflix-restart-btn">Recomeçar do Início</button>
+  </div>
+</div>
+
+<!-- STREAM CONFIGURATION & IPTV LINK EDITOR MODAL -->
+<div id="streamConfigModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box" style="max-width: 640px;">
+    <button id="streamConfigModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div>
+      <span style="color: var(--netflix-red); font-size: 12px; font-weight: 700; text-transform: uppercase;">IPTV & Conexão de Transmissão</span>
+      <h3 id="streamConfigMovieTitle" style="font-size: 20px; margin-top: 4px;">Link IPTV do Filme</h3>
+    </div>
+    <div style="margin-top: 14px;">
+      <p style="font-size: 13px; color: #a3a3a3; margin-bottom: 12px;">
+        Este filme está associado ao link de transmissão da sua lista IPTV. Você pode copiar, testar ou substituir por qualquer URL de transmissão direta (.mp4, .m3u8, .ts, .mkv).
+      </p>
+      <label style="font-size: 12px; font-weight: 600; color: #fff; display: block; margin-bottom: 6px;">URL de Transmissão IPTV:</label>
+      <input type="text" id="streamConfigUrlInput" class="custom-input" style="width: 100%; font-family: monospace; font-size: 12px;" placeholder="http://servidor:porta/movie/user/pass/id.mp4">
+      
+      <div style="margin-top: 10px; display: flex; gap: 8px; font-size: 12px; color: #888;">
+        <span>Fonte: <strong id="streamConfigSourceLabel" style="color: #fff;">contrafilenabrasa.net</strong></span>
+        <span>•</span>
+        <span>Status: <strong id="streamConfigStatusLabel" style="color: #46d369;">Ativo</strong></span>
+      </div>
+    </div>
+    <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+      <button id="streamConfigBtnCopy" type="button" class="modal-action-btn">Copiar Link</button>
+      <div style="display: flex; gap: 8px;">
+        <button id="streamConfigBtnReset" type="button" class="modal-action-btn danger">Restaurar Padrão</button>
+        <button id="streamConfigBtnSave" type="button" class="btn-play" style="padding: 8px 18px; font-size: 13px;">Salvar & Reproduzir</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- EXTERNAL PLAYER POPUP MODAL (DIRECT LOSSLESS GPU & SURROUND AUDIO) -->
+<div id="externalPlayerModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box" style="max-width: 620px;">
+    <button id="externalPlayerModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div>
+      <span style="color: var(--netflix-red); font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px;">Alta Performance • Sem Perdas</span>
+      <h3 id="externalPlayerMovieTitle" style="font-size: 21px; margin-top: 4px;">Reproduzir em Player Externo</h3>
+    </div>
+    <div style="margin-top: 14px;">
+      <p style="font-size: 13px; color: #b3b3b3; line-height: 1.5; margin-bottom: 16px;">
+        Para usufruir de <strong>decodificação direta por GPU (NVDEC / VA-API)</strong> sem as limitações do navegador e áudio multicanal bitstream (Dolby Atmos, 5.1, DTS), selecione uma das opções abaixo:
+      </p>
+      
+      <div class="ext-player-grid">
+        <a id="extPlayerVlcLink" href="#" class="ext-player-card">
+          <div class="ext-icon vlc-icon">
+            <svg viewBox="0 0 24 24"><polygon points="12 2 3 20 21 20 12 2"/></svg>
+          </div>
+          <div class="ext-info">
+            <strong>Abrir no VLC Player</strong>
+            <span>Dispara protocolo vlc:// no sistema</span>
+          </div>
+        </a>
+
+        <a id="extPlayerMpvLink" href="#" class="ext-player-card">
+          <div class="ext-icon mpv-icon">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
+          </div>
+          <div class="ext-info">
+            <strong>Abrir no MPV Player</strong>
+            <span>Protocolo mpv:// de alta nitidez</span>
+          </div>
+        </a>
+
+        <button id="extPlayerDownloadStrm" type="button" class="ext-player-card action-btn-card">
+          <div class="ext-icon strm-icon">
+            <svg viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          </div>
+          <div class="ext-info">
+            <strong>Baixar Atalho .STRM</strong>
+            <span>Abre com duplo clique no player do PC</span>
+          </div>
+        </button>
+
+        <button id="extPlayerCopyDirect" type="button" class="ext-player-card action-btn-card">
+          <div class="ext-icon copy-icon">
+            <svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          </div>
+          <div class="ext-info">
+            <strong>Copiar Link Stream Direto</strong>
+            <span>Para colar no Kodi, PotPlayer ou TV Box</span>
+          </div>
+        </button>
+      </div>
+
+      <div style="margin-top: 16px; background: rgba(0,0,0,0.55); padding: 12px 14px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08);">
+        <span style="font-size: 11px; color: #888; font-weight: 700; text-transform: uppercase;">Comando MPV Direto (Linux / Terminal):</span>
+        <div style="display: flex; gap: 8px; align-items: center; margin-top: 6px;">
+          <input type="text" id="extPlayerMpvInput" readonly class="custom-input" style="font-size: 11px; font-family: monospace; width: 100%; color: #46d369;">
+          <button id="extPlayerBtnCopyMpv" type="button" class="modal-action-btn" style="padding: 6px 14px; font-size: 11px; white-space: nowrap;">Copiar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- GOOGLE AUTH MODAL -->
+<div id="googleAuthModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box">
+    <button id="googleAuthModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <h2 style="font-size: 24px; margin-top: 6px;">Entrar com o Google</h2>
+      <p style="color: var(--text-gray); font-size: 13px; margin-top: 6px;">
+        Conecte sua conta para sincronizar filmes salvos, suas notas e o link da sua lista IPTV.
+      </p>
+    </div>
+
+    <div id="g_id_signin_container" style="display: flex; justify-content: center; margin: 16px 0;"></div>
+
+    <div style="text-align: center; margin: 16px 0; color: #666; font-size: 12px; position: relative;">
+      <span>OU ACESSO RÁPIDO</span>
+    </div>
+
+    <div>
+      <label style="font-size: 12px; font-weight: 600; color: #aaa; display: block; margin-bottom: 4px;">Identificação (Nome ou E-mail):</label>
+      <div style="display: flex; gap: 8px;">
+        <input type="text" id="googleCustomInput" class="search-input" placeholder="houseplayersoff@gmail.com" value="houseplayersoff@gmail.com" style="border-radius: 6px;">
+        <button id="btnQuickGoogleLogin" type="button" class="btn-play" style="padding: 8px 18px; font-size: 14px;">Conectar</button>
+      </div>
+    </div>
+
+    <details style="margin-top: 20px; font-size: 12px; color: #777;">
+      <summary style="cursor: pointer;">Configuração do Google Cloud Console</summary>
+      <div style="margin-top: 8px; line-height: 1.5;">
+        <p>Adicione nas origens JavaScript do Google Cloud: <code>http://localhost:8085</code></p>
+        <input type="text" id="googleClientIdInput" class="search-input" placeholder="Client ID" style="border-radius: 6px; margin-top: 6px;">
+        <button id="btnSaveGoogleClientId" type="button" class="modal-action-btn" style="margin-top: 6px;">Salvar Client ID</button>
+      </div>
+    </details>
+  </div>
+</div>
+
+<!-- USER PROFILE MODAL -->
+<div id="userProfileModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box">
+    <button id="userProfileModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 20px;">
+      <img id="profileModalAvatar" src="" alt="Avatar" style="width: 60px; height: 60px; border-radius: 8px; object-fit: cover;">
+      <div>
+        <h3 id="profileModalName" style="font-size: 20px;">Usuário</h3>
+        <p id="profileModalEmail" style="color: #888; font-size: 13px;"></p>
+        <span style="color: #46d369; font-size: 12px; font-weight: 600;">Sincronizado na Nuvem & Disco Local</span>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 20px;">
+      <div style="background: rgba(255,255,255,0.06); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #888; text-transform: uppercase;">Salvos</span>
+        <div id="profileSavedMoviesCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+      <div style="background: rgba(255,255,255,0.06); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #888; text-transform: uppercase;">Categorias</span>
+        <div id="profileCategoriesCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+      <div style="background: rgba(255,255,255,0.06); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #888; text-transform: uppercase;">IPTV</span>
+        <div id="profileIptvStatusBadge" style="font-size: 13px; font-weight: 700; color: #46d369; margin-top: 4px;">Ativo</div>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-size: 13px; color: #fff; margin-bottom: 8px;">Seus Filmes Salvos:</h4>
+      <div id="profileSavedMoviesList" style="max-height: 200px; overflow-y: auto; display: flex; flex-direction: column; gap: 6px;"></div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px;">
+      <button id="btnProfileManageIptv" type="button" class="modal-action-btn">Gerenciar Lista IPTV</button>
+      <button id="btnGoogleLogout" type="button" class="modal-action-btn danger">Desconectar Conta</button>
+    </div>
+  </div>
+</div>
+
+<!-- ENGINE MODAL -->
+<div id="engineModal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="netflix-dialog-box" style="max-width: 740px;">
+    <button id="engineModalClose" class="modal-close" title="Fechar">&times;</button>
+    <div style="margin-bottom: 16px;">
+      <span style="color: var(--accent-red); font-size: 12px; font-weight: 700; text-transform: uppercase;">Inteligência de Recomendação</span>
+      <h2 style="font-size: 22px; margin-top: 4px;">Motor de Afinidade em Tempo Real</h2>
+      <p style="color: var(--text-gray); font-size: 13px; margin-top: 4px;">
+        Suas decisões de <strong>Já Vi</strong>, <strong>Comentários</strong> e <strong>Ignorar</strong> moldam o ranqueamento dos 447 títulos curados.
+      </p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 20px;">
+      <div style="background: rgba(70,211,105,0.08); border: 1px solid rgba(70,211,105,0.25); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #46d369; font-weight: 700; text-transform: uppercase;">Já Vistos</span>
+        <div id="engineModalWatchedCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+      <div style="background: rgba(0,210,255,0.08); border: 1px solid rgba(0,210,255,0.25); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #00d2ff; font-weight: 700; text-transform: uppercase;">Comentários</span>
+        <div id="engineModalCommentsCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+      <div style="background: rgba(229,9,20,0.08); border: 1px solid rgba(229,9,20,0.25); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: var(--netflix-red); font-weight: 700; text-transform: uppercase;">Ignorados</span>
+        <div id="engineModalIgnoredCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+      <div style="background: rgba(245,158,11,0.08); border: 1px solid rgba(245,158,11,0.25); padding: 12px; border-radius: 6px; text-align: center;">
+        <span style="font-size: 11px; color: #f59e0b; font-weight: 700; text-transform: uppercase;">Sem Dublagem</span>
+        <div id="engineModalUndubbedCount" style="font-size: 22px; font-weight: 800; color: #fff;">0</div>
+      </div>
+    </div>
+
+    <!-- Undubbed section -->
+    <div id="engineUndubbedSection" style="display: none; margin-bottom: 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+        <span style="font-size: 13px; font-weight: 700; color: #f59e0b;">Filmes Reportados sem Dublagem:</span>
+        <button id="btnCopyUndubbedForAi" type="button" class="modal-action-btn" style="padding: 4px 10px; font-size: 12px;">Copiar Lista</button>
+      </div>
+      <div id="engineUndubbedList" style="display: flex; flex-wrap: wrap; gap: 6px;"></div>
+    </div>
+
+    <div style="margin-bottom: 16px;">
+      <h4 style="font-size: 13px; color: #fff; margin-bottom: 6px;">Gêneros com Maior Afinidade no seu Perfil:</h4>
+      <div id="engineTopGenres" style="display: flex; flex-wrap: wrap; gap: 6px;"></div>
+    </div>
+
+    <div style="margin-bottom: 16px;">
+      <h4 style="font-size: 13px; color: #fff; margin-bottom: 6px;">Diretores Favoritados:</h4>
+      <div id="engineTopDirectors" style="display: flex; flex-wrap: wrap; gap: 6px;"></div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px;">
+      <button id="btnResetUserData" type="button" class="modal-action-btn danger">Resetar Histórico Local</button>
+      <button id="engineModalCloseBtn" type="button" class="btn-play" style="padding: 8px 18px; font-size: 14px;">Fechar Painel</button>
+    </div>
+  </div>
+</div>
+
+<!-- TOAST NOTIFICATION CONTAINER -->
+<div id="toastContainer" class="toast-container" aria-live="polite"></div>
+
+<!-- TV D-PAD SIMULATOR HELPER HINT -->
+<div class="tv-controls-hint">
+  <span>Controle TV:</span>
+  <span class="key-badge">←</span>
+  <span class="key-badge">→</span>
+  <span class="key-badge">↑</span>
+  <span class="key-badge">↓</span>
+  <span>Navegar</span>
+  <span class="key-badge">Enter</span>
+  <span>Abrir Detalhes</span>
+</div>
+
+<!-- DATA & SCRIPT -->
+<script src="scripts/hls.min.js"></script>
+<script src="data/catalog.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,442 @@
+[
+  {
+    "title": "The Sting",
+    "ptTitle": "Golpe de Mestre",
+    "year": 1973,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/the-sting/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Em Chicago nos anos 1930, dois vigaristas carismaticos elaboram um golpe engenhoso e arriscado contra um gangster perigoso para vingar a morte de um amigo.",
+    "curatorReason": "O padrao ouro dos filmes de golpe com Paul Newman e Robert Redford, vencedor de 7 Oscars e embalado pelo ragtime inesquecivel de Scott Joplin.",
+    "omdb": {
+      "director": "George Roy Hill",
+      "writer": "David S. Ward",
+      "actors": "Paul Newman, Robert Redford, Robert Shaw",
+      "genre": "Comedy, Crime, Drama",
+      "plot": "Two grifters team up to pull off the ultimate con.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2E4MGZjOGItNzAwYy00MjU5LTliZTEtNTQ3YTUzNmUzMjE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "8.2",
+      "rottenTomatoes": "93%",
+      "metascore": "83/100",
+      "runtime": "129 min",
+      "rated": "PG",
+      "imdbID": "tt0070735",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/398522.mp4",
+    "streamName": "Golpe de Mestre",
+    "streamAvailable": true
+  },
+  {
+    "title": "Logan Lucky",
+    "ptTitle": "Logan Lucky: Roubo em Familia",
+    "year": 2017,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/logan-lucky/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Dois irmaos do interior com fama de azarados planejam um assalto audacioso durante a corrida automobilistica da NASCAR na Carolina do Norte.",
+    "curatorReason": "Steven Soderbergh orquestra uma comedia despretensiosa, bem-humorada e brilhante sobre perdedores carismaticos que usam a inteligencia caipira para vencer o sistema.",
+    "omdb": {
+      "director": "Steven Soderbergh",
+      "writer": "Jules Asner",
+      "actors": "Channing Tatum, Adam Driver, Daniel Craig",
+      "genre": "Action, Comedy, Crime",
+      "plot": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.0",
+      "rottenTomatoes": "92%",
+      "metascore": "78/100",
+      "runtime": "118 min",
+      "rated": "PG-13",
+      "imdbID": "tt5439796",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317713.mp4",
+    "streamName": "Logan Lucky: Roubo em Familia",
+    "streamAvailable": true
+  },
+  {
+    "title": "Ocean's Eleven",
+    "ptTitle": "Onze Homens e um Segredo",
+    "year": 2001,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/ocean's-eleven/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Wan Macher",
+    "curatorNote": "Danny Ocean reune um esquadrao de onze especialistas habilidosos para roubar simultaneamente tres dos maiores cassinos de Las Vegas.",
+    "curatorReason": "Ritmo agil, elegancia visual impecavel e dinamica de grupo irresistivel, sem apelacoes vulgares e com montagem primorosa.",
+    "omdb": {
+      "director": "Steven Soderbergh",
+      "writer": "George Clayton Johnson, Jack Golden Russell, Harry Brown",
+      "actors": "George Clooney, Brad Pitt, Julia Roberts",
+      "genre": "Crime, Thriller",
+      "plot": "A thief and his team of associates plan a sophisticated heist to rob three Las Vegas casinos at the same time.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "83%",
+      "metascore": "74/100",
+      "runtime": "116 min",
+      "rated": "PG-13",
+      "imdbID": "tt0240772",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386274.mp4",
+    "streamName": "Onze Homens e um Segredo",
+    "streamAvailable": true
+  },
+  {
+    "title": "Inside Man",
+    "ptTitle": "O Plano Perfeito",
+    "year": 2006,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/inside-man/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Um assalto a banco engenhoso em Manhattan se transforma em um jogo de xadrez psicologico entre o lider dos refens e um negociador da policia.",
+    "curatorReason": "Spike Lee entrega um suspense tatico e inteligente com Clive Owen e Denzel Washington em duelo de mentes onde cada detalhe foi milimetricamente calculado.",
+    "omdb": {
+      "director": "Spike Lee",
+      "writer": "Russell Gewirtz",
+      "actors": "Denzel Washington, Clive Owen, Jodie Foster",
+      "genre": "Crime, Drama, Mystery",
+      "plot": "A police detective, a bank robber and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "86%",
+      "metascore": "76/100",
+      "runtime": "129 min",
+      "rated": "R",
+      "imdbID": "tt0454848",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354255.mp4",
+    "streamName": "O Plano Perfeito",
+    "streamAvailable": true
+  },
+  {
+    "title": "BlacKkKlansman",
+    "ptTitle": "Infiltrado na Klan",
+    "year": 2018,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/blackkklansman/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Nos anos 1970, o primeiro policial negro de Colorado Springs consegue se infiltrar na Ku Klux Klan com a ajuda de um colega judeu.",
+    "curatorReason": "Comedia dramatica acida e eletrizante de Spike Lee que combina estrategia tatica, absurdo comico e contundencia politica.",
+    "omdb": {
+      "director": "Spike Lee",
+      "writer": "Charlie Wachtel, David Rabinowitz, Kevin Willmott",
+      "actors": "Alec Baldwin, John David Washington, Isiah Whitlock Jr.",
+      "genre": "Biography, Comedy, Crime",
+      "plot": "In this story inspired by true events, Ron Stallworth, an African-American Colorado police officer, successfully infiltrates the local branch of the Ku Klux Klan with the help of a white Jewish colleague.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.5",
+      "rottenTomatoes": "95%",
+      "metascore": "83/100",
+      "runtime": "135 min",
+      "rated": "R",
+      "imdbID": "tt7349662",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21441.mp4",
+    "streamName": "Infiltrado na Klan",
+    "streamAvailable": true
+  },
+  {
+    "title": "Now You See Me",
+    "ptTitle": "Truque de Mestre",
+    "year": 2013,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/now-you-see-me/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Um grupo de quatro ilusionistas brilhantes executa roubos audaciosos a bancos durante suas apresentacoes e distribui os lucros para o publico.",
+    "curatorReason": "Aventura dinamica e frenetica que mescla ilusionismo de palco, perseguições urbanas e truques cinematograficos irresistiveis.",
+    "omdb": {
+      "director": "Louis Leterrier",
+      "writer": "Ed Solomon, Boaz Yakin, Edward Ricourt",
+      "actors": "Jesse Eisenberg, Common, Mark Ruffalo",
+      "genre": "Crime, Mystery, Thriller",
+      "plot": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "51%",
+      "metascore": "50/100",
+      "runtime": "115 min",
+      "rated": "PG-13",
+      "imdbID": "tt1670345",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "51%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/353015.mp4",
+    "streamName": "Truque de Mestre",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Bank Job",
+    "ptTitle": "Efeito Domino",
+    "year": 2008,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/the-bank-job/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinevideo",
+    "curatorNote": "Um grupo de ladroes amadores escava um tunel ate os cofres de um banco em Londres e encontra segredos comprometedores da realeza e politicos britanicos.",
+    "curatorReason": "Cinema policial britanico autentico baseado em fatos reais de 1971, com humor seco de perdedores e tensao em escala crescente.",
+    "omdb": {
+      "director": "Roger Donaldson",
+      "writer": "Dick Clement, Ian La Frenais",
+      "actors": "Jason Statham, Saffron Burrows, Stephen Campbell Moore",
+      "genre": "Crime, Thriller",
+      "plot": "Martine offers Terry a lead on a foolproof bank hit on London's Baker Street. She targets a roomful of safe deposit boxes worth millions in cash and jewelry along with a treasure trove of dirty secrets.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmQ5OTkxZDMtYTAxYS00OWE1LThhMWItYjdlYjJmNWZlNWU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "79%",
+      "metascore": "69/100",
+      "runtime": "111 min",
+      "rated": "R",
+      "imdbID": "tt0200465",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/350932.mp4",
+    "streamName": "O Efeito Domino",
+    "streamAvailable": true
+  },
+  {
+    "title": "Lift",
+    "ptTitle": "Lift: Roubo nas Alturas",
+    "year": 2024,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/lift/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Vox Mundi",
+    "curatorNote": "Uma equipe internacional de vigaristas e recrutada para executar um assalto impossivel: roubar meio bilhao de dolares em ouro a bordo de um aviao de passageiros.",
+    "curatorReason": "Comedia de acao moderna despretensiosa, com ritmo veloz, aparatos tecnologicos divertidos e sincronia de equipe carismatica.",
+    "omdb": {
+      "director": "F. Gary Gray",
+      "writer": "Daniel Kunka",
+      "actors": "Kevin Hart, Gugu Mbatha-Raw, Sam Worthington",
+      "genre": "Action, Comedy, Crime",
+      "plot": "A female master thief and her ex-boyfriend who works for the FBI team up to steal $100M worth of gold bullion being transported on a 777 passenger flight from London to Zurich.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWRkYmNiNDUtYTY0OC00YTZlLTlmMTYtMTJhMTU4OTBkMDY5XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "5.6",
+      "rottenTomatoes": "30%",
+      "metascore": "40/100",
+      "runtime": "107 min",
+      "rated": "PG-13",
+      "imdbID": "tt14371878",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "30%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "40/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/246977.mp4",
+    "streamName": "Lift: Roubo nas Alturas 4K",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Naked Gun 2 1/2: The Smell of Fear",
+    "ptTitle": "Corra que a Policia Vem Ai! 2 1/2",
+    "year": 1991,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/the-naked-gun-2-1/2-the-smell-of-fear/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "VTI Rio",
+    "curatorNote": "O tenente Frank Drebin investiga uma conspiracao dos magnatas da energia para sabotar as diretrizes ecologicas do governo.",
+    "curatorReason": "Leslie Nielsen no auge do humor visual pastelao despretensioso, com gags milimetricas e satira brilhante dos filmes policiais classicos.",
+    "omdb": {
+      "director": "David Zucker",
+      "writer": "Jim Abrahams, David Zucker, Jerry Zucker",
+      "actors": "Leslie Nielsen, Priscilla Presley, George Kennedy",
+      "genre": "Comedy, Crime",
+      "plot": "Lieutenant Frank Drebin discovers that his ex-girlfriend's new beau is involved in a plot to kidnap a scientist who advocates solar energy.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmNkMTItNzkzMi00NmY5LTg5MzQtMjg2YzRmOTY0ZmQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "imdbRating": "6.9",
+      "rottenTomatoes": "77%",
+      "metascore": "65/100",
+      "runtime": "85 min",
+      "rated": "PG-13",
+      "imdbID": "tt0102510",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20563.mp4",
+    "streamName": "Corra que a Policia Vem Ai 1",
+    "streamAvailable": true
+  },
+  {
+    "title": "Accepted",
+    "ptTitle": "Aprovados",
+    "year": 2006,
+    "category": "heist-misfits",
+    "letterboxdUrl": "https://letterboxd.com/film/accepted/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavideo",
+    "curatorNote": "Apos ser rejeitado por todas as universidades, Bartleby cria sua propria instituicao de ensino falsa em um hospital psiquiatrico abandonado para enganar os pais.",
+    "curatorReason": "Comedia classica de perdedores e desajustados com Justin Long e Jonah Hill que critica o sistema academico tradicional com muito carisma e leveza.",
+    "omdb": {
+      "director": "Steve Pink",
+      "writer": "Mark Perez, Adam Cooper, Bill Collage",
+      "actors": "Justin Long, Jonah Hill, Blake Lively",
+      "genre": "Comedy",
+      "plot": "Rejected by every school he applied to, a high-school slacker opts to create his own institution of higher learning, the South Harmon Institute of Technology, on a rundown piece of property near his hometown.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzY5OTc3Nl5BMl5BanBnXkFtZTcwNjE4NDQzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.4",
+      "rottenTomatoes": "38%",
+      "metascore": "47/100",
+      "runtime": "93 min",
+      "rated": "PG-13",
+      "imdbID": "tt0384793",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "38%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182653.mp4",
+    "streamName": "Aprovados",
+    "streamAvailable": true
+  }
+]

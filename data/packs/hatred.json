@@ -1,0 +1,872 @@
+[
+  {
+    "title": "Django",
+    "ptTitle": "Django",
+    "year": 1966,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/django/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "O clássico absoluto de Sergio Corbucci estrelado por Franco Nero. O pistoleiro solitário caminha pela lama arrastando um caixão que esconde sua metralhadora, movido pelo ódio implacável para exterminar o clã racista do Major Jackson.",
+    "curatorReason": "O clássico absoluto de Sergio Corbucci estrelado por Franco Nero. O pistoleiro solitário caminha pela lama arrastando um caixão que esconde sua metralhadora, movido pelo ódio implacável para exterminar o clã racista do Major Jackson.",
+    "omdb": {
+      "director": "Sergio Corbucci",
+      "writer": "Sergio Corbucci, Bruno Corbucci, Franco Rossetti",
+      "actors": "Franco Nero, José Canalejas, José Bódalo",
+      "genre": "Action, Drama, Western",
+      "plot": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a Klan of Southern racists and a band of Mexican Revolutionaries.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWVmN2NjOTMtMjZiNy00NDU2LTk3OTgtODFkYWQ2MDFiYzAwXkEyXkFqcGc@._V1_QL75_UY562_CR14,0,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "94%",
+      "metascore": "75/100",
+      "runtime": "91 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/106464.mp4",
+    "streamName": "Viva Django",
+    "streamAvailable": true
+  },
+  {
+    "title": "Inglourious Basterds",
+    "ptTitle": "Bastardos Inglórios",
+    "year": 2009,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/inglourious-basterds/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Shosanna Dreyfus sobrevive ao massacre de sua família e canaliza anos de ódio frio e metódico para incendiar o cinema com toda a cúpula do Terceiro Reich trancada dentro.",
+    "curatorReason": "Shosanna Dreyfus sobrevive ao massacre de sua família e canaliza anos de ódio frio e metódico para incendiar o cinema com toda a cúpula do Terceiro Reich trancada dentro.",
+    "omdb": {
+      "director": "Quentin Tarantino",
+      "writer": "Quentin Tarantino",
+      "actors": "Brad Pitt, Diane Kruger, Eli Roth",
+      "genre": "Drama, War",
+      "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "8.4",
+      "rottenTomatoes": "89%",
+      "metascore": "69/100",
+      "runtime": "153 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/344499.mp4",
+    "streamName": "Bastardos Inglórios [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Punisher",
+    "ptTitle": "O Justiceiro",
+    "year": 2004,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/the-punisher-2004/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "O agente Frank Castle perde toda a família em uma chacina na praia encomendada por um chefão do crime, retornando dos mortos com uma caveira no peito e um ódio metódico para executar punição sem trégua.",
+    "curatorReason": "O agente Frank Castle perde toda a família em uma chacina na praia encomendada por um chefão do crime, retornando dos mortos com uma caveira no peito e um ódio metódico para executar punição sem trégua.",
+    "omdb": {
+      "director": "Jonathan Hensleigh",
+      "writer": "Jonathan Hensleigh, Michael France",
+      "actors": "Thomas Jane, John Travolta, Samantha Mathis",
+      "genre": "Action, Crime, Drama",
+      "plot": "An undercover FBI agent becomes a vigilante and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "6.4",
+      "rottenTomatoes": "30%",
+      "metascore": "33/100",
+      "runtime": "124 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "30%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "33/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/97145.mp4",
+    "streamName": "O Justiceiro",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Outlaw Josey Wales",
+    "ptTitle": "Josey Wales: O Fora-da-Lei",
+    "year": 1976,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/the-outlaw-josey-wales/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Um fazendeiro pacífico tem sua casa incendiada e família massacrada por guerrilheiros pró-União, transformando-se no pistoleiro mais temido do Oeste, guiado por ódio inabalável e pontaria letal.",
+    "curatorReason": "Um fazendeiro pacífico tem sua casa incendiada e família massacrada por guerrilheiros pró-União, transformando-se no pistoleiro mais temido do Oeste, guiado por ódio inabalável e pontaria letal.",
+    "omdb": {
+      "director": "Clint Eastwood",
+      "writer": "Forrest Carter, Philip Kaufman, Sonia Chernus",
+      "actors": "Clint Eastwood, Sondra Locke, Chief Dan George",
+      "genre": "Drama, Western",
+      "plot": "Avenging his murdered family, a Missouri farmer hunts down brutal Union soldiers.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "imdbRating": "7.8",
+      "rottenTomatoes": "91%",
+      "metascore": "69/100",
+      "runtime": "135 min",
+      "rated": "PG",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/330399.mp4",
+    "streamName": "Josey Wales: O Fora da Lei [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Death Wish",
+    "ptTitle": "Desejo de Matar",
+    "year": 1974,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/death-wish/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Charles Bronson interpreta um arquiteto pacífico cuja família é destruída por criminosos sádicos. Consumido por ódio e revolta, ele compra um revólver e passa a caçar delinquentes nas noites de Nova York.",
+    "curatorReason": "Charles Bronson interpreta um arquiteto pacífico cuja família é destruída por criminosos sádicos. Consumido por ódio e revolta, ele compra um revólver e passa a caçar delinquentes nas noites de Nova York.",
+    "omdb": {
+      "director": "Michael Winner",
+      "writer": "Brian Garfield, Wendell Mayes, Gerald Wilson",
+      "actors": "Charles Bronson, Hope Lange, Vincent Gardenia",
+      "genre": "Action, Crime, Drama",
+      "plot": "A New York City architect becomes a one-man vigilante squad after his wife is murdered by street punks. In self-defense, the vengeful man kills muggers on the mean streets after dark.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODYwYzQ4YTAtMzkwZS00MThmLWEyZmYtNDVlYTkyMjc5Mjk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": "6.9",
+      "rottenTomatoes": "66%",
+      "metascore": "51/100",
+      "runtime": "93 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22502.mp4",
+    "streamName": "Desejo de Matar 4K",
+    "streamAvailable": true
+  },
+  {
+    "title": "Sicario",
+    "ptTitle": "Sicario: Terra de Ninguém",
+    "year": 2015,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/sicario-2015/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Alejandro é um ex-promotor cuja família foi dissolvida em ácido pelo cartel de drogas, dedicando sua existência a um ódio gélido e sem limites morais para exterminar os mandantes da fronteira.",
+    "curatorReason": "Alejandro é um ex-promotor cuja família foi dissolvida em ácido pelo cartel de drogas, dedicando sua existência a um ódio gélido e sem limites morais para exterminar os mandantes da fronteira.",
+    "omdb": {
+      "director": "Denis Villeneuve",
+      "writer": "Taylor Sheridan",
+      "actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
+      "genre": "Action, Crime, Drama",
+      "plot": "An FBI agent joins a covert DoD task force targeting a Mexican cartel. Operating outside legal boundaries with a CIA handler and a mysterious fixer, she discovers the mission's true purpose goes far beyond what she was told.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "91%",
+      "metascore": "82/100",
+      "runtime": "121 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348080.mp4",
+    "streamName": "Sicario: Terra de Ninguém [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Wrath of Man",
+    "ptTitle": "Infiltrado",
+    "year": 2021,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/wrath-of-man/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "H perde o filho adolescente em um violento assalto a carro-forte e se infiltra disfarçado como segurança de blindados, com olhos de chumbo e um ódio cirúrgico, calculando cada tiro para liquidar toda a quadrilha.",
+    "curatorReason": "H perde o filho adolescente em um violento assalto a carro-forte e se infiltra disfarçado como segurança de blindados, com olhos de chumbo e um ódio cirúrgico, calculando cada tiro para liquidar toda a quadrilha.",
+    "omdb": {
+      "director": "Guy Ritchie",
+      "writer": "Nicolas Boukhrief, Éric Besnard, Guy Ritchie",
+      "actors": "Jason Statham, Holt McCallany, Josh Hartnett",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.1",
+      "rottenTomatoes": "68%",
+      "metascore": "57/100",
+      "runtime": "119 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/131095.mp4",
+    "streamName": "Infiltrado [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Avengement",
+    "ptTitle": "Vingança Redentora",
+    "year": 2019,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/avengement/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Grupo Macias",
+    "curatorNote": "Cain Burgess é traído pelo irmão mafioso e jogado na prisão mais perigosa da Inglaterra. Após anos de espancamentos brutais e dentes de metal, ele escapa movido unicamente pelo ódio abrasador para acertar as contas.",
+    "curatorReason": "Cain Burgess é traído pelo irmão mafioso e jogado na prisão mais perigosa da Inglaterra. Após anos de espancamentos brutais e dentes de metal, ele escapa movido unicamente pelo ódio abrasador para acertar as contas.",
+    "omdb": {
+      "director": "Jesse V. Johnson",
+      "writer": "Stu Small, Jesse V. Johnson",
+      "actors": "Scott Adkins, Craig Fairbrass, Thomas Turgoose",
+      "genre": "Action, Crime, Thriller",
+      "plot": "After years of assaults on him in prison, convicted felon Cain Burgess escapes for avengement on those responsible.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.6",
+      "rottenTomatoes": "89%",
+      "metascore": "63/100",
+      "runtime": "87 min",
+      "rated": "Not Rated",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/389642.mp4",
+    "streamName": "Renascimento Sua Vinganca [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Becky",
+    "ptTitle": "Becky",
+    "year": 2020,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/becky-2020/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "UniDub",
+    "curatorNote": "Uma jovem rebelde tomada por fúria e luto canaliza todo o seu rancor contra um grupo de fugitivos neonazistas que invadiu o chalé de sua família, usando réguas, lápis e chaves de fenda com ódio impiedoso.",
+    "curatorReason": "Uma jovem rebelde tomada por fúria e luto canaliza todo o seu rancor contra um grupo de fugitivos neonazistas que invadiu o chalé de sua família, usando réguas, lápis e chaves de fenda com ódio impiedoso.",
+    "omdb": {
+      "director": "Jonathan Milott, Cary Murnion",
+      "writer": "Ruckus Skye, Lane Skye, Nick Morris",
+      "actors": "Lulu Wilson, Kevin James, Joel McHale",
+      "genre": "Action, Crime, Drama",
+      "plot": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjllZWQyMGEtYTA2YS00ZTRkLTk5ZDMtYjU3YjI2OWM4ZmU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "6.1",
+      "rottenTomatoes": "72%",
+      "metascore": "54/100",
+      "runtime": "93 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96844.mp4",
+    "streamName": "Becky",
+    "streamAvailable": true
+  },
+  {
+    "title": "Taken",
+    "ptTitle": "Busca Implacável",
+    "year": 2008,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/taken/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavídeo",
+    "curatorNote": "Bryan Mills ouve pelo celular o sequestro de sua filha por traficantes em Paris e desencadeia um ódio cirúrgico e metódico, torturando e matando qualquer criminoso que fique entre ele e sua família.",
+    "curatorReason": "Bryan Mills ouve pelo celular o sequestro de sua filha por traficantes em Paris e desencadeia um ódio cirúrgico e metódico, torturando e matando qualquer criminoso que fique entre ele e sua família.",
+    "omdb": {
+      "director": "Pierre Morel",
+      "writer": "Luc Besson, Robert Mark Kamen",
+      "actors": "Liam Neeson, Maggie Grace, Famke Janssen",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "60%",
+      "metascore": "51/100",
+      "runtime": "90 min",
+      "rated": "PG-13",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/19955.mp4",
+    "streamName": "Busca Implacável",
+    "streamAvailable": true
+  },
+  {
+    "title": "Death Sentence",
+    "ptTitle": "Sentenca de Morte",
+    "year": 2007,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/death-sentence/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Pai pacifico ve familia destruida por gangue de rua e e consumido por odio cego e sanguinario em guerra aberta.",
+    "curatorReason": "Pai pacifico ve familia destruida por gangue de rua e e consumido por odio cego e sanguinario em guerra aberta.",
+    "omdb": {
+      "director": "James Wan",
+      "writer": "Ian Mackenzie Jeffers, Brian Garfield",
+      "actors": "Kevin Bacon, John Goodman, Kelly Preston",
+      "genre": "Action, Crime, Thriller",
+      "plot": "Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too g...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY4Yzc5MjgtNWU5ZC00MzhiLTg0ZDQtNjM1ZWRjYzZhY2NhXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "imdbRating": "6.7",
+      "rottenTomatoes": "20%",
+      "metascore": "36",
+      "runtime": "105 min",
+      "rated": "R",
+      "imdbID": "tt0804461",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "20%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "36/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/314680.mp4",
+    "streamName": "Sentença de Morte",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Foreigner",
+    "ptTitle": "O Estrangeiro",
+    "year": 2017,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/the-foreigner/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Ex-combatente de elite busca vinganca implacavel contra terroristas responsaveis pela morte de sua unica filha.",
+    "curatorReason": "Ex-combatente de elite busca vinganca implacavel contra terroristas responsaveis pela morte de sua unica filha.",
+    "omdb": {
+      "director": "Martin Campbell",
+      "writer": "David Marconi, Stephen Leather",
+      "actors": "Katie Leung, Jackie Chan, Rufus Jones",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A humble businessman with a buried past seeks justice when his daughter is killed in an act of terrorism. A cat-and-mouse conflict ensues with a government official, whose past may hold clues to the killers' identities.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjBmY2MzYmMtNjdmMi00MWYyLTgwYTgtOTYwMTdmZTUxOGQxXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "7.0",
+      "rottenTomatoes": "66%",
+      "metascore": "55",
+      "runtime": "113 min",
+      "rated": "R",
+      "imdbID": "tt1615160",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382470.mp4",
+    "streamName": "O Estrangeiro [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Brave One",
+    "ptTitle": "Valente",
+    "year": 2007,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/the-brave-one/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Radialista nova-iorquina sobrevive a ataque brutal e canaliza trauma em justica vigilante impiedosa nas ruas.",
+    "curatorReason": "Radialista nova-iorquina sobrevive a ataque brutal e canaliza trauma em justica vigilante impiedosa nas ruas.",
+    "omdb": {
+      "director": "Neil Jordan",
+      "writer": "Roderick Taylor, Bruce A. Taylor, Cynthia Mort",
+      "actors": "Jodie Foster, Terrence Howard, Naveen Andrews",
+      "genre": "Action, Crime, Drama",
+      "plot": "Struggling to recover emotionally from a brutal assault that killed her fiancé and left her in a coma, a radio personality begins a quest for vengeance against the perpetrators that leaves a bloody trail across New York City.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA4OTA4Njk4MDdeQTJeQWpwZ15BbWU3MDc0NDY1MzM@._V1_SX300.jpg",
+      "imdbRating": "6.7",
+      "rottenTomatoes": "43%",
+      "metascore": "56",
+      "runtime": "122 min",
+      "rated": "R",
+      "imdbID": "tt0476964",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "43%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/370939.mp4",
+    "streamName": "Valente [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Remember",
+    "ptTitle": "Memorias de um Crime",
+    "year": 2015,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/remember/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Lexx",
+    "curatorNote": "Sobrevivente de Auschwitz de 90 anos cruza os Estados Unidos movido por promessa de matar o carrasco que destruiu sua familia.",
+    "curatorReason": "Sobrevivente de Auschwitz de 90 anos cruza os Estados Unidos movido por promessa de matar o carrasco que destruiu sua familia.",
+    "omdb": {
+      "director": "Atom Egoyan",
+      "writer": "Benjamin August",
+      "actors": "Christopher Plummer, Kim Roberts, Amanda Smith",
+      "genre": "Drama, Mystery, Thriller",
+      "plot": "With the aid of a fellow Auschwitz survivor and a handwritten letter, an elderly man with dementia goes in search of the former Nazi he believes killed his family in order to carry out vengeance.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM3OTY3Njc1OV5BMl5BanBnXkFtZTgwNDY0MzE1NzE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "7.5",
+      "rottenTomatoes": "68%",
+      "metascore": "52",
+      "runtime": "94 min",
+      "rated": "R",
+      "imdbID": "tt3704050",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/187578.mp4",
+    "streamName": "ReMember [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Revenge",
+    "ptTitle": "Vinganca",
+    "year": 2018,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/revenge/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Centauro",
+    "curatorNote": "Deixada para morrer no deserto, mulher ressurge como forca letal da natureza contra seus agressores.",
+    "curatorReason": "Deixada para morrer no deserto, mulher ressurge como forca letal da natureza contra seus agressores.",
+    "omdb": {
+      "director": "Coralie Fargeat",
+      "writer": "Coralie Fargeat",
+      "actors": "Matilda Lutz, Kevin Janssens, Vincent Colombe",
+      "genre": "Action, Drama, Horror",
+      "plot": "Never take your mistress on an annual guys' getaway, especially one devoted to hunting - a violent lesson for three wealthy married men.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzQzMzk5YjctNjdiMC00ZTIxLTg2MTUtNTNhNjg1YWJmNTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.4",
+      "rottenTomatoes": "92%",
+      "metascore": "81",
+      "runtime": "108 min",
+      "rated": "R",
+      "imdbID": "tt6738136",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/186464.mp4",
+    "streamName": "Vingança 4K [HDR]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Blue Ruin",
+    "ptTitle": "Ruina Azul",
+    "year": 2014,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/blue-ruin/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinevideo",
+    "curatorNote": "Homem a deriva descobre a libertacao do assassino de seus pais e inicia ciclo amador e brutal de retaliacao.",
+    "curatorReason": "Homem a deriva descobre a libertacao do assassino de seus pais e inicia ciclo amador e brutal de retaliacao.",
+    "omdb": {
+      "director": "Jeremy Saulnier",
+      "writer": "Jeremy Saulnier",
+      "actors": "Macon Blair, Devin Ratray, Amy Hargreaves",
+      "genre": "Crime, Drama, Thriller",
+      "plot": "A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance. Proving himself an amateur assassin, he winds up in a brutal fight to protect his estranged family.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTM2MDg5OV5BMl5BanBnXkFtZTgwMDA3OTAwMTE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "7.1",
+      "rottenTomatoes": "96%",
+      "metascore": "78",
+      "runtime": "90 min",
+      "rated": "R",
+      "imdbID": "tt2359024",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/374320.mp4",
+    "streamName": "Thomas & Friends: Blue Mountain Mystery",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Chaser",
+    "ptTitle": "O Cacador",
+    "year": 2008,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/the-chaser/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Ex-policial corre contra o tempo em Seul para cacar predador sadico em furia visceral de tirar o folego.",
+    "curatorReason": "Ex-policial corre contra o tempo em Seul para cacar predador sadico em furia visceral de tirar o folego.",
+    "omdb": {
+      "director": "Na Hong-jin",
+      "writer": "Na Hong-jin, Shinho Lee, Hong Won-chan",
+      "actors": "Kim Yoon-seok, Ha Jung-woo, Seo Young-hee",
+      "genre": "Action, Crime, Drama",
+      "plot": "A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGZjMDU2ODAtMzFlNy00MWU1LWE1YTEtYTFmZTE0ZmEyYjYxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "imdbRating": "7.8",
+      "rottenTomatoes": "82%",
+      "metascore": "64",
+      "runtime": "125 min",
+      "rated": "Not Rated",
+      "imdbID": "tt1190539",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96869.mp4",
+    "streamName": "O Cacador de Encrencas",
+    "streamAvailable": true
+  },
+  {
+    "title": "I Spit on Your Grave",
+    "ptTitle": "Doce Vinganca",
+    "year": 2010,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/i-spit-on-your-grave/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavideo",
+    "curatorNote": "Escritora torturada em cabana isolada retorna com odio implacavel para executar armadilhas sadicas contra cada um dos culpados.",
+    "curatorReason": "Escritora torturada em cabana isolada retorna com odio implacavel para executar armadilhas sadicas contra cada um dos culpados.",
+    "omdb": {
+      "director": "Steven R. Monroe",
+      "writer": "Adam Rockoff, Meir Zarchi",
+      "actors": "Sarah Butler, Jeff Branson, Andrew Howard",
+      "genre": "Horror, Thriller",
+      "plot": "A writer who is brutalized during her cabin retreat seeks revenge on her attackers, who left her for dead.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTE3NzEzMl5BMl5BanBnXkFtZTcwMzc4MTU2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.2",
+      "rottenTomatoes": "32%",
+      "metascore": "27",
+      "runtime": "108 min",
+      "rated": "R",
+      "imdbID": "tt1242432",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "32%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "27/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/35947.mp4",
+    "streamName": "Doce Vingança 4 - Deja Vu [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Cape Fear",
+    "ptTitle": "Cabo do Medo",
+    "year": 1991,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/cape-fear/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Robert De Niro como Max Cady, consumido por odio obsessivo e calculista para aterrorizar advogado que o traiu.",
+    "curatorReason": "Robert De Niro como Max Cady, consumido por odio obsessivo e calculista para aterrorizar advogado que o traiu.",
+    "omdb": {
+      "director": "Martin Scorsese",
+      "writer": "John D. MacDonald, James R. Webb, Wesley Strick",
+      "actors": "Robert De Niro, Nick Nolte, Jessica Lange",
+      "genre": "Crime, Drama, Thriller",
+      "plot": "A convict systematically stalks the defense attorney who withheld evidence during his original trial fourteen years prior. The lawyer must protect his family from escalating psychological threats while navigating his own moral com...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "imdbRating": "7.3",
+      "rottenTomatoes": "77%",
+      "metascore": "73",
+      "runtime": "128 min",
+      "rated": "R",
+      "imdbID": "tt0101540",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/302754.mp4",
+    "streamName": "Cabo do Medo",
+    "streamAvailable": true
+  },
+  {
+    "title": "A Time to Kill",
+    "ptTitle": "Tempo de Matar",
+    "year": 1996,
+    "category": "hatred",
+    "letterboxdUrl": "https://letterboxd.com/film/a-time-to-kill/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "VTI Rio",
+    "curatorNote": "Pai faz justica sumaria com fuzil contra abusadores da filha e enfrenta julgamento em tribunal inflamado do Mississippi.",
+    "curatorReason": "Pai faz justica sumaria com fuzil contra abusadores da filha e enfrenta julgamento em tribunal inflamado do Mississippi.",
+    "omdb": {
+      "director": "Joel Schumacher",
+      "writer": "John Grisham, Akiva Goldsman",
+      "actors": "Matthew McConaughey, Sandra Bullock, Samuel L. Jackson",
+      "genre": "Crime, Drama, Thriller",
+      "plot": "A young Mississippi lawyer defends a black man who killed the two white men that raped his preteen daughter.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "imdbRating": "7.5",
+      "rottenTomatoes": "66%",
+      "metascore": "53",
+      "runtime": "149 min",
+      "rated": "R",
+      "imdbID": "tt0117913",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376816.mp4",
+    "streamName": "Tempo de Matar [L]",
+    "streamAvailable": true
+  }
+]

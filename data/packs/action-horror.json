@@ -1,0 +1,697 @@
+[
+  {
+    "title": "Malignant",
+    "ptTitle": "Maligno",
+    "year": 2021,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/malignant-2021/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "James Wan entrega um híbrido frenético de terror corporal e ação visceral, onde uma mulher paralisada por visões de assassinatos descobre uma ligação sombria e brutal.",
+    "curatorReason": "James Wan entrega um híbrido frenético de terror corporal e ação visceral, onde uma mulher paralisada por visões de assassinatos descobre uma ligação sombria e brutal.",
+    "omdb": {
+      "director": "James Wan",
+      "writer": "James Wan, Ingrid Bisu, Akela Cooper",
+      "actors": "Annabelle Wallis, Maddie Hasson, George Young",
+      "genre": "Crime, Horror, Mystery",
+      "plot": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTU3YjhmMTQtNmM5Yi00MDI2LTk0M2UtZGY5ZTNkYjIzNDE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.2",
+      "rottenTomatoes": "77%",
+      "metascore": "51/100",
+      "runtime": "111 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128585.mp4",
+    "streamName": "Maligno [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Shallows",
+    "ptTitle": "Águas Rasas",
+    "year": 2016,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/the-shallows/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Uma surfista fica encurralada em um recife a apenas duzentos metros da praia, precisando usar inteligência e coragem para sobreviver a um imenso tubarão branco predador.",
+    "curatorReason": "Uma surfista fica encurralada em um recife a apenas duzentos metros da praia, precisando usar inteligência e coragem para sobreviver a um imenso tubarão branco predador.",
+    "omdb": {
+      "director": "Jaume Collet-Serra",
+      "writer": "Anthony Jaswinski",
+      "actors": "Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo",
+      "genre": "Drama, Horror, Thriller",
+      "plot": "A mere 200 yards from shore, surfer Nancy is attacked by a great white shark, with her short journey to safety becoming the ultimate contest of wills.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.3",
+      "rottenTomatoes": "78%",
+      "metascore": "59/100",
+      "runtime": "86 min",
+      "rated": "PG-13",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/347105.mp4",
+    "streamName": "Águas Rasas [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Ready or Not",
+    "year": 2019,
+    "category": "action-horror",
+    "ptTitle": "Casamento Sangrento",
+    "curatorNote": "Presente na sua Watchlist! Samara Weaving se transforma em uma noiva de guerra implacável em um esconde-esconde mortal com armas de fogo e ritmo eletrizante por uma mansão sinistra.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Ready or Not",
+      "year": "2019",
+      "rated": "R",
+      "released": "21 Aug 2019",
+      "runtime": "95 min",
+      "genre": "Comedy, Horror, Mystery",
+      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "writer": "Guy Busick, R. Christopher Murphy",
+      "actors": "Samara Weaving, Adam Brody, Mark O&apos;Brien",
+      "plot": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+      "language": "English, Latin",
+      "country": "United States, Canada",
+      "awards": "4 wins & 24 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "267,798",
+      "imdbID": "tt7798634",
+      "boxOffice": "$28,714,231",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376097.mp4",
+    "streamName": "Casamento Sangrento 4K [HDR]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Green Room",
+    "year": 2015,
+    "category": "action-horror",
+    "ptTitle": "Sala Verde",
+    "curatorNote": "Adrenalina pura, cerco implacável e claustrofobia visceral: uma banda punk encurralada em uma boate isolada precisa lutar pela vida contra uma gangue violenta em ritmo de puro pânico.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Green Room",
+      "year": "2016",
+      "rated": "R",
+      "released": "13 May 2016",
+      "runtime": "95 min",
+      "genre": "Horror, Thriller",
+      "director": "Jeremy Saulnier",
+      "writer": "Jeremy Saulnier",
+      "actors": "Anton Yelchin, Imogen Poots, Alia Shawkat",
+      "plot": "A punk rock band is forced to fight for survival after witnessing something they shouldn't have at a neo-Nazi skinhead bar.",
+      "language": "English",
+      "country": "United States",
+      "awards": "8 wins & 25 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "156,014",
+      "imdbID": "tt4062536",
+      "boxOffice": "$3,220,371",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sala%20Verde.mp4",
+    "streamName": "Sala Verde",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Hunt",
+    "year": 2020,
+    "category": "action-horror",
+    "ptTitle": "A Caçada",
+    "curatorNote": "Ação e sobrevivência frenética sem trégua: uma das heroínas mais letais e pragmáticas do cinema moderno (Betty Gilpin) revida violentamente contra uma elite de caçadores humanos.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Hunt",
+      "year": "2020",
+      "rated": "R",
+      "released": "13 Mar 2020",
+      "runtime": "90 min",
+      "genre": "Action, Horror, Thriller",
+      "director": "Craig Zobel",
+      "writer": "Nick Cuse, Damon Lindelof",
+      "actors": "Betty Gilpin, Hilary Swank, Ike Barinholtz",
+      "plot": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+      "language": "English, Arabic, Croatian",
+      "country": "United States, China, Japan",
+      "awards": "3 wins & 5 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "imdbRating": "6.6",
+      "imdbVotes": "158,984",
+      "imdbID": "tt8244784",
+      "boxOffice": "$5,812,500",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317446.mp4",
+    "streamName": "A Caçada",
+    "streamAvailable": true
+  },
+  {
+    "title": "Crawl",
+    "year": 2019,
+    "category": "action-horror",
+    "ptTitle": "Predadores Assassinos",
+    "curatorNote": "Sobrevivência em alta voltagem dirigida por Alexandre Aja: uma nadadora profissional fica presa em um porão alagado durante um furacão de categoria 5, cercada por aligátores gigantescos e famintos.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Crawl",
+      "year": "2019",
+      "rated": "R",
+      "released": "12 Jul 2019",
+      "runtime": "87 min",
+      "genre": "Action, Horror, Thriller",
+      "director": "Alexandre Aja",
+      "writer": "Michael Rasmussen, Shawn Rasmussen",
+      "actors": "Kaya Scodelario, Barry Pepper, Morfydd Clark",
+      "plot": "Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.",
+      "language": "English",
+      "country": "United States",
+      "awards": "6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "imdbRating": "6.1",
+      "imdbVotes": "104,653",
+      "imdbID": "tt8364368",
+      "boxOffice": "$39,014,193",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/391960.mp4",
+    "streamName": "Predadores Assassinos",
+    "streamAvailable": true
+  },
+  {
+    "title": "Attack the Block",
+    "year": 2011,
+    "category": "action-horror",
+    "ptTitle": "Ataque ao Prédio",
+    "curatorNote": "Ação e terror sci-fi frenético pós-2010: uma gangue de jovens defende seu conjunto habitacional contra invasores alienígenas velozes e vorazes.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Attack the Block",
+      "year": "2011",
+      "rated": "R",
+      "released": "13 May 2011",
+      "runtime": "88 min",
+      "genre": "Action, Adventure, Comedy",
+      "director": "Joe Cornish",
+      "writer": "Joe Cornish",
+      "actors": "John Boyega, Jodie Whittaker, Alex Esmail",
+      "plot": "A teen gang in South London defend their block from an alien invasion.",
+      "language": "English",
+      "country": "United Kingdom, France",
+      "awards": "Nominated for 1 BAFTA Award. 19 wins & 39 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "imdbRating": "6.6",
+      "imdbVotes": "116,433",
+      "imdbID": "tt1478964",
+      "boxOffice": "$1,024,175",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/133085.mp4",
+    "streamName": "Ataque ao Prédio",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Guest",
+    "year": 2014,
+    "category": "action-horror",
+    "ptTitle": "O Hóspede",
+    "curatorNote": "Thriller de ação e terror implacável: um soldado misterioso se infiltra em uma família pacata, desencadeando um confronto violento embalado por synthwave.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Guest",
+      "year": "2014",
+      "rated": "R",
+      "released": "05 Sep 2014",
+      "runtime": "100 min",
+      "genre": "Action, Mystery, Thriller",
+      "director": "Adam Wingard",
+      "writer": "Simon Barrett",
+      "actors": "Dan Stevens, Sheila Kelley, Maika Monroe",
+      "plot": "A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence.",
+      "language": "English",
+      "country": "United States, United Kingdom",
+      "awards": "5 wins & 13 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "115,928",
+      "imdbID": "tt2980592",
+      "boxOffice": "$332,890",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/74759.mp4",
+    "streamName": "O Hóspede",
+    "streamAvailable": true
+  },
+  {
+    "title": "Mayhem",
+    "year": 2017,
+    "category": "action-horror",
+    "ptTitle": "Fúria no Escritório",
+    "curatorNote": "Sobrevivência extrema sem freios: um vírus que destrói as inibições humanas transforma um prédio corporativo em uma arena brutal de combate sangrento.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Mayhem",
+      "year": "2017",
+      "rated": "Unrated",
+      "released": "10 Nov 2017",
+      "runtime": "86 min",
+      "genre": "Action, Comedy, Horror",
+      "director": "Joe Lynch",
+      "writer": "Matias Caruso",
+      "actors": "Steven Yeun, Samara Weaving, Steven Brand",
+      "plot": "A virus spreads through an office complex, causing white-collar workers to act out their worst impulses.",
+      "language": "English",
+      "country": "United States",
+      "awards": "3 wins & 3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2I2ZGMzNzItZTdkYS00YWNmLWE0NGEtOGY3MTM1YmFkMjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "imdbRating": "6.4",
+      "imdbVotes": "30,518",
+      "imdbID": "tt4348012",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/35264.mp4",
+    "streamName": "Mayhem - Senhores Do Caos",
+    "streamAvailable": true
+  },
+  {
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "category": "action-horror",
+    "ptTitle": "Rua Cloverfield, 10",
+    "curatorNote": "Tensão extrema e claustrofobia em ritmo acelerado: uma mulher desperta em um bunker subterrâneo e precisa descobrir se o perigo maior está do lado de dentro ou na superfície alienígena.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "10 Cloverfield Lane",
+      "year": "2016",
+      "rated": "PG-13",
+      "released": "11 Mar 2016",
+      "runtime": "103 min",
+      "genre": "Drama, Horror, Sci-Fi",
+      "director": "Dan Trachtenberg",
+      "writer": "Josh Campbell, Matt Stuecken, Damien Chazelle",
+      "actors": "John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.",
+      "plot": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+      "language": "English",
+      "country": "United States",
+      "awards": "16 wins & 50 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "390,237",
+      "imdbID": "tt1179933",
+      "boxOffice": "$72,082,998",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21840.mp4",
+    "streamName": "Rua Cloverfield 10",
+    "streamAvailable": true
+  },
+  {
+    "title": "Dog Soldiers",
+    "year": 2002,
+    "category": "action-horror",
+    "ptTitle": "Cães de Caça",
+    "curatorNote": "Um esquadrão de soldados do exército britânico em treinamento nas montanhas da Escócia se refugia em uma cabana isolada e enfrenta uma matilha sanguinária de lobisomens. Tensão física claustrofóbica, munição pesada e maquiagem prática excepcional.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Dog Soldiers",
+      "year": "2002",
+      "rated": "R",
+      "released": "10 May 2002",
+      "runtime": "105 min",
+      "genre": "Action, Horror, Thriller",
+      "director": "Neil Marshall",
+      "writer": "Neil Marshall",
+      "actors": "Sean Pertwee, Kevin McKidd, Emma Cleasby",
+      "plot": "A routine military exercise turns into a nightmare in the Scottish wilderness.",
+      "language": "English",
+      "country": "United Kingdom, Luxembourg",
+      "awards": "5 wins & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDI3ZTk0ZjItOTMwMi00NWM1LTk4YmItMjY3NDYyZWI4ZjYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "imdbRating": "6.8",
+      "imdbVotes": "71,770",
+      "imdbID": "tt0280609",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/series/frc-561250/Yrwa1z/3918.mp4",
+    "streamName": "Cães de Caça",
+    "streamAvailable": true
+  },
+  {
+    "title": "Planet Terror",
+    "ptTitle": "Planeta Terror",
+    "year": 2007,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/planet-terror/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Tiroteios viscerais, acao frenetica sem freio e sobrevivencia contra hordas infectadas com metralhadora na perna.",
+    "curatorReason": "Tiroteios viscerais, acao frenetica sem freio e sobrevivencia contra hordas infectadas com metralhadora na perna.",
+    "omdb": {
+      "director": "Robert Rodriguez",
+      "writer": "Robert Rodriguez",
+      "actors": "Rose McGowan, Freddy Rodríguez, Josh Brolin",
+      "genre": "Action, Comedy, Horror",
+      "plot": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it's up to a rag-tag group of survivors to stop the infected and those behind its release.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmEzZTAxNDQtN2ZmMy00NGNlLWI3NDYtNGI3ZTlkNWU1NWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "7.0",
+      "rottenTomatoes": "76%",
+      "metascore": "N/A",
+      "runtime": "105 min",
+      "rated": "R",
+      "imdbID": "tt1077258",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/104431.mp4",
+    "streamName": "Planeta Terror",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Belko Experiment",
+    "ptTitle": "The Belko Experiment",
+    "year": 2017,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/the-belko-experiment/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinevideo",
+    "curatorNote": "Escritorio corporativo isolado vira uma arena claustrofobica de sobrevivencia mortal e tensao crescente.",
+    "curatorReason": "Escritorio corporativo isolado vira uma arena claustrofobica de sobrevivencia mortal e tensao crescente.",
+    "omdb": {
+      "director": "Greg McLean",
+      "writer": "James Gunn",
+      "actors": "John Gallagher Jr., Tony Goldwyn, Adria Arjona",
+      "genre": "Action, Horror, Thriller",
+      "plot": "In a twisted social experiment, eighty Americans are locked in their high-rise corporate office in Bogotá, Colombia, and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.2",
+      "rottenTomatoes": "55%",
+      "metascore": "44",
+      "runtime": "89 min",
+      "rated": "R",
+      "imdbID": "tt1082807",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "55%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "44/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_The%20Belko%20Experiment.mp4",
+    "streamName": "The Belko Experiment",
+    "streamAvailable": true
+  },
+  {
+    "title": "Bone Tomahawk",
+    "ptTitle": "Rastro de Maldade",
+    "year": 2016,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/bone-tomahawk/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Faroeste brutal de resgate onde xerife e voluntarios enfrentam perigo primitivo em territorio inospito com tensao implacavel.",
+    "curatorReason": "Faroeste brutal de resgate onde xerife e voluntarios enfrentam perigo primitivo em territorio inospito com tensao implacavel.",
+    "omdb": {
+      "director": "S. Craig Zahler",
+      "writer": "S. Craig Zahler",
+      "actors": "Kurt Russell, Patrick Wilson, Matthew Fox",
+      "genre": "Drama, Horror, Western",
+      "plot": "In the Old West, a small-town sheriff and his rag-tag posse set out to rescue several townspeople from a brutal cave-dwelling, cannibalistic Indian tribe.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "imdbRating": "7.1",
+      "rottenTomatoes": "91%",
+      "metascore": "72",
+      "runtime": "132 min",
+      "rated": "Not Rated",
+      "imdbID": "tt2494362",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21828.mp4",
+    "streamName": "Rastro De Maldade",
+    "streamAvailable": true
+  },
+  {
+    "title": "Wyrmwood: Road of the Dead",
+    "ptTitle": "Wyrmwood: O Fim dos Tempos",
+    "year": 2015,
+    "category": "action-horror",
+    "letterboxdUrl": "https://letterboxd.com/film/wyrmwood-road-of-the-dead/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavideo",
+    "curatorNote": "Acao pos-apocaliptica australiana com carros modificados, armaduras artesanais e tiroteios sem tregua.",
+    "curatorReason": "Acao pos-apocaliptica australiana com carros modificados, armaduras artesanais e tiroteios sem tregua.",
+    "omdb": {
+      "director": "Kiah Roache-Turner",
+      "writer": "Kiah Roache-Turner, Tristan Roache-Turner",
+      "actors": "Jay Gallagher, Bianca Bradey, Leon Burchill",
+      "genre": "Action, Comedy, Horror",
+      "plot": "A talented mechanic prepares to battle his way through hordes of flesh-eating monsters after his sister is kidnapped on the eve of a zombie apocalypse.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjExNzM3NF5BMl5BanBnXkFtZTgwNTgxOTU5MzE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "6.2",
+      "rottenTomatoes": "82%",
+      "metascore": "54",
+      "runtime": "98 min",
+      "rated": "Not Rated",
+      "imdbID": "tt2535470",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ]
+    },
+    "parentCategory": "terror",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Wyrmwood%3A%20O%20Fim%20dos%20Tempos.mp4",
+    "streamName": "Wyrmwood: O Fim dos Tempos",
+    "streamAvailable": true
+  }
+]

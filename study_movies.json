@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Stand and Deliver",
+    "year": 1988,
+    "category": "study",
+    "ptTitle": "O Preço do Desafio",
+    "curatorNote": "Inspiradora história real de Jaime Escalante, que desafia e motiva alunos desacreditados a dominarem Cálculo Avançado através da disciplina, brio e dedicação sem limites aos estudos.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Stand and Deliver",
+      "year": "1988",
+      "rated": "PG",
+      "released": "11 Mar 1988",
+      "runtime": "103 min",
+      "genre": "Biography, Drama",
+      "director": "Ramón Menéndez",
+      "writer": "Ramón Menéndez, Tom Musca",
+      "actors": "Edward James Olmos, Estelle Harris, Mark Phelan",
+      "plot": "A teacher at an inner-city high school is convinced that his students have the potential to pass AP Calculus.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjc2OTljZDgtNzhjMi00NGVkLTlmOGMtZjZlMjRkZTdmN2ViXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "22,721",
+      "imdbID": "tt0094027",
+      "boxOffice": "$13,994,920",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Boy Who Harnessed the Wind",
+    "year": 2019,
+    "category": "study",
+    "ptTitle": "O Menino que Descobriu o Vento",
+    "curatorNote": "Irmão espiritual de October Sky: um garoto autodidata no Malawi devora livros de física na biblioteca da vila para construir uma turbina eólica com sucata e salvar sua comunidade da fome.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Boy Who Harnessed the Wind",
+      "year": "2019",
+      "rated": "TV-PG",
+      "released": "01 Mar 2019",
+      "runtime": "113 min",
+      "genre": "Biography, Drama, History",
+      "director": "Chiwetel Ejiofor",
+      "writer": "Chiwetel Ejiofor, William Kamkwamba, Bryan Mealer",
+      "actors": "Chiwetel Ejiofor, Maxwell Simba, Felix Lemburo",
+      "plot": "Against all the odds, a thirteen-year-old boy in Malawi invents an unconventional way to save his family and village from famine.",
+      "language": "English, Nyanja, Arabic",
+      "country": "United Kingdom, Malawi, United States, Kenya",
+      "awards": "5 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTg5MTA0OV5BMl5BanBnXkFtZTgwNTMyNTY0NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "imdbRating": "7.6",
+      "imdbVotes": "53,736",
+      "imdbID": "tt7533152",
+      "boxOffice": "N/A",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "category": "study",
+    "ptTitle": "Sociedade dos Poetas Mortos",
+    "curatorNote": "Um professor heterodoxo desperta em seus alunos a paixão genuína pelo estudo das palavras, pensamento crítico independente e a coragem intelectual de buscar uma vida extraordinária.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Dead Poets Society",
+      "year": "1989",
+      "rated": "PG",
+      "released": "09 Jun 1989",
+      "runtime": "128 min",
+      "genre": "Comedy, Drama",
+      "director": "Peter Weir",
+      "writer": "Tom Schulman",
+      "actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke",
+      "plot": "A maverick teacher at a prestigious New England boys' boarding school uses poetry to embolden his pupils to new heights of self-expression.",
+      "language": "English, Latin, French",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 20 wins & 19 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "imdbRating": "8.1",
+      "imdbVotes": "671,769",
+      "imdbID": "tt0097165",
+      "boxOffice": "$95,860,116",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "category": "study",
+    "ptTitle": "Gênio Indomável",
+    "curatorNote": "Presente na sua Watchlist! Um jovem faxineiro com genialidade autodidata em matemática é desafiado a enfrentar seus traumas para que seu talento intelectual não seja desperdiçado.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Good Will Hunting",
+      "year": "1998",
+      "rated": "R",
+      "released": "09 Jan 1998",
+      "runtime": "126 min",
+      "genre": "Drama, Romance",
+      "director": "Gus Van Sant",
+      "writer": "Matt Damon, Ben Affleck",
+      "actors": "Robin Williams, Matt Damon, Ben Affleck",
+      "plot": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 2 Oscars. 25 wins & 61 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "imdbRating": "8.4",
+      "imdbVotes": "1,246,559",
+      "imdbID": "tt0119217",
+      "boxOffice": "$138,433,435",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Lorenzo's Oil",
+    "year": 1992,
+    "category": "study",
+    "ptTitle": "O Óleo de Lorenzo",
+    "curatorNote": "O poder do autodidatismo levado ao ápice: pais sem formação médica passam noites em claro em bibliotecas científicas estudando bioquímica até formularem o tratamento para a doença rara do filho.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Lorenzo's Oil",
+      "year": "1993",
+      "rated": "PG-13",
+      "released": "29 Jan 1993",
+      "runtime": "129 min",
+      "genre": "Biography, Drama",
+      "director": "George Miller",
+      "writer": "George Miller, Nick Enright",
+      "actors": "Nick Nolte, Susan Sarandon, Peter Ustinov",
+      "plot": "Lorenzo Odone, a Virginia 5-year-old, develops a degenerative nerve disease so rare that nobody is working on a cure, so his parents decide to immerse themselves in research and tackle the problem themselves.",
+      "language": "English, Italian, Swahili",
+      "country": "United States, Australia",
+      "awards": "Nominated for 2 Oscars. 8 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTc3NDBjY2ItNDhiYS00YmJmLWE4ZDctNzNkZGMxNGY2Y2FjXkEyXkFqcGc@._V1_QL75_UX380_CR0,17,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "25,676",
+      "imdbID": "tt0104756",
+      "boxOffice": "$7,286,388",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Paper Chase",
+    "year": 1973,
+    "category": "study",
+    "ptTitle": "O Homem que Burlou a Máfia (Vida de Estudante)",
+    "curatorNote": "O maior clássico cinematográfico sobre a intensidade visceral da rotina acadêmica universitária, noites em claro na biblioteca e a busca pela excelência intelectual em Harvard Law.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Paper Chase",
+      "year": "1973",
+      "rated": "PG",
+      "released": "16 Oct 1973",
+      "runtime": "113 min",
+      "genre": "Comedy, Drama",
+      "director": "James Bridges",
+      "writer": "John Jay Osborn Jr., James Bridges",
+      "actors": "Timothy Bottoms, Lindsay Wagner, John Houseman",
+      "plot": "A first-year law student at Harvard Law School struggles with balancing his coursework and a woman, unaware that she has a connection that affects their relationship.",
+      "language": "English, Latin",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmRjMDFjOWMtMTcwNC00ZGZjLWEyNjMtNDEwMTVhZmRkNjZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "9,454",
+      "imdbID": "tt0070509",
+      "boxOffice": "$1,851,898",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Great Debaters",
+    "year": 2007,
+    "category": "study",
+    "ptTitle": "O Grande Desafio",
+    "curatorNote": "Denzel Washington guia estudantes negros no Texas segregado de 1935, mostrando que leitura profunda, pesquisa bibliográfica meticulosa e domínio retórico são as maiores armas intelectuais contra a injustiça.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Great Debaters",
+      "year": "2007",
+      "rated": "PG-13",
+      "released": "25 Dec 2007",
+      "runtime": "126 min",
+      "genre": "Biography, Drama, Romance",
+      "director": "Denzel Washington",
+      "writer": "Robert Eisele, Jeffrey Porro, Tony Scherman",
+      "actors": "Denzel Washington, Forest Whitaker, Kimberly Elise",
+      "plot": "A drama based on the true story of Melvin B. Tolson, a professor at Wiley College Texas. In 1935, he inspired students to form the school's first debate team, which went on to challenge Harvard in the national championship.",
+      "language": "English",
+      "country": "United States",
+      "awards": "10 wins & 10 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDc1NzkwMF5BMl5BanBnXkFtZTcwMDI5MjU1MQ@@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "66,949",
+      "imdbID": "tt0427309",
+      "boxOffice": "$30,236,407",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Temple Grandin",
+    "year": 2010,
+    "category": "study",
+    "ptTitle": "Temple Grandin",
+    "curatorNote": "História real emocionante de dedicação científica: com o apoio de um professor entusiasta de ciências, uma jovem no espectro autista transforma seu raciocínio visual único em revoluções na engenharia e na pecuária.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Temple Grandin",
+      "year": "2010",
+      "rated": "TV-PG",
+      "released": "06 Feb 2010",
+      "runtime": "107 min",
+      "genre": "Biography, Drama",
+      "director": "Mick Jackson",
+      "writer": "Temple Grandin, Margaret Scariano, Christopher Monger",
+      "actors": "Claire Danes, Julia Ormond, David Strathairn",
+      "plot": "A biopic of Temple Grandin, an autistic woman who has become one of the top scientists in the humane livestock handling industry.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 7 Primetime Emmys. 35 wins & 37 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "imdbRating": "8.2",
+      "imdbVotes": "37,375",
+      "imdbID": "tt1278469",
+      "boxOffice": "N/A",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Man Who Knew Infinity",
+    "year": 2015,
+    "category": "study",
+    "ptTitle": "O Homem que Viu o Infinito",
+    "curatorNote": "A pura obsessão pela matemática: o jovem indiano Srinivasa Ramanujan, autodidata sem formação universitária, chega a Cambridge com cadernos repletos de teoremas geniais que mudaram a ciência moderna.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Man Who Knew Infinity",
+      "year": "2016",
+      "rated": "PG-13",
+      "released": "29 Apr 2016",
+      "runtime": "108 min",
+      "genre": "Biography, Drama",
+      "director": "Matt Brown",
+      "writer": "Robert Kanigel, Matt Brown",
+      "actors": "Dev Patel, Jeremy Irons, Malcolm Sinclair",
+      "plot": "The story of the life and academic career of the pioneer Indian mathematician, Srinivasa Ramanujan, and his friendship with his mentor, Professor G.H. Hardy.",
+      "language": "English, French, Sanskrit",
+      "country": "United Kingdom, United States, Singapore, Hong Kong, United Arab Emirates, India",
+      "awards": "1 win & 3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "67,700",
+      "imdbID": "tt0787524",
+      "boxOffice": "$3,866,794",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "category": "study",
+    "ptTitle": "Uma Mente Brilhante",
+    "curatorNote": "A trajetória do gênio matemático John Nash em Princeton em busca de uma ideia original e revolucionária, retratando a beleza eletrizante do trabalho mental e das descobertas na teoria dos jogos.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "A Beautiful Mind",
+      "year": "2002",
+      "rated": "PG-13",
+      "released": "04 Jan 2002",
+      "runtime": "135 min",
+      "genre": "Biography, Drama, Mystery",
+      "director": "Ron Howard",
+      "writer": "Akiva Goldsman, Sylvia Nasar",
+      "actors": "Russell Crowe, Ed Harris, Jennifer Connelly",
+      "plot": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But Nash soon found himself on a harrowing journey of self-discovery.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "imdbRating": "8.2",
+      "imdbVotes": "1,065,553",
+      "imdbID": "tt0268978",
+      "boxOffice": "$170,742,341",
+      "type": "movie"
+    }
+  }
+]

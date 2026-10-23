@@ -1,0 +1,712 @@
+[
+  {
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "category": "comedy",
+    "ptTitle": "Quanto Mais Quente Melhor",
+    "curatorNote": "Considerada por muitos a maior comédia de todos os tempos, unindo Billy Wilder, Marilyn Monroe e Jack Lemmon.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Some Like It Hot",
+      "year": "1959",
+      "rated": "Approved",
+      "released": "19 Mar 1959",
+      "runtime": "121 min",
+      "genre": "Comedy, Music, Romance",
+      "director": "Billy Wilder",
+      "writer": "Billy Wilder, I.A.L. Diamond, Robert Thoeren",
+      "actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon",
+      "plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "language": "English, French",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 11 wins & 13 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "imdbRating": "8.2",
+      "imdbVotes": "307,901",
+      "imdbID": "tt0053291",
+      "boxOffice": null,
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quanto%20Mais%20Quente%20Melhor.mp4",
+    "streamName": "Quanto Mais Quente Melhor",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "category": "comedy",
+    "ptTitle": "Se Meu Apartamento Falasse",
+    "curatorNote": "Vencedor de 5 Oscars, equilibra comédia romântica refinada e melancolia corporativa moderna.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Apartment",
+      "year": "1960",
+      "rated": "Approved",
+      "released": "29 Jun 1960",
+      "runtime": "125 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Billy Wilder",
+      "writer": "Billy Wilder, I.A.L. Diamond",
+      "actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+      "plot": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 5 Oscars. 26 wins & 8 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_QL75_UX380_CR0,19,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "imdbRating": "8.3",
+      "imdbVotes": "223,561",
+      "imdbID": "tt0053604",
+      "boxOffice": "$18,600,000",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/138865.mp4",
+    "streamName": "Se Meu Apartamento Falasse",
+    "streamAvailable": true
+  },
+  {
+    "title": "Dr. Strangelove",
+    "year": 1964,
+    "category": "comedy",
+    "ptTitle": "Dr. Fantástico",
+    "curatorNote": "Sátira militar definitiva da Guerra Fria dirigida por Stanley Kubrick com Peter Sellers em múltiplos papéis.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": "1964",
+      "rated": "PG",
+      "released": "29 Jan 1964",
+      "runtime": "95 min",
+      "genre": "Comedy, War",
+      "director": "Stanley Kubrick",
+      "writer": "Stanley Kubrick, Terry Southern, Peter George",
+      "actors": "Peter Sellers, George C. Scott, Sterling Hayden",
+      "plot": "After a rogue U.S. general orders an unauthorized nuclear attack on the Soviet Union, leaders in the War Room race to prevent global catastrophe.",
+      "language": "English, Russian",
+      "country": "United Kingdom",
+      "awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "imdbRating": "8.3",
+      "imdbVotes": "555,375",
+      "imdbID": "tt0057012",
+      "boxOffice": "$9,440,272",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112960.mp4",
+    "streamName": "Dr. Fantástico",
+    "streamAvailable": true
+  },
+  {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "category": "comedy",
+    "ptTitle": "O Jovem Frankenstein",
+    "curatorNote": "Tributo hilário e carinhoso de Mel Brooks e Gene Wilder aos monstros clássicos da Universal dos anos 30.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Young Frankenstein",
+      "year": "1974",
+      "rated": "PG",
+      "released": "15 Dec 1974",
+      "runtime": "106 min",
+      "genre": "Comedy",
+      "director": "Mel Brooks",
+      "writer": "Gene Wilder, Mel Brooks, Mary Shelley",
+      "actors": "Gene Wilder, Madeline Kahn, Marty Feldman",
+      "plot": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+      "language": "English, German",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 10 wins & 8 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "imdbRating": "8.0",
+      "imdbVotes": "182,030",
+      "imdbID": "tt0072431",
+      "boxOffice": "$86,273,333",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Jovem%20Frankenstein.mp4",
+    "streamName": "O Jovem Frankenstein",
+    "streamAvailable": true
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "category": "comedy",
+    "ptTitle": "Banzé no Oeste",
+    "curatorNote": "Paródia anárquica e corrosiva aos clichês do faroeste americano, desmontando preconceitos com humor mordaz.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Blazing Saddles",
+      "year": "1974",
+      "rated": "R",
+      "released": "07 Feb 1974",
+      "runtime": "93 min",
+      "genre": "Comedy, Western",
+      "director": "Mel Brooks",
+      "writer": "Mel Brooks, Norman Steinberg, Andrew Bergman",
+      "actors": "Cleavon Little, Gene Wilder, Slim Pickens",
+      "plot": "In order to ruin a western town and steal their land, a corrupt politician appoints a black sheriff, who promptly becomes his most formidable adversary.",
+      "language": "English, Yiddish, German",
+      "country": "United States",
+      "awards": "Nominated for 3 Oscars. 3 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "imdbRating": "7.7",
+      "imdbVotes": "166,916",
+      "imdbID": "tt0071230",
+      "boxOffice": "$119,616,663",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/47408.mp4",
+    "streamName": "Banzé no Oeste",
+    "streamAvailable": true
+  },
+  {
+    "title": "Trading Places",
+    "year": 1983,
+    "category": "comedy",
+    "ptTitle": "Trocando as Bolas",
+    "curatorNote": "Comédia inteligente dos anos 80 de John Landis com Eddie Murphy e Dan Aykroyd invertendo papéis sociais em um experimento cínico.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Trading Places",
+      "year": "1983",
+      "rated": "R",
+      "released": "08 Jun 1983",
+      "runtime": "116 min",
+      "genre": "Comedy",
+      "director": "John Landis",
+      "writer": "Timothy Harris, Herschel Weingrod",
+      "actors": "Eddie Murphy, Dan Aykroyd, Ralph Bellamy",
+      "plot": "A snobbish Wall Street commodities broker and a wily street hustler find their positions reversed as part of a bet by two callous millionaire brothers who run a brokerage house.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 3 wins & 8 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "184,899",
+      "imdbID": "tt0086465",
+      "boxOffice": "$90,404,800",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Trocando%20as%20Bolas.mp4",
+    "streamName": "Trocando as Bolas",
+    "streamAvailable": true
+  },
+  {
+    "title": "Tootsie",
+    "year": 1982,
+    "category": "comedy",
+    "ptTitle": "Tootsie",
+    "curatorNote": "Obra-prima cômica indicada a 10 Oscars: Dustin Hoffman vive um ator perfeccionista e desempregado que se veste de mulher para conseguir trabalho.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Tootsie",
+      "year": "1982",
+      "rated": "PG",
+      "released": "17 Dec 1982",
+      "runtime": "116 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Sydney Pollack",
+      "writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "plot": "An unsuccessful actor disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 27 wins & 32 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "imdbRating": "7.4",
+      "imdbVotes": "124,101",
+      "imdbID": "tt0084805",
+      "boxOffice": "$177,200,000",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/142437.mp4",
+    "streamName": "Tootsie",
+    "streamAvailable": true
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "category": "comedy",
+    "ptTitle": "Cantando na Chuva",
+    "curatorNote": "Comédia musical luminosa e espirituosa sobre a caótica transição do cinema mudo para o cinema falado.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "rated": "G",
+      "released": "10 Apr 1952",
+      "runtime": "103 min",
+      "genre": "Comedy, Musical, Romance",
+      "director": "Stanley Donen, Gene Kelly",
+      "writer": "Betty Comden, Adolph Green",
+      "actors": "Gene Kelly, Donald O&apos;Connor, Debbie Reynolds",
+      "plot": "When Hollywood's silent era gives way to talkies, a dashing screen idol and a gifted newcomer navigate romance, rivalry, and the comic chaos of reinventing the movies.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 11 wins & 11 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "99/100"
+        }
+      ],
+      "imdbRating": "8.3",
+      "imdbVotes": "286,430",
+      "imdbID": "tt0045152",
+      "boxOffice": "$1,884,537",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/122939.mp4",
+    "streamName": "Cantando na Chuva",
+    "streamAvailable": true
+  },
+  {
+    "title": "Ed Wood",
+    "year": 1994,
+    "category": "comedy",
+    "ptTitle": "Ed Wood",
+    "curatorNote": "Comédia biográfica cult de Tim Burton em preto e branco: uma declaração de amor comovente e hilária aos cineastas incompreendidos e desajustados.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Ed Wood",
+      "year": "1994",
+      "rated": "R",
+      "released": "07 Oct 1994",
+      "runtime": "127 min",
+      "genre": "Biography, Comedy, Drama",
+      "director": "Tim Burton",
+      "writer": "Rudolph Grey, Scott Alexander, Larry Karaszewski",
+      "actors": "Johnny Depp, Martin Landau, Sarah Jessica Parker",
+      "plot": "Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams despite his lack of talent.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 2 Oscars. 27 wins & 33 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "imdbRating": "7.8",
+      "imdbVotes": "191,078",
+      "imdbID": "tt0109707",
+      "boxOffice": "$5,887,457",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352201.mp4",
+    "streamName": "Ed Wood [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Midnight Run",
+    "year": 1988,
+    "category": "comedy",
+    "ptTitle": "Fuga à Meia-Noite",
+    "curatorNote": "A nata da comédia de ação oitentista: química impagável entre Robert De Niro e Charles Grodin em uma caçada tresloucada de costa a costa.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Midnight Run",
+      "year": "1988",
+      "rated": "R",
+      "released": "20 Jul 1988",
+      "runtime": "126 min",
+      "genre": "Action, Comedy, Crime",
+      "director": "Martin Brest",
+      "writer": "George Gallo",
+      "actors": "Robert De Niro, Charles Grodin, Yaphet Kotto",
+      "plot": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+      "language": "English",
+      "country": "United States",
+      "awards": "2 wins & 5 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NWU5OWYtOTNiOC00MjA1LWJhOWQtMzYyMDgwMmE5ZDE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "105,536",
+      "imdbID": "tt0095631",
+      "boxOffice": "$38,413,606",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/350985.mp4",
+    "streamName": "Fuga à Meia-Noite",
+    "streamAvailable": true
+  },
+  {
+    "title": "Monty Python's Life of Brian",
+    "ptTitle": "A Vida de Brian",
+    "year": 1979,
+    "category": "comedy",
+    "letterboxdUrl": "https://letterboxd.com/film/monty-pythons-life-of-brian/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Satira biblica brilhante e irreverente do grupo Monty Python sobre dogmas, fanaticos e confusoes historicas.",
+    "curatorReason": "Satira biblica brilhante e irreverente do grupo Monty Python sobre dogmas, fanaticos e confusoes historicas.",
+    "omdb": {
+      "director": "Terry Jones",
+      "writer": "Graham Chapman, John Cleese, Terry Gilliam",
+      "actors": "Graham Chapman, John Cleese, Michael Palin",
+      "genre": "Comedy",
+      "plot": "Born on the original Christmas day in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for the messiah.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "imdbRating": "8.0",
+      "rottenTomatoes": "96%",
+      "metascore": "77",
+      "runtime": "94 min",
+      "rated": "R",
+      "imdbID": "tt0079470",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Vida%20de%20Brian.mp4",
+    "streamName": "A Vida de Brian",
+    "streamAvailable": true
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "ptTitle": "Curtindo a Vida Adoidado",
+    "year": 1986,
+    "category": "comedy",
+    "letterboxdUrl": "https://letterboxd.com/film/ferris-bueller's-day-off/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Um estudante genial decide matar aula e viver um dia inesquecivel em Chicago na obra-prima do mestre John Hughes.",
+    "curatorReason": "Classico absoluto dos anos 80, celebrando a liberdade e o humor despretensioso com quebra constante da quarta parede.",
+    "omdb": {
+      "director": "John Hughes",
+      "writer": "John Hughes",
+      "actors": "Matthew Broderick, Alan Ruck, Mia Sara",
+      "genre": "Comedy",
+      "plot": "A brash, cocky high school senior, tired of skipping school to spend a boring day at home, is determined to enjoy an epic day roaring around his favorite Chicago sites, enlisting his best friend and girlfriend to join him on the a...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "imdbRating": "7.8",
+      "rottenTomatoes": "85%",
+      "metascore": "61/100",
+      "runtime": "103 min",
+      "rated": "PG-13",
+      "imdbID": "tt0091042",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363872.mp4",
+    "streamName": "Curtindo a Vida Adoidado",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Blues Brothers",
+    "ptTitle": "Os Irmãos Cara de Pau",
+    "year": 1980,
+    "category": "comedy",
+    "letterboxdUrl": "https://letterboxd.com/film/the-blues-brothers/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Jake e Elwood Blues reúnem sua antiga banda de rhythm and blues em uma missao sagrada para salvar o orfanato onde cresceram.",
+    "curatorReason": "Comedia musical cult de John Landis com perseguições de carros colossais, participações de lendas do soul e timing impecavel.",
+    "omdb": {
+      "director": "John Landis",
+      "writer": "Dan Aykroyd, John Landis",
+      "actors": "John Belushi, Dan Aykroyd, Cab Calloway",
+      "genre": "Adventure, Comedy, Crime",
+      "plot": "Jake Blues rejoins his brother Elwood after being released from prison, but the duo has just days to reunite their old R&amp;B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "imdbRating": "7.9",
+      "rottenTomatoes": "72%",
+      "metascore": "60/100",
+      "runtime": "133 min",
+      "rated": "R",
+      "imdbID": "tt0080455",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/117076.mp4",
+    "streamName": "Os Irmãos Cara de Pau",
+    "streamAvailable": true
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "ptTitle": "Uma Babá Quase Perfeita",
+    "year": 1993,
+    "category": "comedy",
+    "letterboxdUrl": "https://letterboxd.com/film/mrs.-doubtfire/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Apos um divorcio doloroso, um pai se disfarca de uma governanta britanica idosa para conseguir passar tempo com seus filhos.",
+    "curatorReason": "A atuacao comica mais brilhante e virtuosa de Robin Williams, equilibrando improviso alucinante e emocao genuina.",
+    "omdb": {
+      "director": "Chris Columbus",
+      "writer": "Anne Fine, Randi Mayem Singer, Leslie Dixon",
+      "actors": "Robin Williams, Sally Field, Pierce Brosnan",
+      "genre": "Comedy, Drama, Family",
+      "plot": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2E2MDc5ZGEtOTNlZS00Mjg4LThlNzUtMDY2Zjc4ZTViNWY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "imdbRating": "7.1",
+      "rottenTomatoes": "71%",
+      "metascore": "54/100",
+      "runtime": "125 min",
+      "rated": "PG-13",
+      "imdbID": "tt0107614",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/322839.mp4",
+    "streamName": "Uma Babá Quase Perfeita",
+    "streamAvailable": true
+  },
+  {
+    "title": "National Lampoon's Vacation",
+    "ptTitle": "Férias Frustradas",
+    "year": 1983,
+    "category": "comedy",
+    "letterboxdUrl": "https://letterboxd.com/film/national-lampoon's-vacation/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "A familia Griswold cruza os Estados Unidos em uma viagem de carro rumo ao parque Walley World, acumulando desastres hilarios pelo caminho.",
+    "curatorReason": "O auge da comedia de viagem dos anos 80, escrito por John Hughes e dirigido por Harold Ramis com o carisma desastrado de Chevy Chase.",
+    "omdb": {
+      "director": "Harold Ramis",
+      "writer": "John Hughes",
+      "actors": "Chevy Chase, Beverly D&apos;Angelo, Imogene Coca",
+      "genre": "Adventure, Comedy",
+      "plot": "The Griswold family's cross-country drive in their brand new Wagon Family Truckster to the Walley World theme park in California proves to be much more arduous than they ever anticipated.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3ZTg3MzYtOGU0Yi00NjgyLWFkNmMtMWFlZWE3MTkyOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "imdbRating": "7.3",
+      "rottenTomatoes": "94%",
+      "metascore": "55/100",
+      "runtime": "98 min",
+      "rated": "R",
+      "imdbID": "tt0085995",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ]
+    },
+    "parentCategory": "besteirol",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/249715.mp4",
+    "streamName": "Férias Frustradas (1983)",
+    "streamAvailable": true
+  }
+]

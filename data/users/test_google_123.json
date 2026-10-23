@@ -1,0 +1,22 @@
+{
+  "watched": [],
+  "ignored": [],
+  "comments": {},
+  "undubbed": [],
+  "savedMovies": [
+    "Triangle",
+    "Upgrade"
+  ],
+  "savedCategories": [
+    "Survival & Terror Psicológico",
+    "Cyberpunk & Sci-Fi"
+  ],
+  "iptvUrl": "http://contrafilenabrasa.net:80/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=m3u8",
+  "iptvName": "contrafilenabrasa.net",
+  "googleUser": {
+    "id": "test_google_123",
+    "name": "Test User",
+    "email": "test@example.com",
+    "picture": "https://lh3.googleusercontent.com/a/default-user"
+  }
+}

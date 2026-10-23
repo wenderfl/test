@@ -1,0 +1,688 @@
+[
+  {
+    "title": "The Boy Who Harnessed the Wind",
+    "year": 2019,
+    "category": "study",
+    "ptTitle": "O Menino que Descobriu o Vento",
+    "curatorNote": "Irmão espiritual de October Sky: um garoto autodidata no Malawi devora livros de física na biblioteca da vila para construir uma turbina eólica com sucata e salvar sua comunidade da fome.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Boy Who Harnessed the Wind",
+      "year": "2019",
+      "rated": "TV-PG",
+      "released": "01 Mar 2019",
+      "runtime": "113 min",
+      "genre": "Biography, Drama, History",
+      "director": "Chiwetel Ejiofor",
+      "writer": "Chiwetel Ejiofor, William Kamkwamba, Bryan Mealer",
+      "actors": "Chiwetel Ejiofor, Maxwell Simba, Felix Lemburo",
+      "plot": "Against all the odds, a thirteen-year-old boy in Malawi invents an unconventional way to save his family and village from famine.",
+      "language": "English, Nyanja, Arabic",
+      "country": "United Kingdom, Malawi, United States, Kenya",
+      "awards": "5 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTg5MTA0OV5BMl5BanBnXkFtZTgwNTMyNTY0NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "imdbRating": "7.6",
+      "imdbVotes": "53,736",
+      "imdbID": "tt7533152",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21451.mp4",
+    "streamName": "O Menino que Descobriu o Vento",
+    "streamAvailable": true
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "category": "study",
+    "ptTitle": "Sociedade dos Poetas Mortos",
+    "curatorNote": "Um professor heterodoxo desperta em seus alunos a paixão genuína pelo estudo das palavras, pensamento crítico independente e a coragem intelectual de buscar uma vida extraordinária.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Dead Poets Society",
+      "year": "1989",
+      "rated": "PG",
+      "released": "09 Jun 1989",
+      "runtime": "128 min",
+      "genre": "Comedy, Drama",
+      "director": "Peter Weir",
+      "writer": "Tom Schulman",
+      "actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke",
+      "plot": "A maverick teacher at a prestigious New England boys' boarding school uses poetry to embolden his pupils to new heights of self-expression.",
+      "language": "English, Latin, French",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 20 wins & 19 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "imdbRating": "8.1",
+      "imdbVotes": "671,769",
+      "imdbID": "tt0097165",
+      "boxOffice": "$95,860,116",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/42006.mp4",
+    "streamName": "Sociedade dos Poetas Mortos",
+    "streamAvailable": true
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "category": "study",
+    "ptTitle": "Gênio Indomável",
+    "curatorNote": "Presente na sua Watchlist! Um jovem faxineiro com genialidade autodidata em matemática é desafiado a enfrentar seus traumas para que seu talento intelectual não seja desperdiçado.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Good Will Hunting",
+      "year": "1998",
+      "rated": "R",
+      "released": "09 Jan 1998",
+      "runtime": "126 min",
+      "genre": "Drama, Romance",
+      "director": "Gus Van Sant",
+      "writer": "Matt Damon, Ben Affleck",
+      "actors": "Robin Williams, Matt Damon, Ben Affleck",
+      "plot": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 2 Oscars. 25 wins & 61 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "imdbRating": "8.4",
+      "imdbVotes": "1,246,559",
+      "imdbID": "tt0119217",
+      "boxOffice": "$138,433,435",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352208.mp4",
+    "streamName": "Gênio Indomável [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Finding Forrester",
+    "year": 2000,
+    "category": "study",
+    "ptTitle": "Encontrando Forrester",
+    "curatorNote": "Gus Van Sant dirige Sean Connery e Rob Brown em uma comovente história sobre talento intelectual, literatura e dedicação acadêmica.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Finding Forrester",
+      "year": "2001",
+      "rated": "PG-13",
+      "released": "12 Jan 2001",
+      "runtime": "136 min",
+      "genre": "Drama, Sport",
+      "director": "Gus Van Sant",
+      "writer": "Mike Rich",
+      "actors": "Sean Connery, Rob Brown, F. Murray Abraham",
+      "plot": "Forrester, the author of a famous book, decides to help Jamal, a 16-year-old student, discover his writing prowess by mentoring him and enrolling him into a prestigious private school.",
+      "language": "English, German",
+      "country": "United States, Canada",
+      "awards": "5 wins & 13 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjQ4MjcyOF5BMl5BanBnXkFtZTYwNTMzODg2._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "95,991",
+      "imdbID": "tt0181536",
+      "boxOffice": "$51,804,714",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128511.mp4",
+    "streamName": "Encontrando Forrester",
+    "streamAvailable": true
+  },
+  {
+    "title": "Temple Grandin",
+    "year": 2010,
+    "category": "study",
+    "ptTitle": "Temple Grandin",
+    "curatorNote": "História real emocionante de dedicação científica: com o apoio de um professor entusiasta de ciências, uma jovem no espectro autista transforma seu raciocínio visual único em revoluções na engenharia e na pecuária.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Temple Grandin",
+      "year": "2010",
+      "rated": "TV-PG",
+      "released": "06 Feb 2010",
+      "runtime": "107 min",
+      "genre": "Biography, Drama",
+      "director": "Mick Jackson",
+      "writer": "Temple Grandin, Margaret Scariano, Christopher Monger",
+      "actors": "Claire Danes, Julia Ormond, David Strathairn",
+      "plot": "A biopic of Temple Grandin, an autistic woman who has become one of the top scientists in the humane livestock handling industry.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 7 Primetime Emmys. 35 wins & 37 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "imdbRating": "8.2",
+      "imdbVotes": "37,375",
+      "imdbID": "tt1278469",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Temple%20Grandin.mp4",
+    "streamName": "Temple Grandin",
+    "streamAvailable": true
+  },
+  {
+    "title": "Spare Parts",
+    "year": 2015,
+    "category": "study",
+    "ptTitle": "Spare Parts: Unidos por um Sonho",
+    "curatorNote": "A jornada inspiradora e direta no espírito de October Sky: quatro jovens estudantes usam peças baratas e muita física prática para derrotar o MIT em competição de robótica submarina.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Spare Parts",
+      "year": "2015",
+      "rated": "PG-13",
+      "released": "05 Jun 2015",
+      "runtime": "114 min",
+      "genre": "Biography, Drama, History",
+      "director": "Sean McNamara",
+      "writer": "Joshua Davis, Elissa Matsueda",
+      "actors": "George Lopez, Jamie Lee Curtis, Carlos PenaVega",
+      "plot": "Four Mexican high school students form a robotics club. With no experience, 800 bucks, used car parts and a dream, this rag tag team goes up against the country's reigning robotics champion, MIT.",
+      "language": "English, Spanish",
+      "country": "United States, Mexico",
+      "awards": "2 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzI4NTIyMF5BMl5BanBnXkFtZTgwMzIzNDMxMzE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "58%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "12,490",
+      "imdbID": "tt3233418",
+      "boxOffice": "$3,618,912",
+      "type": "movie"
+    },
+    "dubbed": true,
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Spare%20Parts%3A%20Unidos%20por%20um%20Sonho.mp4",
+    "streamName": "Spare Parts: Unidos por um Sonho",
+    "streamAvailable": true
+  },
+  {
+    "title": "Contact",
+    "ptTitle": "Contato",
+    "year": 1997,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/contact/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Dra. Ellie Arroway dedica sua carreira ao projeto SETI e capta o primeiro sinal de radio transmitido por civilizacao alienigena.",
+    "curatorReason": "Dra. Ellie Arroway dedica sua carreira ao projeto SETI e capta o primeiro sinal de radio transmitido por civilizacao alienigena.",
+    "omdb": {
+      "director": "Robert Zemeckis",
+      "writer": "James V. Hart, Michael Goldenberg, Carl Sagan",
+      "actors": "Jodie Foster, Matthew McConaughey, Tom Skerritt",
+      "genre": "Drama, Mystery, Sci-Fi",
+      "plot": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "imdbRating": "7.5",
+      "rottenTomatoes": "69%",
+      "metascore": "62",
+      "runtime": "150 min",
+      "rated": "PG",
+      "imdbID": "tt0118884",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/76918.mp4",
+    "streamName": "Contato",
+    "streamAvailable": true
+  },
+  {
+    "title": "Apollo 13",
+    "ptTitle": "Apollo 13: Do Desastre ao Triunfo",
+    "year": 1995,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/apollo-13/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Engenheiros da NASA e astronautas usam calculos fisicos e improvisacao com materiais manuais para salvar missao espacial em perigo extremo.",
+    "curatorReason": "Engenheiros da NASA e astronautas usam calculos fisicos e improvisacao com materiais manuais para salvar missao espacial em perigo extremo.",
+    "omdb": {
+      "director": "Ron Howard",
+      "writer": "Jim Lovell, Jeffrey Kluger, William Broyles Jr.",
+      "actors": "Tom Hanks, Bill Paxton, Kevin Bacon",
+      "genre": "Adventure, Drama, History",
+      "plot": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "92%",
+      "metascore": "78",
+      "runtime": "140 min",
+      "rated": "PG",
+      "imdbID": "tt0112384",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Apollo%2013%3A%20Do%20Desastre%20ao%20Triunfo.mp4",
+    "streamName": "Apollo 13: Do Desastre ao Triunfo",
+    "streamAvailable": true
+  },
+  {
+    "title": "Awakenings",
+    "ptTitle": "Tempo de Despertar",
+    "year": 1991,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/awakenings/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Medico pesquisador timido testa droga experimental e desperta pacientes catatonicos adormecidos ha decadas.",
+    "curatorReason": "Medico pesquisador timido testa droga experimental e desperta pacientes catatonicos adormecidos ha decadas.",
+    "omdb": {
+      "director": "Penny Marshall",
+      "writer": "Oliver Sacks, Steven Zaillian",
+      "actors": "Robert De Niro, Robin Williams, Julie Kavner",
+      "genre": "Biography, Drama",
+      "plot": "Dr. Sayer is a pioneering neurologist who wants to take a risk and give his patients who suffer from encephalitis a drug used for Parkinson's Disease. He tries it out on one man who miraculously wakes from his perpetual catatonic ...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "imdbRating": "7.8",
+      "rottenTomatoes": "81%",
+      "metascore": "74",
+      "runtime": "121 min",
+      "rated": "PG-13",
+      "imdbID": "tt0099077",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/368263.mp4",
+    "streamName": "Tempo de Despertar",
+    "streamAvailable": true
+  },
+  {
+    "title": "Medicine Man",
+    "ptTitle": "O Curandeiro da Selva",
+    "year": 1992,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/medicine-man/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Bioquimico excentrico isolado na selva amazonica descobre composto vegetal que cura o cancer e corre contra destruicao da mata.",
+    "curatorReason": "Bioquimico excentrico isolado na selva amazonica descobre composto vegetal que cura o cancer e corre contra destruicao da mata.",
+    "omdb": {
+      "director": "John McTiernan",
+      "writer": "Tom Schulman, Sally Robinson",
+      "actors": "Sean Connery, Lorraine Bracco, José Wilker",
+      "genre": "Adventure, Drama, Romance",
+      "plot": "In the beautiful and dangerous Amazon rainforest, dissimilar people must make their choices between business, science, and love.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU0YzY3MTgtYzhkMi00ZjQxLTk3NzctY2NmYWU5YjFkMDllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "6.0",
+      "rottenTomatoes": "17%",
+      "metascore": "43",
+      "runtime": "106 min",
+      "rated": "PG-13",
+      "imdbID": "tt0104839",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "17%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "43/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Curandeiro%20da%20Selva.mp4",
+    "streamName": "O Curandeiro da Selva",
+    "streamAvailable": true
+  },
+  {
+    "title": "Real Genius",
+    "ptTitle": "Academia de Genios",
+    "year": 1985,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/real-genius/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Val Kilmer lidera prodigios universitarios de fisica que descobrem que seu projeto de laser seria usado como arma militar secreta.",
+    "curatorReason": "Val Kilmer lidera prodigios universitarios de fisica que descobrem que seu projeto de laser seria usado como arma militar secreta.",
+    "omdb": {
+      "director": "Martha Coolidge",
+      "writer": "Neal Israel, Pat Proft, PJ Torokvei",
+      "actors": "Val Kilmer, Stacy Peralta, Daniel Ades",
+      "genre": "Comedy, Romance, Sci-Fi",
+      "plot": "An uptight teenage prodigy enters a top engineering college, but feels awkward among the freewheeling students. When a professor aims to turn their laser project into a military weapon, he and his offbeat roommate plot to ruin the...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "6.9",
+      "rottenTomatoes": "77%",
+      "metascore": "71",
+      "runtime": "108 min",
+      "rated": "PG",
+      "imdbID": "tt0089886",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Academia%20de%20Genios.mp4",
+    "streamName": "Academia de Genios",
+    "streamAvailable": true
+  },
+  {
+    "title": "Searching for Bobby Fischer",
+    "ptTitle": "Lances Inocentes",
+    "year": 1993,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/searching-for-bobby-fischer/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "VTI Rio",
+    "curatorNote": "Menino prodigio do xadrez desenvolve estrategia mental brilhante enquanto busca preservar sua humanidade contra pressoes competitivas.",
+    "curatorReason": "Menino prodigio do xadrez desenvolve estrategia mental brilhante enquanto busca preservar sua humanidade contra pressoes competitivas.",
+    "omdb": {
+      "director": "Steven Zaillian",
+      "writer": "Fred Waitzkin, Steven Zaillian",
+      "actors": "Joe Mantegna, Ben Kingsley, Max Pomeranc",
+      "genre": "Biography, Drama, Sport",
+      "plot": "A prepubescent chess prodigy is encouraged to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMDU3MTctN2M3Ny00YTBhLWExZmUtYmRlZTAxNDhmZTQ1XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "7.3",
+      "rottenTomatoes": "98%",
+      "metascore": "89",
+      "runtime": "109 min",
+      "rated": "PG",
+      "imdbID": "tt0108065",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/230156.mp4",
+    "streamName": "Lances Inocentes",
+    "streamAvailable": true
+  },
+  {
+    "title": "Akeelah and the Bee",
+    "ptTitle": "Prova de Fogo",
+    "year": 2006,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/akeelah-and-the-bee/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Garota de bairro periferico supera adversidades com disciplina feroz e etimologia para disputar campeonato nacional de soletramente.",
+    "curatorReason": "Garota de bairro periferico supera adversidades com disciplina feroz e etimologia para disputar campeonato nacional de soletramente.",
+    "omdb": {
+      "director": "Doug Atchison",
+      "writer": "Doug Atchison",
+      "actors": "Angela Bassett, Laurence Fishburne, Keke Palmer",
+      "genre": "Drama, Family",
+      "plot": "Akeelah, a young gifted girl, comes from a dysfunctional family and is on the verge of quitting school. She discovers that she has a high aptitude for spellings and enters a spelling bee contest.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMDIwNjIzM15BMl5BanBnXkFtZTcwNTczODQzMQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "imdbRating": "7.4",
+      "rottenTomatoes": "86%",
+      "metascore": "72",
+      "runtime": "112 min",
+      "rated": "PG",
+      "imdbID": "tt0437800",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/383009.mp4",
+    "streamName": "Prova de Fogo",
+    "streamAvailable": true
+  },
+  {
+    "title": "21",
+    "ptTitle": "Quebrando a Banca",
+    "year": 2008,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/21/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Estudantes brilhantes do MIT usam matematica avancada, contagem de cartas e codigos secretos para ganhar fortunas em cassinos.",
+    "curatorReason": "Estudantes brilhantes do MIT usam matematica avancada, contagem de cartas e codigos secretos para ganhar fortunas em cassinos.",
+    "omdb": {
+      "director": "Robert Luketic",
+      "writer": "Peter Steinfeld, Allan Loeb, Ben Mezrich",
+      "actors": "Jim Sturgess, Kate Bosworth, Kevin Spacey",
+      "genre": "Crime, Drama, Thriller",
+      "plot": "Inspired by real events and people, 21 is about six MIT students who become trained to be experts in card counting in blackjack and subsequently took Vegas casinos for millions in winnings.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTVkZWI5OGMtYmI0NC00MWJmLWE4ZWMtMDA0OTY4NTkzYmNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "imdbRating": "6.8",
+      "rottenTomatoes": "36%",
+      "metascore": "48",
+      "runtime": "123 min",
+      "rated": "PG-13",
+      "imdbID": "tt0478087",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "36%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/120709.mp4",
+    "streamName": "Quebrando a Banca",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Professor and the Madman",
+    "ptTitle": "O Genio e o Louco",
+    "year": 2019,
+    "category": "study",
+    "letterboxdUrl": "https://letterboxd.com/film/the-professor-and-the-madman/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Professor assume desafio colossal de criar o primeiro dicionario Oxford com ajuda de cirurgiao internado em asilo criminal.",
+    "curatorReason": "Professor assume desafio colossal de criar o primeiro dicionario Oxford com ajuda de cirurgiao internado em asilo criminal.",
+    "omdb": {
+      "director": "Farhad Safinia",
+      "writer": "Todd Komarnicki, Farhad Safinia, Simon Winchester",
+      "actors": "Mel Gibson, Sean Penn, Eddie Marsan",
+      "genre": "Biography, Drama, History",
+      "plot": "Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Chest...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2JlYzRmNjYtYTg4Mi00MjMyLTlhYTYtMmNiY2Y0ODg5M2I1XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "42%",
+      "metascore": "27",
+      "runtime": "124 min",
+      "rated": "Not Rated",
+      "imdbID": "tt5932728",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "42%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "27/100"
+        }
+      ]
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/25107.mp4",
+    "streamName": "O Genio e o Louco",
+    "streamAvailable": true
+  }
+]

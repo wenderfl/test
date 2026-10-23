@@ -1,0 +1,866 @@
+[
+  {
+    "title": "The French Connection",
+    "ptTitle": "Operação França",
+    "year": 1971,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-french-connection/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Telecine / Herbert Richers",
+    "curatorNote": "Vencedor de 5 Oscars e obra-prima máxima do cinema policial realista de William Friedkin, apresentando uma das perseguições de carro mais eletrizantes e viscerais já filmadas.",
+    "curatorReason": "Vencedor de 5 Oscars e obra-prima máxima do cinema policial realista de William Friedkin, apresentando uma das perseguições de carro mais eletrizantes e viscerais já filmadas.",
+    "omdb": {
+      "director": "William Friedkin",
+      "writer": "Ernest Tidyman, Robin Moore, William Friedkin",
+      "actors": "Gene Hackman, Roy Scheider, Fernando Rey",
+      "genre": "Action, Crime, Drama",
+      "plot": "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "97%",
+      "metascore": "94/100",
+      "runtime": "104 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/114389.mp4",
+    "streamName": "Operação França",
+    "streamAvailable": true
+  },
+  {
+    "title": "Bullitt",
+    "ptTitle": "Bullitt",
+    "year": 1968,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/bullitt/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinecastro / Herbert Richers",
+    "curatorNote": "Steve McQueen no auge de sua presença magnética como o tenente Frank Bullitt, imortalizado na lendária sequência de perseguição de Mustang pelas ladeiras de San Francisco.",
+    "curatorReason": "Steve McQueen no auge de sua presença magnética como o tenente Frank Bullitt, imortalizado na lendária sequência de perseguição de Mustang pelas ladeiras de San Francisco.",
+    "omdb": {
+      "director": "Peter Yates",
+      "writer": "Alan Trustman, Harry Kleiner, Robert L. Fish",
+      "actors": "Steve McQueen, Jacqueline Bisset, Robert Vaughn",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A nonconformist San Francisco cop is determined to find the underworld kingpin who killed the witness under his protection.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTA0ZjRhNjgtYWNlMC00Y2U4LTg1OGEtMTU4NGM1MTRjZGUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "imdbRating": "7.4",
+      "rottenTomatoes": "98%",
+      "metascore": "81/100",
+      "runtime": "114 min",
+      "rated": "M/PG",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363867.mp4",
+    "streamName": "Bullitt [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Hard Times",
+    "ptTitle": "Lutador da Rua",
+    "year": 1975,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/hard-times/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Estreia na direção de Walter Hill, trazendo Charles Bronson em atuação estóica e contundente em lutas de rua clandestinas durante a Grande Depressão.",
+    "curatorReason": "Estreia na direção de Walter Hill, trazendo Charles Bronson em atuação estóica e contundente em lutas de rua clandestinas durante a Grande Depressão.",
+    "omdb": {
+      "director": "Walter Hill",
+      "writer": "Walter Hill, Bryan Gindoff, Bruce Henstell",
+      "actors": "Charles Bronson, James Coburn, Jill Ireland",
+      "genre": "Crime, Drama, Sport",
+      "plot": "The saga of a drifter who turns to illicit bare-knuckle boxing in Depression-era New Orleans.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhZDNlOWQtODkxMi00MDMyLWE0YzAtNDFiMGFjMDhkN2Q0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "71%",
+      "metascore": "69/100",
+      "runtime": "93 min",
+      "rated": "PG",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Lutador%20da%20Rua.mp4",
+    "streamName": "Lutador da Rua",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Driver",
+    "ptTitle": "Caçador de Assassinos",
+    "year": 1978,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-driver/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Thriller neo-noir minimalista de Walter Hill sobre um piloto profissional de fuga e o detetive obsessivo em seu encalço, influência direta declarada de Drive e Baby Driver.",
+    "curatorReason": "Thriller neo-noir minimalista de Walter Hill sobre um piloto profissional de fuga e o detetive obsessivo em seu encalço, influência direta declarada de Drive e Baby Driver.",
+    "omdb": {
+      "director": "Walter Hill",
+      "writer": "Walter Hill",
+      "actors": "Ryan O&apos;Neal, Bruce Dern, Isabelle Adjani",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A getaway driver becomes the latest assignment for a tenacious detective.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTAxMDc2MzQtNWJhNi00ZWNmLWJiNjctNWQzNDNlOTRiZWQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg",
+      "imdbRating": "7.1",
+      "rottenTomatoes": "80%",
+      "metascore": "56/100",
+      "runtime": "91 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380554.mp4",
+    "streamName": "Caçador de Assassinos",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Wild Bunch",
+    "ptTitle": "Meu Ódio Será Sua Herança",
+    "year": 1969,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-wild-bunch/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Revolução de Sam Peckinpah no cinema de ação, com montagem acelerada, tiroteios balísticos épicos e o crepúsculo moral de foras-da-lei na fronteira mexicana.",
+    "curatorReason": "Revolução de Sam Peckinpah no cinema de ação, com montagem acelerada, tiroteios balísticos épicos e o crepúsculo moral de foras-da-lei na fronteira mexicana.",
+    "omdb": {
+      "director": "Sam Peckinpah",
+      "writer": "Walon Green, Sam Peckinpah, Roy N. Sickner",
+      "actors": "William Holden, Ernest Borgnine, Robert Ryan",
+      "genre": "Action, Adventure, Drama",
+      "plot": "An aging group of outlaws in 1913 Texas look for one last big score, selling stolen Army rifles to a rogue Mexican general during that country's revolution, as the traditional American West is disappearing around them.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmFlMWJlMDEtNjFlNC00YjQ1LWI1ZTYtZDZkNDY0N2RiMDA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "imdbRating": "7.9",
+      "rottenTomatoes": "91%",
+      "metascore": "98/100",
+      "runtime": "135 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/371904.mp4",
+    "streamName": "Meu Ódio Será Sua Herança [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Killer",
+    "ptTitle": "O Assassino",
+    "year": 1989,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-killer/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS / Marshmellow",
+    "curatorNote": "A apoteose do heroic bloodshed de John Woo, coreografando tiroteios como balés operísticos de lealdade, honra e redenção com Chow Yun-fat.",
+    "curatorReason": "A apoteose do heroic bloodshed de John Woo, coreografando tiroteios como balés operísticos de lealdade, honra e redenção com Chow Yun-fat.",
+    "omdb": {
+      "director": "John Woo",
+      "writer": "John Woo",
+      "actors": "Chow Yun-Fat, Danny Lee, Sally Yeh",
+      "genre": "Action, Crime, Drama",
+      "plot": "A disillusioned assassin accepts one last hit in hopes of using his earnings to restore the vision of a singer he accidentally blinded.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "96%",
+      "metascore": "82/100",
+      "runtime": "111 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/229163.mp4",
+    "streamName": "O Assassino 4K [Hybrid]",
+    "streamAvailable": true
+  },
+  {
+    "title": "To Live and Die in L.A.",
+    "ptTitle": "Viver e Morrer em Los Angeles",
+    "year": 1985,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/to-live-and-die-in-la/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Obra estilosa e frenética de William Friedkin com trilha synthwave de Wang Chung, William Petersen obstinado e Willem Dafoe como falsário carismático.",
+    "curatorReason": "Obra estilosa e frenética de William Friedkin com trilha synthwave de Wang Chung, William Petersen obstinado e Willem Dafoe como falsário carismático.",
+    "omdb": {
+      "director": "William Friedkin",
+      "writer": "Gerald Petievich, William Friedkin",
+      "actors": "William Petersen, Willem Dafoe, John Pankow",
+      "genre": "Action, Crime, Drama",
+      "plot": "A Secret Service agent becomes obsessed with catching a ruthless counterfeiter.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "imdbRating": "7.3",
+      "rottenTomatoes": "89%",
+      "metascore": "81/100",
+      "runtime": "116 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Viver%20e%20Morrer%20em%20Los%20Angeles.mp4",
+    "streamName": "Viver e Morrer em Los Angeles",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Road Warrior",
+    "ptTitle": "Mad Max 2: A Caçada Continua",
+    "year": 1981,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/mad-max-2-the-road-warrior/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "O ápice do cinema de ação pós-apocalíptico de George Miller, recheado de dublês reais em velocidade máxima e coreografias mecânicas inacreditáveis.",
+    "curatorReason": "O ápice do cinema de ação pós-apocalíptico de George Miller, recheado de dublês reais em velocidade máxima e coreografias mecânicas inacreditáveis.",
+    "omdb": {
+      "director": "George Miller",
+      "writer": "N/A",
+      "actors": "Mel Gibson, Bruce Spence, Michael Preston",
+      "genre": "Talk-Show",
+      "plot": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community get rid of a horde of bandits.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "93%",
+      "metascore": "N/A/100",
+      "runtime": "81 min",
+      "rated": "N/A",
+      "ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20089.mp4",
+    "streamName": "Mad Max 2",
+    "streamAvailable": true
+  },
+  {
+    "title": "Demolition Man",
+    "ptTitle": "O Demolidor",
+    "year": 1993,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/demolition-man/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Ação futurista noventista divertidíssima colocando Sylvester Stallone e Wesley Snipes em rota de colisão numa sociedade distópica absurdamente esterilizada.",
+    "curatorReason": "Ação futurista noventista divertidíssima colocando Sylvester Stallone e Wesley Snipes em rota de colisão numa sociedade distópica absurdamente esterilizada.",
+    "omdb": {
+      "director": "Marco Brambilla",
+      "writer": "Peter M. Lenkov, Robert Reneau, Daniel Waters",
+      "actors": "Sylvester Stallone, Wesley Snipes, Sandra Bullock",
+      "genre": "Action, Sci-Fi, Thriller",
+      "plot": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "imdbRating": "6.7",
+      "rottenTomatoes": "67%",
+      "metascore": "34/100",
+      "runtime": "115 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "34/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/129534.mp4",
+    "streamName": "O Demolidor",
+    "streamAvailable": true
+  },
+  {
+    "title": "Lethal Weapon",
+    "ptTitle": "Máquina Mortífera",
+    "year": 1987,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/lethal-weapon/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "A pedra fundamental do gênero buddy cop moderno, dirigida com maestria por Richard Donner com roteiro afiado de Shane Black e química lendária.",
+    "curatorReason": "A pedra fundamental do gênero buddy cop moderno, dirigida com maestria por Richard Donner com roteiro afiado de Shane Black e química lendária.",
+    "omdb": {
+      "director": "Richard Donner",
+      "writer": "Shane Black, Jeffrey Boam",
+      "actors": "Mel Gibson, Danny Glover, Gary Busey",
+      "genre": "Action, Crime, Thriller",
+      "plot": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "82%",
+      "metascore": "68/100",
+      "runtime": "109 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20096.mp4",
+    "streamName": "Maquina Mortifera",
+    "streamAvailable": true
+  },
+  {
+    "title": "Heat",
+    "ptTitle": "Fogo Contra Fogo",
+    "year": 1995,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/heat-1995/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "VTI Rio",
+    "curatorNote": "O duelo definitivo de titãs do cinema entre Al Pacino e Robert De Niro, arquitetado com rigor clínico por Michael Mann com o melhor tiroteio urbano da história.",
+    "curatorReason": "O duelo definitivo de titãs do cinema entre Al Pacino e Robert De Niro, arquitetado com rigor clínico por Michael Mann com o melhor tiroteio urbano da história.",
+    "omdb": {
+      "director": "Michael Mann",
+      "writer": "Michael Mann",
+      "actors": "Al Pacino, Robert De Niro, Val Kilmer",
+      "genre": "Action, Crime, Drama",
+      "plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "imdbRating": "8.3",
+      "rottenTomatoes": "84%",
+      "metascore": "76/100",
+      "runtime": "170 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/92575.mp4",
+    "streamName": "Fogo Contra Fogo",
+    "streamAvailable": true
+  },
+  {
+    "title": "In the Line of Fire",
+    "ptTitle": "Na Linha de Fogo",
+    "year": 1993,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/in-the-line-of-fire/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Clint Eastwood e John Malkovich travam um jogo psicológico de gato e rato tenso e implacável em torno da segurança presidencial.",
+    "curatorReason": "Clint Eastwood e John Malkovich travam um jogo psicológico de gato e rato tenso e implacável em torno da segurança presidencial.",
+    "omdb": {
+      "director": "Wolfgang Petersen",
+      "writer": "Jeff Maguire",
+      "actors": "Clint Eastwood, John Malkovich, Rene Russo",
+      "genre": "Action, Crime, Drama",
+      "plot": "Secret Service agent Frank Horrigan couldn't save Kennedy, but he's determined not to let a clever assassin take out this president.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "96%",
+      "metascore": "74/100",
+      "runtime": "128 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108290.mp4",
+    "streamName": "Na Linha de Fogo",
+    "streamAvailable": true
+  },
+  {
+    "title": "True Lies",
+    "ptTitle": "True Lies",
+    "year": 1994,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/true-lies/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "James Cameron une humor hilário e ação blockbuster de altíssimo calibre com Arnold Schwarzenegger e Jamie Lee Curtis em performances inesquecíveis.",
+    "curatorReason": "James Cameron une humor hilário e ação blockbuster de altíssimo calibre com Arnold Schwarzenegger e Jamie Lee Curtis em performances inesquecíveis.",
+    "omdb": {
+      "director": "James Cameron",
+      "writer": "James Cameron, Claude Zidi, Simon Michaël",
+      "actors": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold",
+      "genre": "Action, Comedy, Thriller",
+      "plot": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear warheads into the United St...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "imdbRating": "7.3",
+      "rottenTomatoes": "77%",
+      "metascore": "63/100",
+      "runtime": "141 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20266.mp4",
+    "streamName": "True Lies",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Dirty Dozen",
+    "ptTitle": "Os Doze Condenados",
+    "year": 1967,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-dirty-dozen/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinecastro / AIC",
+    "curatorNote": "Clássico seminal de pelotão suicida de Robert Aldrich com Lee Marvin comandando um elenco explosivo em missão de alto risco na Segunda Guerra.",
+    "curatorReason": "Clássico seminal de pelotão suicida de Robert Aldrich com Lee Marvin comandando um elenco explosivo em missão de alto risco na Segunda Guerra.",
+    "omdb": {
+      "director": "Robert Aldrich",
+      "writer": "Nunnally Johnson, Lukas Heller, E.M. Nathanson",
+      "actors": "Lee Marvin, Ernest Borgnine, Charles Bronson",
+      "genre": "Action, Adventure, War",
+      "plot": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZjhiN2EtM2I3Mi00MDNlLWJiY2UtNmU0Zjg0YTQyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "82%",
+      "metascore": "73/100",
+      "runtime": "150 min",
+      "rated": "Approved",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/42942.mp4",
+    "streamName": "Dirty Harry na Lista Negra",
+    "streamAvailable": true
+  },
+  {
+    "title": "On Location: Where Eagles Dare",
+    "ptTitle": "O Desafio das Águias",
+    "year": 1968,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/where-eagles-dare/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Tensão espetacular nas montanhas bávaras com Richard Burton e Clint Eastwood invadindo um castelo nazista repleto de traições e tiroteios frenéticos.",
+    "curatorReason": "Tensão espetacular nas montanhas bávaras com Richard Burton e Clint Eastwood invadindo um castelo nazista repleto de traições e tiroteios frenéticos.",
+    "omdb": {
+      "director": "N/A",
+      "writer": "N/A",
+      "actors": "Clint Eastwood, Richard Burton, Ingrid Pitt",
+      "genre": "Documentary, Short",
+      "plot": "A behind-the-scenes look at the difficulties of shooting a movie on location in the Austrian Alps.",
+      "poster": "",
+      "imdbRating": "6.5",
+      "rottenTomatoes": "85%",
+      "metascore": "N/A/100",
+      "runtime": "13 min",
+      "rated": "N/A",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/96870.mp4",
+    "streamName": "O Grande Desafio",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "ptTitle": "O Sequestro do Metrô",
+    "year": 1974,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-taking-of-pelham-one-two-three/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Suspense de ação tenso e inteligente no subterrâneo nova-iorquino dos anos 70 com Walter Matthau enfrentando criminosos frios e calculistas.",
+    "curatorReason": "Suspense de ação tenso e inteligente no subterrâneo nova-iorquino dos anos 70 com Walter Matthau enfrentando criminosos frios e calculistas.",
+    "omdb": {
+      "director": "Joseph Sargent",
+      "writer": "John Godey, Peter Stone",
+      "actors": "Walter Matthau, Robert Shaw, Martin Balsam",
+      "genre": "Action, Crime, Thriller",
+      "plot": "Four armed men hijack a New York City subway car and demand a ransom for the passengers. The city's police are faced with a conundrum: Even if it's paid, how could they get away?",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NDk3Ml5BMl5BanBnXkFtZTcwMTAzMTM3NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "98%",
+      "metascore": "68/100",
+      "runtime": "104 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354258.mp4",
+    "streamName": "O Sequestro do Metrô [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Deliverance",
+    "ptTitle": "Amargo Pesadelo",
+    "year": 1972,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/deliverance/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Clássico de sobrevivência brutal e implacável de John Boorman, retratando o embate desesperador entre homens civilizados e a selvageria primordial.",
+    "curatorReason": "Clássico de sobrevivência brutal e implacável de John Boorman, retratando o embate desesperador entre homens civilizados e a selvageria primordial.",
+    "omdb": {
+      "director": "John Boorman",
+      "writer": "James Dickey, John Boorman",
+      "actors": "Jon Voight, Burt Reynolds, Ned Beatty",
+      "genre": "Adventure, Drama, Thriller",
+      "plot": "Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "imdbRating": "7.6",
+      "rottenTomatoes": "90%",
+      "metascore": "80/100",
+      "runtime": "109 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/339927.mp4",
+    "streamName": "Amargo Pesadelo [L]",
+    "streamAvailable": true
+  },
+  {
+    "title": "Dirty Harry",
+    "ptTitle": "Perseguição Implacável",
+    "year": 1971,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/dirty-harry/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "O nascimento de um ícone do cinema com Clint Eastwood como o inspetor Harry Callahan caçando o maníaco Scorpio pelas ruas de San Francisco.",
+    "curatorReason": "O nascimento de um ícone do cinema com Clint Eastwood como o inspetor Harry Callahan caçando o maníaco Scorpio pelas ruas de San Francisco.",
+    "omdb": {
+      "director": "Don Siegel, Clint Eastwood",
+      "writer": "Harry Julian Fink, Rita M. Fink, Dean Riesner",
+      "actors": "Clint Eastwood, Andrew Robinson, Harry Guardino",
+      "genre": "Action, Crime, Thriller",
+      "plot": "When a killer calling himself \"Scorpio\" menaces San Francisco, tough-as-nails Police Inspector \"Dirty\" Harry Callahan is assigned to track down the crazed psychopath.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "imdbRating": "7.7",
+      "rottenTomatoes": "89%",
+      "metascore": "87/100",
+      "runtime": "102 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/329676.mp4",
+    "streamName": "Perseguição Implacável",
+    "streamAvailable": true
+  },
+  {
+    "title": "Escape from Alcatraz",
+    "ptTitle": "Fuga de Alcatraz",
+    "year": 1979,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/escape-from-alcatraz/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Don Siegel orquestra com precisão cirúrgica o plano de fuga da prisão mais impenetrável do mundo, com Clint Eastwood em ritmo tenso e envolvente.",
+    "curatorReason": "Don Siegel orquestra com precisão cirúrgica o plano de fuga da prisão mais impenetrável do mundo, com Clint Eastwood em ritmo tenso e envolvente.",
+    "omdb": {
+      "director": "Don Siegel",
+      "writer": "J. Campbell Bruce, Richard Tuggle",
+      "actors": "Clint Eastwood, Patrick McGoohan, Roberts Blossom",
+      "genre": "Biography, Crime, Drama",
+      "plot": "Three convicts make a daring escape from the notorious Alcatraz prison in a bid to cross San Francisco Bay in a makeshift raft to Angel Island.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWQyMzEwYzctMzYzZC00ZGM0LWIyZDQtZmJjYWE3OTYxNDA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "imdbRating": "7.5",
+      "rottenTomatoes": "97%",
+      "metascore": "76/100",
+      "runtime": "112 min",
+      "rated": "PG",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/37893.mp4",
+    "streamName": "Fuga de Alcatraz",
+    "streamAvailable": true
+  },
+  {
+    "title": "Ronin",
+    "ptTitle": "Ronin",
+    "year": 1998,
+    "category": "classic-action",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/ronin/",
+    "inWatchlist": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinevideo",
+    "curatorNote": "Perseguições em alta velocidade reais pelas ruas estreitas de Paris e Nice, com Robert De Niro e Jean Reno numa trama de espionagem e honra mercenária.",
+    "curatorReason": "Perseguições em alta velocidade reais pelas ruas estreitas de Paris e Nice, com Robert De Niro e Jean Reno numa trama de espionagem e honra mercenária.",
+    "omdb": {
+      "director": "John Frankenheimer",
+      "writer": "J.D. Zeik, David Mamet",
+      "actors": "Robert De Niro, Jean Reno, Natascha McElhone",
+      "genre": "Action, Crime, Thriller",
+      "plot": "A freelancing former U.S. intelligence agent is hired as part of a team to steal a mysterious package that's wanted by both the IRA and Russian mercenaries.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "imdbRating": "7.2",
+      "rottenTomatoes": "70%",
+      "metascore": "67/100",
+      "runtime": "122 min",
+      "rated": "R",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ]
+    },
+    "isRecommended": true,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ronin.mp4",
+    "streamName": "Ronin",
+    "streamAvailable": true
+  }
+]

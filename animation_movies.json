@@ -1,0 +1,526 @@
+[
+  {
+    "title": "Promare",
+    "year": 2019,
+    "category": "animation",
+    "ptTitle": "Promare",
+    "curatorNote": "Produzido pelo lendário Studio Trigger, é o ápice do ritmo frenético e da hiperestilização visual: mechas de resgate enfrentam terroristas pirocinéticos em combates de velocidade alucinante e cores neon vibrantes.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Boy and the Heron",
+      "year": "2023",
+      "rated": "PG-13",
+      "released": "08 Dec 2023",
+      "runtime": "124 min",
+      "genre": "Animation, Adventure, Drama",
+      "director": "Hayao Miyazaki",
+      "writer": "Hayao Miyazaki",
+      "actors": "Soma Santoki, Masaki Suda, Kô Shibasaki",
+      "plot": "In the wake of his mother's death and his father's remarriage, a headstrong boy ventures into a dreamlike world shared by the living and the dead in search of his missing stepmother.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "Won 1 Oscar. 34 wins & 87 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "151,848",
+      "imdbID": "tt6587046",
+      "boxOffice": "$47,343,204",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Dragon Ball Super: Broly",
+    "year": 2018,
+    "category": "animation",
+    "ptTitle": "Dragon Ball Super: Broly",
+    "curatorNote": "O estado da arte dos combates de anime com dinamismo cinematográfico insano: 45 minutos contínuos de pura destruição titânica, coreografias frenéticas e animação fluida no limite da velocidade.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Dragon Ball Super: Broly",
+      "year": "2019",
+      "rated": "PG",
+      "released": "16 Jan 2019",
+      "runtime": "100 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Tatsuya Nagamine",
+      "writer": "Akira Toriyama",
+      "actors": "Masako Nozawa, Aya Hisakawa, Ryo Horikawa",
+      "plot": "Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they've faced before.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "imdbRating": "7.7",
+      "imdbVotes": "38,255",
+      "imdbID": "tt7961060",
+      "boxOffice": "$30,712,119",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "year": 2021,
+    "category": "animation",
+    "ptTitle": "Jujutsu Kaisen 0",
+    "curatorNote": "O estúdio MAPPA entrega lutas acrobáticas e confrontos viscerais de altíssima octanagem em um ritmo implacável, focado no poder devastador de maldições e artes marciais sobrenaturais.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Jujutsu Kaisen 0",
+      "year": "2022",
+      "rated": "PG-13",
+      "released": "18 Mar 2022",
+      "runtime": "112 min",
+      "genre": "Animation, Action, Fantasy",
+      "director": "Sunghoo Park",
+      "writer": "Gege Akutami, Hiroshi Seko",
+      "actors": "Megumi Ogata, Kana Hanazawa, Yuichi Nakamura",
+      "plot": "The prequel to Jujutsu Kaisen (2020), where a high schooler gains control of an extremely powerful cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by Jujutsu Sorcerers.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "1 win & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzNhZTdmNDYtNTA0NC00MmNmLWIzYjUtNjg5NzNlYWQ0N2E5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "imdbRating": "7.8",
+      "imdbVotes": "67,586",
+      "imdbID": "tt14331144",
+      "boxOffice": "$34,542,754",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "year": 2020,
+    "category": "animation",
+    "ptTitle": "Demon Slayer: O Trem Infinito",
+    "curatorNote": "O ápice técnico do estúdio Ufotable: uma batalha épica e frenética a bordo de uma locomotiva desgovernada, com efeitos visuais e coreografias de espada que redefiniram o cinema de ação animado.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+      "year": "2021",
+      "rated": "R",
+      "released": "23 Apr 2021",
+      "runtime": "117 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Haruo Sotozaki",
+      "writer": "Koyoharu Gotouge",
+      "actors": "Natsuki Hanae, Akari Kitô, Yoshitsugu Matsuoka",
+      "plot": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "6 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "imdbRating": "8.2",
+      "imdbVotes": "103,692",
+      "imdbID": "tt11032374",
+      "boxOffice": "$49,888,550",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Lupin III: The First",
+    "year": 2019,
+    "category": "animation",
+    "ptTitle": "Lupin III: O Primeiro",
+    "curatorNote": "Aventura 3D ultracinética inspirada no espírito de Indiana Jones e As Aventuras de Tintim: perseguições de carros acrobáticas em ruelas, fugas aéreas arriscadas e ritmo vertiginoso.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Lupin III: The First",
+      "year": "2020",
+      "rated": "Not Rated",
+      "released": "18 Oct 2020",
+      "runtime": "93 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Takashi Yamazaki",
+      "writer": "Monkey Punch, Takashi Yamazaki, Maurice Leblanc",
+      "actors": "Kan&apos;ichi Kurita, Kiyoshi Kobayashi, Daisuke Namikawa",
+      "plot": "Lupin III goes on a grand adventure to uncover the secrets of the Bresson Diary, which is tied to the legacy of his famous grandfather.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "1 win & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMjlmZWEtZjBiMi00ZmJmLTg1MDAtOWQ4NjFjMTY5MzhkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "4,410",
+      "imdbID": "tt10621032",
+      "boxOffice": "$245,724",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Treasure Planet",
+    "year": 2002,
+    "category": "animation",
+    "ptTitle": "Planeta do Tesouro",
+    "curatorNote": "A aventura espacial mais radical e frenética da Disney: Jim Hawkins corta galáxias em pranchas solares supersônicas, enfrentando tempestades cósmicas e motins piratas em ritmo eletrizante.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Treasure Planet",
+      "year": "2002",
+      "rated": "PG",
+      "released": "29 Nov 2002",
+      "runtime": "95 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Ron Clements, John Musker",
+      "writer": "Robert Louis Stevenson, Ron Clements, John Musker",
+      "actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",
+      "plot": "Jim Hawkins is a teenager who finds the map of a great treasure hidden by a space pirate. Together with some friends, he sets off in a large spaceship, shaped like a caravel, on his quest.",
+      "language": "English",
+      "country": "United States, France, Japan",
+      "awards": "Nominated for 1 Oscar. 1 win & 14 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "150,996",
+      "imdbID": "tt0133240",
+      "boxOffice": "$38,176,783",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "category": "animation",
+    "ptTitle": "Atlantis: O Reino Perdido",
+    "curatorNote": "Aventura clássica steampunk de ritmo acelerado recheada de monstros mecânicos submarinos, explosões colossais e perseguições frenéticas nas profundezas do oceano.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Atlantis: The Lost Empire",
+      "year": "2001",
+      "rated": "PG",
+      "released": "15 Jun 2001",
+      "runtime": "95 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Gary Trousdale, Kirk Wise",
+      "writer": "Tab Murphy, Kirk Wise, Gary Trousdale",
+      "actors": "Michael J. Fox, Jim Varney, Corey Burton",
+      "plot": "In 1914, a young linguist is tasked by an intrepid group of mercenaries with deciphering an ancient text that will lead them to the lost city of Atlantis.",
+      "language": "English, French, Spanish",
+      "country": "United States, Japan, France",
+      "awards": "2 wins & 14 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "48%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "150,581",
+      "imdbID": "tt0230011",
+      "boxOffice": "$84,056,472",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Titan A.E.",
+    "year": 2000,
+    "category": "animation",
+    "ptTitle": "Titan A.E.",
+    "curatorNote": "Ficção científica cult ousada de Don Bluth: uma corrida desenfreada pelo cosmos contra aliens de pura energia, com perseguições de alta velocidade através de campos de gelo espacial.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Titan A.E.",
+      "year": "2000",
+      "rated": "PG",
+      "released": "16 Jun 2000",
+      "runtime": "94 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Don Bluth, Gary Goldman",
+      "writer": "Hans Bauer, Randall McCormick, Ben Edlund",
+      "actors": "Matt Damon, Drew Barrymore, Bill Pullman",
+      "plot": "A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity.",
+      "language": "English, Mandarin",
+      "country": "United States, United Kingdom",
+      "awards": "1 win & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "51%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "imdbRating": "6.6",
+      "imdbVotes": "67,328",
+      "imdbID": "tt0120913",
+      "boxOffice": "$22,753,426",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Lego Movie",
+    "year": 2014,
+    "category": "animation",
+    "ptTitle": "Uma Aventura LEGO",
+    "curatorNote": "Phil Lord e Christopher Miller constroem um turbilhão cinético imparável de criatividade e velocidade visual insana, bombardeando os olhos com sequências de ação aceleradas a cada segundo.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Lego Movie",
+      "year": "2014",
+      "rated": "PG",
+      "released": "07 Feb 2014",
+      "runtime": "100 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Phil Lord, Christopher Miller",
+      "writer": "Phil Lord, Christopher Miller, Dan Hageman",
+      "actors": "Chris Pratt, Will Ferrell, Elizabeth Banks",
+      "plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "language": "English",
+      "country": "United States, Denmark, Australia, Norway",
+      "awards": "Nominated for 1 Oscar. 72 wins & 68 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "imdbRating": "7.7",
+      "imdbVotes": "422,025",
+      "imdbID": "tt1490017",
+      "boxOffice": "$257,966,122",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "year": 2016,
+    "category": "animation",
+    "ptTitle": "Kubo e as Cordas Mágicas",
+    "curatorNote": "Obra-prima artesanal da Laika que combina animação e fantasia épica com coreografias dinâmicas de artes marciais, combates contra monstros míticos e ritmo arrebatador.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Kubo and the Two Strings",
+      "year": "2016",
+      "rated": "PG",
+      "released": "19 Aug 2016",
+      "runtime": "101 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Travis Knight",
+      "writer": "Marc Haimes, Chris Butler, Shannon Tindle",
+      "actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
+      "plot": "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.",
+      "language": "English",
+      "country": "United States, Canada, United Kingdom",
+      "awards": "Nominated for 2 Oscars. 33 wins & 67 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "imdbRating": "7.7",
+      "imdbVotes": "148,706",
+      "imdbID": "tt4302938",
+      "boxOffice": "$48,023,088",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "category": "animation",
+    "ptTitle": "Operação Big Hero",
+    "curatorNote": "Aventura de super-heróis em alta velocidade ambientada na futurista San Fransokyo: voos vertiginosos entre arranha-céus, exércitos de nanorrobôs e combate tecnológico vibrante.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Big Hero 6",
+      "year": "2014",
+      "rated": "PG",
+      "released": "07 Nov 2014",
+      "runtime": "102 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Don Hall, Chris Williams",
+      "writer": "Jordan Roberts, Robert L. Baird, Daniel Gerson",
+      "actors": "Ryan Potter, Scott Adsit, Jamie Chung",
+      "plot": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+      "language": "English",
+      "country": "United States, Japan",
+      "awards": "Won 1 Oscar. 17 wins & 58 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "imdbRating": "7.8",
+      "imdbVotes": "562,983",
+      "imdbID": "tt2245084",
+      "boxOffice": "$222,527,828",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "category": "animation",
+    "ptTitle": "Como Treinar o Seu Dragão",
+    "curatorNote": "O ápice da aventura épica da DreamWorks: sequências de voo supersônicas de tirar o fôlego, manobras aéreas acrobáticas entre penhascos e batalhas colossais contra dragões gigantes.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "How to Train Your Dragon",
+      "year": "2010",
+      "rated": "PG",
+      "released": "26 Mar 2010",
+      "runtime": "98 min",
+      "genre": "Animation, Action, Adventure",
+      "director": "Dean DeBlois, Chris Sanders",
+      "writer": "William Davies, Dean DeBlois, Chris Sanders",
+      "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+      "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "imdbRating": "8.1",
+      "imdbVotes": "910,697",
+      "imdbID": "tt0892769",
+      "boxOffice": "$217,581,231",
+      "type": "movie"
+    }
+  }
+]

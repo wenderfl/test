@@ -1,0 +1,438 @@
+[
+  {
+    "title": "Videodrome",
+    "year": 1983,
+    "category": "body-horror",
+    "ptTitle": "Videodrome: A Síndrome do Vídeo",
+    "curatorNote": "Obra máxima de David Cronenberg sobre a fusão visceral entre carne e tecnologia. Efeitos de maquiagem lendários de Rick Baker com fitas pulsantes e estômagos em metamorfose viva.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Videodrome",
+      "year": "1983",
+      "rated": "R",
+      "released": "04 Feb 1983",
+      "runtime": "87 min",
+      "genre": "Drama, Horror, Sci-Fi",
+      "director": "David Cronenberg",
+      "writer": "David Cronenberg",
+      "actors": "James Woods, Debbie Harry, Sonja Smits",
+      "plot": "A Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+      "language": "English, Spanish, Japanese, French, Italian",
+      "country": "Canada",
+      "awards": "3 wins & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "115,289",
+      "imdbID": "tt0086541",
+      "boxOffice": "$2,120,439",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Blob",
+    "year": 1988,
+    "category": "body-horror",
+    "ptTitle": "A Bolha Assassina",
+    "curatorNote": "O ápice dos efeitos práticos grotescos oitentistas de derretimento humano e próteses biológicas de Tony Gardner. Roteiro afiado de Frank Darabont e clima visceral sufocante.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Blob",
+      "year": "1988",
+      "rated": "R",
+      "released": "05 Aug 1988",
+      "runtime": "95 min",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "director": "Chuck Russell",
+      "writer": "Theodore Simonson, Kay Linaker, Irvine H. Millgate",
+      "actors": "Shawnee Smith, Kevin Dillon, Donovan Leitch Jr.",
+      "plot": "A deadly entity from space crash-lands near a small town, and begins consuming anyone in its path. Panic ensues, as shady government scientists try to contain the horrific creature.",
+      "language": "English",
+      "country": "United States",
+      "awards": "1 win & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmYzNzA4MDEtM2M4MC00YWMzLWI3NjktODAyMzk2NzU4NTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "50,139",
+      "imdbID": "tt0094761",
+      "boxOffice": "$8,247,943",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "category": "body-horror",
+    "ptTitle": "Um Lobisomem Americano em Londres",
+    "curatorNote": "A mais dolorosa e impressionante transformação física da história do cinema, criada por Rick Baker (venceu o primeiro Oscar de Maquiagem). Tensão, ossos estalando e horror corporal analógico.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "An American Werewolf in London",
+      "year": "1981",
+      "rated": "R",
+      "released": "21 Aug 1981",
+      "runtime": "97 min",
+      "genre": "Comedy, Horror",
+      "director": "John Landis",
+      "writer": "John Landis",
+      "actors": "David Naughton, Jenny Agutter, Joe Belcher",
+      "plot": "Two American college students are on a walking tour of Britain when they are attacked by a werewolf whose existence is consistently denied by the locals.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,17,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "136,676",
+      "imdbID": "tt0082010",
+      "boxOffice": "$30,565,292",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "From Beyond",
+    "year": 1986,
+    "category": "body-horror",
+    "ptTitle": "Do Além",
+    "curatorNote": "Lançado no mesmo ano de A Mosca: experimentos científicos que abrem dimensões paralelas e causam mutações anatômicas grotescas na cabeça e glândula pineal, com Jeffrey Combs e Barbara Crampton.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "From Beyond",
+      "year": "1986",
+      "rated": "R",
+      "released": "24 Oct 1986",
+      "runtime": "85 min",
+      "genre": "Horror, Sci-Fi",
+      "director": "Stuart Gordon",
+      "writer": "H.P. Lovecraft, Brian Yuzna, Dennis Paoli",
+      "actors": "Jeffrey Combs, Barbara Crampton, Ted Sorel",
+      "plot": "A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality. But when the experiment succeeds, they are immediately attacked by terrible life forms.",
+      "language": "English",
+      "country": "United States, Italy",
+      "awards": "3 wins & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNThkYjI1MDUtMWY1Ny00ZTIwLTk2NDktMDllYzMwYjVkNzEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "imdbRating": "6.6",
+      "imdbVotes": "36,357",
+      "imdbID": "tt0091083",
+      "boxOffice": "$1,261,000",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "category": "body-horror",
+    "ptTitle": "Uma Noite Alucinante 2",
+    "curatorNote": "Obra-prima de Sam Raimi com ritmo maníaco e efeitos práticos desenfreados de próteses de látex, stop-motion e partes do corpo que ganham vida própria e se mutilam.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Evil Dead II",
+      "year": "1987",
+      "rated": "R",
+      "released": "13 Mar 1987",
+      "runtime": "84 min",
+      "genre": "Comedy, Horror",
+      "director": "Sam Raimi",
+      "writer": "Sam Raimi, Scott Spiegel",
+      "actors": "Bruce Campbell, Sarah Berry, Dan Hicks",
+      "plot": "Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.",
+      "language": "English, Latin",
+      "country": "United States",
+      "awards": "1 win & 5 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGMxMWVhMzAtYWRlOS00YzY1LTlkYTQtYjU5ZDM4MGI1YWFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "imdbRating": "7.6",
+      "imdbVotes": "200,905",
+      "imdbID": "tt0092991",
+      "boxOffice": "$5,923,044",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Hidden",
+    "year": 1987,
+    "category": "body-horror",
+    "ptTitle": "O Escondido",
+    "curatorNote": "Terror e ação frenética dos anos 80: um parasita alienígena grotesco troca de corpo humano invadindo goela abaixo e destruindo os hospedeiros por dentro, investigado por Kyle MacLachlan.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Hidden",
+      "year": "1987",
+      "rated": "R",
+      "released": "30 Oct 1987",
+      "runtime": "97 min",
+      "genre": "Crime, Horror, Sci-Fi",
+      "director": "Jack Sholder",
+      "writer": "Jim Kouf",
+      "actors": "Kyle MacLachlan, Michael Nouri, Claudia Christian",
+      "plot": "A cop and an FBI agent race for answers after law abiding people suddenly become violent criminals.",
+      "language": "English",
+      "country": "United States",
+      "awards": "4 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODg3YzNiYjQtZmMxZS00N2I3LTk0NGItMGFmMzZkY2I1MTlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "imdbRating": "7.0",
+      "imdbVotes": "26,136",
+      "imdbID": "tt0093185",
+      "boxOffice": "$9,747,988",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Scanners",
+    "year": 1981,
+    "category": "body-horror",
+    "ptTitle": "Scanners: Sua Mente Pode Destruir",
+    "curatorNote": "Outro clássico de David Cronenberg com efeitos práticos lendários de Dick Smith e Chris Walas (o criador dos efeitos de A Mosca!). Inclui a icônica cabeça explodindo e mutações telecinéticas.",
+    "inWatchlist": true,
+    "watched": false,
+    "omdb": {
+      "title": "Scanners",
+      "year": "1981",
+      "rated": "R",
+      "released": "14 Jan 1981",
+      "runtime": "103 min",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "director": "David Cronenberg",
+      "writer": "David Cronenberg",
+      "actors": "Jennifer O&apos;Neill, Stephen Lack, Patrick McGoohan",
+      "plot": "A scientist trains a man with an advanced telepathic ability called \"scanning\" to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+      "language": "English",
+      "country": "Canada",
+      "awards": "3 wins & 9 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "68,570",
+      "imdbID": "tt0081455",
+      "boxOffice": "$14,225,876",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Altered States",
+    "year": 1980,
+    "category": "body-horror",
+    "ptTitle": "Viagens Alucinantes",
+    "curatorNote": "Parentesco direto com A Mosca: cientista brilhante (William Hurt) usa tanques de isolamento sensorial e alucinógenos, sofrendo regressão biológica e mutações físicas corporais reais e dolorosas.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Altered States",
+      "year": "1980",
+      "rated": "R",
+      "released": "25 Dec 1980",
+      "runtime": "102 min",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "director": "Ken Russell",
+      "writer": "Paddy Chayefsky",
+      "actors": "William Hurt, Blair Brown, Bob Balaban",
+      "plot": "A maverick psychology professor decides to combine his experiments in sensory deprivation tanks with powerful hallucinogenic mushrooms, and begins to experience altered mental and physical states.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 1 win & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ZmU3ZjEtMmJkNC00MzZjLWEzZTEtZDdmN2Y3OWJhMmFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "43,142",
+      "imdbID": "tt0080360",
+      "boxOffice": "$19,853,892",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Hellbound: Hellraiser II",
+    "year": 1988,
+    "category": "body-horror",
+    "ptTitle": "Hellraiser II: Renascido das Trevas",
+    "curatorNote": "Extensão visceral do horror corporal de Clive Barker: ressurreições sem pele, torturas anatômicas e deformações cirúrgicas em carne viva pelo Dr. Channard, sem uma gota de CGI.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Hellbound: Hellraiser II",
+      "year": "1988",
+      "rated": "R",
+      "released": "23 Dec 1988",
+      "runtime": "97 min",
+      "genre": "Horror, Thriller",
+      "director": "Tony Randel",
+      "writer": "Peter Atkins, Clive Barker",
+      "actors": "Doug Bradley, Ashley Laurence, Clare Higgins",
+      "plot": "Kirsty is brought to an institution after the horrible events of Hellraiser (1987), where the occult-obsessive head doctor resurrects Julia and unleashes the Cenobites and their demonic underworld.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "1 win & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDU4NTQ3MjItZjhlNy00NDllLTllMjctYTE2MDI3OTUwNDM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "53%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "41/100"
+        }
+      ],
+      "imdbRating": "6.4",
+      "imdbVotes": "61,541",
+      "imdbID": "tt0095294",
+      "boxOffice": "$12,090,735",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Night of the Creeps",
+    "year": 1986,
+    "category": "body-horror",
+    "ptTitle": "A Noite dos Arrepios",
+    "curatorNote": "Terror oitentista cult de Fred Dekker: lesmas cósmicas parasitas invadem o corpo humano e partem crânios ao meio com animatrônicos táteis e clima clássico de sessão da meia-noite.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Night of the Creeps",
+      "year": "1986",
+      "rated": "R",
+      "released": "22 Aug 1986",
+      "runtime": "88 min",
+      "genre": "Comedy, Horror, Sci-Fi",
+      "director": "Fred Dekker",
+      "writer": "Fred Dekker",
+      "actors": "Jason Lively, Tom Atkins, Steve Marshall",
+      "plot": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them.",
+      "language": "English",
+      "country": "United States",
+      "awards": "1 win & 1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmQ1YTM1YjYtOThlYy00NDAxLWJhNGItZDFmYTUyMzRmMTdkXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "29,164",
+      "imdbID": "tt0091630",
+      "boxOffice": "$591,366",
+      "type": "movie"
+    }
+  }
+]

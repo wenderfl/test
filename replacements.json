@@ -1,0 +1,442 @@
+[
+  {
+    "title": "The Omen",
+    "year": 1976,
+    "category": "horror",
+    "ptTitle": "A Profecia",
+    "curatorNote": "Clássico perturbador do horror sobrenatural dos anos 70, com atmosfera solene e trilha aterrorizante vencedora do Oscar.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Omen",
+      "year": "1976",
+      "rated": "R",
+      "released": "25 Jun 1976",
+      "runtime": "111 min",
+      "genre": "Horror, Mystery",
+      "director": "Richard Donner",
+      "writer": "David Seltzer, Harvey Bernhard",
+      "actors": "Gregory Peck, Lee Remick, Harvey Stephens",
+      "plot": "An American ambassador to Britain and his wife may be raising the Antichrist.",
+      "language": "English, Latin, Italian",
+      "country": "United Kingdom, United States",
+      "awards": "Won 1 Oscar. 6 wins & 9 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "148,143",
+      "imdbID": "tt0075005",
+      "boxOffice": "$60,922,980",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Trading Places",
+    "year": 1983,
+    "category": "comedy",
+    "ptTitle": "Trocando as Bolas",
+    "curatorNote": "Comédia inteligente dos anos 80 de John Landis com Eddie Murphy e Dan Aykroyd invertendo papéis sociais em um experimento cínico.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Trading Places",
+      "year": "1983",
+      "rated": "R",
+      "released": "08 Jun 1983",
+      "runtime": "116 min",
+      "genre": "Comedy",
+      "director": "John Landis",
+      "writer": "Timothy Harris, Herschel Weingrod",
+      "actors": "Eddie Murphy, Dan Aykroyd, Ralph Bellamy",
+      "plot": "A snobbish Wall Street commodities broker and a wily street hustler find their positions reversed as part of a bet by two callous millionaire brothers who run a brokerage house.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 3 wins & 8 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "184,899",
+      "imdbID": "tt0086465",
+      "boxOffice": "$90,404,800",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Tootsie",
+    "year": 1982,
+    "category": "comedy",
+    "ptTitle": "Tootsie",
+    "curatorNote": "Obra-prima cômica indicada a 10 Oscars: Dustin Hoffman vive um ator perfeccionista e desempregado que se veste de mulher para conseguir trabalho.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Tootsie",
+      "year": "1982",
+      "rated": "PG",
+      "released": "17 Dec 1982",
+      "runtime": "116 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Sydney Pollack",
+      "writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+      "actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+      "plot": "An unsuccessful actor disguises himself as a woman in order to get a role on a trashy hospital soap.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 27 wins & 32 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "imdbRating": "7.4",
+      "imdbVotes": "124,101",
+      "imdbID": "tt0084805",
+      "boxOffice": "$177,200,000",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Crank",
+    "year": 2006,
+    "category": "adventure",
+    "ptTitle": "Adrenalina",
+    "curatorNote": "Uma das experiências mais frenéticas e cinéticas do cinema moderno: Jason Statham precisa manter o pulso cardíaco no ápice para se manter vivo.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Crank",
+      "year": "2006",
+      "rated": "R",
+      "released": "01 Sep 2006",
+      "runtime": "88 min",
+      "genre": "Action, Crime, Thriller",
+      "director": "Mark Neveldine, Brian Taylor",
+      "writer": "Mark Neveldine, Brian Taylor",
+      "actors": "Jason Statham, Amy Smart, Carlos Sanz",
+      "plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+      "language": "English, Spanish, Korean",
+      "country": "United States",
+      "awards": "2 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "280,310",
+      "imdbID": "tt0479884",
+      "boxOffice": "$27,838,408",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Shoot 'Em Up",
+    "year": 2007,
+    "category": "adventure",
+    "ptTitle": "Mandando Bala",
+    "curatorNote": "Ação ininterrupta, tiroteios coreografados no limite do absurdo e velocidade extrema com Clive Owen e Paul Giamatti.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Shoot 'Em Up",
+      "year": "2007",
+      "rated": "R",
+      "released": "07 Sep 2007",
+      "runtime": "86 min",
+      "genre": "Action, Comedy, Thriller",
+      "director": "Michael Davis",
+      "writer": "Michael Davis",
+      "actors": "Clive Owen, Monica Bellucci, Paul Giamatti",
+      "plot": "A man named Mr. Smith delivers a woman's baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.",
+      "language": "English, Italian",
+      "country": "United States",
+      "awards": "3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMDA1MDUwNl5BMl5BanBnXkFtZTcwMDQzMzM1MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "imdbRating": "6.6",
+      "imdbVotes": "160,032",
+      "imdbID": "tt0465602",
+      "boxOffice": "$12,807,139",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Finding Forrester",
+    "year": 2000,
+    "category": "study",
+    "ptTitle": "Encontrando Forrester",
+    "curatorNote": "Gus Van Sant dirige Sean Connery e Rob Brown em uma comovente história sobre talento intelectual, literatura e dedicação acadêmica.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Finding Forrester",
+      "year": "2001",
+      "rated": "PG-13",
+      "released": "12 Jan 2001",
+      "runtime": "136 min",
+      "genre": "Drama, Sport",
+      "director": "Gus Van Sant",
+      "writer": "Mike Rich",
+      "actors": "Sean Connery, Rob Brown, F. Murray Abraham",
+      "plot": "Forrester, the author of a famous book, decides to help Jamal, a 16-year-old student, discover his writing prowess by mentoring him and enrolling him into a prestigious private school.",
+      "language": "English, German",
+      "country": "United States, Canada",
+      "awards": "5 wins & 13 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjQ4MjcyOF5BMl5BanBnXkFtZTYwNTMzODg2._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "95,991",
+      "imdbID": "tt0181536",
+      "boxOffice": "$51,804,714",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "About Schmidt",
+    "year": 2002,
+    "category": "misfit",
+    "ptTitle": "As Confissões de Schmidt",
+    "curatorNote": "Alexander Payne e Jack Nicholson em um retrato intimista e comovente de um aposentado patético, solitário e deslocado da própria família.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "About Schmidt",
+      "year": "2003",
+      "rated": "R",
+      "released": "03 Jan 2003",
+      "runtime": "125 min",
+      "genre": "Comedy, Drama",
+      "director": "Alexander Payne",
+      "writer": "Louis Begley, Alexander Payne, Jim Taylor",
+      "actors": "Jack Nicholson, Hope Davis, Dermot Mulroney",
+      "plot": "Newly retired from the insurance industry, Omaha native Warren Schmidt embarks on an RV journey to his estranged daughter Jeannie's wedding in Denver Colorado, only to discover more about himself and life than he ever expected.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 25 wins & 71 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY2ODM3OF5BMl5BanBnXkFtZTYwOTQ5NTM3._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "137,670",
+      "imdbID": "tt0257360",
+      "boxOffice": "$65,016,287",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "category": "misfit",
+    "ptTitle": "A Vida Secreta de Walter Mitty",
+    "curatorNote": "Ben Stiller vive um arquivista tímido, invisível e socialmente desajeitado que se refugia em devaneios heroicos antes de dar um passo real no mundo.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "The Secret Life of Walter Mitty",
+      "year": "2013",
+      "rated": "PG",
+      "released": "25 Dec 2013",
+      "runtime": "114 min",
+      "genre": "Adventure, Comedy, Drama",
+      "director": "Ben Stiller",
+      "writer": "Steve Conrad, James Thurber",
+      "actors": "Ben Stiller, Kristen Wiig, Jon Daly",
+      "plot": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he ever imagined.",
+      "language": "English, Spanish, Icelandic",
+      "country": "United States, United Kingdom",
+      "awards": "6 wins & 19 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "52%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ],
+      "imdbRating": "7.3",
+      "imdbVotes": "378,518",
+      "imdbID": "tt0359950",
+      "boxOffice": "$58,236,838",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Barton Fink",
+    "year": 1991,
+    "category": "misfit",
+    "ptTitle": "Barton Fink: Delírios de Hollywood",
+    "curatorNote": "Obra dos irmãos Coen vencedora da Palma de Ouro: John Turturro é um dramaturgo solitário, neurótico e atormentado pelo bloqueio criativo.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Barton Fink",
+      "year": "1991",
+      "rated": "R",
+      "released": "21 Aug 1991",
+      "runtime": "116 min",
+      "genre": "Comedy, Drama, Thriller",
+      "director": "Joel Coen, Ethan Coen",
+      "writer": "Joel Coen, Ethan Coen",
+      "actors": "John Turturro, John Goodman, Judy Davis",
+      "plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "awards": "Nominated for 3 Oscars. 19 wins & 29 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDc1YWRjODItNGZjNS00MDI4LTliYWYtNDdjZjI3ZWYzNzM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "imdbRating": "7.6",
+      "imdbVotes": "136,637",
+      "imdbID": "tt0101410",
+      "boxOffice": "$6,153,939",
+      "type": "movie"
+    }
+  },
+  {
+    "title": "Paddleton",
+    "year": 2019,
+    "category": "misfit",
+    "ptTitle": "Paddleton",
+    "curatorNote": "Retrato delicado, íntimo e excêntrico da amizade entre dois vizinhos solitários e desajustados (Mark Duplass e Ray Romano) vivendo à margem do mundo.",
+    "inWatchlist": false,
+    "watched": false,
+    "omdb": {
+      "title": "Paddleton",
+      "year": "2019",
+      "rated": "TV-MA",
+      "released": "22 Feb 2019",
+      "runtime": "89 min",
+      "genre": "Comedy, Drama",
+      "director": "Alex Lehmann",
+      "writer": "Mark Duplass, Alex Lehmann",
+      "actors": "Christine Woods, Mark Duplass, Ray Romano",
+      "plot": "An unlikely friendship between two misfit neighbors becomes an unexpectedly emotional journey when the younger man is diagnosed with terminal cancer.",
+      "language": "English",
+      "country": "United States",
+      "awards": "3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2I0ODk3NjgtMmEwYi00MzQxLThlMWUtZWViZmRjMTkwMjFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "imdbRating": "7.2",
+      "imdbVotes": "16,684",
+      "imdbID": "tt8041276",
+      "boxOffice": "N/A",
+      "type": "movie"
+    }
+  }
+]
