@@ -548,5 +548,335 @@
     "streamName": "Nostalgia",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Perfect Days",
+    "ptTitle": "Dias Perfeitos",
+    "year": 2023,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/perfect-days/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Unidub",
+    "curatorNote": "Indicado ao Oscar e Melhor Ator em Cannes para Koji Yakusho. Wim Wenders retrata a rotina luminosa e contemplativa de um limpador de banheiros públicos em Tóquio.",
+    "curatorReason": "Pura poesia da atenção plena, descobrindo o sublime nos reflexos da luz através das árvores (komorebi), na música em fitas cassete e na simplicidade cotidiana.",
+    "omdb": {
+      "title": "Perfect Days",
+      "year": "2023",
+      "rated": "PG",
+      "released": "21 Dec 2023",
+      "runtime": "124 min",
+      "genre": "Drama",
+      "director": "Wim Wenders",
+      "writer": "Wim Wenders, Takuma Takasaki",
+      "actors": "Koji Yakusho, Tokio Emoto, Arisa Nakano",
+      "plot": "Hirayama works as a toilet cleaner in Tokyo. He seems content with his simple life. He follows a structured everyday life and dedicates his free time to his passion for music and books. Hirayama also has a fondness for trees and photographs them. More of his past is gradually revealed through a series of unexpected encounters.",
+      "language": "Japanese, English",
+      "country": "Japan, Germany",
+      "awards": "Nominated for 1 Oscar. 14 wins & 51 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODFkM2MtOTEzMy00MjFjLThjZmYtODMxZmI1MzcyNDkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80",
+      "imdbRating": "7.9",
+      "imdbVotes": "112,995",
+      "imdbID": "tt27503384",
+      "boxOffice": "$3,766,668",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVmODFkM2MtOTEzMy00MjFjLThjZmYtODMxZmI1MzcyNDkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/346829.mp4",
+    "streamName": "Dias Perfeitos",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODFkM2MtOTEzMy00MjFjLThjZmYtODMxZmI1MzcyNDkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg"
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "ptTitle": "Retrato de uma Jovem em Chamas",
+    "year": 2020,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Vencedor de Melhor Roteiro em Cannes para Céline Sciamma. Na Bretanha do século XVIII, uma pintora é contratada para retratar secretamente uma noiva relutante.",
+    "curatorReason": "Um dos romances visuais mais arrebatadores da história do cinema, construído sobre olhares que se tocam, arte e a memória indelével do amor.",
+    "omdb": {
+      "title": "Portrait of a Lady on Fire",
+      "year": "2020",
+      "rated": "R",
+      "released": "14 Feb 2020",
+      "runtime": "122 min",
+      "genre": "Drama, Romance",
+      "director": "Céline Sciamma",
+      "writer": "Céline Sciamma",
+      "actors": "Noémie Merlant, Adèle Haenel, Luàna Bajrami",
+      "plot": "In 18th-century France young painter Marianne, is commissioned to do the wedding portrait of Héloïse without her knowing. Therefore, Marianne must observe her model by day to paint her portrait at night. Day by day, the two women become closer as they share Héloïse's last moments of freedom before the impending wedding.",
+      "language": "French, Italian",
+      "country": "France",
+      "awards": "Nominated for 1 BAFTA Award. 59 wins & 155 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "metascore": "95",
+      "imdbRating": "8.0",
+      "imdbVotes": "130,653",
+      "imdbID": "tt8613070",
+      "boxOffice": "$3,759,854",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/289527.mp4",
+    "streamName": "Retrato de uma Jovem em Chamas",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  {
+    "title": "Aftersun",
+    "ptTitle": "Aftersun",
+    "year": 2022,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/aftersun/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Unidub",
+    "curatorNote": "Aclamada estreia na direção de Charlotte Wells com Paul Mescal e Frankie Corio. Uma mulher relembra as férias de verão passadas com seu jovem pai na Turquia dos anos 90.",
+    "curatorReason": "Uma tapeçaria melancólica sobre amor filial, as dores silenciosas que os pais escondem dos filhos e o luto reconstruído por fragmentos de fitas de vídeo.",
+    "omdb": {
+      "title": "Aftersun",
+      "year": "2022",
+      "rated": "R",
+      "released": "18 Nov 2022",
+      "runtime": "102 min",
+      "genre": "Drama",
+      "director": "Charlotte Wells",
+      "writer": "Charlotte Wells",
+      "actors": "Paul Mescal, Frankie Corio, Celia Rowlson-Hall",
+      "plot": "At a fading vacation resort, 11-year-old Sophie treasures rare time together with her loving and idealistic father, Calum (Paul Mescal). As a world of adolescence creeps into view, beyond her eye Calum struggles under the weight of life outside of fatherhood. Twenty years later, Sophie's tender recollections of their last holiday become a powerful and heartrending portrait of their relationship, as she tries to reconcile the father she knew with the man she didn't, in Charlotte Wells' superb and searingly emotional debut film.",
+      "language": "English, Turkish, Spanish",
+      "country": "United Kingdom, United States, Turkey, Philippines, Netherlands",
+      "awards": "Nominated for 1 Oscar. 98 wins & 182 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWU5Y2MyZjQtNGVjYi00ZDRkLTk1MGYtYmNlMzI0MTFmNDU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "metascore": "95",
+      "imdbRating": "7.6",
+      "imdbVotes": "133,967",
+      "imdbID": "tt19770238",
+      "boxOffice": "$1,658,790",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU5Y2MyZjQtNGVjYi00ZDRkLTk1MGYtYmNlMzI0MTFmNDU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/249895.mp4",
+    "streamName": "Aftersun",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWU5Y2MyZjQtNGVjYi00ZDRkLTk1MGYtYmNlMzI0MTFmNDU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Drive My Car",
+    "ptTitle": "Drive My Car",
+    "year": 2021,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/drive-my-car/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Unidub",
+    "curatorNote": "Vencedor do Oscar de Melhor Filme Internacional, dirigido por Ryusuke Hamaguchi. Um diretor de teatro viúvo contrata uma jovem motorista reservada para conduzir seu carro.",
+    "curatorReason": "Uma meditação paciente e profunda sobre luto, reconciliação com o passado e o poder curativo do diálogo compartilhado em estradas calmas.",
+    "omdb": {
+      "title": "Drive My Car",
+      "year": "2021",
+      "rated": "Unrated",
+      "released": "20 Aug 2021",
+      "runtime": "179 min",
+      "genre": "Drama",
+      "director": "Ryusuke Hamaguchi",
+      "writer": "Haruki Murakami, Ryusuke Hamaguchi, Takamasa Ôe",
+      "actors": "Hidetoshi Nishijima, Tôko Miura, Reika Kirishima",
+      "plot": "Two years after his wife's unexpected death, Yusuke Kafuku (Hidetoshi Nishijima), a renowned stage actor and director, receives an offer to direct a production of Uncle Vanya at a theater festival in Hiroshima. There, he meets Misaki Watari (Toko Miura), a taciturn young woman assigned by the festival to chauffeur him in his beloved red Saab 900. As the production's premiere approaches, tensions mount amongst the cast and crew, not least between Yusuke and Koshi Takatsuki, a handsome TV star who shares an unwelcome connection to Yusuke's late wife. Forced to confront painful truths raised from his past, Yusuke begins - with the help of his driver - to face the haunting mysteries his wife left behind.",
+      "language": "Japanese, English, Korean Sign Language, Korean, Mandarin, Tagalog, Indonesian, German, Malay",
+      "country": "Japan",
+      "awards": "Won 1 Oscar. 95 wins & 110 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE5ZWRhYjYtNzVkMS00ZGU3LTg2MTMtODYyMmJlMDMyZjU0XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "metascore": "91",
+      "imdbRating": "7.5",
+      "imdbVotes": "78,279",
+      "imdbID": "tt14039582",
+      "boxOffice": "$2,352,240",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE5ZWRhYjYtNzVkMS00ZGU3LTg2MTMtODYyMmJlMDMyZjU0XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/253534.mp4",
+    "streamName": "Drive My Car",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE5ZWRhYjYtNzVkMS00ZGU3LTg2MTMtODYyMmJlMDMyZjU0XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+  },
+  {
+    "title": "Past Lives",
+    "ptTitle": "Vidas Passadas",
+    "year": 2023,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/past-lives/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Aclamado drama de Celine Song indicado ao Oscar de Melhor Filme. Dois amigos de infância se reencontram em Nova York décadas após a imigração da família dela.",
+    "curatorReason": "Uma reflexão delicada e comovente sobre o conceito coreano de In-Yun (destino), as escolhas da vida e o peso dos caminhos não trilhados.",
+    "omdb": {
+      "title": "Past Lives",
+      "year": "2023",
+      "rated": "PG-13",
+      "released": "23 Jun 2023",
+      "runtime": "105 min",
+      "genre": "Drama, Romance",
+      "director": "Celine Song",
+      "writer": "Celine Song",
+      "actors": "Greta Lee, Teo Yoo, John Magaro",
+      "plot": "In Korea, Na Young, a girl and Hae Sung, a boy are school mates and good friends. They often walk back home together after school. Na Young moves to Canada and then to New York with her parents. Hae Sung continues living in Korea, does his engineering course, goes through a short spell of military service and then takes up a job. Both keep in touch periodically through video chats where they talk of their past and general stuff. Meanwhile in New York, Na has changed her name to Nora, made a name as a playwright and is happily married to Arthur, an American. Hae is keen to meet Nora and visits her in New York where he spends some time with her and Arthur. What has the future in store for Nora and Hae in their relationship?",
+      "language": "Korean, English, Mandarin, French",
+      "country": "United States, South Korea",
+      "awards": "Nominated for 2 Oscars. 83 wins & 240 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "metascore": "94",
+      "imdbRating": "7.8",
+      "imdbVotes": "178,799",
+      "imdbID": "tt13238346",
+      "boxOffice": "$11,331,983",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/369454.mp4",
+    "streamName": "Vidas Passadas",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Boyhood",
+    "ptTitle": "Boyhood: Da Infância à Juventude",
+    "year": 2014,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/boyhood/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Obra épica de Richard Linklater filmada ao longo de 12 anos com os mesmos atores. Acompanha o crescimento de um garoto dos 6 aos 18 anos.",
+    "curatorReason": "Um monumento poético ao passar inexorável do tempo, mostrando que a vida não é feita de grandes clichês melodramáticos, mas da soma dos momentos fugazes.",
+    "omdb": {
+      "title": "Boyhood",
+      "year": "2014",
+      "rated": "R",
+      "released": "15 Aug 2014",
+      "runtime": "165 min",
+      "genre": "Comedy, Drama",
+      "director": "Richard Linklater",
+      "writer": "Richard Linklater",
+      "actors": "Ellar Coltrane, Patricia Arquette, Ethan Hawke",
+      "plot": "Filmed over 12 years with the same cast, Richard Linklater's BOYHOOD is a groundbreaking story of growing up as seen through the eyes of a child named Mason (a breakthrough performance by Ellar Coltrane), who literally grows up on screen before our eyes. Starring Ethan Hawke and Patricia Arquette as Mason's parents and newcomer Lorelei Linklater as his sister Samantha, BOYHOOD charts the rocky terrain of childhood like no other film has before. Snapshots of adolescence from road trips and family dinners to birthdays and graduations and all the moments in between become transcendent, set to a soundtrack spanning the years from Coldplay's Yellow to Arcade Fire's Deep Blue. BOYHOOD is both a nostalgic time capsule of the recent past and an ode to growing up and parenting.",
+      "language": "English, Spanish, Ukrainian, Arabic",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 179 wins & 222 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "metascore": "100",
+      "imdbRating": "7.9",
+      "imdbVotes": "384,134",
+      "imdbID": "tt1065073",
+      "boxOffice": "$25,370,910",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/387041.mp4",
+    "streamName": "Boyhood: Da Infância à Juventude",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

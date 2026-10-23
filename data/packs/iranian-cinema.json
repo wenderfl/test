@@ -49,8 +49,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Separa%C3%A7%C3%A3o.mp4",
-    "streamName": "A Separação",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145233.mp4",
+    "streamName": "Separation",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
@@ -544,5 +544,60 @@
     "streamName": "À Procura da Vingança",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQxODQ0MV5BMl5BanBnXkFtZTgwNTQ0NzY4NDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Reading Lolita in Tehran",
+    "ptTitle": "Lendo Lolita em Teerã",
+    "year": 2024,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/reading-lolita-in-tehran/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Unidub",
+    "curatorNote": "Adaptação aclamada das memórias de Azar Nafisi com Golshifteh Farahani e Zar Amir Ebrahimi. Uma professora iraniana reúne secretamente alunas em sua casa para ler e debater literatura proibida durante a Revolução Islâmica.",
+    "curatorReason": "Um testemunho emocionante sobre a coragem feminina, a liberdade do pensamento crítico e o poder redentor e transformador da arte perante o totalitarismo.",
+    "omdb": {
+      "title": "Reading Lolita in Tehran",
+      "year": "2026",
+      "rated": "Not Rated",
+      "released": "17 Jul 2026",
+      "runtime": "107 min",
+      "genre": "Biography, Drama",
+      "director": "Eran Riklis",
+      "writer": "Marjorie David, Eran Riklis, Azar Nafisi",
+      "actors": "Golshifteh Farahani, Zar Amir Ebrahimi, Mina Kavani",
+      "plot": "The screen adaptation of Azar Nafisi's beloved memoir tells the true story of a literature professor in revolutionary Iran who, amidst censorship and religious extremism, gathers seven of her most dedicated female students to immerse themselves in banned literary classics. A film by Eran Riklis starring Golshifteh Farahani (Paterson), Zar Amir (Holy Spider), and Mina Kavani (No Bears).",
+      "language": "Persian, English",
+      "country": "Israel, Italy, United Kingdom",
+      "awards": "3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ],
+      "metascore": "56",
+      "imdbRating": "6.2",
+      "imdbVotes": "1,558",
+      "imdbID": "tt27679443",
+      "boxOffice": "$194,103",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/347353.mp4",
+    "streamName": "Reading Lolita in Tehran",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

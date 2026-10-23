@@ -540,5 +540,280 @@
     "streamName": "O Anjo Exterminador",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg"
+  },
+  {
+    "title": "The Lobster",
+    "ptTitle": "O Lagosta",
+    "year": 2015,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/the-lobster/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavídeo",
+    "curatorNote": "Comédia surreal distópica de Yorgos Lanthimos. Em um futuro próximo, pessoas solteiras são confinadas em um hotel e têm 45 dias para encontrar um parceiro ou virar um animal.",
+    "curatorReason": "Sátira desconcertante e brilhante sobre as pressões sociais da monogamia e a alienação dos afetos contemporâneos.",
+    "omdb": {
+      "title": "The Lobster",
+      "year": "2015",
+      "rated": "R",
+      "released": "16 Oct 2015",
+      "runtime": "119 min",
+      "genre": "Drama, Romance, Sci-Fi",
+      "director": "Yorgos Lanthimos",
+      "writer": "Yorgos Lanthimos, Efthimis Filippou",
+      "actors": "Colin Farrell, Rachel Weisz, Jessica Barden",
+      "plot": "A love story set in a dystopian near future where single people are arrested and transferred to a creepy hotel. There they are obliged to find a matching mate in 45 days. If they fail, they are transformed into an animal and released into the woods.",
+      "language": "English, French, Greek",
+      "country": "Ireland, United Kingdom, Greece, France, Netherlands, Belgium, United States",
+      "awards": "Nominated for 1 Oscar. 35 wins & 84 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "metascore": "82",
+      "imdbRating": "7.1",
+      "imdbVotes": "338,771",
+      "imdbID": "tt3464902",
+      "boxOffice": "$9,077,245",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/379474.mp4",
+    "streamName": "O Lagosta",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "ptTitle": "Brilho Eterno de uma Mente sem Lembranças",
+    "year": 2004,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor do Oscar de Melhor Roteiro Original de Charlie Kaufman, dirigido por Michel Gondry com Jim Carrey e Kate Winslet.",
+    "curatorReason": "Uma viagem onírica e comovente pelos labirintos da memória, provando a impossibilidade de apagar as marcas do amor vivido sem destruir a própria alma.",
+    "omdb": {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "rated": "R",
+      "released": "19 Mar 2004",
+      "runtime": "108 min",
+      "genre": "Drama, Romance, Sci-Fi",
+      "director": "Michel Gondry",
+      "writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
+      "actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+      "plot": "Much to his surprise, timid Joel Barish is shocked to discover that the love of his life, sparky Clementine, has had him erased from her memory. As a result, hurt and angry, Joel wants to pay her back in the same coin, going as far as to undergo a painless but intricate medical procedure to do the same. However, poor Joel is utterly unaware that darkness is an essential part of the light. And as the once-cherished recollections of Clementine gradually fade away, giving way to a soulless black void, something unexpected happens. Now Joel has second thoughts, toying with the idea of stopping the irreversible process. Who said ignorance is bliss?",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 73 wins & 111 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "metascore": "89",
+      "imdbRating": "8.3",
+      "imdbVotes": "1,198,489",
+      "imdbID": "tt0338013",
+      "boxOffice": "$34,400,301",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/323688.mp4",
+    "streamName": "Brilho Eterno de uma Mente sem Lembranças",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Beau Is Afraid",
+    "ptTitle": "Beau Tem Medo",
+    "year": 2023,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/beau-is-afraid/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Odisseia surrealista e claustrofóbica de Ari Aster com Joaquin Phoenix. Um homem paranoico e ansioso empreende uma jornada kafkiana para visitar sua mãe dominadora.",
+    "curatorReason": "Um épico de pesadelo psicológico que materializa a culpa, o medo freudiano e o terror neurótico em cenários bizarros e hilariantes.",
+    "omdb": {
+      "title": "Beau Is Afraid",
+      "year": "2023",
+      "rated": "R",
+      "released": "21 Apr 2023",
+      "runtime": "179 min",
+      "genre": "Comedy, Drama, Horror",
+      "director": "Ari Aster",
+      "writer": "Ari Aster",
+      "actors": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
+      "plot": "With his mother's gloomy spectre looming over his entire life, grizzled outcast Beau has never made sense of his miserable existence. And perpetually baffled by reality and his conflicting urgent needs, the neurotic New Yorker gets a hearty slice of crippling anxiety and sheer paranoia when he sets foot in a strangely familiar war zone: his neighbourhood. But as the pill-popping hermit reluctantly embarks on a Sisyphean quest for answers, determined to reunite with his estranged mum at all costs, Beau must summon every last ounce of courage to confront everything that has kept him in the dark. To have a fighting chance of deciphering the sinister secrets that continue to rule his life, Beau must grapple with deep-seated phobias, deal with heavy guilt, and face the menacing parent. Because, in his case, love was a fiendish trap--the labyrinthine depths of maternal affection were only the means to an end. Now, the drugs don't work, and Beau is afraid. As the universe conspires against his conquest and the end draws near, will Beau be able to fight his inner demons for a change?",
+      "language": "English",
+      "country": "United States, United Kingdom, Finland, Canada",
+      "awards": "31 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "metascore": "63",
+      "imdbRating": "6.6",
+      "imdbVotes": "80,341",
+      "imdbID": "tt13521006",
+      "boxOffice": "$8,176,562",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/199044.mp4",
+    "streamName": "Beau Tem Medo",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Enemy",
+    "ptTitle": "O Homem Duplicado",
+    "year": 2016,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/enemy/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Suspense psicológico surreal de Denis Villeneuve adaptando José Saramago, com Jake Gyllenhaal em papel duplo. Um professor descobre um ator fisicamente idêntico a ele.",
+    "curatorReason": "Um mergulho hipnótico e amarelo em temas de masculinidade tóxica, subconsciente reprimido e teias invisíveis de controle psicológico.",
+    "omdb": {
+      "title": "Masterminds",
+      "year": "2016",
+      "rated": "PG-13",
+      "released": "30 Sep 2016",
+      "runtime": "95 min",
+      "genre": "Biography, Comedy, Crime",
+      "director": "Jared Hess",
+      "writer": "Chris Bowman, Hubbel Palmer, Emily Spivey",
+      "actors": "Zach Galifianakis, Owen Wilson, Kristen Wiig",
+      "plot": "David Ghantt discovers the true meaning of adventure far beyond his wildest dreams. He is an uncomplicated man stuck in a monotonous life. Day in and day out he drives an armored vehicle, transporting millions of other people's money with no escape in sight. The only glimmer of excitement is his flirtatious work crush Kelly Campbell who soon lures him into the scheme of a lifetime. Along with a group of half-brained criminals led by Steve Chambers and an absurdly faulted heist plan, David manages the impossible and makes off with $17 million in cash...only problem is he foolishly hands the money over to this wild group of double crossers and has been set up to take the fall. With the bandits blowing the millions on lavish and ridiculous luxuries, they leave behind a glaring trail of evidence. Now on the lam and in over his head, David must dodge the authorities, evade a hilarious hit man, Mike McKinney, and try to turn the tables on the ones he trusted most.",
+      "language": "English, Spanish",
+      "country": "United States",
+      "awards": "1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "34%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ],
+      "metascore": "47",
+      "imdbRating": "5.9",
+      "imdbVotes": "66,782",
+      "imdbID": "tt2461150",
+      "boxOffice": "$17,368,022",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/384236.mp4",
+    "streamName": "O Homem Duplicado",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  {
+    "title": "Synecdoche, New York",
+    "ptTitle": "Sinédoque, Nova York",
+    "year": 2009,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/synecdoche-new-york/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Álamo",
+    "curatorNote": "Estreia de Charlie Kaufman na direção com Philip Seymour Hoffman. Um diretor de teatro constrói uma réplica em tamanho real de Nova York dentro de um armazém para encenar sua vida.",
+    "curatorReason": "O cume da metaficção existencialista: um monumento trágico e genial sobre mortalidade, solidão e a impossibilidade de representar a totalidade da existência.",
+    "omdb": {
+      "title": "Synecdoche, New York",
+      "year": "2009",
+      "rated": "R",
+      "released": "05 Feb 2009",
+      "runtime": "124 min",
+      "genre": "Drama",
+      "director": "Charlie Kaufman",
+      "writer": "Charlie Kaufman",
+      "actors": "Philip Seymour Hoffman, Samantha Morton, Michelle Williams",
+      "plot": "Theater director Caden Cotard is mounting a new play. Fresh off of a successful production of \"Death of a Salesman\", he has traded in the suburban blue-hairs and regional theater of Schenectady for the cultured audiences and bright footlights of Broadway. Armed with a MacArthur grant and determined to create a piece of brutal realism and honesty, something into which he can put his whole self, he gathers an ensemble cast into a warehouse in Manhattan's theater r very He directs them in a celebration of the mundane, instructing each to live out their constructed lives in a small mock-up of the city outside. As the city inside the warehouse grows, Caden's own life veers wildly off the tracks. The shadow of his ex-wife Adele, a celebrated painter who left him years ago for Germany's art scene, sneers at him from every corner. Somewhere in Berlin, his daughter Olive is growing up under the questionable guidance of Adele's friend Maria. He's helplessly driving his marriage to actress Claire into the ground. Sammy Barnathan, the actor Caden has hired to play himself within the play, is a bit too perfect for the part, and is making it difficult for Caden to revive his relationship with the alluringly candid Hazel. Meanwhile, his therapist, Madeline Gravis, is better at plugging her best-seller than she is at counseling him. His second daughter, Ariel, is disabled. And a mysterious condition is systematically shutting down each of his autonomic functions, one by one. As the years rapidly pass, Caden buries himself deeper into his masterpiece. Populating the cast and crew with doppelgangers, he steadily blurs the line between the world of the play and that of his own deteriorating reality. As he pushes the limits of his relationships, both personally and professionally, a change in creative direction arrives in Millicent Weems, a celebrated theater actress who may offer Caden the break he needs.",
+      "language": "English, German",
+      "country": "United States",
+      "awards": "8 wins & 29 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "metascore": "67",
+      "imdbRating": "7.5",
+      "imdbVotes": "106,035",
+      "imdbID": "tt0383028",
+      "boxOffice": "$3,083,538",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/368255.mp4",
+    "streamName": "Sinédoque, Nova York",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   }
 ]

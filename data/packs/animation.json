@@ -795,5 +795,496 @@
     "streamName": "Wolfwalkers",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+  },
+  {
+    "title": "Spirited Away",
+    "ptTitle": "A Viagem de Chihiro",
+    "year": 2003,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/spirited-away/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Drakma",
+    "curatorNote": "Vencedor do Oscar de Melhor Animação e Urso de Ouro em Berlim. A obra-prima do Studio Ghibli e Hayao Miyazaki sobre o amadurecimento e espiritualidade.",
+    "curatorReason": "Uma viagem mitológica deslumbrante repleta de beleza visual, crítica ao consumismo e sensibilidade poética inigualável.",
+    "omdb": {
+      "title": "Spirited Away",
+      "year": "2003",
+      "rated": "PG",
+      "released": "28 Mar 2003",
+      "runtime": "124 min",
+      "genre": "Animation, Adventure, Family",
+      "director": "Hayao Miyazaki",
+      "writer": "Hayao Miyazaki",
+      "actors": "Miyu Irino, Rumi Hiiragi, Mari Natsuki",
+      "plot": "The fanciful adventures of a ten-year-old girl named Chihiro, who discovers a secret world when she and her family get lost and venture through a hillside tunnel. When her parents undergo a mysterious transformation, Chihiro must fend for herself as she encounters strange spirits, assorted creatures and a grumpy sorceress who seeks to prevent her from returning to the human world.",
+      "language": "Japanese, English",
+      "country": "Japan, United States",
+      "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "metascore": "96",
+      "imdbRating": "8.6",
+      "imdbVotes": "988,028",
+      "imdbID": "tt0245429",
+      "boxOffice": "$14,821,254",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317448.mp4",
+    "streamName": "A Viagem de Chihiro",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "ptTitle": "Meu Amigo Totoro",
+    "year": 1990,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Clássico encantador de Hayao Miyazaki sobre duas irmãs que se mudam para o campo e descobrem os espíritos amigáveis da floresta.",
+    "curatorReason": "Pura celebração da infância, da comunhão com a natureza e do conforto emocional diante das incertezas da vida.",
+    "omdb": {
+      "title": "My Neighbor Totoro",
+      "year": "1990",
+      "rated": "G",
+      "released": "13 Jul 1990",
+      "runtime": "86 min",
+      "genre": "Animation, Adventure, Comedy",
+      "director": "Hayao Miyazaki",
+      "writer": "Hayao Miyazaki",
+      "actors": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+      "plot": "Excited about reuniting with their ailing mother, close-knit sisters Satsuki and Mei embark on an exciting adventure when they move with their loving professor father to a new house in the verdant countryside of 1950s summer Japan. Now, nothing can stop them. And with mum in the hospital, the girls have all the time in the world to explore nature and the dense adjacent forest, the home of bashful mystical creatures only children can see. Under the clear blue sky's cloudless bliss and the bright yellow sun's promise of a luminous future, nothing can blemish the young sisters' flawless fantasy--not even life's trying times. After all, mother is getting better. Then, one radiant morning, as the shimmering green leaves of the towering camphor trees swayed in the soft morning breeze, the wide-eyed siblings stumbled upon a Totoro. But who is the enchanting visitor? Will the rotund neighbour, with his fluffy fur and mysterious eyes, be the girls' forever friend?",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "6 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87",
+      "imdbRating": "8.1",
+      "imdbVotes": "441,040",
+      "imdbID": "tt0096283",
+      "boxOffice": "$3,065,902",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309535.mp4",
+    "streamName": "Meu Amigo Totoro",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "ptTitle": "O Castelo Animado",
+    "year": 2005,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/howl-s-moving-castle/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Sigma",
+    "curatorNote": "Fantasia exuberante de Hayao Miyazaki sobre uma jovem transformada em anciã por uma bruxa que encontra refúgio no castelo andante de um mago vaidoso.",
+    "curatorReason": "Uma metáfora lírica contra a guerra, elogiando a compaixão, a velhice digna e a transformação do amor genuíno.",
+    "omdb": {
+      "title": "Howl's Moving Castle",
+      "year": "2005",
+      "rated": "PG",
+      "released": "17 Jun 2005",
+      "runtime": "119 min",
+      "genre": "Animation, Adventure, Family",
+      "director": "Hayao Miyazaki",
+      "writer": "Diana Wynne Jones, Hayao Miyazaki",
+      "actors": "Chieko Baisho, Takuya Kimura, Tatsuya Gashûin",
+      "plot": "With her country's peace constantly under threat, Sophie, a lively but unloved milliner, catches the attention of an unexpected defender. But as the wide-eyed damsel in distress crosses paths with handsome Howl, a talented young magician with excess emotional baggage, a fit of jealousy turns the hat maker's world upside down forever. Now, stained by the indelible mark of the wicked Witch of the Waste, Sophie must move mountains to break the pitiless spell, including facing her fears and the mysterious sorcerer. However, has anyone ever set foot in Howl's impenetrable home, a walking wonder powered by a fiery heart, and lived to tell the tale?",
+      "language": "Japanese",
+      "country": "Japan, United States",
+      "awards": "Nominated for 1 Oscar. 14 wins & 20 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "metascore": "82",
+      "imdbRating": "8.2",
+      "imdbVotes": "523,168",
+      "imdbID": "tt0347149",
+      "boxOffice": "$10,352,604",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43842.mp4",
+    "streamName": "O Castelo Animado",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "The Iron Giant",
+    "ptTitle": "O Gigante de Ferro",
+    "year": 1998,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/the-iron-giant/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Obra-prima de Brad Bird sobre a amizade entre um garoto de nove anos e um colossal robô alienígena durante a Guerra Fria.",
+    "curatorReason": "Mensagem comovente sobre livre-arbítrio, autodefinição e rejeição à violência bélica: 'Você é quem você escolhe ser'.",
+    "omdb": {
+      "title": "I Got the Hook Up",
+      "year": "1998",
+      "rated": "R",
+      "released": "27 May 1998",
+      "runtime": "93 min",
+      "genre": "Comedy, Crime",
+      "director": "Michael Martin",
+      "writer": "Master P, Leroy Douglas, Carrie Mungo",
+      "actors": "Master P, Anthony Johnson, Gretchen Palmer",
+      "plot": "Two broke buddies feel lucky when they come upon a truckload of cellular phones and begin selling them from the back of their van. Trouble arises when the phones develop faults. The two friends must not only deal with unsatisfied customers but also gangsters and the FBI.",
+      "language": "English",
+      "country": "United States",
+      "awards": "N/A",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDMwZTVjOTUtZDI0Yy00MDU3LWEzMDUtMjA5MjBmNzA4MGM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "17%"
+        }
+      ],
+      "metascore": "N/A",
+      "imdbRating": "4.1",
+      "imdbVotes": "2,449",
+      "imdbID": "tt0131436",
+      "boxOffice": "$10,317,779",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDMwZTVjOTUtZDI0Yy00MDU3LWEzMDUtMjA5MjBmNzA4MGM2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112458.mp4",
+    "streamName": "O Gigante de Ferro",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMwZTVjOTUtZDI0Yy00MDU3LWEzMDUtMjA5MjBmNzA4MGM2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "ptTitle": "O Fantástico Sr. Raposo",
+    "year": 2009,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/fantastic-mr-fox/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Adaptação magistral em stop-motion de Wes Anderson da obra de Roald Dahl com vozes de George Clooney e Meryl Streep.",
+    "curatorReason": "Estética visual minuciosa, diálogos inteligentes e uma celebração calorosa do espírito animal e da união comunitária contra a opressão.",
+    "omdb": {
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "rated": "PG",
+      "released": "25 Nov 2009",
+      "runtime": "87 min",
+      "genre": "Animation, Adventure, Comedy",
+      "director": "Wes Anderson",
+      "writer": "Wes Anderson, Noah Baumbach, Roald Dahl",
+      "actors": "George Clooney, Meryl Streep, Bill Murray",
+      "plot": "This is the story of Mr. Fox (George Clooney) and his wild ways of hen heckling, turkey taking, and cider sipping, nocturnal, instinctive adventures. He has to put his wild days behind him and do what fathers do best: be responsible. He is too rebellious. He is too wild. He is going to try \"just one more raid\" on the three nastiest, meanest farmers that are Walter Boggis (Robin Hurlstone), Nathan Bunce (Hugo Guinness), and Franklin Bean (Sir Michael Gambon). It is a tale of crossing the line of family responsibilities and midnight adventure and the friendships and awakenings of this country life that is inhabited by Fantastic Mr. Fox and his friends.",
+      "language": "English, French",
+      "country": "United States, United Kingdom",
+      "awards": "Nominated for 2 Oscars. 32 wins & 63 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "metascore": "83",
+      "imdbRating": "7.9",
+      "imdbVotes": "311,580",
+      "imdbID": "tt0432283",
+      "boxOffice": "$21,002,919",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/260984.mp4",
+    "streamName": "O Fantástico Sr. Raposo",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Coraline",
+    "ptTitle": "Coraline e o Mundo Secreto",
+    "year": 2009,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/coraline/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Animação em stop-motion dos estúdios Laika dirigida por Henry Selick a partir do romance sombrio de Neil Gaiman.",
+    "curatorReason": "Fábula gótica visualmente fascinante sobre coragem, os perigos de desejos fáceis e o valor do afeto real em detrimento de ilusões perfeitas.",
+    "omdb": {
+      "title": "Coraline",
+      "year": "2009",
+      "rated": "PG",
+      "released": "06 Feb 2009",
+      "runtime": "100 min",
+      "genre": "Animation, Drama, Family",
+      "director": "Henry Selick",
+      "writer": "Henry Selick, Neil Gaiman",
+      "actors": "Dakota Fanning, Teri Hatcher, John Hodgman",
+      "plot": "When Coraline moves to an old house, she feels bored and neglected by her parents. She finds a hidden door with a bricked up passage. During the night, she crosses the passage and finds a parallel world where everybody has buttons instead of eyes, with caring parents and all her dreams coming true. When the Other Mother invites Coraline to stay in her world forever, the girl refuses and finds that the alternate reality where she is trapped is only a trick to lure her.",
+      "language": "English, Russian",
+      "country": "United States, Canada, United Kingdom",
+      "awards": "Nominated for 1 Oscar. 8 wins & 46 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80",
+      "imdbRating": "7.8",
+      "imdbVotes": "307,662",
+      "imdbID": "tt0327597",
+      "boxOffice": "$116,896,576",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/343231.mp4",
+    "streamName": "Coraline e o Mundo Secreto",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Ratatouille",
+    "ptTitle": "Ratatouille",
+    "year": 2007,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/ratatouille/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor do Oscar de Melhor Animação pela Pixar, dirigido por Brad Bird. Um rato parisiense com paladar refinado sonha em se tornar um grande chef de cozinha.",
+    "curatorReason": "Um tributo arrebatador à arte da criação, à vocação autêntica e ao poder transformador da crítica honesta e generosa.",
+    "omdb": {
+      "title": "Ratatouille",
+      "year": "2007",
+      "rated": "G",
+      "released": "29 Jun 2007",
+      "runtime": "111 min",
+      "genre": "Animation, Adventure, Comedy",
+      "director": "Brad Bird, Jan Pinkava",
+      "writer": "Brad Bird, Jan Pinkava, Jim Capobianco",
+      "actors": "Brad Garrett, Lou Romano, Patton Oswalt",
+      "plot": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely, and certainly unwanted, visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+      "language": "English, French",
+      "country": "United States, France, Japan",
+      "awards": "Won 1 Oscar. 69 wins & 42 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "metascore": "96",
+      "imdbRating": "8.1",
+      "imdbVotes": "968,813",
+      "imdbID": "tt0382932",
+      "boxOffice": "$206,445,654",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20441.mp4",
+    "streamName": "Ratatouille",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "WALL-E",
+    "ptTitle": "WALL-E",
+    "year": 2008,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/wall-e/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor do Oscar de Melhor Animação da Pixar, dirigido por Andrew Stanton. Um solitário robô compactador de lixo cuida de uma Terra abandonada há séculos.",
+    "curatorReason": "Narrativa visual quase silenciosa de pura poesia cinematográfica sobre amor, solidão cósmica e a urgência ecológica de resgatar nossa humanidade.",
+    "omdb": {
+      "title": "WALL·E",
+      "year": "2008",
+      "rated": "G",
+      "released": "27 Jun 2008",
+      "runtime": "98 min",
+      "genre": "Animation, Adventure, Family",
+      "director": "Andrew Stanton",
+      "writer": "Andrew Stanton, Pete Docter, Jim Reardon",
+      "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
+      "plot": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny.",
+      "language": "English",
+      "country": "United States, Japan",
+      "awards": "Won 1 Oscar. 96 wins & 95 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "metascore": "95",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,344,711",
+      "imdbID": "tt0910970",
+      "boxOffice": "$223,808,164",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/110836.mp4",
+    "streamName": "WALL-E",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Inside Out 2",
+    "ptTitle": "Divertida Mente 2",
+    "year": 2024,
+    "category": "animation",
+    "letterboxdUrl": "https://letterboxd.com/film/inside-out-2/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "TV Group",
+    "curatorNote": "Maior bilheteria da história das animações. Riley chega à adolescência e sua mente recebe novas emoções complexas, lideradas pela Ansiedade.",
+    "curatorReason": "Um retrato psicológico brilhante e empático sobre acolher todas as facetas da identidade e aprender a lidar com as pressões do crescimento.",
+    "omdb": {
+      "title": "Inside Out 2",
+      "year": "2024",
+      "rated": "PG",
+      "released": "14 Jun 2024",
+      "runtime": "96 min",
+      "genre": "Animation, Adventure, Comedy",
+      "director": "Kelsey Mann",
+      "writer": "Meg LeFauve, Dave Holstein, Kelsey Mann",
+      "actors": "Amy Poehler, Maya Hawke, Kensington Tallman",
+      "plot": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions. Joy, Sadness, Anger, Fear and Disgust, who've long been running a successful operation by all accounts, aren't sure how to feel when Anxiety shows up. And it looks like she's not alone.",
+      "language": "English, French, Spanish",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 7 wins & 107 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "metascore": "73",
+      "imdbRating": "7.5",
+      "imdbVotes": "261,682",
+      "imdbID": "tt22022452",
+      "boxOffice": "$652,980,194",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "misfit",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/287359.mp4",
+    "streamName": "Divertida Mente 2",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

@@ -504,5 +504,335 @@
     "streamName": "As Duas Faces de um Crime",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg"
+  },
+  {
+    "title": "Se7en",
+    "ptTitle": "Seven: Os Sete Crimes Capitais",
+    "year": 1996,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/se7en/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Obra-prima de David Fincher com Brad Pitt e Morgan Freeman. Dois detetives de homicídios caçam um serial killer meticuloso que comete assassinatos inspirados nos sete pecados capitais.",
+    "curatorReason": "Atmosfera sombria e chuvosa sufocante, ritmo implacável e um dos desfechos mais chocantes e audaciosos da história do cinema.",
+    "omdb": {
+      "title": "Sense and Sensibility",
+      "year": "1996",
+      "rated": "PG",
+      "released": "26 Jan 1996",
+      "runtime": "136 min",
+      "genre": "Drama, Romance",
+      "director": "Ang Lee",
+      "writer": "Jane Austen, Emma Thompson",
+      "actors": "Emma Thompson, Kate Winslet, James Fleet",
+      "plot": "When wealthy Mr. Dashwood dies in pre-Victorian England, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and their three daughters Elinor, Marianne, and Margaret in dire straits financially. They are taken in by a kind cousin, but their lack of finances affects the marriageability of practical Elinor and romantic Marianne. When Elinor forms an attachment to the wealthy Edward Ferrars, his family disapproves and drives them apart and, although Mrs. Jennings tries to match the worthy (and rich) Colonel Brandon to her, Marianne finds the dashing and fiery John Willoughby more to her liking. Both relationships are sorely tried.",
+      "language": "English, French",
+      "country": "United States, United Kingdom",
+      "awards": "Won 1 Oscar. 33 wins & 50 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "metascore": "84",
+      "imdbRating": "7.7",
+      "imdbVotes": "138,399",
+      "imdbID": "tt0114388",
+      "boxOffice": "$43,436,071",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382487.mp4",
+    "streamName": "Seven: Os Sete Crimes Capitais",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  {
+    "title": "Zodiac",
+    "ptTitle": "Zodíaco",
+    "year": 2007,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/zodiac/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Investigação forense magistral de David Fincher com Jake Gyllenhaal, Mark Ruffalo e Robert Downey Jr. A caçada ao infame assassino em série do Zodíaco em São Francisco.",
+    "curatorReason": "Um estudo rigoroso e obsessivo sobre como a busca pela verdade pode devorar a mente, as famílias e os anos dos que não conseguem desistir.",
+    "omdb": {
+      "title": "Zodiac",
+      "year": "2007",
+      "rated": "R",
+      "released": "02 Mar 2007",
+      "runtime": "157 min",
+      "genre": "Crime, Drama, Mystery",
+      "director": "David Fincher",
+      "writer": "James Vanderbilt, Robert Graysmith",
+      "actors": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
+      "plot": "A serial killer in the San Francisco Bay Area taunts police with his letters and cryptic messages. We follow the investigators and reporters in this lightly fictionalized account of the true 1970s' case as they search for the murderer, becoming obsessed with the case. Based on Robert Graysmith's book, the movie's focus is the lives and careers of the detectives and newspaper people.",
+      "language": "English",
+      "country": "United States",
+      "awards": "3 wins & 71 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "metascore": "79",
+      "imdbRating": "7.7",
+      "imdbVotes": "692,746",
+      "imdbID": "tt0443706",
+      "boxOffice": "$33,080,084",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320591.mp4",
+    "streamName": "Zodíaco",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  {
+    "title": "The Departed",
+    "ptTitle": "Os Infiltrados",
+    "year": 2006,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/the-departed/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor de 4 Oscars incluindo Melhor Filme e Diretor para Martin Scorsese com Leonardo DiCaprio, Matt Damon e Jack Nicholson. Um policial disfarçado se infiltra na máfia de Boston enquanto um criminoso se infiltra na polícia.",
+    "curatorReason": "Jogo de espelhos mortal de nervos à flor da pele, onde cada telefonema e encontro casual ameaça desmascarar as identidades duplas.",
+    "omdb": {
+      "title": "The Departed",
+      "year": "2006",
+      "rated": "R",
+      "released": "06 Oct 2006",
+      "runtime": "151 min",
+      "genre": "Crime, Drama, Thriller",
+      "director": "Martin Scorsese",
+      "writer": "William Monahan, Alan Mak, Felix Chong",
+      "actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson",
+      "plot": "The Massachusetts State Police is desperate to crack down on Irish-American organized crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate run by Frank Costello. While Billy quickly gains Costello's confidence, Colin Sullivan, a protege of Costello who has infiltrated the state police as an informant for the syndicate, is rising to a position of power in the Special Investigation Unit. Each man becomes deeply consumed by their double lives, gathering information about the plans and counter-plans of the operations they have penetrated. But when it becomes clear to both the mob and the police that there is a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy, and each must race to uncover the identity of the other man in time to save themselves.",
+      "language": "English, Cantonese",
+      "country": "United States, Hong Kong",
+      "awards": "Won 4 Oscars. 100 wins & 141 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85",
+      "imdbRating": "8.5",
+      "imdbVotes": "1,583,117",
+      "imdbID": "tt0407887",
+      "boxOffice": "$132,399,394",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY562_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/392616.mp4",
+    "streamName": "Os Infiltrados",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY562_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Gone Girl",
+    "ptTitle": "Garota Exemplar",
+    "year": 2014,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/gone-girl/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Suspense psicológico afiado de David Fincher adaptando Gillian Flynn, com Rosamund Pike e Ben Affleck. Um homem se torna o principal suspeito do desaparecimento da esposa no dia do aniversário de casamento.",
+    "curatorReason": "Dissecação cínica e genial da manipulação midiática, da persona pública e do jogo de aparências venenoso da vida conjugal.",
+    "omdb": {
+      "title": "Gone Girl",
+      "year": "2014",
+      "rated": "R",
+      "released": "03 Oct 2014",
+      "runtime": "149 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "David Fincher",
+      "writer": "Gillian Flynn",
+      "actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+      "plot": "On the occasion of his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 65 wins & 192 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "metascore": "79",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,190,848",
+      "imdbID": "tt2267998",
+      "boxOffice": "$167,767,189",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348799.mp4",
+    "streamName": "Garota Exemplar",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+  },
+  {
+    "title": "Get Out",
+    "ptTitle": "Corra!",
+    "year": 2017,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/get-out/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor do Oscar de Melhor Roteiro Original de Jordan Peele com Daniel Kaluuya. Um jovem fotógrafo negro viaja para conhecer a família rica e branca de sua namorada no interior.",
+    "curatorReason": "Uma combinação magistral de terror social, sátira racial incisiva e suspense psicológico arrepiante que redefiniu o gênero nos anos 2010.",
+    "omdb": {
+      "title": "Get Out",
+      "year": "2017",
+      "rated": "R",
+      "released": "24 Feb 2017",
+      "runtime": "104 min",
+      "genre": "Horror, Mystery, Thriller",
+      "director": "Jordan Peele",
+      "writer": "Jordan Peele",
+      "actors": "Daniel Kaluuya, Allison Williams, Bradley Whitford",
+      "plot": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+      "language": "English, Swahili",
+      "country": "United States, Japan",
+      "awards": "Won 1 Oscar. 154 wins & 215 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85",
+      "imdbRating": "7.8",
+      "imdbVotes": "840,575",
+      "imdbID": "tt5052448",
+      "boxOffice": "$176,040,665",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386242.mp4",
+    "streamName": "Corra!",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "ptTitle": "O Silêncio dos Inocentes",
+    "year": 1991,
+    "category": "suspense",
+    "letterboxdUrl": "https://letterboxd.com/film/the-silence-of-the-lambs/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor dos 'Cinco Grandes' Oscars (Filme, Diretor, Ator, Atriz, Roteiro) dirigido por Jonathan Demme com Jodie Foster e Anthony Hopkins. Uma jovem cadete do FBI entrevista o psiquiatra canibal preso para caçar um assassino solto.",
+    "curatorReason": "Duelo psicológico inigualável, atmosfera claustrofóbica perfeita e uma das criações mais fascinantes e aterrorizantes da história do cinema.",
+    "omdb": {
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "rated": "R",
+      "released": "14 Feb 1991",
+      "runtime": "118 min",
+      "genre": "Crime, Drama, Horror",
+      "director": "Jonathan Demme",
+      "writer": "Thomas Harris, Ted Tally",
+      "actors": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+      "plot": "F.B.I. trainee Clarice Starling (Jodie Foster) works hard to advance her career, while trying to hide or put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford (Scott Glenn). While she is still a trainee, Crawford asks her to question Dr. Hannibal Lecter (Sir Anthony Hopkins), a psychiatrist imprisoned, thus far, for eight years in maximum security isolation for being a serial killer who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as \"Buffalo Bill\" (Ted Levine), who has so far killed five victims, all located in the eastern U.S., all young women, who are slightly overweight (especially around the hips), all who were drowned in natural bodies of water, and all who were stripped of large swaths of skin. She also figures that Crawford chose her, as a woman, to be able to trigger some emotional response from Lecter. After speaking to Lecter for the first time, she realizes that everything with him will be a psychological game, with her often having to read between the very cryptic lines he provides. She has to decide how much she will play along, as his request in return for talking to him is to expose herself emotionally to him. The case takes a more dire turn when a sixth victim is discovered, this one from who they are able to retrieve a key piece of evidence, if Lecter is being forthright as to its meaning. A potential seventh victim is high profile Catherine Martin (Brooke Smith), the daughter of Senator Ruth Martin (Diane Baker), which places greater scrutiny on the case as they search for a hopefully still alive Catherine. Who may factor into what happens is Dr. Frederick Chilton (Anthony Heald), the warden at the prison, an opportunist who sees the higher profile with Catherine, meaning a higher profile for himself if he can insert himself successfully into the proceedings.",
+      "language": "English, Latin",
+      "country": "United States",
+      "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "metascore": "86",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,755,718",
+      "imdbID": "tt0102926",
+      "boxOffice": "$131,138,318",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+    },
+    "parentCategory": "genre",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382481.mp4",
+    "streamName": "O Silêncio dos Inocentes",
+    "streamAvailable": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   }
 ]
