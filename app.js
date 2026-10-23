@@ -16,6 +16,29 @@ const userComments = {};
 const userSavedMovies = new Map(); // title -> object
 const userSavedCategories = new Set();
 
+function isMovieExcluded(movie) {
+  if (!movie) return true;
+  const title = (movie.title || "").trim().toLowerCase();
+  const ptTitle = (movie.ptTitle || "").trim().toLowerCase();
+
+  for (const w of userWatched) {
+    const clean = (w || "").trim().toLowerCase();
+    if (clean && (clean === title || clean === ptTitle)) return true;
+  }
+
+  for (const ign of userIgnored) {
+    const clean = (ign || "").trim().toLowerCase();
+    if (clean && (clean === title || clean === ptTitle)) return true;
+  }
+
+  for (const commKey of Object.keys(userComments)) {
+    const clean = (commKey || "").trim().toLowerCase();
+    if (clean && (clean === title || clean === ptTitle)) return true;
+  }
+
+  return false;
+}
+
 const DEFAULT_IPTV_URL = "http://contrafilenabrasa.net:80/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=m3u8";
 const DEFAULT_IPTV_NAME = "contrafilenabrasa.net";
 
@@ -200,17 +223,14 @@ let heroAutoRotateTimer = null;
 let lastHeroInteractionTime = Date.now();
 
 function getRandomHeroMovie(customPool = null) {
-  let pool = customPool || movies.filter(m => !userIgnored.has(m.title));
-  if (!pool || !pool.length) pool = movies;
+  let pool = customPool ? customPool.filter(m => !isMovieExcluded(m)) : movies.filter(m => !isMovieExcluded(m));
+  if (!pool || !pool.length) pool = movies.filter(m => !isMovieExcluded(m));
+  if (!pool.length) pool = movies;
   if (!pool.length) return null;
 
-  // Filter out watched if we have unwatched
-  const unwatched = pool.filter(m => !userWatched.has(m.title));
-  const poolToConsider = unwatched.length ? unwatched : pool;
-
   // Prefer movies with valid image or poster
-  const withImages = poolToConsider.filter(m => m.backdrop || m.image || (m.omdb?.poster && m.omdb.poster !== "N/A"));
-  const candidatePool = withImages.length ? withImages : poolToConsider;
+  const withImages = pool.filter(m => m.backdrop || m.image || (m.omdb?.poster && m.omdb.poster !== "N/A"));
+  const candidatePool = withImages.length ? withImages : pool;
 
   // Avoid repeating the current active hero movie if multiple are available
   const different = (candidatePool.length > 1 && activeHeroMovie)
@@ -606,15 +626,17 @@ function setNavHub(hub, scrollToTop = true) {
 }
 
 function getHeroMovieForHub(hub) {
-  let pool = movies.filter(m => !userIgnored.has(m.title));
+  let pool = movies.filter(m => !isMovieExcluded(m));
   if (hub === "terror" || hub === "besteirol" || hub === "art") {
     pool = pool.filter(m => {
       const c = categories.find(cat => cat.id === m.category);
       return c && c.parentCategory === hub;
     });
   } else if (hub === "saved") {
-    pool = Array.from(userSavedMovies.values());
+    pool = Array.from(userSavedMovies.values()).filter(m => !isMovieExcluded(m));
+    if (!pool.length) pool = Array.from(userSavedMovies.values());
   }
+  if (!pool.length) pool = movies.filter(m => !isMovieExcluded(m));
   if (!pool.length) pool = movies;
   return getRandomHeroMovie(pool);
 }
@@ -627,7 +649,7 @@ function renderCategoryPills() {
   if (!container) return;
   container.innerHTML = "";
 
-  let visibleCats = categories.filter(c => !c.isMegaCategory && movies.some(m => m.category === c.id));
+  let visibleCats = categories.filter(c => !c.isMegaCategory && movies.some(m => m.category === c.id && !isMovieExcluded(m)));
   let allLabel = "Todos os Filmes";
 
   if (currentNavHub === "terror") {
@@ -725,7 +747,7 @@ function renderContentRows() {
   }
 
   targetCategories.forEach(cat => {
-    let catMovies = movies.filter(m => m.category === cat.id);
+    let catMovies = movies.filter(m => m.category === cat.id && !isMovieExcluded(m));
 
     // Search filter
     if (currentSearch) {
@@ -805,7 +827,7 @@ function getContinueWatchingList() {
       if (key && key.startsWith("progress_")) {
         const title = key.replace("progress_", "");
         const movie = movies.find(m => m.title === title) || userSavedMovies.get(title);
-        if (movie && !userIgnored.has(movie.title)) {
+        if (movie && !isMovieExcluded(movie)) {
           const currentTime = parseFloat(localStorage.getItem(key) || "0");
           const durMinutes = parseInt(movie.omdb?.runtime, 10) || 105;
           const totalDuration = durMinutes * 60;
@@ -830,7 +852,7 @@ function getSimilarMovies(baseMovie, limit = 15) {
   const baseCategory = baseMovie.category;
   const baseParent = baseMovie.parentCategory;
 
-  const candidates = movies.filter(m => m.title !== baseMovie.title && !userWatched.has(m.title) && !userIgnored.has(m.title));
+  const candidates = movies.filter(m => m.title !== baseMovie.title && !isMovieExcluded(m));
 
   const scored = candidates.map(m => {
     let sim = 0;
@@ -892,7 +914,7 @@ function renderContinueWatchingShelf(container) {
 }
 
 function renderHighAffinityShelf(container, profile) {
-  const unwatched = movies.filter(m => !userWatched.has(m.title) && !userIgnored.has(m.title));
+  const unwatched = movies.filter(m => !isMovieExcluded(m));
   const scored = unwatched.map(m => ({ movie: m, affinity: calculateMovieAffinity(m, profile) }));
   scored.sort((a, b) => b.affinity - a.affinity);
   const topPicks = scored.slice(0, 16).map(s => s.movie);
@@ -981,7 +1003,7 @@ function renderBecauseYouWatchedShelf(container, profile) {
 
 function renderGlobalCinemaShelf(container, profile) {
   const globalMovies = movies.filter(m => {
-    if (userWatched.has(m.title) || userIgnored.has(m.title)) return false;
+    if (isMovieExcluded(m)) return false;
     const country = (m.omdb?.country || "").toLowerCase();
     const isUsOnly = country.includes("united states") && !country.includes("united kingdom") && !country.includes("france") && !country.includes("japan") && !country.includes("italy");
     const isGlobalCat = m.category === "world-cinema" || m.category === "anime-notable";
@@ -1021,7 +1043,7 @@ function renderGlobalCinemaShelf(container, profile) {
 
 function renderVintagePracticalsShelf(container, profile) {
   const vintage = movies.filter(m => {
-    if (userWatched.has(m.title) || userIgnored.has(m.title)) return false;
+    if (isMovieExcluded(m)) return false;
     const dec = getDecade(m.year);
     return dec === "70" || dec === "80" || dec === "90";
   });
@@ -1059,7 +1081,11 @@ function renderVintagePracticalsShelf(container, profile) {
 
 function renderSavedShelf(container) {
   const savedList = Array.from(userSavedMovies.values());
-  const savedMovieObjects = savedList.map(s => movies.find(m => m.title === s.title) || s);
+  const savedMovieObjects = savedList
+    .map(s => movies.find(m => m.title === s.title) || s)
+    .filter(m => !isMovieExcluded(m));
+
+  if (!savedMovieObjects.length) return;
 
   const section = document.createElement("div");
   section.className = "shelf-section";
@@ -1096,9 +1122,11 @@ function renderSavedShelf(container) {
 function renderTop10Row(container) {
   // Top 10 highly-rated unignored movies
   const top10 = movies
-    .filter(m => !userIgnored.has(m.title) && m.omdb?.imdbRating && m.omdb.imdbRating !== "N/A")
+    .filter(m => !isMovieExcluded(m) && m.omdb?.imdbRating && m.omdb.imdbRating !== "N/A")
     .sort((a, b) => parseFloat(b.omdb.imdbRating) - parseFloat(a.omdb.imdbRating))
     .slice(0, 10);
+
+  if (!top10.length) return;
 
   const section = document.createElement("div");
   section.className = "shelf-section";
@@ -1583,21 +1611,26 @@ function toggleWatchedMovie(movie) {
   if (!movie) return;
   if (userWatched.has(movie.title)) {
     userWatched.delete(movie.title);
+    if (movie.ptTitle) userWatched.delete(movie.ptTitle);
     showToast(`Desmarcado como visto: ${movie.ptTitle || movie.title}`);
   } else {
     userWatched.add(movie.title);
     showToast(`Marcado como visto: ${movie.ptTitle || movie.title}`);
   }
   syncModalActionButtons();
-  if (activeHeroMovie && activeHeroMovie.title === movie.title) renderHero(movie);
   saveUserStateToDisk();
+  renderCategoryPills();
   renderContentRows();
+  if (activeHeroMovie && isMovieExcluded(activeHeroMovie)) {
+    rotateHeroBannerRandomly();
+  }
 }
 
 function toggleIgnoreMovie(movie) {
   if (!movie) return;
   if (userIgnored.has(movie.title)) {
     userIgnored.delete(movie.title);
+    if (movie.ptTitle) userIgnored.delete(movie.ptTitle);
     showToast(`Reativado nas recomendações: ${movie.ptTitle || movie.title}`);
   } else {
     userIgnored.add(movie.title);
@@ -1605,13 +1638,18 @@ function toggleIgnoreMovie(movie) {
   }
   syncModalActionButtons();
   saveUserStateToDisk();
+  renderCategoryPills();
   renderContentRows();
+  if (activeHeroMovie && isMovieExcluded(activeHeroMovie)) {
+    rotateHeroBannerRandomly();
+  }
 }
 
 function toggleUndubbedMovie(movie) {
   if (!movie) return;
   if (userUndubbed.has(movie.title)) {
     userUndubbed.delete(movie.title);
+    if (movie.ptTitle) userUndubbed.delete(movie.ptTitle);
     showToast(`Removido da lista sem dublagem: ${movie.ptTitle || movie.title}`);
   } else {
     userUndubbed.add(movie.title);
@@ -1625,6 +1663,7 @@ function saveCommentForMovie(movie, text, sentiment) {
   if (!movie) return;
   if (!text.trim()) {
     delete userComments[movie.title];
+    if (movie.ptTitle) delete userComments[movie.ptTitle];
     showToast("Comentário removido");
   } else {
     userComments[movie.title] = {
@@ -1636,6 +1675,11 @@ function saveCommentForMovie(movie, text, sentiment) {
   }
   syncModalActionButtons();
   saveUserStateToDisk();
+  renderCategoryPills();
+  renderContentRows();
+  if (activeHeroMovie && isMovieExcluded(activeHeroMovie)) {
+    rotateHeroBannerRandomly();
+  }
 }
 
 // ==========================================================================
@@ -3107,8 +3151,16 @@ function closeNetflixPlayer() {
   const video = document.getElementById("netflixVideoPlayer");
   if (!overlay || !video) return;
 
-  // Save Progress
-  if (netflixCurrentMovie && video.currentTime > 5 && video.duration && (video.duration - video.currentTime > 45)) {
+  // Save Progress or mark watched if completed
+  if (netflixCurrentMovie && video.duration && (video.currentTime >= video.duration * 0.9 || video.duration - video.currentTime <= 45)) {
+    try {
+      localStorage.removeItem(`progress_${netflixCurrentMovie.title}`);
+    } catch (e) {}
+    userWatched.add(netflixCurrentMovie.title);
+    saveUserStateToDisk();
+    renderCategoryPills();
+    renderContentRows();
+  } else if (netflixCurrentMovie && video.currentTime > 5 && video.duration && (video.duration - video.currentTime > 45)) {
     try {
       localStorage.setItem(`progress_${netflixCurrentMovie.title}`, video.currentTime);
     } catch (e) {}
@@ -3201,7 +3253,7 @@ function playNextRecommendedMovie() {
   const similar = getSimilarMovies(netflixCurrentMovie, 10);
   let next = similar.find(m => m.title !== netflixCurrentMovie.title);
   if (!next) {
-    const unwatched = movies.filter(m => m.title !== netflixCurrentMovie.title && !userWatched.has(m.title));
+    const unwatched = movies.filter(m => m.title !== netflixCurrentMovie.title && !isMovieExcluded(m));
     next = unwatched.length ? unwatched[0] : movies[0];
   }
   if (next) {
@@ -3420,6 +3472,19 @@ function setupNetflixPlayerEngine() {
       const pct = (bufferedEnd / video.duration) * 100;
       if (scrubberBuffer) scrubberBuffer.style.width = `${pct}%`;
     }
+  });
+
+  video.addEventListener("ended", () => {
+    if (netflixCurrentMovie) {
+      try {
+        localStorage.removeItem(`progress_${netflixCurrentMovie.title}`);
+      } catch (e) {}
+      userWatched.add(netflixCurrentMovie.title);
+      saveUserStateToDisk();
+      renderCategoryPills();
+      renderContentRows();
+    }
+    playNextRecommendedMovie();
   });
 
   // Double Click on Video (Seek -10s / +10s) and Single Click (Play/Pause)
