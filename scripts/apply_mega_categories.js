@@ -26,14 +26,20 @@ const PARENT_MAP = {
   "inner-power": "besteirol",
   "adventure": "besteirol",
 
-  // ARTE
-  "world-cinema": "arte",
-  "study": "arte",
-  "misfit": "arte",
-  "cyberpunk": "arte",
-  "anime": "arte",
-  "animation": "arte",
-  "fury": "arte"
+  // ART
+  "world-cinema": "art",
+  "study": "art",
+  "misfit": "art",
+  "cyberpunk": "art",
+  "anime": "art",
+  "animation": "art",
+  "fury": "art",
+  "tactical-war": "art",
+  "classic-action": "art",
+  "iranian-cinema": "art",
+  "poetic-cinema": "art",
+  "surrealism": "art",
+  "moral-dilemma": "art"
 };
 
 const MEGA_CATEGORIES = [
@@ -58,7 +64,7 @@ const MEGA_CATEGORIES = [
     iconSvg: `<svg class="icon icon-stroke" viewBox="0 0 24 24"><path d="M9 10h.01"/><path d="M15 10h.01"/><path d="M10 20v-3h4v3"/><path d="M12 2a8 8 0 0 0-8 8v12l3-3 2.5 2.5L12 19l2.5 2.5L17 19l3 3V10a8 8 0 0 0-8-8z"/></svg>`,
     description: "Universo completo do horror: clássicos, slasher, body horror, suspense psicológico e adrenalina visceral.",
     isMegaCategory: true,
-    subcategories: ["horror", "action-horror", "body-horror", "suspense", "silent-mystery", "hatred", "nocturnal"]
+    subcategories: ["horror", "action-horror", "body-horror", "suspense", "silent-mystery", "hatred", "nocturnal", "cosmic-horror"]
   },
   {
     id: "besteirol",
@@ -70,19 +76,33 @@ const MEGA_CATEGORIES = [
     iconSvg: `<svg class="icon icon-stroke" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg>`,
     description: "Comédias clássicas, slackers hilários, azarões carismáticos, humor ácido e aventuras caóticas despretensiosas.",
     isMegaCategory: true,
-    subcategories: ["comedy", "loser-comedy", "dark-losers", "inner-power", "adventure"]
+    subcategories: ["comedy", "loser-comedy", "dark-losers", "inner-power", "adventure", "heist-misfits"]
   },
   {
-    id: "arte",
-    name: "Arte",
-    badgeLabel: "Cinema Cult & Autoral",
+    id: "art",
+    name: "Art",
+    badgeLabel: "Cinema Cult & Art",
     accentColor: "#00d2ff",
     gradient: "linear-gradient(135deg, #00d2ff 0%, #0066ff 100%)",
     glowColor: "rgba(0, 210, 255, 0.4)",
-    iconSvg: `<svg class="icon icon-stroke" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><line x1="2" x2="22" y1="12" y2="12"/></svg>`,
+    iconSvg: `<svg class="icon icon-stroke" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.563-2.512 5.563-5.563C22 6.5 17.5 2 12 2Z"/><circle cx="13.5" cy="6.5" r=".75" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".75" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".75" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".75" fill="currentColor"/></svg>`,
     description: "Obras-primas autorais, cinema mundial independente, dramas intimistas, ficção cyberpunk e animes conceituais.",
     isMegaCategory: true,
-    subcategories: ["world-cinema", "study", "misfit", "cyberpunk", "anime", "animation", "fury"]
+    subcategories: [
+      "classic-action",
+      "world-cinema",
+      "study",
+      "misfit",
+      "cyberpunk",
+      "anime",
+      "animation",
+      "fury",
+      "tactical-war",
+      "iranian-cinema",
+      "poetic-cinema",
+      "surrealism",
+      "moral-dilemma"
+    ]
   }
 ];
 

@@ -70,6 +70,20 @@ Documento de referência para curadoria, filtragem, motor de afinidade e recomen
 - Narrativas intensas focadas em claustrofobia tática, disciplina, inteligência e o impacto psicológico cru de combatentes reais.
 - Rejeição absoluta de heroísmo patriótico ufanista americano de estúdio, priorizando desconstrução antibélica, rigor geográfico e dilemas morais humanos (Kubrick, Coppola, Malick, cinema europeu).
 
+### L. Cinema Iraniano & Realismo Poético (Dilemas Cotidianos & Empatia Humanista)
+- Obras-primas reflexivas do cinema iraniano que desvendam dilemas éticos profundos, relações familiares, afeto infantil e a rica tapeçaria moral da vida cotidiana.
+- Ausência de maniqueísmo, foco em roteiros de precisão milimétrica e empatia humanista arrebatadora (Asghar Farhadi, Abbas Kiarostami, Jafar Panahi, Majid Majidi, Bahman Ghobadi).
+
+### M. Cinema Poético & Contemplativo (Tempo, Solidão & Transcendência)
+- Obras contemplativas de cadência meditativa, rica beleza plástica, composições pictóricas e silêncios eloquentes.
+- Meditações existenciais profundas sobre memória, tempo, paisagens e transcendência espiritual (Andrei Tarkovsky, Wim Wenders, Nuri Bilge Ceylan, Jim Jarmusch, Terrence Malick, Béla Tarr).
+
+### N. Cinema Surrealista & Onírico (Lógica de Sonhos & Desestabilização Visual)
+- Narrativas oníricas hipnóticas, simbolismo desconcertante, enigmas do inconsciente e distorções da realidade que subvertem a razão com puro impacto imagético e sensorial (David Lynch, Luis Buñuel, Alejandro Jodorowsky, Alain Resnais, Leos Carax).
+
+### O. Dilema Moral & Ética Existencial (Consciência, Escolhas & Fraternidade)
+- Conflitos morais dilacerantes, investigações íntimas da consciência e desconstrução das certezas humanas diante de escolhas extremas sem saídas fáceis (Krzysztof Kieślowski, Michael Haneke, Ingmar Bergman, Akira Kurosawa).
+
 ---
 
 ## 3. Regras de Interface & Dinâmica do Catálogo

@@ -69,7 +69,11 @@
       "anime",
       "animation",
       "fury",
-      "tactical-war"
+      "tactical-war",
+      "iranian-cinema",
+      "poetic-cinema",
+      "surrealism",
+      "moral-dilemma"
     ]
   },
   {
@@ -323,6 +327,50 @@
     "glowColor": "rgba(132, 204, 22, 0.35)",
     "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><line x1=\"22\" x2=\"18\" y1=\"12\" y2=\"12\"/><line x1=\"6\" x2=\"2\" y1=\"12\" y2=\"12\"/><line x1=\"12\" x2=\"12\" y1=\"6\" y2=\"2\"/><line x1=\"12\" x2=\"12\" y1=\"22\" y2=\"18\"/></svg>",
     "description": "Obras-primas antibelicistas focadas em estratégia, claustrofobia tática, disciplina e psicologia crua de combate sem clichês ufanistas.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "iranian-cinema",
+    "name": "Cinema Iraniano",
+    "badgeLabel": "Cinema Iraniano & Realismo Poético",
+    "accentColor": "#0ea5e9",
+    "gradient": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+    "glowColor": "rgba(14, 165, 233, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 6v2\"/><path d=\"M12 16v2\"/></svg>",
+    "description": "Obras-primas reflexivas do cinema iraniano que desvendam dilemas morais cotidianos, empatia humanista profunda, poesia social e relações familiares sem apelo comercial fácil.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "poetic-cinema",
+    "name": "Cinema Poético",
+    "badgeLabel": "Poético & Contemplativo",
+    "accentColor": "#8b5cf6",
+    "gradient": "linear-gradient(135deg, #a78bfa 0%, #6d28d9 100%)",
+    "glowColor": "rgba(139, 92, 246, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/><path d=\"M19 3v4\"/><path d=\"M21 5h-4\"/><circle cx=\"8\" cy=\"14\" r=\"2\"/></svg>",
+    "description": "Obras contemplativas de cadência meditativa, rica beleza plástica e silêncios eloquentes sobre memória, tempo, solidão e transcendência existencial.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "surrealism",
+    "name": "Surrealismo",
+    "badgeLabel": "Surrealismo & Onírico",
+    "accentColor": "#ec4899",
+    "gradient": "linear-gradient(135deg, #f472b6 0%, #be185d 100%)",
+    "glowColor": "rgba(236, 72, 153, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"m12 9 1.5 3-1.5 3-1.5-3z\"/></svg>",
+    "description": "Narrativas oníricas hipnóticas, lógica de sonhos, simbolismo desconcertante e distorções da realidade que subvertem a razão com puro impacto visual e sensorial.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "moral-dilemma",
+    "name": "Dilema Moral",
+    "badgeLabel": "Dilema Moral & Ética",
+    "accentColor": "#0284c7",
+    "gradient": "linear-gradient(135deg, #38bdf8 0%, #0369a1 100%)",
+    "glowColor": "rgba(2, 132, 199, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"M7 21h10\"/><path d=\"M12 3v18\"/><path d=\"M3 7h18\"/></svg>",
+    "description": "Conflitos éticos dilacerantes, investigações íntimas da consciência e desconstrução das certezas humanas diante de escolhas extremas sem saídas fáceis.",
     "parentCategory": "art"
   }
 ]

@@ -74,7 +74,11 @@ window.DEFAULT_CATALOG = {
       "anime",
       "animation",
       "fury",
-      "tactical-war"
+      "tactical-war",
+      "iranian-cinema",
+      "poetic-cinema",
+      "surrealism",
+      "moral-dilemma"
     ]
   },
   {
@@ -328,6 +332,50 @@ window.DEFAULT_CATALOG = {
     "glowColor": "rgba(132, 204, 22, 0.35)",
     "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><line x1=\"22\" x2=\"18\" y1=\"12\" y2=\"12\"/><line x1=\"6\" x2=\"2\" y1=\"12\" y2=\"12\"/><line x1=\"12\" x2=\"12\" y1=\"6\" y2=\"2\"/><line x1=\"12\" x2=\"12\" y1=\"22\" y2=\"18\"/></svg>",
     "description": "Obras-primas antibelicistas focadas em estratégia, claustrofobia tática, disciplina e psicologia crua de combate sem clichês ufanistas.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "iranian-cinema",
+    "name": "Cinema Iraniano",
+    "badgeLabel": "Cinema Iraniano & Realismo Poético",
+    "accentColor": "#0ea5e9",
+    "gradient": "linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%)",
+    "glowColor": "rgba(14, 165, 233, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 6v2\"/><path d=\"M12 16v2\"/></svg>",
+    "description": "Obras-primas reflexivas do cinema iraniano que desvendam dilemas morais cotidianos, empatia humanista profunda, poesia social e relações familiares sem apelo comercial fácil.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "poetic-cinema",
+    "name": "Cinema Poético",
+    "badgeLabel": "Poético & Contemplativo",
+    "accentColor": "#8b5cf6",
+    "gradient": "linear-gradient(135deg, #a78bfa 0%, #6d28d9 100%)",
+    "glowColor": "rgba(139, 92, 246, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/><path d=\"M19 3v4\"/><path d=\"M21 5h-4\"/><circle cx=\"8\" cy=\"14\" r=\"2\"/></svg>",
+    "description": "Obras contemplativas de cadência meditativa, rica beleza plástica e silêncios eloquentes sobre memória, tempo, solidão e transcendência existencial.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "surrealism",
+    "name": "Surrealismo",
+    "badgeLabel": "Surrealismo & Onírico",
+    "accentColor": "#ec4899",
+    "gradient": "linear-gradient(135deg, #f472b6 0%, #be185d 100%)",
+    "glowColor": "rgba(236, 72, 153, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"m12 9 1.5 3-1.5 3-1.5-3z\"/></svg>",
+    "description": "Narrativas oníricas hipnóticas, lógica de sonhos, simbolismo desconcertante e distorções da realidade que subvertem a razão com puro impacto visual e sensorial.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "moral-dilemma",
+    "name": "Dilema Moral",
+    "badgeLabel": "Dilema Moral & Ética",
+    "accentColor": "#0284c7",
+    "gradient": "linear-gradient(135deg, #38bdf8 0%, #0369a1 100%)",
+    "glowColor": "rgba(2, 132, 199, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"M7 21h10\"/><path d=\"M12 3v18\"/><path d=\"M3 7h18\"/></svg>",
+    "description": "Conflitos éticos dilacerantes, investigações íntimas da consciência e desconstrução das certezas humanas diante de escolhas extremas sem saídas fáceis.",
     "parentCategory": "art"
   }
 ],
@@ -14540,6 +14588,505 @@ window.DEFAULT_CATALOG = {
     "streamAvailable": true
   },
   {
+    "title": "A Separation",
+    "ptTitle": "A Separação",
+    "year": 2011,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/a-separation/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Obra-prima de Asghar Farhadi vencedora do Oscar de Melhor Filme Estrangeiro e do Urso de Ouro em Berlim. Um drama moral minucioso sobre divórcio, dever familiar, religião e verdade.",
+    "curatorReason": "Roteiro de precisão milimétrica sem vilões ou mocinhos, retratando com imensa empatia humana as pressões sociais e éticas do Teerã contemporâneo.",
+    "omdb": {
+      "title": "A Separation",
+      "year": "2011",
+      "rated": "PG-13",
+      "released": "16 Mar 2011",
+      "runtime": "123 min",
+      "genre": "Drama",
+      "director": "Asghar Farhadi",
+      "writer": "Asghar Farhadi",
+      "actors": "Payman Maadi, Leila Hatami, Sareh Bayat",
+      "plot": "A married couple have to decide whether to improve their daughter's life by moving abroad or to stay in Iran and look after a deteriorating parent with Alzheimer's disease.",
+      "language": "Persian",
+      "country": "Iran, France, Australia",
+      "awards": "Won 1 Oscar. 89 wins & 52 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "metascore": "95/100",
+      "imdbRating": "8.3",
+      "imdbVotes": "280,979",
+      "imdbID": "tt1832382",
+      "boxOffice": "$7,099,055",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Salesman",
+    "ptTitle": "O Apartamento",
+    "year": 2016,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-salesman-2016/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Unidub",
+    "curatorNote": "Vencedor do Oscar de Melhor Filme Estrangeiro e Melhor Roteiro em Cannes. Um casal de atores de teatro lida com as repercussões de uma invasão domiciliar e o desejo de vingança.",
+    "curatorReason": "Farhadi desconstrói a noção de honra e justiça pessoal através de uma tensão psicológica sufocante e atuações de extraordinária sutileza.",
+    "omdb": {
+      "title": "The Salesman",
+      "year": "2016",
+      "rated": "PG-13",
+      "released": "31 Aug 2016",
+      "runtime": "124 min",
+      "genre": "Drama, Thriller",
+      "director": "Asghar Farhadi",
+      "writer": "Asghar Farhadi",
+      "actors": "Shahab Hosseini, Taraneh Alidoosti, Babak Karimi",
+      "plot": "While Ranaa and Emad, a married couple, are participating in a production of \"Death of a Salesman,\" she is assaulted in their new home, which leaves him determined to find the perpetrator over his wife's traumatized objections.",
+      "language": "Persian, English",
+      "country": "Iran, France, Qatar, United States",
+      "awards": "Won 1 Oscar. 17 wins & 32 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTc0ODEwOV5BMl5BanBnXkFtZTgwNDAyOTY1MDI@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "69,388",
+      "imdbID": "tt5186714",
+      "boxOffice": "$2,402,067",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Taste of Cherry",
+    "ptTitle": "Gosto de Cereja",
+    "year": 1997,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/taste-of-cherry/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Studio Gábia",
+    "curatorNote": "Vencedor da Palma de Ouro no Festival de Cannes. Um homem dirige pelos arredores áridos de Teerã em busca de alguém que realize uma tarefa crucial e silenciosa.",
+    "curatorReason": "O cume do cinema poético de Abbas Kiarostami: uma meditação filosófica profunda e luminosa sobre o valor e o peso insubstituível da própria vida.",
+    "omdb": {
+      "title": "Taste of Cherry",
+      "year": "1997",
+      "rated": "Not Rated",
+      "released": "26 Nov 1997",
+      "runtime": "95 min",
+      "genre": "Drama",
+      "director": "Abbas Kiarostami",
+      "writer": "Abbas Kiarostami",
+      "actors": "Homayoun Ershadi, Abdolhosein Bagheri, Afshin Khorshid Bakhtiari",
+      "plot": "An Iranian man drives his car in search of someone who will quietly bury him under a cherry tree after he commits suicide.",
+      "language": "Persian, Kurdish",
+      "country": "Iran, France",
+      "awards": "3 wins & 5 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGM3NzlmOGEtMWVjMS00ZjVlLTk4ZjItNzlmYWNjMmE2NzFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "45,325",
+      "imdbID": "tt0120265",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The White Balloon",
+    "ptTitle": "O Balão Branco",
+    "year": 1995,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-white-balloon/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Álamo",
+    "curatorNote": "Vencedor do Caméra d Or em Cannes, com roteiro de Abbas Kiarostami e direção magistral de Jafar Panahi. A saga de uma menina para comprar um peixinho dourado antes do Ano Novo.",
+    "curatorReason": "Puro neorrealismo comovente em tempo real, transformando as ruas de Teerã em um espelho terno de solidariedade, perseverança infantil e empatia urbana.",
+    "omdb": {
+      "title": "The White Balloon",
+      "year": "1995",
+      "rated": "Unrated",
+      "released": "27 Nov 1995",
+      "runtime": "85 min",
+      "genre": "Drama, Family",
+      "director": "Jafar Panahi",
+      "writer": "Abbas Kiarostami, Jafar Panahi, Parviz Shahbazi",
+      "actors": "Aida Mohammadkhani, Mohsen Kafili, Fereshteh Sadre Orafaiy",
+      "plot": "Several people try to help a little girl to find the money her mom gave her to buy a goldfish with.",
+      "language": "Persian",
+      "country": "Iran",
+      "awards": "5 wins & 3 nominations",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2E0OGRkOGQtMzhiOC00NDUxLThjMzYtNTM4ZTNhYWU1NmQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        }
+      ],
+      "metascore": "N/A/100",
+      "imdbRating": "7.6",
+      "imdbVotes": "8,414",
+      "imdbID": "tt0112445",
+      "boxOffice": "$924,940",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Close-Up",
+    "ptTitle": "Close-Up",
+    "year": 1990,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/close-up-1990/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Centauro",
+    "curatorNote": "Marco absoluto da cinefilia mundial. A reconstituição híbrida entre ficção e documentário sobre um homem humilde e apaixonado por cinema que se passa pelo cineasta Mohsen Makhmalbaf.",
+    "curatorReason": "Kiarostami interroga a própria natureza do cinema, da identidade e da dignidade humana com as pessoas reais interpretando seus próprios papéis no tribunal.",
+    "omdb": {
+      "title": "Close-Up",
+      "year": "1991",
+      "rated": "Not Rated",
+      "released": "30 Oct 1991",
+      "runtime": "98 min",
+      "genre": "Biography, Crime, Drama",
+      "director": "Abbas Kiarostami",
+      "writer": "Abbas Kiarostami",
+      "actors": "Hossain Sabzian, Mohsen Makhmalbaf, Abolfazl Ahankhah",
+      "plot": "The true story of Hossain Sabzian, a cinephile who impersonated the director Mohsen Makhmalbaf to convince a family they would star in his so-called new film.",
+      "language": "Persian, Azerbaijani",
+      "country": "Iran",
+      "awards": "2 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "metascore": "92/100",
+      "imdbRating": "8.2",
+      "imdbVotes": "27,389",
+      "imdbID": "tt0100234",
+      "boxOffice": "$2,670",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Color of Paradise",
+    "ptTitle": "A Cor do Paraíso",
+    "year": 1999,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-color-of-paradise/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Mastersound",
+    "curatorNote": "Obra visualmente arrebatadora de Majid Majidi sobre um menino cego com uma percepção poética aguçada da natureza, e a luta de seu pai viúvo contra a vergonha e a pobreza.",
+    "curatorReason": "Design de som sensorial magnífico e paisagens bucólicas que transformam a experiência tátil e a inocência em uma das obras mais comoventes do cinema oriental.",
+    "omdb": {
+      "title": "The Color of Paradise",
+      "year": "1999",
+      "rated": "PG",
+      "released": "08 Feb 1999",
+      "runtime": "90 min",
+      "genre": "Drama, Family",
+      "director": "Majid Majidi",
+      "writer": "Majid Majidi",
+      "actors": "Hossein Mahjoub, Mohsen Ramezani, Salameh Feyzi",
+      "plot": "The story of Mohammed, a blind Iranian boy and his father, Hashem, who is always oscillating between accepting his son as he is and abandoning him, as he represents a burden for him, after the loss of his wife.",
+      "language": "Persian, Azerbaijani",
+      "country": "Iran",
+      "awards": "10 wins & 11 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTc3ZWJlMjQtYWEyZS00ZmQyLTk0YWMtMzdjYWJhMmJhMmMzXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80/100",
+      "imdbRating": "8.1",
+      "imdbVotes": "19,590",
+      "imdbID": "tt0191043",
+      "boxOffice": "$1,817,216",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Turtles Can Fly",
+    "ptTitle": "Tartarugas Podem Voar",
+    "year": 2004,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/turtles-can-fly/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Marshmallow",
+    "curatorNote": "Vencedor da Concha de Ouro em San Sebastián, dirigido por Bahman Ghobadi. O cotidiano de um grupo de crianças órfãs e refugiadas na fronteira do Curdistão iraquiano antes da guerra.",
+    "curatorReason": "Um olhar comovente, cru e poético sobre infância, resistência e resiliência sem sentimentalismo artificial.",
+    "omdb": {
+      "title": "Turtles Can Fly",
+      "year": "2004",
+      "rated": "PG-13",
+      "released": "23 Feb 2005",
+      "runtime": "98 min",
+      "genre": "Drama, War",
+      "director": "Bahman Ghobadi",
+      "writer": "Bahman Ghobadi",
+      "actors": "Soran Ebrahim, Avaz Latif, Saddam Hossein Feysal",
+      "plot": "Near the Iraqi-Turkish border on the eve of an American invasion, refugee children, like 13-year-old Kak (Ebrahim), gauge and await their fate.",
+      "language": "Kurdish, Arabic, English",
+      "country": "Iran, France, Iraq",
+      "awards": "23 wins & 8 nominations",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDU4MmU2MjAtYjI3ZC00MDhkLThhZTMtMmFkZWJmMTU2YjFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "8.0",
+      "imdbVotes": "21,238",
+      "imdbID": "tt0424227",
+      "boxOffice": "$258,578",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Past",
+    "ptTitle": "O Passado",
+    "year": 2013,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-past-2013/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor de Melhor Atriz em Cannes para Bérénice Bejo. Um iraniano retorna a Paris para finalizar seu divórcio e se depara com uma teia de segredos familiares sufocantes.",
+    "curatorReason": "A maestria de Farhadi em demonstrar como mal-entendidos passados e culpas veladas corroem as relações humanas mais íntimas.",
+    "omdb": {
+      "title": "The Past",
+      "year": "2013",
+      "rated": "PG-13",
+      "released": "17 May 2013",
+      "runtime": "130 min",
+      "genre": "Drama, Mystery",
+      "director": "Asghar Farhadi",
+      "writer": "Asghar Farhadi",
+      "actors": "Bérénice Bejo, Tahar Rahim, Ali Mosaffa",
+      "plot": "An Iranian man deserts his French wife and her two children to return to his homeland. Meanwhile, his wife starts up a new relationship, a reality her husband confronts upon his wife's request for a divorce.",
+      "language": "French, Persian",
+      "country": "France, Italy, Belgium",
+      "awards": "13 wins & 42 nominations",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTgzNDg1N15BMl5BanBnXkFtZTgwNjg4MzI1MDE@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "51,340",
+      "imdbID": "tt2404461",
+      "boxOffice": "$1,331,747",
+      "type": "movie"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/178551.mp4",
+    "streamName": "O Passado",
+    "streamAvailable": true
+  },
+  {
+    "title": "Taxi",
+    "ptTitle": "Taxi Teerã",
+    "year": 2015,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/taxi-2015/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "TV Group",
+    "curatorNote": "Vencedor do Urso de Ouro no Festival de Berlim. Filmado clandestinamente pelo próprio Jafar Panahi ao volante de um táxi amarelo pelas ruas movimentadas de Teerã.",
+    "curatorReason": "Uma crônica calorosa, bem-humorada e contundente sobre censura, arte, coragem e a rica diversidade do povo iraniano sob um regime restritivo.",
+    "omdb": {
+      "title": "Taxi",
+      "year": "2015",
+      "rated": "Not Rated",
+      "released": "15 Apr 2015",
+      "runtime": "82 min",
+      "genre": "Comedy, Drama",
+      "director": "Jafar Panahi",
+      "writer": "Jafar Panahi",
+      "actors": "Jafar Panahi, Nasrin Sotoudeh",
+      "plot": "Banned from making movies by the Iranian government, Jafar Panahi poses as a taxi driver and makes a movie about social challenges in Iran.",
+      "language": "Persian",
+      "country": "Iran",
+      "awards": "8 wins & 8 nominations",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjVkODc4M2YtNzVlYi00M2NkLTgyMjUtMzkzNWIzNGYyNThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "metascore": "91/100",
+      "imdbRating": "7.3",
+      "imdbVotes": "16,789",
+      "imdbID": "tt4359416",
+      "boxOffice": "$321,642",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "About Elly",
+    "ptTitle": "À Procura de Elly",
+    "year": 2009,
+    "category": "iranian-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/about-elly/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Bravo Studios",
+    "curatorNote": "Vencedor do Urso de Prata de Melhor Diretor para Asghar Farhadi. Um fim de semana à beira-mar entre amigos de faculdade se transforma em pesadelo quando uma jovem professora desaparece misteriosamente.",
+    "curatorReason": "Um suspense psicológico e moral magistral que expõe a hipocrisia das convenções sociais da classe média sob pressão extrema.",
+    "omdb": {
+      "title": "About Elly",
+      "year": "2009",
+      "rated": "TV-PG",
+      "released": "06 Jun 2009",
+      "runtime": "119 min",
+      "genre": "Drama, Mystery",
+      "director": "Asghar Farhadi",
+      "writer": "Asghar Farhadi",
+      "actors": "Taraneh Alidoosti, Golshifteh Farahani, Shahab Hosseini",
+      "plot": "The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.",
+      "language": "Persian, German",
+      "country": "Iran, France",
+      "awards": "23 wins & 17 nominations",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQxODQ0MV5BMl5BanBnXkFtZTgwNTQ0NzY4NDE@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "58,135",
+      "imdbID": "tt1360860",
+      "boxOffice": "$470,760",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
     "title": "Dodgeball: A True Underdog Story",
     "year": 2004,
     "category": "loser-comedy",
@@ -16707,6 +17254,502 @@ window.DEFAULT_CATALOG = {
     "streamAvailable": true
   },
   {
+    "title": "Three Colors: Red",
+    "ptTitle": "A Fraternidade É Vermelha",
+    "year": 1994,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/three-colors-red/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Indicado a 3 Oscars. Uma modelo suíça descobre por acaso que seu vizinho idoso, um juiz aposentado e amargurado, passa os dias grampeando e escutando as conversas telefônicas alheias.",
+    "curatorReason": "O fecho magnífico da trilogia de Krzysztof Kieślowski sobre fraternidade, destino cruzado e a redenção através da escuta ética desinteressada.",
+    "omdb": {
+      "title": "Three Colors: Red",
+      "year": "1994",
+      "rated": "R",
+      "released": "23 Nov 1994",
+      "runtime": "99 min",
+      "genre": "Drama, Mystery, Romance",
+      "director": "Krzysztof Kieslowski",
+      "writer": "Krzysztof Piesiewicz, Krzysztof Kieslowski, Agnieszka Holland",
+      "actors": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
+      "plot": "A model discovers a retired judge is keen on invading people's privacy.",
+      "language": "French",
+      "country": "France, Switzerland, Poland",
+      "awards": "Nominated for 3 Oscars. 19 wins & 27 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0YTQyYzItNGEzMi00NmI4LWJkOTMtOWMyMjAwMWEzYTZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "metascore": "100/100",
+      "imdbRating": "8.0",
+      "imdbVotes": "117,131",
+      "imdbID": "tt0111495",
+      "boxOffice": "$3,581,969",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Three Colors: Blue",
+    "ptTitle": "A Liberdade É Azul",
+    "year": 1993,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/three-colors-blue/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor do Leão de Ouro em Veneza. Após perder o marido compositor e a filha em um acidente trágico de carro, Julie tenta cortar todos os laços humanos para viver em isolamento absoluto.",
+    "curatorReason": "Atuação monumental de Juliette Binoche explorando o paradoxo da dor, do perdão e da impossibilidade moral de se desvincular do mundo.",
+    "omdb": {
+      "title": "Three Colors: Blue",
+      "year": "1993",
+      "rated": "R",
+      "released": "08 Sep 1993",
+      "runtime": "98 min",
+      "genre": "Drama, Music, Mystery",
+      "director": "Krzysztof Kieslowski",
+      "writer": "Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland",
+      "actors": "Juliette Binoche, Zbigniew Zamachowski, Julie Delpy",
+      "plot": "After losing her family in a car accident, a woman attempts to erase her past and live in total isolation until unexpected human connections force her back toward the living.",
+      "language": "French, Romanian, Polish",
+      "country": "France, Poland, Switzerland",
+      "awards": "22 wins & 19 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWMxNWE2NGYtMzYwOS00NmJhLTgwNjAtNGM3ODIwNjU5MTZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87/100",
+      "imdbRating": "7.8",
+      "imdbVotes": "119,599",
+      "imdbID": "tt0108394",
+      "boxOffice": "$1,324,974",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Three Colors: White",
+    "ptTitle": "A Igualdade É Branca",
+    "year": 1994,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/three-colors-white/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor do Urso de Prata em Berlim. Humilhado e abandonado em Paris após um divórcio traumático, um cabeleireiro polonês retorna clandestinamente a Varsóvia tramando uma vingança elaborada.",
+    "curatorReason": "Uma comédia dramática agridoce e afiada sobre igualdade, ambição capitalista no leste europeu pós-comunista e obsessão afetiva.",
+    "omdb": {
+      "title": "Three Colors: White",
+      "year": "1994",
+      "rated": "R",
+      "released": "10 Jun 1994",
+      "runtime": "92 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Krzysztof Kieslowski",
+      "writer": "Krzysztof Kieslowski, Krzysztof Piesiewicz, Agnieszka Holland",
+      "actors": "Zbigniew Zamachowski, Julie Delpy, Janusz Gajos",
+      "plot": "Humiliated by divorce and stripped of everything in France, a Polish immigrant rebuilds his fortune at home, then turns his newfound power toward an elaborate revenge against the woman who rejected him.",
+      "language": "French, Polish, English",
+      "country": "France, Switzerland, Poland",
+      "awards": "2 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyMWJiYTEtNmIzYi00OTYxLTlkYjEtMGFjMjY3NDc5Mjk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "metascore": "91/100",
+      "imdbRating": "7.6",
+      "imdbVotes": "85,706",
+      "imdbID": "tt0111507",
+      "boxOffice": "$1,237,219",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Amour",
+    "ptTitle": "Amor",
+    "year": 2012,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/amour/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor da Palma de Ouro em Cannes e do Oscar de Melhor Filme Estrangeiro. Georges e Anne são professores de música aposentados cujo amor octogenário é posto à prova após uma série de derrames.",
+    "curatorReason": "Michael Haneke filma com pudor, lucidez e coragem devastadora o enfrentamento da decadência física, da dignidade e dos limites da compaixão.",
+    "omdb": {
+      "title": "Amour",
+      "year": "2012",
+      "rated": "PG-13",
+      "released": "20 Sep 2012",
+      "runtime": "127 min",
+      "genre": "Drama",
+      "director": "Michael Haneke",
+      "writer": "Michael Haneke",
+      "actors": "Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+      "plot": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tes...",
+      "language": "French, English",
+      "country": "France, Germany, Austria",
+      "awards": "Won 1 Oscar. 84 wins & 111 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "metascore": "95/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "111,455",
+      "imdbID": "tt1602620",
+      "boxOffice": "$6,739,492",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The White Ribbon",
+    "ptTitle": "A Fita Branca",
+    "year": 2009,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/the-white-ribbon/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavídeo",
+    "curatorNote": "Vencedor da Palma de Ouro em Cannes. Em um vilarejo rural protestante no norte da Alemanha às vésperas da Primeira Guerra Mundial, estranhos acidentes punitivos começam a assombrar a comunidade.",
+    "curatorReason": "Haneke investiga a rigidez moralista, o autoritarismo doméstico e as raízes psicológicas silenciosas que geram o ódio fascista.",
+    "omdb": {
+      "title": "The White Ribbon",
+      "year": "2010",
+      "rated": "R",
+      "released": "05 Mar 2010",
+      "runtime": "144 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "Michael Haneke",
+      "writer": "Michael Haneke",
+      "actors": "Christian Friedel, Ernst Jacobi, Leonie Benesch",
+      "plot": "Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?",
+      "language": "German, Italian, Polish, Latin",
+      "country": "Germany, Austria, France, Italy, Canada",
+      "awards": "Nominated for 2 Oscars. 62 wins & 49 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "metascore": "84/100",
+      "imdbRating": "7.8",
+      "imdbVotes": "82,223",
+      "imdbID": "tt1149362",
+      "boxOffice": "$2,222,862",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Seventh Seal",
+    "ptTitle": "O Sétimo Selo",
+    "year": 1957,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/the-seventh-seal/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinecastro",
+    "curatorNote": "Vencedor do Prêmio Especial do Júri em Cannes. Um cavaleiro desiludido retorna das Cruzadas e encontra sua terra assolada pela Peste Negra, desafiando a Morte para uma partida de xadrez.",
+    "curatorReason": "A grande alegoria existencial de Ingmar Bergman sobre o silêncio de Deus, o medo do nada e a busca de um único ato com sentido humano.",
+    "omdb": {
+      "title": "The Seventh Seal",
+      "year": "1958",
+      "rated": "Not Rated",
+      "released": "13 Oct 1958",
+      "runtime": "96 min",
+      "genre": "Drama, Fantasy",
+      "director": "Ingmar Bergman",
+      "writer": "Ingmar Bergman",
+      "actors": "Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",
+      "plot": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+      "language": "Swedish, Latin",
+      "country": "Sweden",
+      "awards": "9 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "metascore": "88/100",
+      "imdbRating": "8.1",
+      "imdbVotes": "218,162",
+      "imdbID": "tt0050976",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Persona",
+    "ptTitle": "Quando Duas Mulheres Pecam",
+    "year": 1966,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/persona/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Clone",
+    "curatorNote": "Uma atriz renomada subitamente para de falar durante uma encenação de Electra e é enviada para uma casa isolada à beira-mar com uma jovem enfermeira que cuida dela.",
+    "curatorReason": "Obra-prima psicológica de Bergman com montagem de vanguarda dissecando a máscara social, o vampirismo psíquico e a fragilidade da identidade.",
+    "omdb": {
+      "title": "Persona",
+      "year": "1967",
+      "rated": "Not Rated",
+      "released": "16 Mar 1967",
+      "runtime": "83 min",
+      "genre": "Drama, Thriller",
+      "director": "Ingmar Bergman",
+      "writer": "Ingmar Bergman",
+      "actors": "Bibi Andersson, Liv Ullmann, Margaretha Krook",
+      "plot": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+      "language": "Swedish, English",
+      "country": "Sweden",
+      "awards": "Nominated for 1 BAFTA Award. 8 wins & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "metascore": "86/100",
+      "imdbRating": "8.0",
+      "imdbVotes": "142,440",
+      "imdbID": "tt0060827",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Caché",
+    "ptTitle": "Caché",
+    "year": 2005,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/cache/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor de Melhor Direção em Cannes. Um apresentador de televisão burguês e sua esposa recebem fitas de vídeo anônimas mostrando que sua casa e rotina estão sendo vigiadas continuamente.",
+    "curatorReason": "Michael Haneke constrói um suspense paranoico impecável sobre culpa histórica velada, desonestidade moral e a recusa em encarar o passado.",
+    "omdb": {
+      "title": "Caché",
+      "year": "2006",
+      "rated": "R",
+      "released": "17 Feb 2006",
+      "runtime": "117 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "Michael Haneke",
+      "writer": "Michael Haneke",
+      "actors": "Daniel Auteuil, Juliette Binoche, Maurice Bénichou",
+      "plot": "A married couple is terrorized by a series of surveillance videotapes left on their front porch.",
+      "language": "French",
+      "country": "France, Austria, Germany, Italy",
+      "awards": "29 wins & 37 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87/100",
+      "imdbRating": "7.3",
+      "imdbVotes": "91,194",
+      "imdbID": "tt0387898",
+      "boxOffice": "$3,647,381",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "A Short Film About Love",
+    "ptTitle": "Não Amarás",
+    "year": 1988,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/a-short-film-about-love/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS",
+    "curatorNote": "Vencedor do Prêmio do Júri em San Sebastián. Um jovem tímido de 19 anos espiona com uma luneta sua vizinha mais velha do prédio em frente, confundindo fascínio com amor.",
+    "curatorReason": "Kieślowski explora com extrema delicadeza a solidão urbana, o voyeurismo e o abismo entre o amor idealizado e a fragilidade do contato real.",
+    "omdb": {
+      "title": "A Short Film About Love",
+      "year": "1995",
+      "rated": "Not Rated",
+      "released": "04 Aug 1995",
+      "runtime": "87 min",
+      "genre": "Drama, Romance",
+      "director": "Krzysztof Kieslowski",
+      "writer": "Krzysztof Kieslowski, Krzysztof Piesiewicz",
+      "actors": "Grazyna Szapolowska, Olaf Lubaszenko, Stefania Iwinska",
+      "plot": "A naive inexperienced young man spies on a woman who lives across the courtyard, and falls in love with her. He starts using tricks which he hopes will lead to them meeting.",
+      "language": "Polish, Portuguese",
+      "country": "Poland",
+      "awards": "14 wins & 1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMjZlYzctMmQwNS00ZGU5LWI2N2EtOTI0YzQ2NTJmNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "metascore": "N/A/100",
+      "imdbRating": "8.1",
+      "imdbVotes": "28,686",
+      "imdbID": "tt0095467",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Ikiru",
+    "ptTitle": "Viver",
+    "year": 1952,
+    "category": "moral-dilemma",
+    "letterboxdUrl": "https://letterboxd.com/film/ikiru/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Álamo",
+    "curatorNote": "Ao descobrir um câncer terminal, um burocrata idoso de Tóquio percebe que desperdiçou 30 anos de sua vida em carimbos inúteis e decide encontrar um propósito antes de morrer.",
+    "curatorReason": "Akira Kurosawa entrega uma das obras humanistas mais comoventes e transformadoras de todos os tempos, culminando na cena épica do balanço sob a neve.",
+    "omdb": {
+      "title": "Ikiru",
+      "year": "1956",
+      "rated": "Not Rated",
+      "released": "25 Mar 1956",
+      "runtime": "143 min",
+      "genre": "Drama",
+      "director": "Akira Kurosawa",
+      "writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+      "actors": "Takashi Shimura, Nobuo Kaneko, Shin&apos;ichi Himori",
+      "plot": "An aging Tokyo bureaucrat, shaken by a grave diagnosis, breaks from his hollow routine and searches for meaning, connection, and one worthwhile act.",
+      "language": "Japanese, Latin, English, French",
+      "country": "Japan",
+      "awards": "Nominated for 1 BAFTA Award. 6 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmZiNzExNmUtODU5YS00MDE1LWI0YTItMzVmNjM1ZTQ5NGVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "metascore": "92/100",
+      "imdbRating": "8.3",
+      "imdbVotes": "104,236",
+      "imdbID": "tt0044741",
+      "boxOffice": "$60,239",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
     "title": "Good Time",
     "ptTitle": "Bom Comportamento",
     "year": 2017,
@@ -18005,6 +19048,509 @@ window.DEFAULT_CATALOG = {
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/388715.mp4",
     "streamName": "Uma Noite de Crime",
     "streamAvailable": true
+  },
+  {
+    "title": "Paris, Texas",
+    "ptTitle": "Paris, Texas",
+    "year": 1984,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/paris-texas/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor unânime da Palma de Ouro em Cannes. Um homem surge desorientado do deserto após quatro anos desaparecido e tenta reconstruir os laços com seu filho pequeno e a esposa perdida.",
+    "curatorReason": "Wim Wenders cria uma das mais belas elegias visuais do cinema, com trilha inesquecível de Ry Cooder e a cinematografia monumental de Robby Müller.",
+    "omdb": {
+      "title": "Paris, Texas",
+      "year": "1984",
+      "rated": "R",
+      "released": "23 Aug 1984",
+      "runtime": "145 min",
+      "genre": "Drama",
+      "director": "Wim Wenders",
+      "writer": "L.M. Kit Carson, Sam Shepard, Walter Donohue",
+      "actors": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",
+      "plot": "After missing for 4 years, aimless drifter Travis Henderson wanders out of the desert and slowly begins to reconnect with his brother's family and his young son while examining his past and attempting to reconcile with his estrang...",
+      "language": "English, Spanish",
+      "country": "West Germany, France, United Kingdom, United States",
+      "awards": "Won 1 BAFTA Award. 17 wins & 18 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "metascore": "81/100",
+      "imdbRating": "8.1",
+      "imdbVotes": "145,470",
+      "imdbID": "tt0087884",
+      "boxOffice": "$2,422,082",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Wings of Desire",
+    "ptTitle": "As Asas do Desejo",
+    "year": 1987,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/wings-of-desire/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Vencedor de Melhor Direção em Cannes. Em Berlim dividida pela Guerra Fria, dois anjos imortais observam e confortam os pensamentos íntimos dos humanos solitários.",
+    "curatorReason": "Um poema cinematográfico sublime em preto e branco sobre a beleza dos pequenos sentidos físicos e o milagre da experiência mortal.",
+    "omdb": {
+      "title": "Wings of Desire",
+      "year": "1988",
+      "rated": "PG-13",
+      "released": "06 May 1988",
+      "runtime": "128 min",
+      "genre": "Drama, Fantasy, Romance",
+      "director": "Wim Wenders",
+      "writer": "Wim Wenders, Peter Handke, Richard Reitinger",
+      "actors": "Bruno Ganz, Solveig Dommartin, Otto Sander",
+      "plot": "An angel meets Peter Falk, and loves a French trapeze artist in Berlin.",
+      "language": "German, English, French, Turkish, Hebrew, Spanish, Japanese",
+      "country": "West Germany, France",
+      "awards": "Nominated for 1 BAFTA Award. 19 wins & 18 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "metascore": "79/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "85,038",
+      "imdbID": "tt0093191",
+      "boxOffice": "$3,333,969",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Solaris",
+    "ptTitle": "Solaris",
+    "year": 1972,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/solaris-1972/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Clone",
+    "curatorNote": "Vencedor do Grande Prêmio do Júri em Cannes. Um psicólogo é enviado a uma estação espacial orbitando um planeta oceânico enigmático que materializa memórias e culpas reprimidas.",
+    "curatorReason": "A resposta reflexiva e profundamente espiritual de Andrei Tarkovsky à ficção científica convencional, focando no amor, na perda e na incomunicabilidade humana.",
+    "omdb": {
+      "title": "Solaris",
+      "year": "1972",
+      "rated": "PG",
+      "released": "26 Sep 1972",
+      "runtime": "167 min",
+      "genre": "Adventure, Drama, Mystery",
+      "director": "Andrei Tarkovsky",
+      "writer": "Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky",
+      "actors": "Natalya Bondarchuk, Donatas Banionis, Jüri Järvet",
+      "plot": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+      "language": "Russian, German",
+      "country": "Soviet Union",
+      "awards": "2 wins & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "metascore": "93/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "105,426",
+      "imdbID": "tt0069293",
+      "boxOffice": "$22,168",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Mirror",
+    "ptTitle": "O Espelho",
+    "year": 1975,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-mirror-1975/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS",
+    "curatorNote": "A obra mais lírica e autobiográfica de Andrei Tarkovsky, costurando lembranças de infância, poemas de seu pai Arseny Tarkovsky, notícias de arquivo e sonhos cósmicos.",
+    "curatorReason": "Estrutura não-linear revolucionária onde tempo, vento, fogo e memória se fundem em pura plasticidade pictórica inigualável na história da arte.",
+    "omdb": {
+      "title": "The Mirror",
+      "year": "1975",
+      "rated": "Not Rated",
+      "released": "07 Mar 1975",
+      "runtime": "107 min",
+      "genre": "Biography, Drama",
+      "director": "Andrei Tarkovsky",
+      "writer": "Aleksandr Misharin, Andrei Tarkovsky, Arseniy Tarkovskiy",
+      "actors": "Margarita Terekhova, Filipp Yankovskiy, Ignat Daniltsev",
+      "plot": "A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.",
+      "language": "Russian, Spanish",
+      "country": "Soviet Union",
+      "awards": "1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "metascore": "82/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "58,506",
+      "imdbID": "tt0072443",
+      "boxOffice": "$22,168",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Paterson",
+    "ptTitle": "Paterson",
+    "year": 2016,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/paterson/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Dirigido por Jim Jarmusch e estrelado por Adam Driver. O cotidiano tranquilo e contemplativo de um motorista de ônibus em New Jersey que escreve poesias no intervalo de suas rotas.",
+    "curatorReason": "Um elogio sereno à rotina calma, ao amor cotidiano sem conflitos artificiais e à observação atenta da beleza escondida no ordinário.",
+    "omdb": {
+      "title": "Paterson",
+      "year": "2016",
+      "rated": "R",
+      "released": "28 Dec 2016",
+      "runtime": "118 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Jim Jarmusch",
+      "writer": "Jim Jarmusch, Ron Padgett, William Carlos Williams",
+      "actors": "Adam Driver, Golshifteh Farahani, Nellie",
+      "plot": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+      "language": "English, Italian",
+      "country": "France, Germany, United States",
+      "awards": "10 wins & 41 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "metascore": "90/100",
+      "imdbRating": "7.3",
+      "imdbVotes": "96,712",
+      "imdbID": "tt5247022",
+      "boxOffice": "$2,152,738",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Tree of Life",
+    "ptTitle": "A Árvore da Vida",
+    "year": 2011,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-tree-of-life/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor da Palma de Ouro no Festival de Cannes. Uma família no Texas dos anos 50 espelhada na origem cósmica do universo e na busca de sentido para o luto e a graça.",
+    "curatorReason": "Terrence Malick expande o cinema à oração visual com a fotografia hipnótica de Emmanuel Lubezki e trilha grandiosa.",
+    "omdb": {
+      "title": "The Tree of Life",
+      "year": "2011",
+      "rated": "PG-13",
+      "released": "18 May 2011",
+      "runtime": "139 min",
+      "genre": "Drama, Fantasy",
+      "director": "Terrence Malick",
+      "writer": "Terrence Malick",
+      "actors": "Brad Pitt, Sean Penn, Jessica Chastain",
+      "plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+      "language": "English",
+      "country": "United States, Italy, Iceland, United Kingdom",
+      "awards": "Nominated for 3 Oscars. 118 wins & 130 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "6.8",
+      "imdbVotes": "193,651",
+      "imdbID": "tt0478304",
+      "boxOffice": "$13,303,319",
+      "type": "movie"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100939.mp4",
+    "streamName": "A Árvore da Vida",
+    "streamAvailable": true
+  },
+  {
+    "title": "Winter Sleep",
+    "ptTitle": "Sono de Inverno",
+    "year": 2014,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/winter-sleep/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Lexx",
+    "curatorNote": "Vencedor da Palma de Ouro em Cannes. Em um pequeno hotel incrustado nas paisagens rochosas e nevadas da Capadócia, um ator aposentado confronta sua família e seus inquilinos.",
+    "curatorReason": "Nuri Bilge Ceylan tece diálogos de calibre chekhoviano sobre culpa moral, vaidade intelectual e solidão com rigor visual impecável.",
+    "omdb": {
+      "title": "Winter Sleep",
+      "year": "2014",
+      "rated": "Not Rated",
+      "released": "13 Jun 2014",
+      "runtime": "196 min",
+      "genre": "Drama",
+      "director": "Nuri Bilge Ceylan",
+      "writer": "Ebru Ceylan, Nuri Bilge Ceylan, Anton Chekhov",
+      "actors": "Haluk Bilginer, Melisa Sözen, Demet Akbag",
+      "plot": "A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.",
+      "language": "Turkish, English",
+      "country": "Turkey, France, Germany, Japan",
+      "awards": "19 wins & 32 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_QL75_UY562_CR16,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "metascore": "88/100",
+      "imdbRating": "8.0",
+      "imdbVotes": "59,558",
+      "imdbID": "tt2758880",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Stalker",
+    "ptTitle": "Stalker",
+    "year": 1979,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/stalker/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS",
+    "curatorNote": "Um guia conduz um escritor cético e um cientista racional por uma misteriosa Zona proibida e desolada, onde existe um quarto capaz de conceder os desejos mais íntimos.",
+    "curatorReason": "Obra-prima monumental de Andrei Tarkovsky com longos planos-sequência contemplativos sobre fé, desespero e a essência da alma humana.",
+    "omdb": {
+      "title": "Stalker",
+      "year": "1980",
+      "rated": "Not Rated",
+      "released": "17 Apr 1980",
+      "runtime": "162 min",
+      "genre": "Drama, Sci-Fi",
+      "director": "Andrei Tarkovsky",
+      "writer": "Arkadiy Strugatskiy, Boris Strugatskiy, Andrei Tarkovsky",
+      "actors": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",
+      "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+      "language": "Russian",
+      "country": "Soviet Union",
+      "awards": "2 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "8.0",
+      "imdbVotes": "158,399",
+      "imdbID": "tt0079944",
+      "boxOffice": "$292,049",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Turin Horse",
+    "ptTitle": "O Cavalo de Turim",
+    "year": 2011,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/the-turin-horse/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Centauro",
+    "curatorNote": "Vencedor do Grande Prêmio do Júri no Festival de Berlim. Em uma cabana açoitada por um vento implacável, um pai e sua filha repetem rituais de sobrevivência diária.",
+    "curatorReason": "A despedida cinematográfica de Béla Tarr: hipnose visual em preto e branco absoluto com planos contínuos e trilha visceral de Mihály Vig.",
+    "omdb": {
+      "title": "The Turin Horse",
+      "year": "2011",
+      "rated": "Not Rated",
+      "released": "31 Mar 2011",
+      "runtime": "155 min",
+      "genre": "Drama",
+      "director": "Ágnes Hranitzky, Béla Tarr",
+      "writer": "László Krasznahorkai, Friedrich Nietzsche, Béla Tarr",
+      "actors": "János Derzsi, Erika Bók, Mihály Kormos",
+      "plot": "A rural farmer is forced to confront the mortality of his faithful horse.",
+      "language": "Hungarian, German",
+      "country": "Hungary, France, Germany, Switzerland",
+      "awards": "7 wins & 15 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "21,820",
+      "imdbID": "tt1316540",
+      "boxOffice": "$56,391",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Nostalghia",
+    "ptTitle": "Nostalgia",
+    "year": 1983,
+    "category": "poetic-cinema",
+    "letterboxdUrl": "https://letterboxd.com/film/nostalghia/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Clone",
+    "curatorNote": "Vencedor de Melhor Direção em Cannes. Um escritor russo viaja pelas termas e ruínas medievais da Toscana em busca de vestígios de um compositor esquecido.",
+    "curatorReason": "Tarkovsky atinge o ápice da espiritualidade visual com a lendária cena da travessia da piscina de Santa Catarina com uma vela acesa.",
+    "omdb": {
+      "title": "Nostalgia",
+      "year": "1983",
+      "rated": "Not Rated",
+      "released": "01 Mar 1992",
+      "runtime": "125 min",
+      "genre": "Drama",
+      "director": "Andrei Tarkovsky",
+      "writer": "Andrei Tarkovsky, Tonino Guerra",
+      "actors": "Oleg Yankovskiy, Erland Josephson, Domiziana Giordano",
+      "plot": "A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.",
+      "language": "Italian, Russian",
+      "country": "Italy, Soviet Union",
+      "awards": "3 wins & 1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "metascore": "78/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "33,732",
+      "imdbID": "tt0086022",
+      "boxOffice": "$303,022",
+      "type": "movie"
+    },
+    "parentCategory": "art"
   },
   {
     "title": "Southbound",
@@ -20378,6 +21924,501 @@ window.DEFAULT_CATALOG = {
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/25107.mp4",
     "streamName": "O Genio e o Louco",
     "streamAvailable": true
+  },
+  {
+    "title": "Mulholland Drive",
+    "ptTitle": "Cidade dos Sonhos",
+    "year": 2001,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/mulholland-drive/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Dublavídeo",
+    "curatorNote": "Eleito o melhor filme do século XXI pela revista britânica Sight & Sound. Uma aspirante a atriz em Los Angeles ajuda uma mulher amnésica a descobrir sua verdadeira identidade.",
+    "curatorReason": "A obra máxima de David Lynch: um labirinto onírico, hipnótico e sedutor sobre ilusão, cinema, pesadelo e a fábrica de sonhos hollywoodiana.",
+    "omdb": {
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "rated": "R",
+      "released": "19 Oct 2001",
+      "runtime": "147 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "David Lynch",
+      "writer": "David Lynch",
+      "actors": "Naomi Watts, Laura Harring, Justin Theroux",
+      "plot": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+      "language": "English, Spanish, French",
+      "country": "France, United States",
+      "awards": "Nominated for 1 Oscar. 50 wins & 61 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "435,237",
+      "imdbID": "tt0166924",
+      "boxOffice": "$7,220,243",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Blue Velvet",
+    "ptTitle": "Veludo Azul",
+    "year": 1986,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/blue-velvet/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Ao encontrar uma orelha humana decepada em um gramado bucólico, um jovem é tragado para o submundo criminoso e sadomasoquista de uma cidadezinha americana.",
+    "curatorReason": "Clássico absoluto do neo-noir surrealista onde Lynch expõe as pulsões sombrias e os desejos reprimidos sob a fachada de inocência suburbana.",
+    "omdb": {
+      "title": "Blue Velvet",
+      "year": "1986",
+      "rated": "R",
+      "released": "23 Oct 1986",
+      "runtime": "120 min",
+      "genre": "Crime, Drama, Mystery",
+      "director": "David Lynch",
+      "writer": "David Lynch",
+      "actors": "Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",
+      "plot": "A young man finds a severed human ear that is somehow connected to a mysterious lounge singer and a group of psychopathic criminals who have kidnapped her child.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 21 wins & 22 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "metascore": "75/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "249,825",
+      "imdbID": "tt0090756",
+      "boxOffice": "$8,551,228",
+      "type": "movie"
+    },
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354291.mp4",
+    "streamName": "Veludo Azul",
+    "streamAvailable": true
+  },
+  {
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "ptTitle": "O Discreto Charme da Burguesia",
+    "year": 1972,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinecastro",
+    "curatorNote": "Vencedor do Oscar de Melhor Filme Estrangeiro. Um grupo aristocrático tenta repetidamente se reunir para um jantar elegante, mas é sempre interrompido por situações absurdas.",
+    "curatorReason": "Luis Buñuel em sua melhor forma satírica: um ataque desconcertante e deliciosamente ácido aos rituais, hipocrisias e convenções da alta sociedade.",
+    "omdb": {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": "1972",
+      "rated": "PG",
+      "released": "22 Oct 1972",
+      "runtime": "102 min",
+      "genre": "Comedy, Drama, Fantasy",
+      "director": "Luis Buñuel",
+      "writer": "Luis Buñuel, Jean-Claude Carrière",
+      "actors": "Fernando Rey, Delphine Seyrig, Paul Frankeur",
+      "plot": "A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.",
+      "language": "French, Spanish, Latin",
+      "country": "France, Italy, Spain",
+      "awards": "Won 1 Oscar. 7 wins & 9 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MDA0YTEtZTY4Mi00N2Y5LTk0ZjktMTY2ZGQzNGVlYzViXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "metascore": "93/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "51,042",
+      "imdbID": "tt0068361",
+      "boxOffice": "$82,471",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Holy Mountain",
+    "ptTitle": "A Montanha Sagrada",
+    "year": 1973,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/the-holy-mountain/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Clone",
+    "curatorNote": "Um ladrão semelhante a Cristo é guiado por um mestre alquimista junto a sete figuras planetárias em uma jornada mística até o topo de uma montanha sagrada para alcançar a imortalidade.",
+    "curatorReason": "Obra visualmente alucinante de Alejandro Jodorowsky repleta de alquimia, esoterismo, sátira social e plasticidade provocadora.",
+    "omdb": {
+      "title": "The Holy Mountain",
+      "year": "1975",
+      "rated": "R",
+      "released": "11 Jul 1975",
+      "runtime": "114 min",
+      "genre": "Adventure, Drama, Fantasy",
+      "director": "Alejandro Jodorowsky",
+      "writer": "Alejandro Jodorowsky",
+      "actors": "Alejandro Jodorowsky, Horacio Salinas, Zamira Saunders",
+      "plot": "In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+      "language": "Spanish, English",
+      "country": "Mexico",
+      "awards": "1 win & 1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "metascore": "76/100",
+      "imdbRating": "7.7",
+      "imdbVotes": "53,414",
+      "imdbID": "tt0071615",
+      "boxOffice": "$61,001",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Eraserhead",
+    "ptTitle": "Eraserhead",
+    "year": 1977,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/eraserhead/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Em uma paisagem industrial desolada e sombria, um jovem tímido precisa cuidar sozinho de uma criatura recém-nascida monstruosa e deformada.",
+    "curatorReason": "A estreia monumental de David Lynch que definiu o surrealismo corporal independente americano com design de som aterrador e estética analógica.",
+    "omdb": {
+      "title": "Eraserhead",
+      "year": "1978",
+      "rated": "Not Rated",
+      "released": "03 Feb 1978",
+      "runtime": "89 min",
+      "genre": "Fantasy, Horror",
+      "director": "David Lynch",
+      "writer": "David Lynch",
+      "actors": "Jack Nance, Charlotte Stewart, Allen Joseph",
+      "plot": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newborn mutant child.",
+      "language": "English",
+      "country": "United States",
+      "awards": "3 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "metascore": "87/100",
+      "imdbRating": "7.2",
+      "imdbVotes": "146,036",
+      "imdbID": "tt0074486",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Lost Highway",
+    "ptTitle": "Estrada Perdida",
+    "year": 1997,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/lost-highway/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS",
+    "curatorNote": "Um saxofonista de jazz acusado de assassinar a própria esposa se transforma misteriosamente em um jovem mecânico dentro de sua cela na prisão.",
+    "curatorReason": "Estrutura em fita de Möbius com estética noir expressionista, trilha elétrica de Angelo Badalamenti e Trent Reznor, e pura atmosfera de pesadelo.",
+    "omdb": {
+      "title": "Lost Highway",
+      "year": "1997",
+      "rated": "R",
+      "released": "15 Jan 1997",
+      "runtime": "134 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "David Lynch",
+      "writer": "David Lynch, Barry Gifford",
+      "actors": "Bill Pullman, Patricia Arquette, John Roselius",
+      "plot": "Anonymous videotapes presage a musician's murder conviction, and a gangster's girlfriend leads a mechanic astray.",
+      "language": "English",
+      "country": "France, United States",
+      "awards": "4 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "metascore": "53/100",
+      "imdbRating": "7.6",
+      "imdbVotes": "173,798",
+      "imdbID": "tt0116922",
+      "boxOffice": "$3,726,792",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Last Year at Marienbad",
+    "ptTitle": "O Ano Passado em Marienbad",
+    "year": 1961,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/last-year-at-marienbad/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Cinecastro",
+    "curatorNote": "Vencedor do Leão de Ouro no Festival de Veneza. Em um palácio barroco suntuoso com jardins geométricos, um homem tenta convencer uma mulher de que eles se conheceram no ano anterior.",
+    "curatorReason": "Alain Resnais e Alain Robbe-Grillet revolucionam a narrativa moderna transformando o filme em um labirinto atemporal sobre memória, persuasão e ilusão.",
+    "omdb": {
+      "title": "Last Year at Marienbad",
+      "year": "1962",
+      "rated": "Not Rated",
+      "released": "07 Mar 1962",
+      "runtime": "94 min",
+      "genre": "Drama, Mystery, Romance",
+      "director": "Alain Resnais",
+      "writer": "Alain Robbe-Grillet",
+      "actors": "Delphine Seyrig, Giorgio Albertazzi, Sacha Pitoëff",
+      "plot": "In a strange and isolated chateau, a man becomes acquainted with a woman and insists that they have met before.",
+      "language": "French",
+      "country": "France, Italy",
+      "awards": "Nominated for 1 Oscar. 2 wins & 5 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzczM2FjY2ItOTZjNC00ZmFhLTgxYWEtNTQ3MzhlZTJlYjZlXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "metascore": "N/A/100",
+      "imdbRating": "7.6",
+      "imdbVotes": "27,381",
+      "imdbID": "tt0054632",
+      "boxOffice": "$207,917",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Holy Motors",
+    "ptTitle": "Holy Motors",
+    "year": 2012,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/holy-motors/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Ao longo de um dia pelas ruas de Paris, um homem enigmático transportado em uma limusine branca encarna múltiplas personas: mendiga, assassino, monstro e pai de família.",
+    "curatorReason": "A carta de amor febril e surreal de Leos Carax à arte da representação e à metamorfose contínua do cinema, com Denis Lavant em performance inacreditável.",
+    "omdb": {
+      "title": "Holy Motors",
+      "year": "2012",
+      "rated": "Not Rated",
+      "released": "04 Jul 2012",
+      "runtime": "115 min",
+      "genre": "Drama, Fantasy",
+      "director": "Leos Carax",
+      "writer": "Leos Carax",
+      "actors": "Denis Lavant, Edith Scob, Eva Mendes",
+      "plot": "A man boards a limousine to be driven to his day's work: nine mysterious \"appointments.\"",
+      "language": "French, English, Chinese",
+      "country": "France, Germany, Belgium",
+      "awards": "29 wins & 74 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "metascore": "85/100",
+      "imdbRating": "7.0",
+      "imdbVotes": "51,731",
+      "imdbID": "tt2076220",
+      "boxOffice": "$641,100",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "Dead Man",
+    "ptTitle": "Dead Man",
+    "year": 1995,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/dead-man/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Um contador ferido chamado William Blake foge para o interior selvagem ao lado de um indígena que acredita que ele seja a reencarnação do poeta britânico homônimo.",
+    "curatorReason": "Faroeste lírico e onírico em preto e branco dirigido por Jim Jarmusch, com trilha improvisada em guitarra distorcida por Neil Young.",
+    "omdb": {
+      "title": "Dead Man",
+      "year": "1996",
+      "rated": "R",
+      "released": "10 May 1996",
+      "runtime": "121 min",
+      "genre": "Adventure, Drama, Western",
+      "director": "Jim Jarmusch",
+      "writer": "Jim Jarmusch",
+      "actors": "Johnny Depp, Gary Farmer, Crispin Glover",
+      "plot": "On the run after murdering a man, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
+      "language": "English, Cree",
+      "country": "Germany, Japan, United States",
+      "awards": "6 wins & 14 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "metascore": "62/100",
+      "imdbRating": "7.5",
+      "imdbVotes": "110,001",
+      "imdbID": "tt0112817",
+      "boxOffice": "$1,037,847",
+      "type": "movie"
+    },
+    "parentCategory": "art"
+  },
+  {
+    "title": "The Exterminating Angel",
+    "ptTitle": "O Anjo Exterminador",
+    "year": 1962,
+    "category": "surrealism",
+    "letterboxdUrl": "https://letterboxd.com/film/the-exterminating-angel/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "BKS",
+    "curatorNote": "Após um banquete luxuoso, os convidados de uma mansão da alta burguesia descobrem que, por uma barreira psicológica inexplicável, ninguém consegue atravessar a porta e sair.",
+    "curatorReason": "A sátira surrealista máxima de Luis Buñuel: a rápida degradação da civilidade aristocrática sob o confinamento involuntário.",
+    "omdb": {
+      "title": "The Exterminating Angel",
+      "year": "1967",
+      "rated": "Not Rated",
+      "released": "21 Aug 1967",
+      "runtime": "95 min",
+      "genre": "Drama, Fantasy",
+      "director": "Luis Buñuel",
+      "writer": "Luis Buñuel, Luis Alcoriza",
+      "actors": "Silvia Pinal, Jacqueline Andere, Enrique Rambal",
+      "plot": "The guests at an upper-class dinner party find themselves unable to leave.",
+      "language": "Spanish",
+      "country": "Mexico",
+      "awards": "4 wins & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "metascore": "N/A/100",
+      "imdbRating": "7.9",
+      "imdbVotes": "38,574",
+      "imdbID": "tt0056732",
+      "boxOffice": "N/A",
+      "type": "movie"
+    },
+    "parentCategory": "art"
   },
   {
     "title": "The Conversation",

@@ -19,24 +19,17 @@ web/
 ├── app.js                     # Motor reativo (~500 linhas): dados dinâmicos, Afinidade IA, filtros e modais
 ├── data/
 │   ├── categories.json        # Definição oficial de categorias (cores, ícones SVG, descrições)
-│   ├── movies.json            # Catálogo completo compilado (305 filmes atuais)
+│   ├── movies.json            # Catálogo completo compilado (536 filmes atuais)
 │   ├── catalog.js             # Bundle de fallback para ambientes offline ou file:/// (zero CORS)
 │   └── packs/                 # Packs modulares isolados por categoria (ideal para inserção por IA)
-│       ├── horror.json
-│       ├── comedy.json
-│       ├── adventure.json
+│       ├── iranian-cinema.json
+│       ├── poetic-cinema.json
+│       ├── surrealism.json
+│       ├── moral-dilemma.json
+│       ├── world-cinema.json
 │       ├── study.json
 │       ├── misfit.json
-│       ├── animation.json
-│       ├── action-horror.json
-│       ├── body-horror.json
-│       ├── loser-comedy.json
-│       ├── world-cinema.json
-│       ├── suspense.json
-│       ├── dark-losers.json
-│       ├── fury.json
-│       ├── cyberpunk.json
-│       └── nocturnal.json
+│       ├── ... (27 packs modulares no total)
 └── scripts/
     └── catalog_manager.js     # CLI de automação, validação e sincronização para IAs
 ```
