@@ -57,6 +57,7 @@ async function init() {
   setupUIEventListeners();
   setupTVRemoteListeners();
   updateUserStatsUI();
+  scheduleHeroAutoRotation();
 
   // Initial focus for Android TV controller (Mi TV Stick)
   setTimeout(() => {
@@ -162,19 +163,59 @@ async function saveUserStateToDisk() {
   updateUserStatsUI();
 }
 
-function getInitialHeroMovie() {
-  const unignored = movies.filter(m => !userIgnored.has(m.title));
-  if (!unignored.length) return movies[0] || null;
-  
-  // Return a top-rated movie that is not yet watched
-  const unwatched = unignored.filter(m => !userWatched.has(m.title));
-  const pool = unwatched.length ? unwatched : unignored;
+let heroAutoRotateTimer = null;
+let lastHeroInteractionTime = Date.now();
 
-  return pool.slice().sort((a, b) => {
-    const rA = parseFloat(a.omdb?.imdbRating) || 0;
-    const rB = parseFloat(b.omdb?.imdbRating) || 0;
-    return rB - rA;
-  })[0] || pool[0];
+function getRandomHeroMovie(customPool = null) {
+  let pool = customPool || movies.filter(m => !userIgnored.has(m.title));
+  if (!pool || !pool.length) pool = movies;
+  if (!pool.length) return null;
+
+  // Filter out watched if we have unwatched
+  const unwatched = pool.filter(m => !userWatched.has(m.title));
+  const poolToConsider = unwatched.length ? unwatched : pool;
+
+  // Prefer movies with valid image or poster
+  const withImages = poolToConsider.filter(m => m.backdrop || m.image || (m.omdb?.poster && m.omdb.poster !== "N/A"));
+  const candidatePool = withImages.length ? withImages : poolToConsider;
+
+  // Avoid repeating the current active hero movie if multiple are available
+  const different = (candidatePool.length > 1 && activeHeroMovie)
+    ? candidatePool.filter(m => m.title !== activeHeroMovie.title)
+    : candidatePool;
+
+  const finalPool = different.length ? different : candidatePool;
+  const randomIndex = Math.floor(Math.random() * finalPool.length);
+  return finalPool[randomIndex] || finalPool[0] || null;
+}
+
+function getInitialHeroMovie() {
+  return getRandomHeroMovie();
+}
+
+function rotateHeroBannerRandomly() {
+  const nextMovie = getHeroMovieForHub(currentNavHub);
+  if (nextMovie && (!activeHeroMovie || nextMovie.title !== activeHeroMovie.title)) {
+    renderHero(nextMovie);
+  }
+}
+
+function scheduleHeroAutoRotation() {
+  if (heroAutoRotateTimer) clearTimeout(heroAutoRotateTimer);
+
+  heroAutoRotateTimer = setTimeout(() => {
+    const netflixOverlay = document.getElementById("netflixPlayerOverlay");
+    const detailModal = document.getElementById("detailModal");
+    const isPlayerOpen = netflixOverlay && netflixOverlay.style.display !== "none";
+    const isModalOpen = detailModal && detailModal.classList.contains("open");
+    const isNearTop = window.scrollY < 300;
+    const isIdle = (Date.now() - lastHeroInteractionTime) >= 15000;
+
+    if (!isPlayerOpen && !isModalOpen && isNearTop && isIdle) {
+      rotateHeroBannerRandomly();
+    }
+    scheduleHeroAutoRotation();
+  }, 22000);
 }
 
 // ==========================================================================
@@ -394,6 +435,10 @@ function startHeroTrailer(movie) {
     trailerVideo.src = streamUrl;
     trailerVideo.load();
 
+    trailerVideo.onended = () => {
+      rotateHeroBannerRandomly();
+    };
+
     trailerVideo.play().then(() => {
       if (trailerVideo.duration > 120) {
         trailerVideo.currentTime = 40;
@@ -528,7 +573,6 @@ function setNavHub(hub, scrollToTop = true) {
 }
 
 function getHeroMovieForHub(hub) {
-  const profile = buildUserProfile();
   let pool = movies.filter(m => !userIgnored.has(m.title));
   if (hub === "terror" || hub === "besteirol" || hub === "art") {
     pool = pool.filter(m => {
@@ -539,9 +583,7 @@ function getHeroMovieForHub(hub) {
     pool = Array.from(userSavedMovies.values());
   }
   if (!pool.length) pool = movies;
-  const unwatched = pool.filter(m => !userWatched.has(m.title));
-  const finalPool = unwatched.length ? unwatched : pool;
-  return finalPool.slice().sort((a, b) => calculateMovieAffinity(b, profile) - calculateMovieAffinity(a, profile))[0] || pool[0];
+  return getRandomHeroMovie(pool);
 }
 
 // ==========================================================================
@@ -1136,8 +1178,12 @@ function bindCardHoverAndClick() {
     }
 
     // On Hover or Focus -> Instant Hero update & TV focus memory
-    card.addEventListener("mouseenter", () => renderHero(movie));
+    card.addEventListener("mouseenter", () => {
+      lastHeroInteractionTime = Date.now();
+      renderHero(movie);
+    });
     card.addEventListener("focus", () => {
+      lastHeroInteractionTime = Date.now();
       lastFocusedCard = card;
       card.classList.add("tv-focused");
       renderHero(movie);
@@ -1614,6 +1660,14 @@ function setupUIEventListeners() {
   if (heroWatchedBtn) {
     heroWatchedBtn.onclick = () => {
       if (activeHeroMovie) toggleWatchedMovie(activeHeroMovie);
+    };
+  }
+
+  const heroRandomBtn = document.getElementById("heroRandomBtn");
+  if (heroRandomBtn) {
+    heroRandomBtn.onclick = () => {
+      lastHeroInteractionTime = Date.now();
+      rotateHeroBannerRandomly();
     };
   }
 
@@ -2245,6 +2299,7 @@ function setupTVRemoteListeners() {
         document.getElementById("heroInfoBtn"),
         document.getElementById("heroSaveBtn"),
         document.getElementById("heroWatchedBtn"),
+        document.getElementById("heroRandomBtn"),
         document.getElementById("heroTrailerSoundBtn")
       ].filter(Boolean);
       const hIdx = heroButtons.indexOf(activeEl);
