@@ -3316,3 +3316,11 @@ body {
     height: 255px;
   }
 }
+
+/* Hide Google Login from UI */
+#btnGoogleLogin,
+#userProfilePill,
+#googleAuthModal,
+#userProfileModal {
+  display: none !important;
+}

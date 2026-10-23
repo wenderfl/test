@@ -47,7 +47,10 @@
       "boxOffice": "$3,581,969",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20210.mp4",
+    "streamName": "Red - Aposentados e Perigosos",
+    "streamAvailable": true
   },
   {
     "title": "Three Colors: Blue",
@@ -97,7 +100,10 @@
       "boxOffice": "$1,324,974",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/93738.mp4",
+    "streamName": "Blue Is The Warmest Color [L]",
+    "streamAvailable": true
   },
   {
     "title": "Three Colors: White",
@@ -147,7 +153,10 @@
       "boxOffice": "$1,237,219",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
+    "streamName": "Great White [L]",
+    "streamAvailable": true
   },
   {
     "title": "Amour",
@@ -197,7 +206,10 @@
       "boxOffice": "$6,739,492",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108279.mp4",
+    "streamName": "Amour [L]",
+    "streamAvailable": true
   },
   {
     "title": "The White Ribbon",
@@ -247,7 +259,10 @@
       "boxOffice": "$2,222,862",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
+    "streamName": "Great White [L]",
+    "streamAvailable": true
   },
   {
     "title": "The Seventh Seal",
@@ -297,7 +312,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20S%C3%A9timo%20Selo.mp4",
+    "streamName": "O Sétimo Selo",
+    "streamAvailable": true
   },
   {
     "title": "Persona",
@@ -347,7 +365,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quando%20Duas%20Mulheres%20Pecam.mp4",
+    "streamName": "Quando Duas Mulheres Pecam",
+    "streamAvailable": true
   },
   {
     "title": "Caché",
@@ -397,7 +418,10 @@
       "boxOffice": "$3,647,381",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cach%C3%A9.mp4",
+    "streamName": "Caché",
+    "streamAvailable": true
   },
   {
     "title": "A Short Film About Love",
@@ -443,7 +467,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_N%C3%A3o%20Amar%C3%A1s.mp4",
+    "streamName": "Não Amarás",
+    "streamAvailable": true
   },
   {
     "title": "Ikiru",
@@ -493,6 +520,9 @@
       "boxOffice": "$60,239",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/210982.mp4",
+    "streamName": "Viver",
+    "streamAvailable": true
   }
 ]

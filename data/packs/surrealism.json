@@ -47,7 +47,10 @@
       "boxOffice": "$7,220,243",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cidade%20dos%20Sonhos.mp4",
+    "streamName": "Cidade dos Sonhos",
+    "streamAvailable": true
   },
   {
     "title": "Blue Velvet",
@@ -98,8 +101,8 @@
       "type": "movie"
     },
     "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354291.mp4",
-    "streamName": "Veludo Azul",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/354290.mp4",
+    "streamName": "Veludo Azul [L]",
     "streamAvailable": true
   },
   {
@@ -150,7 +153,10 @@
       "boxOffice": "$82,471",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Discreto%20Charme%20da%20Burguesia.mp4",
+    "streamName": "O Discreto Charme da Burguesia",
+    "streamAvailable": true
   },
   {
     "title": "The Holy Mountain",
@@ -200,7 +206,10 @@
       "boxOffice": "$61,001",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Montanha%20Sagrada.mp4",
+    "streamName": "A Montanha Sagrada",
+    "streamAvailable": true
   },
   {
     "title": "Eraserhead",
@@ -250,7 +259,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Eraserhead.mp4",
+    "streamName": "Eraserhead",
+    "streamAvailable": true
   },
   {
     "title": "Lost Highway",
@@ -300,7 +312,10 @@
       "boxOffice": "$3,726,792",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Estrada%20Perdida.mp4",
+    "streamName": "Estrada Perdida",
+    "streamAvailable": true
   },
   {
     "title": "Last Year at Marienbad",
@@ -346,7 +361,10 @@
       "boxOffice": "$207,917",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/138859.mp4",
+    "streamName": "O Passado Não Perdoa",
+    "streamAvailable": true
   },
   {
     "title": "Holy Motors",
@@ -396,7 +414,10 @@
       "boxOffice": "$641,100",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Holy%20Motors.mp4",
+    "streamName": "Holy Motors",
+    "streamAvailable": true
   },
   {
     "title": "Dead Man",
@@ -446,7 +467,10 @@
       "boxOffice": "$1,037,847",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Dead%20Man.mp4",
+    "streamName": "Dead Man",
+    "streamAvailable": true
   },
   {
     "title": "The Exterminating Angel",
@@ -492,6 +516,9 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Anjo%20Exterminador.mp4",
+    "streamName": "O Anjo Exterminador",
+    "streamAvailable": true
   }
 ]

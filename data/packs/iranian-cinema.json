@@ -47,7 +47,10 @@
       "boxOffice": "$7,099,055",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Separa%C3%A7%C3%A3o.mp4",
+    "streamName": "A Separação",
+    "streamAvailable": true
   },
   {
     "title": "The Salesman",
@@ -97,7 +100,10 @@
       "boxOffice": "$2,402,067",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Apartamento.mp4",
+    "streamName": "O Apartamento",
+    "streamAvailable": true
   },
   {
     "title": "Taste of Cherry",
@@ -147,7 +153,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Gosto%20de%20Cereja.mp4",
+    "streamName": "Gosto de Cereja",
+    "streamAvailable": true
   },
   {
     "title": "The White Balloon",
@@ -193,7 +202,10 @@
       "boxOffice": "$924,940",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108306.mp4",
+    "streamName": "Great White [L]",
+    "streamAvailable": true
   },
   {
     "title": "Close-Up",
@@ -243,7 +255,10 @@
       "boxOffice": "$2,670",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/261639.mp4",
+    "streamName": "Close [L]",
+    "streamAvailable": true
   },
   {
     "title": "The Color of Paradise",
@@ -293,7 +308,10 @@
       "boxOffice": "$1,817,216",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Cor%20do%20Para%C3%ADso.mp4",
+    "streamName": "A Cor do Paraíso",
+    "streamAvailable": true
   },
   {
     "title": "Turtles Can Fly",
@@ -343,7 +361,10 @@
       "boxOffice": "$258,578",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Tartarugas%20Podem%20Voar.mp4",
+    "streamName": "Tartarugas Podem Voar",
+    "streamAvailable": true
   },
   {
     "title": "The Past",
@@ -394,8 +415,8 @@
       "type": "movie"
     },
     "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/178551.mp4",
-    "streamName": "O Passado",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/178557.mp4",
+    "streamName": "O Passado [L]",
     "streamAvailable": true
   },
   {
@@ -446,7 +467,10 @@
       "boxOffice": "$321,642",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31788.mp4",
+    "streamName": "Taxi",
+    "streamAvailable": true
   },
   {
     "title": "About Elly",
@@ -496,6 +520,9 @@
       "boxOffice": "$470,760",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103967.mp4",
+    "streamName": "À Procura da Vingança",
+    "streamAvailable": true
   }
 ]

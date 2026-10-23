@@ -114,12 +114,12 @@
         <span>Afinidade IA</span>
       </button>
 
-      <button class="nav-item" id="btnGoogleLogin" title="Entrar com Conta Google">
+      <button class="nav-item" id="btnGoogleLogin" title="Entrar com Conta Google" style="display: none !important;">
         <svg viewBox="0 0 24 24"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
         <span>Entrar com Google</span>
       </button>
 
-      <div class="nav-user-badge" id="userProfilePill" style="display: none;" title="Perfil Conectado">
+      <div class="nav-user-badge" id="userProfilePill" style="display: none !important;" title="Perfil Conectado">
         <img id="userAvatarImg" class="nav-avatar-img" src="" alt="Avatar">
         <div class="nav-user-info">
           <span id="userNameLabel" class="nav-user-name">Usuário</span>
@@ -731,7 +731,7 @@
 </div>
 
 <!-- GOOGLE AUTH MODAL -->
-<div id="googleAuthModal" class="modal-overlay" role="dialog" aria-modal="true">
+<div id="googleAuthModal" class="modal-overlay" role="dialog" aria-modal="true" style="display: none !important;">
   <div class="netflix-dialog-box">
     <button id="googleAuthModalClose" class="modal-close" title="Fechar">&times;</button>
     <div style="text-align: center; margin-bottom: 20px;">
@@ -767,7 +767,7 @@
 </div>
 
 <!-- USER PROFILE MODAL -->
-<div id="userProfileModal" class="modal-overlay" role="dialog" aria-modal="true">
+<div id="userProfileModal" class="modal-overlay" role="dialog" aria-modal="true" style="display: none !important;">
   <div class="netflix-dialog-box">
     <button id="userProfileModalClose" class="modal-close" title="Fechar">&times;</button>
     <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 20px;">

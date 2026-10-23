@@ -47,7 +47,10 @@
       "boxOffice": "$2,422,082",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paris%2C%20Texas.mp4",
+    "streamName": "Paris, Texas",
+    "streamAvailable": true
   },
   {
     "title": "Wings of Desire",
@@ -97,7 +100,10 @@
       "boxOffice": "$3,333,969",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Asas%20do%20Desejo.mp4",
+    "streamName": "As Asas do Desejo",
+    "streamAvailable": true
   },
   {
     "title": "Solaris",
@@ -147,7 +153,10 @@
       "boxOffice": "$22,168",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Solaris.mp4",
+    "streamName": "Solaris",
+    "streamAvailable": true
   },
   {
     "title": "The Mirror",
@@ -197,7 +206,10 @@
       "boxOffice": "$22,168",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352410.mp4",
+    "streamName": "O Espelho",
+    "streamAvailable": true
   },
   {
     "title": "Paterson",
@@ -247,7 +259,10 @@
       "boxOffice": "$2,152,738",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paterson.mp4",
+    "streamName": "Paterson",
+    "streamAvailable": true
   },
   {
     "title": "The Tree of Life",
@@ -299,7 +314,7 @@
     },
     "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100939.mp4",
-    "streamName": "A Árvore da Vida",
+    "streamName": "A Arvore da Vida",
     "streamAvailable": true
   },
   {
@@ -350,7 +365,10 @@
       "boxOffice": "N/A",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sono%20de%20Inverno.mp4",
+    "streamName": "Sono de Inverno",
+    "streamAvailable": true
   },
   {
     "title": "Stalker",
@@ -400,7 +418,10 @@
       "boxOffice": "$292,049",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/68444.mp4",
+    "streamName": "Escaping My Stalker [L]",
+    "streamAvailable": true
   },
   {
     "title": "The Turin Horse",
@@ -450,7 +471,10 @@
       "boxOffice": "$56,391",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/389605.mp4",
+    "streamName": "O Cavalo E A Influenciadora [L]",
+    "streamAvailable": true
   },
   {
     "title": "Nostalghia",
@@ -500,6 +524,9 @@
       "boxOffice": "$303,022",
       "type": "movie"
     },
-    "parentCategory": "art"
+    "parentCategory": "art",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22572.mp4",
+    "streamName": "Nostalgia",
+    "streamAvailable": true
   }
 ]

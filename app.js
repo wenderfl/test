@@ -16,8 +16,11 @@ const userComments = {};
 const userSavedMovies = new Map(); // title -> object
 const userSavedCategories = new Set();
 
-let userIptvUrl = "";
-let userIptvName = "";
+const DEFAULT_IPTV_URL = "http://contrafilenabrasa.net:80/get.php?username=frc-561250&password=Yrwa1z&type=m3u_plus&output=m3u8";
+const DEFAULT_IPTV_NAME = "contrafilenabrasa.net";
+
+let userIptvUrl = DEFAULT_IPTV_URL;
+let userIptvName = DEFAULT_IPTV_NAME;
 let iptvParsedChannels = [];
 
 let currentGoogleUser = null;
@@ -87,6 +90,28 @@ async function loadCatalogData() {
       console.error("[Catalog] Falha ao carregar catalog.js / movies.json:", e);
     }
   }
+
+  // Load verified IPTV direct streams map
+  try {
+    const linksRes = await fetch("data/iptv_movie_links.json");
+    if (linksRes.ok) {
+      window.iptvMovieLinks = await linksRes.json();
+    }
+  } catch (e) {
+    console.warn("[Catalog] Falha ao carregar iptv_movie_links.json:", e);
+  }
+
+  if (window.iptvMovieLinks && movies.length) {
+    movies.forEach(m => {
+      const linkInfo = window.iptvMovieLinks[m.title] || window.iptvMovieLinks[m.ptTitle];
+      if (linkInfo && linkInfo.isDirect && linkInfo.streamUrl) {
+        m.streamUrl = linkInfo.streamUrl;
+        m.streamName = linkInfo.streamName || m.ptTitle || m.title;
+        m.streamId = linkInfo.streamId;
+        m.streamAvailable = true;
+      }
+    });
+  }
 }
 
 async function loadUserStateFromDisk() {
@@ -121,8 +146,16 @@ function applyUserStateData(data) {
   if (Array.isArray(data.savedCategories)) {
     data.savedCategories.forEach(c => userSavedCategories.add(c));
   }
-  if (data.iptvUrl) userIptvUrl = data.iptvUrl;
-  if (data.iptvName) userIptvName = data.iptvName;
+  if (data.iptvUrl && !data.iptvUrl.includes("64606950")) {
+    userIptvUrl = data.iptvUrl;
+  } else {
+    userIptvUrl = DEFAULT_IPTV_URL;
+  }
+  if (data.iptvName && !data.iptvUrl?.includes("64606950")) {
+    userIptvName = data.iptvName;
+  } else {
+    userIptvName = DEFAULT_IPTV_NAME;
+  }
   if (data.googleUser && !currentGoogleUser) currentGoogleUser = data.googleUser;
 }
 
@@ -2440,8 +2473,8 @@ function setupIptvManagerEvents() {
   const btnContra = document.getElementById("btnLoadContraFileIptv");
   if (btnContra) {
     btnContra.onclick = () => {
-      document.getElementById("iptvUrlInput").value = "http://contrafilenabrasa.net/get.php?username=64606950&password=08092023&type=m3u_plus";
-      document.getElementById("iptvNameInput").value = "Contra Filé na Brasa";
+      document.getElementById("iptvUrlInput").value = DEFAULT_IPTV_URL;
+      document.getElementById("iptvNameInput").value = DEFAULT_IPTV_NAME;
       showToast("Link contrafilenabrasa.net preenchido");
     };
   }
@@ -2728,8 +2761,10 @@ function resolveMovieStreamUrl(movie) {
   if (window.iptvMovieLinks && window.iptvMovieLinks[movie.title]?.streamUrl) {
     return window.iptvMovieLinks[movie.title].streamUrl;
   }
-  const cleanTitle = encodeURIComponent(movie.ptTitle || movie.title || "");
-  return `http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_${cleanTitle}.mp4`;
+  if (window.iptvMovieLinks && movie.ptTitle && window.iptvMovieLinks[movie.ptTitle]?.streamUrl) {
+    return window.iptvMovieLinks[movie.ptTitle].streamUrl;
+  }
+  return "";
 }
 
 function updateNetflixPauseCard(movie) {
@@ -3808,13 +3843,13 @@ function updateUserStatsUI() {
   const userNameLabel = document.getElementById("userNameLabel");
 
   if (currentGoogleUser) {
-    if (userProfilePill) userProfilePill.style.display = "flex";
+    if (userProfilePill) userProfilePill.style.display = "none";
     if (btnGoogleLogin) btnGoogleLogin.style.display = "none";
     if (userAvatarImg) userAvatarImg.src = currentGoogleUser.picture || "";
-    if (userNameLabel) userNameLabel.textContent = currentGoogleUser.name || "Usuário";
+    if (userNameLabel) userNameLabel.textContent = currentGoogleUser.name || "Usuario";
   } else {
     if (userProfilePill) userProfilePill.style.display = "none";
-    if (btnGoogleLogin) btnGoogleLogin.style.display = "flex";
+    if (btnGoogleLogin) btnGoogleLogin.style.display = "none";
   }
 }
 
