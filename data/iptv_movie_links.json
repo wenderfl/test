@@ -4497,5 +4497,239 @@
     "extension": "mp4",
     "year": "2014",
     "source": "contrafilenabrasa.net"
+  },
+  "The Whale": {
+    "streamId": 390134,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/390134.mp4",
+    "streamName": "A Baleia",
+    "isDirect": true
+  },
+  "A Baleia": {
+    "streamId": 390134,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/390134.mp4",
+    "streamName": "A Baleia",
+    "isDirect": true
+  },
+  "The Elephant Man": {
+    "streamId": 348070,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348070.mp4",
+    "streamName": "O Homem Elefante",
+    "isDirect": true
+  },
+  "O Homem Elefante": {
+    "streamId": 348070,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348070.mp4",
+    "streamName": "O Homem Elefante",
+    "isDirect": true
+  },
+  "A Different Man": {
+    "streamId": 322733,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/322733.mp4",
+    "streamName": "Um Homem Diferente",
+    "isDirect": true
+  },
+  "Um Homem Diferente": {
+    "streamId": 322733,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/322733.mp4",
+    "streamName": "Um Homem Diferente",
+    "isDirect": true
+  },
+  "Mask": {
+    "streamId": 310754,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/310754.mp4",
+    "streamName": "Marcas do Destino",
+    "isDirect": true
+  },
+  "Marcas do Destino": {
+    "streamId": 310754,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/310754.mp4",
+    "streamName": "Marcas do Destino",
+    "isDirect": true
+  },
+  "Precious": {
+    "streamId": 21131,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21131.mp4",
+    "streamName": "Preciosa - Uma História de Esperança",
+    "isDirect": true
+  },
+  "Preciosa - Uma História de Esperança": {
+    "streamId": 21131,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21131.mp4",
+    "streamName": "Preciosa - Uma História de Esperança",
+    "isDirect": true
+  },
+  "Little Miss Sunshine": {
+    "streamId": 380530,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380530.mp4",
+    "streamName": "Pequena Miss Sunshine",
+    "isDirect": true
+  },
+  "Pequena Miss Sunshine": {
+    "streamId": 380530,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380530.mp4",
+    "streamName": "Pequena Miss Sunshine",
+    "isDirect": true
+  },
+  "Lars and the Real Girl": {
+    "streamId": 362588,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/362588.mp4",
+    "streamName": "A Garota Ideal",
+    "isDirect": true
+  },
+  "A Garota Ideal": {
+    "streamId": 362588,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/362588.mp4",
+    "streamName": "A Garota Ideal",
+    "isDirect": true
+  },
+  "The Skin I Live In": {
+    "streamId": 128885,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128885.mp4",
+    "streamName": "A Pele Que Habito",
+    "isDirect": true
+  },
+  "A Pele Que Habito": {
+    "streamId": 128885,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128885.mp4",
+    "streamName": "A Pele Que Habito",
+    "isDirect": true
+  },
+  "Muriel's Wedding": {
+    "streamId": 371911,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/371911.mp4",
+    "streamName": "O Casamento de Muriel",
+    "isDirect": true
+  },
+  "O Casamento de Muriel": {
+    "streamId": 371911,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/371911.mp4",
+    "streamName": "O Casamento de Muriel",
+    "isDirect": true
+  },
+  "Shallow Hal": {
+    "streamId": 20729,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20729.mp4",
+    "streamName": "O Amor É Cego",
+    "isDirect": true
+  },
+  "O Amor É Cego": {
+    "streamId": 20729,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20729.mp4",
+    "streamName": "O Amor É Cego",
+    "isDirect": true
+  },
+  "I Feel Pretty": {
+    "streamId": 349060,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/349060.mp4",
+    "streamName": "Sexy por Acidente",
+    "isDirect": true
+  },
+  "Sexy por Acidente": {
+    "streamId": 349060,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/349060.mp4",
+    "streamName": "Sexy por Acidente",
+    "isDirect": true
+  },
+  "The Hunchback of Notre Dame": {
+    "streamId": 110824,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/110824.mp4",
+    "streamName": "O Corcunda de Notre Dame",
+    "isDirect": true
+  },
+  "O Corcunda de Notre Dame": {
+    "streamId": 110824,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/110824.mp4",
+    "streamName": "O Corcunda de Notre Dame",
+    "isDirect": true
+  },
+  "Cyrano": {
+    "streamId": 157984,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/157984.mp4",
+    "streamName": "Cyrano",
+    "isDirect": true
+  },
+  "Eighth Grade": {
+    "streamId": 22492,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22492.mp4",
+    "streamName": "Oitava Série",
+    "isDirect": true
+  },
+  "Oitava Série": {
+    "streamId": 22492,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/22492.mp4",
+    "streamName": "Oitava Série",
+    "isDirect": true
+  },
+  "The Edge of Seventeen": {
+    "streamId": 20799,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20799.mp4",
+    "streamName": "Quase 18",
+    "isDirect": true
+  },
+  "Quase 18": {
+    "streamId": 20799,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20799.mp4",
+    "streamName": "Quase 18",
+    "isDirect": true
+  },
+  "Sierra Burgess Is a Loser": {
+    "streamId": 20820,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20820.mp4",
+    "streamName": "Sierra Burgess É uma Loser",
+    "isDirect": true
+  },
+  "Sierra Burgess É uma Loser": {
+    "streamId": 20820,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20820.mp4",
+    "streamName": "Sierra Burgess É uma Loser",
+    "isDirect": true
+  },
+  "Tall Girl": {
+    "streamId": 29643,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/29643.mp4",
+    "streamName": "Crush à Altura",
+    "isDirect": true
+  },
+  "Crush à Altura": {
+    "streamId": 29643,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/29643.mp4",
+    "streamName": "Crush à Altura",
+    "isDirect": true
+  },
+  "She's Out of My League": {
+    "streamId": 208853,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/208853.mp4",
+    "streamName": "Ela É Demais para Mim",
+    "isDirect": true
+  },
+  "Ela É Demais para Mim": {
+    "streamId": 208853,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/208853.mp4",
+    "streamName": "Ela É Demais para Mim",
+    "isDirect": true
+  },
+  "She's All That": {
+    "streamId": 352997,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352997.mp4",
+    "streamName": "Ela É Demais",
+    "isDirect": true
+  },
+  "Ela É Demais": {
+    "streamId": 352997,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/352997.mp4",
+    "streamName": "Ela É Demais",
+    "isDirect": true
+  },
+  "The Devil Wears Prada": {
+    "streamId": 97193,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/97193.mp4",
+    "streamName": "O Diabo Veste Prada",
+    "isDirect": true
+  },
+  "O Diabo Veste Prada": {
+    "streamId": 97193,
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/97193.mp4",
+    "streamName": "O Diabo Veste Prada",
+    "isDirect": true
   }
 }
