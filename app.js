@@ -2722,27 +2722,126 @@ function openNetflixPlayer(movie) {
   // Check HLS vs Direct MP4/TS
   const isHls = streamUrl.toLowerCase().includes(".m3u8") || streamUrl.includes("output=m3u8");
 
+  // Apply active video filters & dithering
+  applyNetflixVideoSettings();
+
+  const qualityBadge = document.getElementById("netflixQualityLabel");
+  const qualityOptions = document.getElementById("netflixQualityOptions");
+  const audioList = document.getElementById("netflixAudioTracksList");
+
   if (isHls && window.Hls && Hls.isSupported()) {
     netflixHlsInstance = new Hls({
       enableWorker: true,
-      lowLatencyMode: true
+      lowLatencyMode: false, // VOD Ultra Stability
+      backBufferLength: 90,
+      maxBufferLength: 120, // 120s buffer
+      maxMaxBufferLength: 300, // up to 5 min buffer
+      maxBufferSize: 120 * 1024 * 1024, // 120MB buffer
+      capLevelToPlayerSize: false, // Never downgrade for small screen size
+      startLevel: -1,
+      progressive: true,
+      testBandwidth: true
     });
     netflixHlsInstance.loadSource(streamUrl);
     netflixHlsInstance.attachMedia(video);
+
     netflixHlsInstance.on(Hls.Events.MANIFEST_PARSED, () => {
       buffering.style.display = "none";
       video.play().catch(() => {});
+      initNetflixAudioDSP();
+
+      // Populate Dynamic Quality Selector
+      if (qualityOptions) {
+        let qHtml = `<button data-level="-1" class="active">Auto (Máxima Qualidade)</button>`;
+        if (netflixHlsInstance.levels && netflixHlsInstance.levels.length > 0) {
+          netflixHlsInstance.levels.forEach((lvl, idx) => {
+            const h = lvl.height || 0;
+            const kbps = Math.round((lvl.bitrate || 0) / 1000);
+            let label = `${h}p`;
+            if (h >= 2160) label = "4K Ultra HD (2160p)";
+            else if (h >= 1440) label = "2K Quad HD (1440p)";
+            else if (h >= 1080) label = "1080p Full HD";
+            else if (h >= 720) label = "720p HD";
+            else if (h > 0) label = `${h}p SD`;
+            else label = `Transmissão ${idx + 1}`;
+
+            qHtml += `<button data-level="${idx}">${label} <span style="font-size:10px; color:#888;">${kbps > 0 ? kbps + 'k' : ''}</span></button>`;
+          });
+        }
+        qualityOptions.innerHTML = qHtml;
+
+        qualityOptions.querySelectorAll("button").forEach(btn => {
+          btn.onclick = (ev) => {
+            ev.stopPropagation();
+            const lvl = parseInt(btn.dataset.level, 10);
+            netflixHlsInstance.currentLevel = lvl;
+            qualityOptions.querySelectorAll("button").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            if (qualityBadge) {
+              qualityBadge.textContent = lvl === -1 ? "AUTO" : btn.textContent.split(" ")[0];
+            }
+            document.getElementById("netflixQualityDropdown")?.classList.remove("open");
+            showToast(`Qualidade: ${btn.textContent.trim()}`);
+            resetNetflixControlsTimer();
+          };
+        });
+      }
+
+      // Populate Audio Tracks if available
+      if (audioList && netflixHlsInstance.audioTracks && netflixHlsInstance.audioTracks.length > 0) {
+        let aHtml = "";
+        netflixHlsInstance.audioTracks.forEach((t, i) => {
+          const isCur = netflixHlsInstance.audioTrack === i;
+          const trackName = t.name || (t.lang ? t.lang.toUpperCase() : `Faixa de Áudio ${i + 1}`);
+          aHtml += `<button class="audio-sub-option ${isCur ? 'active' : ''}" data-track="${i}">${escapeHtml(trackName)}</button>`;
+        });
+        audioList.innerHTML = aHtml;
+        audioList.querySelectorAll(".audio-sub-option").forEach(btn => {
+          btn.onclick = (ev) => {
+            ev.stopPropagation();
+            const trkId = parseInt(btn.dataset.track, 10);
+            netflixHlsInstance.audioTrack = trkId;
+            audioList.querySelectorAll(".audio-sub-option").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            showToast(`Áudio: ${btn.textContent.trim()}`);
+            resetNetflixControlsTimer();
+          };
+        });
+      }
     });
+
+    netflixHlsInstance.on(Hls.Events.LEVEL_SWITCHED, (event, data) => {
+      const lvl = netflixHlsInstance.levels[data.level];
+      if (lvl && qualityBadge) {
+        const h = lvl.height;
+        const prefix = netflixHlsInstance.autoLevelEnabled ? "AUTO (" : "";
+        const suffix = netflixHlsInstance.autoLevelEnabled ? ")" : "";
+        if (h >= 2160) qualityBadge.textContent = `${prefix}4K UHD${suffix}`;
+        else if (h >= 1080) qualityBadge.textContent = `${prefix}1080p${suffix}`;
+        else if (h >= 720) qualityBadge.textContent = `${prefix}720p${suffix}`;
+        else if (h > 0) qualityBadge.textContent = `${prefix}${h}p${suffix}`;
+      }
+    });
+
     netflixHlsInstance.on(Hls.Events.ERROR, (event, data) => {
       if (data.fatal) {
-        console.warn("HLS Error:", data);
+        console.warn("HLS Fatal Error:", data);
         buffering.style.display = "none";
       }
     });
   } else {
+    if (qualityBadge) qualityBadge.textContent = "DIRETO (FHD)";
+    if (qualityOptions) {
+      qualityOptions.innerHTML = `<button data-level="-1" class="active">Transmissão Direta (Container Nativo)</button>`;
+    }
+    if (audioList) {
+      audioList.innerHTML = `<button class="audio-sub-option active" data-track="-1">Áudio Padrão PT-BR (Nativo)</button>`;
+    }
     video.src = streamUrl;
     video.load();
-    video.play().catch(e => {
+    video.play().then(() => {
+      initNetflixAudioDSP();
+    }).catch(e => {
       console.warn("Autoplay bloqueado pelo navegador:", e);
     });
   }
