@@ -77,6 +77,10 @@
         <div class="nav-sub-items">
           <button class="nav-sub-item" data-cat="classic-action">Clássicos da Ação</button>
           <button class="nav-sub-item" data-cat="world-cinema">Mundial</button>
+          <button class="nav-sub-item" data-cat="iranian-cinema">Cinema Iraniano</button>
+          <button class="nav-sub-item" data-cat="poetic-cinema">Cinema Poético</button>
+          <button class="nav-sub-item" data-cat="surrealism">Surrealismo</button>
+          <button class="nav-sub-item" data-cat="moral-dilemma">Dilema Moral</button>
           <button class="nav-sub-item" data-cat="study">Estudos</button>
           <button class="nav-sub-item" data-cat="misfit">Desajustados</button>
           <button class="nav-sub-item" data-cat="animation">Animação</button>
@@ -374,6 +378,48 @@
   <!-- Video Tag -->
   <video id="netflixVideoPlayer" class="cinema-enhanced" playsinline preload="auto"></video>
   <div id="netflixDitherGrain" class="netflix-dither-grain"></div>
+
+  <!-- Netflix Cinematic Pause Backdrop Dimmer -->
+  <div id="netflixPauseBackdrop" class="netflix-pause-backdrop"></div>
+
+  <!-- Netflix Pause Info & Synopsis Overlay (Exibido ao pausar) -->
+  <div id="netflixPauseCard" class="netflix-pause-card">
+    <div class="netflix-pause-header">
+      <div class="netflix-pause-pill">
+        <span class="netflix-pause-pulse"></span>
+        <span class="netflix-pause-status">PAUSADO</span>
+        <span class="netflix-pause-pipe">•</span>
+        <span id="netflixPauseCategory" class="netflix-pause-category">Cinema</span>
+      </div>
+    </div>
+    <h2 id="netflixPauseTitle" class="netflix-pause-title">Título do Filme</h2>
+    <div id="netflixPauseSubtitle" class="netflix-pause-sub">Título Original</div>
+    <div class="netflix-pause-meta">
+      <span id="netflixPauseMatch" class="netflix-pause-match">98% Relevância</span>
+      <span id="netflixPauseRating" class="netflix-pause-rating">★ 8.5</span>
+      <span id="netflixPauseYear" class="netflix-pause-badge">Ano</span>
+      <span id="netflixPauseDuration" class="netflix-pause-badge">Duração</span>
+      <span id="netflixPauseDubbed" class="netflix-pause-dub">DUBLADO</span>
+      <span id="netflixPauseQuality" class="netflix-pause-badge badge-quality">1080p FHD</span>
+    </div>
+    <div class="netflix-pause-synopsis-wrap">
+      <p id="netflixPauseSynopsis" class="netflix-pause-synopsis">Sinopse da obra...</p>
+    </div>
+    <div id="netflixPauseCredits" class="netflix-pause-credits">
+      <div id="netflixPauseDirectorRow" class="pause-credit-row">
+        <span class="pause-credit-label">Direção:</span>
+        <span id="netflixPauseDirector" class="pause-credit-val">-</span>
+      </div>
+      <div id="netflixPauseCastRow" class="pause-credit-row">
+        <span class="pause-credit-label">Elenco:</span>
+        <span id="netflixPauseCast" class="pause-credit-val">-</span>
+      </div>
+      <div id="netflixPauseGenresRow" class="pause-credit-row">
+        <span class="pause-credit-label">Gênero:</span>
+        <span id="netflixPauseGenres" class="pause-credit-val">-</span>
+      </div>
+    </div>
+  </div>
 
   <!-- Buffering / Loading Ring -->
   <div id="netflixBuffering" class="netflix-player-buffering" style="display: none;">

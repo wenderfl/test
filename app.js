@@ -2677,6 +2677,139 @@ function resolveMovieStreamUrl(movie) {
   return `http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_${cleanTitle}.mp4`;
 }
 
+function updateNetflixPauseCard(movie) {
+  if (!movie) movie = netflixCurrentMovie;
+  if (!movie) return;
+
+  const titleEl = document.getElementById("netflixPauseTitle");
+  const subEl = document.getElementById("netflixPauseSubtitle");
+  const catEl = document.getElementById("netflixPauseCategory");
+  const matchEl = document.getElementById("netflixPauseMatch");
+  const ratingEl = document.getElementById("netflixPauseRating");
+  const yearEl = document.getElementById("netflixPauseYear");
+  const durEl = document.getElementById("netflixPauseDuration");
+  const dubEl = document.getElementById("netflixPauseDubbed");
+  const qualEl = document.getElementById("netflixPauseQuality");
+  const synEl = document.getElementById("netflixPauseSynopsis");
+
+  const directorRow = document.getElementById("netflixPauseDirectorRow");
+  const directorEl = document.getElementById("netflixPauseDirector");
+  const castRow = document.getElementById("netflixPauseCastRow");
+  const castEl = document.getElementById("netflixPauseCast");
+  const genresRow = document.getElementById("netflixPauseGenresRow");
+  const genresEl = document.getElementById("netflixPauseGenres");
+
+  // Title & Subtitle
+  if (titleEl) titleEl.textContent = movie.title || "Filme";
+  if (subEl) {
+    if (movie.ptTitle && movie.ptTitle !== movie.title) {
+      subEl.textContent = movie.ptTitle;
+      subEl.style.display = "block";
+    } else {
+      subEl.textContent = "";
+      subEl.style.display = "none";
+    }
+  }
+
+  // Category
+  if (catEl) {
+    const catObj = categories.find(c => c.id === movie.category);
+    catEl.textContent = catObj ? catObj.name : (movie.category || "Cinema");
+  }
+
+  // Match Score
+  if (matchEl) {
+    let aff = 96;
+    try {
+      const prof = typeof buildUserProfile === "function" ? buildUserProfile() : null;
+      if (typeof calculateMovieAffinity === "function") {
+        aff = calculateMovieAffinity(movie, prof);
+      }
+    } catch (e) {}
+    matchEl.textContent = `${aff}% Relevância`;
+  }
+
+  // Rating
+  if (ratingEl) {
+    const imdb = movie.omdb?.imdbRating;
+    ratingEl.textContent = imdb ? `★ ${imdb}` : (movie.rating ? `★ ${movie.rating}` : "★ 8.2");
+  }
+
+  // Year
+  if (yearEl) {
+    yearEl.textContent = movie.year || "";
+  }
+
+  // Duration
+  if (durEl) {
+    const video = document.getElementById("netflixVideoPlayer");
+    if (movie.omdb?.runtime) {
+      durEl.textContent = movie.omdb.runtime;
+      durEl.style.display = "inline-block";
+    } else if (video && video.duration && !isNaN(video.duration)) {
+      durEl.textContent = formatPlayerTime(video.duration);
+      durEl.style.display = "inline-block";
+    } else {
+      durEl.style.display = "none";
+    }
+  }
+
+  // Dubbed Badge
+  if (dubEl) {
+    if (movie.dubbed) {
+      dubEl.textContent = movie.dubbingStudio ? `DUB (${movie.dubbingStudio})` : "DUBLADO";
+      dubEl.style.display = "inline-block";
+    } else {
+      dubEl.style.display = "none";
+    }
+  }
+
+  // Quality Badge
+  if (qualEl) {
+    const qualityBadge = document.getElementById("netflixQualityLabel");
+    qualEl.textContent = (qualityBadge && qualityBadge.textContent) ? qualityBadge.textContent.replace("AUTO (", "").replace(")", "") : "1080p FHD";
+  }
+
+  // Synopsis (curatorNote > curatorReason > omdb plot > fallback)
+  if (synEl) {
+    const synText = movie.curatorNote || movie.curatorReason || movie.omdb?.plot || movie.plot || movie.overview || "Sem sinopse disponível.";
+    synEl.textContent = synText;
+  }
+
+  // Director
+  if (directorRow && directorEl) {
+    const dir = movie.omdb?.director;
+    if (dir && dir !== "N/A" && dir !== "Desconhecido") {
+      directorEl.textContent = dir;
+      directorRow.style.display = "flex";
+    } else {
+      directorRow.style.display = "none";
+    }
+  }
+
+  // Cast
+  if (castRow && castEl) {
+    const act = movie.omdb?.actors;
+    if (act && act !== "N/A" && act !== "Desconhecido") {
+      castEl.textContent = act;
+      castRow.style.display = "flex";
+    } else {
+      castRow.style.display = "none";
+    }
+  }
+
+  // Genres
+  if (genresRow && genresEl) {
+    const gen = movie.omdb?.genre ? formatGenresPt(movie.omdb.genre) : "";
+    if (gen) {
+      genresEl.textContent = gen;
+      genresRow.style.display = "flex";
+    } else {
+      genresRow.style.display = "none";
+    }
+  }
+}
+
 function openNetflixPlayer(movie) {
   if (!movie) return;
   stopHeroTrailer();
@@ -2687,6 +2820,9 @@ function openNetflixPlayer(movie) {
   const video = document.getElementById("netflixVideoPlayer");
   const buffering = document.getElementById("netflixBuffering");
   if (!overlay || !video) return;
+
+  overlay.classList.remove("is-paused");
+  updateNetflixPauseCard(movie);
 
   // Metadata Display
   const titleEl = document.getElementById("netflixPlayerTitle");
@@ -2901,6 +3037,7 @@ function closeNetflixPlayer() {
 
   overlay.style.display = "none";
   overlay.classList.remove("controls-hidden");
+  overlay.classList.remove("is-paused");
   document.body.style.overflow = "";
   if (netflixControlsTimer) clearTimeout(netflixControlsTimer);
   netflixCurrentMovie = null;
@@ -2908,6 +3045,7 @@ function closeNetflixPlayer() {
 }
 
 function toggleNetflixPlayPause() {
+  const overlay = document.getElementById("netflixPlayerOverlay");
   const video = document.getElementById("netflixVideoPlayer");
   if (!video) return;
 
@@ -2918,6 +3056,7 @@ function toggleNetflixPlayPause() {
 
   if (video.paused) {
     video.play().catch(() => {});
+    if (overlay) overlay.classList.remove("is-paused");
     if (iconPlay) iconPlay.style.display = "none";
     if (iconPause) iconPause.style.display = "inline";
     if (centerFlash && centerFlashIcon) {
@@ -2927,6 +3066,11 @@ function toggleNetflixPlayPause() {
     }
   } else {
     video.pause();
+    if (overlay) {
+      overlay.classList.remove("controls-hidden");
+      overlay.classList.add("is-paused");
+    }
+    updateNetflixPauseCard(netflixCurrentMovie);
     if (iconPlay) iconPlay.style.display = "inline";
     if (iconPause) iconPause.style.display = "none";
     if (centerFlash && centerFlashIcon) {
@@ -3149,6 +3293,7 @@ function setupNetflixPlayerEngine() {
     if (iconPlay) iconPlay.style.display = "none";
     if (iconPause) iconPause.style.display = "inline";
     if (buffering) buffering.style.display = "none";
+    overlay.classList.remove("is-paused");
     resetNetflixControlsTimer();
   });
 
@@ -3158,6 +3303,8 @@ function setupNetflixPlayerEngine() {
     if (iconPlay) iconPlay.style.display = "inline";
     if (iconPause) iconPause.style.display = "none";
     overlay.classList.remove("controls-hidden");
+    overlay.classList.add("is-paused");
+    updateNetflixPauseCard(netflixCurrentMovie);
   });
 
   video.addEventListener("waiting", () => {
@@ -3207,6 +3354,24 @@ function setupNetflixPlayerEngine() {
       }, 240);
     }
   });
+
+  // Netflix Pause Overlay Backdrop & Card Clicks (Resume on click)
+  const pauseBackdrop = document.getElementById("netflixPauseBackdrop");
+  if (pauseBackdrop) {
+    pauseBackdrop.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleNetflixPlayPause();
+    });
+  }
+
+  const pauseCard = document.getElementById("netflixPauseCard");
+  if (pauseCard) {
+    pauseCard.addEventListener("click", (e) => {
+      if (!e.target.closest("button, a, input")) {
+        toggleNetflixPlayPause();
+      }
+    });
+  }
 
   // Buttons
   if (backBtn) backBtn.onclick = closeNetflixPlayer;

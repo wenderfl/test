@@ -2758,6 +2758,276 @@ body {
   color: #46d369;
 }
 
+/* ------------------------------------------------------------- */
+/* NETFLIX CINEMATIC PAUSE SCREEN & SYNOPSIS OVERLAY             */
+/* ------------------------------------------------------------- */
+
+/* Dimmer vignette backdrop when paused */
+.netflix-pause-backdrop {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(6, 6, 10, 0.94) 0%,
+    rgba(6, 6, 10, 0.82) 36%,
+    rgba(6, 6, 10, 0.45) 68%,
+    rgba(6, 6, 10, 0.15) 100%
+  ), linear-gradient(
+    0deg,
+    rgba(6, 6, 10, 0.96) 0%,
+    rgba(6, 6, 10, 0.45) 45%,
+    transparent 100%
+  );
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  z-index: 8;
+}
+
+.netflix-player-overlay.is-paused .netflix-pause-backdrop {
+  opacity: 1;
+}
+
+/* Hide top bar title info while paused to avoid redundant title duplication */
+.netflix-player-overlay.is-paused .netflix-title-info {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-8px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+/* Netflix Pause Card (Positioned mid-lower left above controls) */
+.netflix-pause-card {
+  position: absolute;
+  bottom: 145px;
+  left: 48px;
+  max-width: 680px;
+  z-index: 18;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  opacity: 0;
+  transform: translateY(22px);
+  pointer-events: none;
+  transition: opacity 0.35s cubic-bezier(0.16, 1, 0.3, 1), transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.netflix-player-overlay.is-paused .netflix-pause-card {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.netflix-pause-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.netflix-pause-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(229, 9, 20, 0.16);
+  border: 1px solid rgba(229, 9, 20, 0.45);
+  padding: 4px 12px;
+  border-radius: 20px;
+  width: fit-content;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 0 16px rgba(229, 9, 20, 0.25);
+}
+
+.netflix-pause-pulse {
+  width: 7px;
+  height: 7px;
+  background: #e50914;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #e50914;
+  animation: nflxPausePulse 1.8s ease-in-out infinite;
+}
+
+@keyframes nflxPausePulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.35; transform: scale(0.8); }
+}
+
+.netflix-pause-status {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 1.5px;
+}
+
+.netflix-pause-pipe {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 10px;
+}
+
+.netflix-pause-category {
+  font-size: 11px;
+  font-weight: 700;
+  color: #46d369;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+.netflix-pause-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.95);
+}
+
+.netflix-pause-sub {
+  font-size: 14px;
+  font-weight: 600;
+  color: #b3b3b3;
+  margin-top: -6px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
+}
+
+.netflix-pause-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+}
+
+.netflix-pause-match {
+  color: #46d369;
+  font-weight: 800;
+  font-size: 13px;
+  text-shadow: 0 0 12px rgba(70, 211, 105, 0.4);
+}
+
+.netflix-pause-rating {
+  color: #ffcc00;
+  font-weight: 800;
+}
+
+.netflix-pause-badge {
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 12px;
+  color: #e5e5e5;
+  backdrop-filter: blur(4px);
+}
+
+.netflix-pause-badge.badge-quality {
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.netflix-pause-dub {
+  background: #e50914;
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 3px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+.netflix-pause-synopsis-wrap {
+  position: relative;
+  max-width: 640px;
+}
+
+.netflix-pause-synopsis {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #dedede;
+  margin: 4px 0 0 0;
+  max-height: 110px;
+  overflow-y: auto;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.9);
+  padding-right: 8px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.netflix-pause-synopsis::-webkit-scrollbar {
+  width: 4px;
+}
+.netflix-pause-synopsis::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+}
+
+.netflix-pause-credits {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: #999999;
+  margin-top: 4px;
+}
+
+.pause-credit-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.pause-credit-label {
+  color: #777777;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+}
+
+.pause-credit-val {
+  color: #cccccc;
+  font-weight: 500;
+}
+
+@media (max-width: 1024px) {
+  .netflix-pause-card {
+    left: 36px;
+    bottom: 140px;
+    max-width: 580px;
+  }
+  .netflix-pause-title {
+    font-size: 26px;
+  }
+  .netflix-pause-synopsis {
+    font-size: 14px;
+    max-height: 95px;
+  }
+}
+
+@media (max-width: 768px) {
+  .netflix-pause-card {
+    left: 20px;
+    right: 20px;
+    bottom: 135px;
+    max-width: calc(100% - 40px);
+    gap: 8px;
+  }
+  .netflix-pause-title {
+    font-size: 20px;
+  }
+  .netflix-pause-synopsis {
+    font-size: 13px;
+    max-height: 80px;
+  }
+  .netflix-pause-credits {
+    display: none;
+  }
+}
+
 /* External Player Modal Grid & Cards */
 .ext-player-grid {
   display: grid;
