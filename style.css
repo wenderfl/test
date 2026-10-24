@@ -3272,6 +3272,19 @@ body {
   transform: scale(1.05) !important;
 }
 
+/* Primary 'Assistir' Play Button Focus in Modal for TV */
+#modalWatchBtn:focus,
+#modalWatchBtn:focus-visible,
+#modalWatchBtn.tv-focused {
+  background: #ffffff !important;
+  color: #000000 !important;
+  outline: 4px solid #e50914 !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 1), 0 0 35px rgba(229, 9, 20, 0.9) !important;
+  transform: scale(1.08) !important;
+  z-index: 50 !important;
+}
+
 .modal-similar-card:focus-visible,
 .modal-similar-card.tv-focused {
   transform: scale(1.06) !important;

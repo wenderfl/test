@@ -1543,6 +1543,16 @@ function openDetailModal(movie) {
   syncModalActionButtons();
   renderModalSimilarMovies(movie);
   modal.classList.add("open");
+
+  // Immediate focus transfer to the 'Assistir' Play button for TV Remote D-Pad
+  setTimeout(() => {
+    const watchBtn = document.getElementById("modalWatchBtn");
+    if (watchBtn) {
+      document.querySelectorAll(".tv-focused").forEach(el => el.classList.remove("tv-focused"));
+      watchBtn.focus();
+      watchBtn.classList.add("tv-focused");
+    }
+  }, 40);
 }
 
 function renderModalSimilarMovies(movie) {
@@ -2244,6 +2254,7 @@ function setupTVRemoteListeners() {
     if (isDetailModalOpen) {
       if (isBack) {
         e.preventDefault();
+        document.querySelectorAll(".modal-card .tv-focused, .modal-card :focus").forEach(b => b.classList.remove("tv-focused"));
         detailModal.classList.remove("open");
         stopModalTrailer();
         if (activeHeroMovie) startHeroTrailer(activeHeroMovie);
@@ -2280,23 +2291,60 @@ function setupTVRemoteListeners() {
 
       const similarCards = Array.from(document.querySelectorAll("#modalSimilarGrid .modal-similar-card"));
 
+      const setModalFocus = (el) => {
+        if (!el) return;
+        document.querySelectorAll(".modal-card .tv-focused").forEach(b => b.classList.remove("tv-focused"));
+        el.focus();
+        el.classList.add("tv-focused");
+      };
+
+      // Direct Remote Play Button: Instant Watch
+      if (isPlay || isPlayPause) {
+        e.preventDefault();
+        const watchBtn = document.getElementById("modalWatchBtn");
+        if (watchBtn) watchBtn.click();
+        return;
+      }
+
+      // Enter / Select (Remote Center Button: KeyCode 13 or 23)
+      if (isSelect) {
+        e.preventDefault();
+        if (activeEl && (modalHeroButtons.includes(activeEl) || modalSpecButtons.includes(activeEl) || modalReviewButtons.includes(activeEl) || similarCards.includes(activeEl))) {
+          activeEl.click();
+        } else {
+          const watchBtn = document.getElementById("modalWatchBtn");
+          if (watchBtn) {
+            setModalFocus(watchBtn);
+            watchBtn.click();
+          }
+        }
+        return;
+      }
+
       // Check which group currently has focus
       const heroIdx = modalHeroButtons.indexOf(activeEl);
       const specIdx = modalSpecButtons.indexOf(activeEl);
       const reviewIdx = modalReviewButtons.indexOf(activeEl);
       const simIdx = similarCards.indexOf(activeEl);
 
+      // If focus is lost or outside the modal, snap focus to 'Assistir' Play button
+      if (heroIdx === -1 && specIdx === -1 && reviewIdx === -1 && simIdx === -1) {
+        const watchBtn = document.getElementById("modalWatchBtn");
+        if (watchBtn) setModalFocus(watchBtn);
+        return;
+      }
+
       if (isRight) {
         if (heroIdx !== -1 && heroIdx < modalHeroButtons.length - 1) {
           e.preventDefault();
-          modalHeroButtons[heroIdx + 1].focus();
+          setModalFocus(modalHeroButtons[heroIdx + 1]);
         } else if (specIdx !== -1 && specIdx < modalSpecButtons.length - 1) {
           e.preventDefault();
-          modalSpecButtons[specIdx + 1].focus();
+          setModalFocus(modalSpecButtons[specIdx + 1]);
         } else if (simIdx !== -1 && simIdx < similarCards.length - 1) {
           e.preventDefault();
-          similarCards[simIdx + 1].focus();
-          similarCards[simIdx + 1].scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+          setModalFocus(similarCards[simIdx + 1]);
+          similarCards[simIdx + 1].scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
         }
         return;
       }
@@ -2304,14 +2352,14 @@ function setupTVRemoteListeners() {
       if (isLeft) {
         if (heroIdx > 0) {
           e.preventDefault();
-          modalHeroButtons[heroIdx - 1].focus();
+          setModalFocus(modalHeroButtons[heroIdx - 1]);
         } else if (specIdx > 0) {
           e.preventDefault();
-          modalSpecButtons[specIdx - 1].focus();
+          setModalFocus(modalSpecButtons[specIdx - 1]);
         } else if (simIdx > 0) {
           e.preventDefault();
-          similarCards[simIdx - 1].focus();
-          similarCards[simIdx - 1].scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+          setModalFocus(similarCards[simIdx - 1]);
+          similarCards[simIdx - 1].scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
         }
         return;
       }
@@ -2319,20 +2367,20 @@ function setupTVRemoteListeners() {
       if (isDown) {
         e.preventDefault();
         if (heroIdx !== -1) {
-          if (modalSpecButtons.length) modalSpecButtons[0].focus();
+          if (modalSpecButtons.length) setModalFocus(modalSpecButtons[0]);
         } else if (specIdx !== -1) {
           if (modalReviewButtons.length && modalReviewButtons[0]) {
-            modalReviewButtons[0].focus();
+            setModalFocus(modalReviewButtons[0]);
           } else if (similarCards.length) {
-            similarCards[0].focus();
-            similarCards[0].scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+            setModalFocus(similarCards[0]);
+            similarCards[0].scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
           }
         } else if (reviewIdx === 0 && modalReviewButtons[1]) {
-          modalReviewButtons[1].focus();
+          setModalFocus(modalReviewButtons[1]);
         } else if (reviewIdx !== -1) {
           if (similarCards.length) {
-            similarCards[0].focus();
-            similarCards[0].scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+            setModalFocus(similarCards[0]);
+            similarCards[0].scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
           }
         }
         return;
@@ -2342,16 +2390,16 @@ function setupTVRemoteListeners() {
         e.preventDefault();
         if (simIdx !== -1) {
           if (modalReviewButtons.length) {
-            modalReviewButtons[modalReviewButtons.length - 1].focus();
+            setModalFocus(modalReviewButtons[modalReviewButtons.length - 1]);
           } else if (modalSpecButtons.length) {
-            modalSpecButtons[0].focus();
+            setModalFocus(modalSpecButtons[0]);
           }
         } else if (reviewIdx === 1) {
-          modalReviewButtons[0].focus();
+          setModalFocus(modalReviewButtons[0]);
         } else if (reviewIdx === 0) {
-          if (modalSpecButtons.length) modalSpecButtons[0].focus();
+          if (modalSpecButtons.length) setModalFocus(modalSpecButtons[0]);
         } else if (specIdx !== -1) {
-          if (modalHeroButtons.length) modalHeroButtons[0].focus();
+          if (modalHeroButtons.length) setModalFocus(modalHeroButtons[0]);
         }
         return;
       }
