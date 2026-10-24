@@ -9,7 +9,8 @@
     "start": "node scripts/serve_api.js",
     "validate": "node scripts/catalog_manager.js validate",
     "stats": "node scripts/catalog_manager.js stats",
-    "undubbed": "node scripts/catalog_manager.js undubbed"
+    "undubbed": "node scripts/catalog_manager.js undubbed",
+    "revise": "node scripts/revise_watched_movies.js"
   },
   "keywords": [
     "letterboxd",

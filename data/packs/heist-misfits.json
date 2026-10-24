@@ -460,61 +460,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzY5OTc3Nl5BMl5BanBnXkFtZTcwNjE4NDQzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "Reservoir Dogs",
-    "ptTitle": "Cães de Aluguel",
-    "year": 1992,
-    "category": "heist-misfits",
-    "letterboxdUrl": "https://letterboxd.com/film/reservoir-dogs/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Dublavídeo",
-    "curatorNote": "Estreia explosiva de Quentin Tarantino no cinema. Seis criminosos com codinomes de cores se reúnem em um galpão após um assalto a joalheria que deu tragicamente errado.",
-    "curatorReason": "Diálogos afiados, tensão paranoica claustrofóbica e a construção de um estilo autoral revolucionário que transformou o cinema independente dos anos 90.",
-    "omdb": {
-      "title": "Reservoir Dogs",
-      "year": "1992",
-      "rated": "R",
-      "released": "02 Sep 1992",
-      "runtime": "99 min",
-      "genre": "Crime, Thriller",
-      "director": "Quentin Tarantino",
-      "writer": "Quentin Tarantino, Roger Avary",
-      "actors": "Harvey Keitel, Tim Roth, Michael Madsen",
-      "plot": "Six thugs, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the predetermined rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop.",
-      "language": "English",
-      "country": "United States",
-      "awards": "13 wins & 23 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "90%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "metascore": "81",
-      "imdbRating": "8.2",
-      "imdbVotes": "1,183,846",
-      "imdbID": "tt0105236",
-      "boxOffice": "$2,832,029",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/110243.mp4",
-    "streamName": "Cães de Aluguel",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
     "title": "The Italian Job",
     "ptTitle": "Uma Saída de Mestre",
     "year": 2003,
@@ -563,7 +508,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjJjNzc5YjAtZjU2Ni00ZjVkLTkzYmItM2E2NDM0NWE1YmJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/144063.mp4",
     "streamName": "Uma Saída de Mestre",
     "streamAvailable": true,
@@ -618,66 +563,11 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/391850.mp4",
     "streamName": "Atração Perigosa",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Baby Driver",
-    "ptTitle": "Em Ritmo de Fuga",
-    "year": 2017,
-    "category": "heist-misfits",
-    "letterboxdUrl": "https://letterboxd.com/film/baby-driver/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Thriller de ação inovador de Edgar Wright com Ansel Elgort, Kevin Spacey e Jamie Foxx. Um jovem motorista de fuga com zumbido no ouvido sincroniza cada manobra com sua playlist musical.",
-    "curatorReason": "Casamento perfeito entre montagem visual cinética e trilha sonora rítmica, criando sequências de perseguição antológicas.",
-    "omdb": {
-      "title": "Baby Driver",
-      "year": "2017",
-      "rated": "R",
-      "released": "28 Jun 2017",
-      "runtime": "113 min",
-      "genre": "Action, Crime, Drama",
-      "director": "Edgar Wright",
-      "writer": "Edgar Wright",
-      "actors": "Ansel Elgort, Jon Bernthal, Jon Hamm",
-      "plot": "Baby is a young and partially hearing impaired getaway driver who can make any wild move while in motion with the right track playing. It's a critical talent he needs to survive his indentured servitude to the crime boss, Doc, who values his role in his meticulously planned robberies. However, just when Baby thinks he is finally free and clear to have his own life with his new girlfriend, Debora, Doc coerces him back for another job. Now saddled with a crew of thugs too violently unstable to keep to Doc's plans, Baby finds himself and everything he cares for in terrible danger. To survive and escape the coming maelstrom, it will take all of Baby's skill, wits and daring, but even on the best track, can he make it when life is forcing him to face the music?",
-      "language": "English, American Sign Language",
-      "country": "United Kingdom, United States",
-      "awards": "Nominated for 3 Oscars. 44 wins & 67 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "92%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "86/100"
-        }
-      ],
-      "metascore": "86",
-      "imdbRating": "7.5",
-      "imdbVotes": "696,803",
-      "imdbID": "tt3890160",
-      "boxOffice": "$107,825,862",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20017.mp4",
-    "streamName": "Em Ritmo de Fuga",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Hell or High Water",
@@ -728,65 +618,10 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/323676.mp4",
     "streamName": "A Qualquer Custo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Drive",
-    "ptTitle": "Drive",
-    "year": 2011,
-    "category": "heist-misfits",
-    "letterboxdUrl": "https://letterboxd.com/film/drive/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Dublavídeo",
-    "curatorNote": "Vencedor de Melhor Diretor em Cannes para Nicolas Winding Refn com Ryan Gosling e Carey Mulligan. Um dublê de Hollywood e piloto de fuga noturno se envolve na proteção de sua vizinha contra a máfia.",
-    "curatorReason": "Estética neo-noir hipnótica, trilha sonora eletrônica synthwave inesquecível e violência estilizada de altíssima voltagem poética.",
-    "omdb": {
-      "title": "Drive",
-      "year": "2011",
-      "rated": "R",
-      "released": "16 Sep 2011",
-      "runtime": "100 min",
-      "genre": "Action, Drama",
-      "director": "Nicolas Winding Refn",
-      "writer": "Hossein Amini, James Sallis",
-      "actors": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
-      "plot": "This action drama follows a mysterious man who has multiple jobs as a garage mechanic, a Hollywood stuntman and a getaway driver seems to be trying to escape his shady past as he falls for his neighbor - whose husband is in prison and who's looking after her child alone. Meanwhile, his garage mechanic boss is trying to set up a race team using gangland money, which implicates our driver as he is to be used as the race team's main driver. Our hero gets more than he bargained for when he meets the man who is married to the woman he loves.",
-      "language": "English, Spanish",
-      "country": "United States",
-      "awards": "Nominated for 1 Oscar. 79 wins & 180 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "79/100"
-        }
-      ],
-      "metascore": "79",
-      "imdbRating": "7.8",
-      "imdbVotes": "775,952",
-      "imdbID": "tt0780504",
-      "boxOffice": "$35,061,555",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/390426.mp4",
-    "streamName": "Drive",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   }
 ]

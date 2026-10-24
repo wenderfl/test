@@ -266,51 +266,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZTk3ZThjZjgtYjhlMi00YjFlLWFkMjQtOGM0MTQxMGNmMzhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "The Mothman Prophecies",
-    "ptTitle": "A Última Profecia",
-    "year": 2002,
-    "category": "silent-mystery",
-    "letterboxdUrl": "https://letterboxd.com/film/the-mothman-prophecies/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Um jornalista viúvo vai parar em uma cidadezinha rural cercada por névoa e relatos de uma entidade misteriosa, em uma espiral de paranoia e purgatória psicológica no estilo Silent Hill.",
-    "curatorReason": "Um jornalista viúvo vai parar em uma cidadezinha rural cercada por névoa e relatos de uma entidade misteriosa, em uma espiral de paranoia e purgatória psicológica no estilo Silent Hill.",
-    "omdb": {
-      "director": "Mark Pellington",
-      "writer": "Richard Hatem, John A. Keel",
-      "actors": "Richard Gere, Laura Linney, David Eigenberg",
-      "genre": "Drama, Horror, Mystery",
-      "plot": "A reporter investigates strange phenomena in a small town.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "6.4",
-      "rottenTomatoes": "52%",
-      "metascore": "52/100",
-      "runtime": "119 min",
-      "rated": "PG-13",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "52%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "52/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "terror",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/129517.mp4",
-    "streamName": "A Última Profecia",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Oculus",
     "ptTitle": "O Espelho",
     "year": 2014,

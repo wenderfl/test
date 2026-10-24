@@ -508,7 +508,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/379459.mp4",
     "streamName": "Falcão Negro em Perigo",
     "streamAvailable": true,
@@ -563,7 +563,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/371885.mp4",
     "streamName": "Glória Feita de Sangue",
     "streamAvailable": true,
@@ -618,7 +618,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzgyMGM2YTItYzY2Yi00NDQ0LWE0M2EtMGUzYjFlMDgyY2M3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/239602.mp4",
     "streamName": "Guerra ao Terror",
     "streamAvailable": true,
@@ -673,7 +673,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20975.mp4",
     "streamName": "Dunkirk",
     "streamAvailable": true,
@@ -728,7 +728,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "art",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/19981.mp4",
     "streamName": "Corações de Ferro",
     "streamAvailable": true,

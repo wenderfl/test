@@ -601,61 +601,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg"
   },
   {
-    "title": "The Mist",
-    "ptTitle": "O Nevoeiro",
-    "year": 2007,
-    "category": "moral-dilemma",
-    "letterboxdUrl": "https://letterboxd.com/film/the-mist/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Dublavídeo",
-    "curatorNote": "Adaptação visceral de Frank Darabont para a obra de Stephen King. Moradores de uma pequena cidade ficam encurralados em um supermercado por criaturas na névoa.",
-    "curatorReason": "O dilema moral definitivo entre o colapso do fanatismo religioso e a terrível decisão final sobre esperança e desespero.",
-    "omdb": {
-      "title": "The Mist",
-      "year": "2007",
-      "rated": "R",
-      "released": "21 Nov 2007",
-      "runtime": "126 min",
-      "genre": "Horror, Sci-Fi, Thriller",
-      "director": "Frank Darabont",
-      "writer": "Frank Darabont, Stephen King",
-      "actors": "Thomas Jane, Marcia Gay Harden, Laurie Holden",
-      "plot": "The Draytons - David, Steff and their son Billy - live in a small Maine town. One night a ferocious storm hits the area, damaging their house. The storm is accompanied by a strange mist the following morning. David and Billy and their neighbour Brent Norton go into town and find themselves trapped in a grocery store with several other people. There they discover that the mist contains something frightening and intent on killing humans.",
-      "language": "English",
-      "country": "United States",
-      "awards": "6 wins & 13 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "74%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "58/100"
-        }
-      ],
-      "metascore": "58",
-      "imdbRating": "7.1",
-      "imdbVotes": "381,364",
-      "imdbID": "tt0884328",
-      "boxOffice": "$25,594,957",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/394535.mp4",
-    "streamName": "O Nevoeiro",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-  },
-  {
     "title": "Million Dollar Baby",
     "ptTitle": "Menina de Ouro",
     "year": 2005,

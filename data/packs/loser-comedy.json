@@ -787,116 +787,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzA0ZWY2MDEtMzczMC00NjkyLThmYjItMDk4ZDRmMDE4MjJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
-    "title": "Napoleon Dynamite",
-    "ptTitle": "Napoleon Dynamite",
-    "year": 2004,
-    "category": "loser-comedy",
-    "letterboxdUrl": "https://letterboxd.com/film/napoleon-dynamite/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Álamo",
-    "curatorNote": "Clássico cult instantâneo de Jared Hess. Um adolescente desajeitado e antissocial de Idaho ajuda seu novo amigo mexicano a concorrer à presidência do grêmio estudantil.",
-    "curatorReason": "Humor seco inimitável, personagens excêntricos inesquecíveis e uma das danças mais icônicas e celebradas da história do cinema pop.",
-    "omdb": {
-      "title": "Napoleon Dynamite",
-      "year": "2004",
-      "rated": "PG",
-      "released": "27 Aug 2004",
-      "runtime": "96 min",
-      "genre": "Comedy",
-      "director": "Jared Hess",
-      "writer": "Jared Hess, Jerusha Hess",
-      "actors": "Jon Heder, Efren Ramirez, Jon Gries",
-      "plot": "Preston, Idaho's most curious resident, Napoleon Dynamite, lives with his grandma and his 32-year-old brother (who cruises chat rooms for ladies) and works to help his best friend, Pedro, snatch the Student Body President title from mean teen Summer Wheatley.",
-      "language": "English",
-      "country": "United States",
-      "awards": "10 wins & 23 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_QL75_UX380_CR0,8,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "72%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "metascore": "64",
-      "imdbRating": "7.0",
-      "imdbVotes": "259,884",
-      "imdbID": "tt0374900",
-      "boxOffice": "$44,540,956",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_QL75_UX380_CR0,8,380,562_.jpg"
-    },
-    "parentCategory": "misfit",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320903.mp4",
-    "streamName": "Napoleon Dynamite",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_QL75_UX380_CR0,8,380,562_.jpg"
-  },
-  {
-    "title": "Superbad",
-    "ptTitle": "Superbad: É Hoje",
-    "year": 2007,
-    "category": "loser-comedy",
-    "letterboxdUrl": "https://letterboxd.com/film/superbad/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Double Sound",
-    "curatorNote": "Comédia geracional produzida por Judd Apatow e escrita por Seth Rogen e Evan Goldberg. Dois amigos inseparáveis tentam comprar bebidas alcoólicas para uma festa de formatura.",
-    "curatorReason": "Uma celebração hilária e honesta da ansiedade adolescente, amizade masculina sincera e o mítico McLovin.",
-    "omdb": {
-      "title": "Superbad",
-      "year": "2007",
-      "rated": "R",
-      "released": "17 Aug 2007",
-      "runtime": "113 min",
-      "genre": "Comedy",
-      "director": "Greg Mottola",
-      "writer": "Seth Rogen, Evan Goldberg",
-      "actors": "Michael Cera, Jonah Hill, Christopher Mintz-Plasse",
-      "plot": "Seth and Evan are best friends, inseparable, navigating the last weeks of high school. Usually shunned by the popular kids, Seth and Evan luck into an invitation to a party, and spend a long day, with the help of their nerdy friend Fogell, trying to score enough alcohol to lubricate the party and inebriate two girls, Jules and Becca, so they can kick-start their sex lives and go off to college with a summer full of experience and new skills. Their quest is complicated by Fogell's falling in with two inept cops who both slow and assist the plan. If they do get the liquor to the party, what then? Is sex the only rite of passage at hand?",
-      "language": "English",
-      "country": "United States",
-      "awards": "11 wins & 24 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "88%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "76/100"
-        }
-      ],
-      "metascore": "76",
-      "imdbRating": "7.6",
-      "imdbVotes": "705,332",
-      "imdbID": "tt0829482",
-      "boxOffice": "$121,463,226",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "parentCategory": "misfit",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24318.mp4",
-    "streamName": "Superbad: É Hoje",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
     "title": "School of Rock",
     "ptTitle": "Escola de Rock",
     "year": 1970,
@@ -937,7 +827,7 @@
       "type": "movie",
       "Poster": "N/A"
     },
-    "parentCategory": "misfit",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20606.mp4",
     "streamName": "Escola de Rock",
     "streamAvailable": true,
@@ -979,66 +869,11 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzMwNWMxMGYtNzdjOC00OTljLWI4MDItNmQ3M2VlMTA4MWE1XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg"
     },
-    "parentCategory": "misfit",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/307065.mp4",
     "streamName": "Zoolander",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzMwNWMxMGYtNzdjOC00OTljLWI4MDItNmQ3M2VlMTA4MWE1XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg"
-  },
-  {
-    "title": "Dumb and Dumber",
-    "ptTitle": "Debi & Lóide: Dois Idiotas em Apuros",
-    "year": 1994,
-    "category": "loser-comedy",
-    "letterboxdUrl": "https://letterboxd.com/film/dumb-and-dumber/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "VTI Rio",
-    "curatorNote": "Obra-prima do humor pastelão dos irmãos Farrelly estrelada por Jim Carrey e Jeff Daniels. Dois amigos de bom coração mas inteligência nula atravessam os EUA em uma van em formato de cachorro.",
-    "curatorReason": "Timing cômico lendário, química incomparável entre os protagonistas e piadas físicas eternizadas no imaginário da comédia dos anos 90.",
-    "omdb": {
-      "title": "Dumb and Dumber",
-      "year": "1994",
-      "rated": "PG-13",
-      "released": "16 Dec 1994",
-      "runtime": "107 min",
-      "genre": "Comedy",
-      "director": "Peter Farrelly",
-      "writer": "Peter Farrelly, Bennett Yellin, Bobby Farrelly",
-      "actors": "Jim Carrey, Jeff Daniels, Lauren Holly",
-      "plot": "Harry and Lloyd are two good friends who happen to be really stupid. The duo set out on a cross country trip from Providence to Aspen, Colorado to return a briefcase full of money to its rightful owner, a beautiful woman named Mary Swanson. After a trip of one mishap after another, the duo eventually make it to Aspen. But the two soon realize that Mary and her briefcase are the least of their problems.",
-      "language": "English, Swedish, German",
-      "country": "United States",
-      "awards": "5 wins & 3 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNGQxZDA1MmMtYWQ1Ni00NTJmLTljMjgtZWVmODllODVhMzgyXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "69%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "41/100"
-        }
-      ],
-      "metascore": "41",
-      "imdbRating": "7.3",
-      "imdbVotes": "448,553",
-      "imdbID": "tt0109686",
-      "boxOffice": "$127,190,327",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQxZDA1MmMtYWQ1Ni00NTJmLTljMjgtZWVmODllODVhMzgyXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-    },
-    "parentCategory": "misfit",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108137.mp4",
-    "streamName": "Debi & Lóide: Dois Idiotas em Apuros",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGQxZDA1MmMtYWQ1Ni00NTJmLTljMjgtZWVmODllODVhMzgyXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Scott Pilgrim vs. the World",
@@ -1089,7 +924,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZWMwNmYtNWI1ZS00NDRlLTkxNzktMzdhZDU2ZDhjNDJmXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg"
     },
-    "parentCategory": "misfit",
+    "parentCategory": "besteirol",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/218928.mp4",
     "streamName": "Scott Pilgrim Contra o Mundo",
     "streamAvailable": true,

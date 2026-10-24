@@ -554,7 +554,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382487.mp4",
     "streamName": "Seven: Os Sete Crimes Capitais",
     "streamAvailable": true,
@@ -609,7 +609,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320591.mp4",
     "streamName": "Zodíaco",
     "streamAvailable": true,
@@ -664,7 +664,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY562_CR0,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/392616.mp4",
     "streamName": "Os Infiltrados",
     "streamAvailable": true,
@@ -719,66 +719,11 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/348799.mp4",
     "streamName": "Garota Exemplar",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-  },
-  {
-    "title": "Get Out",
-    "ptTitle": "Corra!",
-    "year": 2017,
-    "category": "suspense",
-    "letterboxdUrl": "https://letterboxd.com/film/get-out/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Vencedor do Oscar de Melhor Roteiro Original de Jordan Peele com Daniel Kaluuya. Um jovem fotógrafo negro viaja para conhecer a família rica e branca de sua namorada no interior.",
-    "curatorReason": "Uma combinação magistral de terror social, sátira racial incisiva e suspense psicológico arrepiante que redefiniu o gênero nos anos 2010.",
-    "omdb": {
-      "title": "Get Out",
-      "year": "2017",
-      "rated": "R",
-      "released": "24 Feb 2017",
-      "runtime": "104 min",
-      "genre": "Horror, Mystery, Thriller",
-      "director": "Jordan Peele",
-      "writer": "Jordan Peele",
-      "actors": "Daniel Kaluuya, Allison Williams, Bradley Whitford",
-      "plot": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
-      "language": "English, Swahili",
-      "country": "United States, Japan",
-      "awards": "Won 1 Oscar. 154 wins & 215 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "85/100"
-        }
-      ],
-      "metascore": "85",
-      "imdbRating": "7.8",
-      "imdbVotes": "840,575",
-      "imdbID": "tt5052448",
-      "boxOffice": "$176,040,665",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386242.mp4",
-    "streamName": "Corra!",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "The Silence of the Lambs",
@@ -829,7 +774,7 @@
       "type": "movie",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
     },
-    "parentCategory": "genre",
+    "parentCategory": "terror",
     "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382481.mp4",
     "streamName": "O Silêncio dos Inocentes",
     "streamAvailable": true,

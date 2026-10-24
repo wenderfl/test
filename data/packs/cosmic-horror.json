@@ -443,278 +443,95 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "The Wicker Man",
-    "ptTitle": "O Homem de Palha",
-    "year": 1974,
+    "title": "Coherence",
+    "ptTitle": "Coherence",
+    "year": 2013,
     "category": "cosmic-horror",
-    "letterboxdUrl": "https://letterboxd.com/film/the-wicker-man/",
+    "parentCategory": "terror",
+    "letterboxdUrl": "https://letterboxd.com/film/coherence/",
     "inWatchlist": false,
     "watched": false,
     "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Clássico definitivo do horror pagão folclórico dirigido por Robin Hardy com Christopher Lee. Um policial cristão devoto viaja a uma remota ilha escocesa para investigar o sumiço de uma jovem e depara-se com rituais celtas antigos.",
-    "curatorReason": "Tensão psicológica em crescendo luminoso sob a luz do dia, culminando em uma oferenda ritualística inesquecível sobre crença e isolamento.",
+    "dubbingStudio": "UniDub",
+    "curatorNote": "Ficção científica e terror cósmico independente sobre o rompimento da realidade durante a passagem de um cometa.",
+    "curatorReason": "Conceito de física quântica e universos paralelos executado com brilhantismo claustrofóbico e tensão psicológica.",
     "omdb": {
-      "title": "The Wicker Man",
-      "year": "1974",
-      "rated": "R",
-      "released": "07 Aug 1974",
-      "runtime": "88 min",
-      "genre": "Horror, Mystery, Thriller",
-      "director": "Robin Hardy",
-      "writer": "Anthony Shaffer, David Pinner",
-      "actors": "Edward Woodward, Christopher Lee, Diane Cilento",
-      "plot": "On Sunday, April 29, 1973, Sergeant Neil Howie with the West Highland Constabulary flies solo to Summerisle off the coast of Scotland. He is there to follow up on a letter addressed specifically to him from an anonymous source on Summerisle reporting that a twelve year old girl who lives on the island, Rowan Morrison, the daughter of May Morrison, has long been missing. The correspondence includes a photograph of Rowan. Upon his arrival on Summerisle, Howie finds that the locals are a seemingly simple minded lot who provide little information beyond the fact that they know of no Rowan Morrison and do not know the girl in the photo. Mrs. Morrison admits to having a daughter, seven year old Myrtle, but no Rowan. As Howie speaks to more and more people, he begins to believe that Rowan does or did live on the island, but that the locals are hiding their knowledge of her. He also begins to see that the locals all have pagan beliefs, their \"religion\" which centers on procreation as the source of life. That procreation does not necessarily need to be within marriage, and openly flaunts the act of sex, both in private and in public. These beliefs do not sit well against Howie's strict Christian morals, he who regularly attends church, prays, and accepts communion. Everything that happens on the island seems to be dictated by Lord Summerisle, whose ancestors bought the island generations ago. Howie begins to believe that Rowan was murdered, she a sacrifice by the islanders to their higher power to ensure a bountiful apple crop - the main crop of the island - which did not materialize last season. With May Day approaching, Howie not only tries to find out if Rowan was indeed murdered/sacrificed, which includes trying to locate her body, but if there will be another sacrifice on this important day within the cycle of life.",
+      "title": "Coherence",
+      "year": "2013",
+      "rated": "Not Rated",
+      "released": "06 Aug 2014",
+      "runtime": "89 min",
+      "genre": "Mystery, Sci-Fi, Thriller",
+      "director": "James Ward Byrkit",
+      "writer": "James Ward Byrkit, Alex Manugian",
+      "actors": "Emily Baldoni, Maury Sterling, Nicholas Brendon",
+      "plot": "Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
       "language": "English",
-      "country": "United Kingdom",
-      "awards": "3 wins & 6 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMWU5NmUxMmYtM2QwYS00ODc1LTkxOGItMWY3ZmEzNzJkNGU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "country": "United States, United Kingdom",
+      "awards": "6 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "92%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
+          "Value": "7.1/10"
         }
       ],
-      "metascore": "87",
-      "imdbRating": "7.5",
-      "imdbVotes": "107,073",
-      "imdbID": "tt0070917",
-      "boxOffice": "$148,882",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU5NmUxMmYtM2QwYS00ODc1LTkxOGItMWY3ZmEzNzJkNGU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      "imdbRating": "7.1",
+      "imdbVotes": "179,831",
+      "imdbID": "tt2866360",
+      "type": "movie"
     },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/394571.mp4",
-    "streamName": "O Homem de Palha",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWU5NmUxMmYtM2QwYS00ODc1LTkxOGItMWY3ZmEzNzJkNGU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/235636.mp4",
+      "streamName": "Coherence",
+      "extension": "mp4"
+    }
   },
   {
-    "title": "Hereditary",
-    "ptTitle": "Hereditário",
-    "year": 2018,
-    "category": "cosmic-horror",
-    "letterboxdUrl": "https://letterboxd.com/film/hereditary/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Unidub",
-    "curatorNote": "Aclamada obra de Ari Aster estrelada por Toni Collette. Após a morte da avó reclusa, uma família começa a desvendar segredos crípticos e cada vez mais aterrorizantes sobre sua linhagem ancestral.",
-    "curatorReason": "Um horror visceral e psicológico dilacerante sobre trauma geracional, dor do luto e forças ocultas manipulando marionetes humanas predestinadas.",
-    "omdb": {
-      "title": "Hereditary",
-      "year": "2018",
-      "rated": "R",
-      "released": "08 Jun 2018",
-      "runtime": "127 min",
-      "genre": "Drama, Horror, Mystery",
-      "director": "Ari Aster",
-      "writer": "Ari Aster",
-      "actors": "Toni Collette, Milly Shapiro, Gabriel Byrne",
-      "plot": "When Ellen, the matriarch of the Graham family, passes away, her daughter's family begins to unravel cryptic and increasingly terrifying secrets about their ancestry. The more they discover, the more they find themselves trying to outrun the sinister fate they seem to have inherited. Making his feature debut, writer-director Ari Aster unleashes a nightmare vision of a domestic breakdown that exhibits the craft and precision of a nascent auteur, transforming a familial tragedy into something ominous and deeply disquieting, and pushing the horror movie into chilling new terrain with its shattering portrait of heritage gone to hell.",
-      "language": "English, Spanish",
-      "country": "United States",
-      "awards": "52 wins & 112 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "90%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
-        }
-      ],
-      "metascore": "87",
-      "imdbRating": "7.3",
-      "imdbVotes": "471,936",
-      "imdbID": "tt7784604",
-      "boxOffice": "$44,069,456",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382404.mp4",
-    "streamName": "Hereditário",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Event Horizon",
-    "ptTitle": "O Enigma do Horizonte",
-    "year": 1997,
-    "category": "cosmic-horror",
-    "letterboxdUrl": "https://letterboxd.com/film/event-horizon/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Ficção científica cult de horror cósmico com Laurence Fishburne e Sam Neill. Uma nave de resgate é enviada para investigar uma nave de pesquisa que reapareceu anos após entrar em um buraco negro dimensional.",
-    "curatorReason": "Uma descida aos abismos do inferno espacial Lovecraftiano onde as leis da física se dobram à loucura absoluta da carne e do vazio.",
-    "omdb": {
-      "title": "Donnie Brasco",
-      "year": "1997",
-      "rated": "R",
-      "released": "28 Feb 1997",
-      "runtime": "127 min",
-      "genre": "Biography, Crime, Drama",
-      "director": "Mike Newell",
-      "writer": "Joseph D. Pistone, Richard Woodley, Paul Attanasio",
-      "actors": "Al Pacino, Johnny Depp, Michael Madsen",
-      "plot": "This true story follows FBI agent Joe Pistone as he infiltrates the New York Mafia. Befriending Lefty Ruggiero, Pistone (under the name Donnie Brasco) is able to embed himself in a Mafia faction led by Sonny Black. Ruggiero and Pistone become tight as the group goes about collecting money for \"the bosses.\" Eventually, the group become big-time when Black himself becomes a boss; all the while, Pistone collects evidence. However, the trials and tribulations of the undercover work become more than Pistone can bear. His marriage falls apart, and to top it off, the Mafia suspect a mole in the organization. The real dilemma is afforded to Pistone, who knows that if he walks away from the Mafia, Ruggiero will be the one punished.",
-      "language": "English, Italian, Japanese",
-      "country": "United States",
-      "awards": "Nominated for 1 Oscar. 2 wins & 16 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "88%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "77/100"
-        }
-      ],
-      "metascore": "77",
-      "imdbRating": "7.7",
-      "imdbVotes": "361,406",
-      "imdbID": "tt0119008",
-      "boxOffice": "$41,909,762",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/358891.mp4",
-    "streamName": "O Enigma do Horizonte",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-  },
-  {
-    "title": "Color Out of Space",
-    "ptTitle": "A Cor Que Caiu do Espaço",
+    "title": "Underwater",
+    "ptTitle": "Ameaça Profunda",
     "year": 2020,
     "category": "cosmic-horror",
-    "letterboxdUrl": "https://letterboxd.com/film/color-out-of-space/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Unidub",
-    "curatorNote": "Adaptação estilizada do conto clássico de H.P. Lovecraft por Richard Stanley com Nicolas Cage. Um meteorito alienígena brilha com uma cor impossível no quintal de uma família no campo, infectando terra, animais e mentes.",
-    "curatorReason": "Psicodelia visual magenta aterradora, delírio cósmico e a insidiosa contaminação do organismo humano pelo desconhecido.",
-    "omdb": {
-      "title": "Color Out of Space",
-      "year": "2020",
-      "rated": "Unrated",
-      "released": "25 Feb 2020",
-      "runtime": "111 min",
-      "genre": "Horror, Mystery, Sci-Fi",
-      "director": "Richard Stanley",
-      "writer": "H.P. Lovecraft, Richard Stanley, Scarlett Amaris",
-      "actors": "Nicolas Cage, Joely Richardson, Madeleine Arthur",
-      "plot": "The Gardner family relocates to a New England farmstead already under strain, Theresa recovering from cancer surgery, Lavinia chafing against rural isolation. When a meteorite strikes their property and saturates the land with an unclassifiable color, the contamination moves inward, through soil, water, livestock, and finally flesh. Ward, a young hydrologist surveying the region, watches from the margins as the family fractures under pressure no diagnosis can contain. The farm becomes a closed system. Nothing that enters it leaves unchanged.",
-      "language": "English",
-      "country": "United States, Malaysia, Portugal",
-      "awards": "11 wins & 17 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "86%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "70/100"
-        }
-      ],
-      "metascore": "70",
-      "imdbRating": "6.1",
-      "imdbVotes": "66,308",
-      "imdbID": "tt5073642",
-      "boxOffice": "$765,561",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380502.mp4",
-    "streamName": "A Cor Que Caiu do Espaço",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Annihilation",
-    "ptTitle": "Aniquilação",
-    "year": 2018,
-    "category": "cosmic-horror",
-    "letterboxdUrl": "https://letterboxd.com/film/annihilation/",
+    "parentCategory": "terror",
+    "letterboxdUrl": "https://letterboxd.com/film/underwater-2020/",
     "inWatchlist": false,
     "watched": false,
     "dubbed": true,
     "dubbingStudio": "Delart",
-    "curatorNote": "Ficção científica e horror cósmico deslumbrante de Alex Garland com Natalie Portman e Jennifer Jason Leigh. Uma equipe de mulheres cientistas adentra o 'Brilho', uma zona costeira misteriosa onde a genética está em mutação constante.",
-    "curatorReason": "Uma metáfora visual e sonora impressionante sobre autodestruição celular, beleza alienígena incompreensível e a dissolução da identidade orgânica.",
+    "curatorNote": "Terror cósmico Lovecraftiano de sobrevivência na Fossa das Marianas, com atmosfera claustrofóbica e despertar de entidades ancestrais abissais.",
+    "curatorReason": "Ritmo frenético do início ao fim com design de som imersivo e visual impressionante de criaturas submarinas descomunais.",
     "omdb": {
-      "title": "Annihilation",
-      "year": "2018",
-      "rated": "R",
-      "released": "23 Feb 2018",
-      "runtime": "115 min",
-      "genre": "Adventure, Drama, Horror",
-      "director": "Alex Garland",
-      "writer": "Alex Garland, Jeff VanderMeer",
-      "actors": "Natalie Portman, Jennifer Jason Leigh, Tessa Thompson",
-      "plot": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
+      "title": "Underwater",
+      "year": "2020",
+      "rated": "PG-13",
+      "released": "10 Jan 2020",
+      "runtime": "95 min",
+      "genre": "Action, Adventure, Horror",
+      "director": "William Eubank",
+      "writer": "Brian Duffield, Adam Cozad",
+      "actors": "Kristen Stewart, Vincent Cassel, Mamoudou Athie",
+      "plot": "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility.",
       "language": "English",
-      "country": "United Kingdom, United States",
-      "awards": "17 wins & 63 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "country": "United States",
+      "awards": "1 win & 4 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "88%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "79/100"
+          "Value": "5.9/10"
         }
       ],
-      "metascore": "79",
-      "imdbRating": "6.8",
-      "imdbVotes": "399,232",
-      "imdbID": "tt2798920",
-      "boxOffice": "$32,732,301",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_QL75_UX380_CR0,15,380,562_.jpg"
+      "imdbRating": "5.9",
+      "imdbVotes": "110,563",
+      "imdbID": "tt5774060",
+      "type": "movie"
     },
-    "parentCategory": "genre",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/199046.mp4",
-    "streamName": "Aniquilação",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_QL75_UX380_CR0,15,380,562_.jpg"
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4",
+      "streamName": "Ameaça Profunda",
+      "extension": "mp4"
+    }
   }
 ]

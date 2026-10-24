@@ -592,52 +592,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
-    "title": "Tucker and Dale vs Evil",
-    "ptTitle": "Tucker e Dale Contra o Mal",
-    "year": 2010,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/tucker-and-dale-vs-evil/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Dublavideo",
-    "curatorNote": "Dois caipiras bondosos sao confundidos com assassinos por jovens universitarios histericos em comedia sangrenta hilaria.",
-    "curatorReason": "Dois caipiras bondosos sao confundidos com assassinos por jovens universitarios histericos em comedia sangrenta hilaria.",
-    "omdb": {
-      "director": "Eli Craig",
-      "writer": "Eli Craig, Morgan Jurgenson",
-      "actors": "Tyler Labine, Alan Tudyk, Katrina Bowden",
-      "genre": "Comedy, Horror",
-      "plot": "Affable hillbillies Tucker and Dale are on vacation at their dilapidated mountain cabin when they are mistaken for murderers by a group of preppy college students.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "imdbRating": "7.5",
-      "rottenTomatoes": "86%",
-      "metascore": "65",
-      "runtime": "89 min",
-      "rated": "R",
-      "imdbID": "tt1465522",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "86%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "65/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/214626.mp4",
-    "streamName": "Tucker e Dale Contra o Mal",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
     "title": "Happy Death Day",
     "ptTitle": "A Morte Te Da Parabens",
     "year": 2017,
