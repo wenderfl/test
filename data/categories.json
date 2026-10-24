@@ -28,7 +28,8 @@
       "silent-mystery",
       "hatred",
       "nocturnal",
-      "cosmic-horror"
+      "cosmic-horror",
+      "anime-horror"
     ]
   },
   {
@@ -408,5 +409,16 @@
     "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" x2=\"9.01\" y1=\"9\" y2=\"9\"/><line x1=\"15\" x2=\"15.01\" y1=\"9\" y2=\"9\"/></svg>",
     "description": "Longas-metragens de animação japonesa despretensiosos, leves e divertidos, repletos de humor sincero, viagens cômicas e grandes aventuras eletrizantes.",
     "parentCategory": "besteirol"
+  },
+  {
+    "id": "anime-horror",
+    "name": "Animes de Terror",
+    "badgeLabel": "Horror Psicológico & Gore",
+    "accentColor": "#e11d48",
+    "gradient": "linear-gradient(135deg, #e11d48 0%, #881337 100%)",
+    "glowColor": "rgba(225, 29, 72, 0.4)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M12 2a8 8 0 0 0-8 8v12l3-3 2.5 2.5L12 19l2.5 2.5L17 19l3 3V10a8 8 0 0 0-8-8z\"/><circle cx=\"9\" cy=\"10\" r=\"1\"/><circle cx=\"15\" cy=\"10\" r=\"1\"/></svg>",
+    "description": "Longas-metragens de animação japonesa voltados ao horror psicológico, mistérios macabros, criaturas aterrorizantes e terror visceral.",
+    "parentCategory": "terror"
   }
 ]
