@@ -3,8 +3,8 @@
   "version_name": "0.11.9",
   "apk_name": "LetterboxdCurator_OpenTV_Release.apk",
   "apk_url": "https://raw.githubusercontent.com/wenderfl/test/main/LetterboxdCurator_OpenTV_Release.apk",
-  "apk_size_bytes": 7654321,
+  "apk_size_bytes": 7745648,
   "title": "OpenTV Letterboxd Curator v0.11.9",
-  "notes": "Player estilo Netflix, reconhecimento de novos streams IPTV (627 filmes), categorias anime-fun, anime-art, anime-horror e baixa-autoestima.",
-  "published_at": "2026-10-24T13:30:00Z"
+  "notes": "Novas categorias de animes (anime-fun, anime-art, anime-horror), correcao de capas em 100% dos filmes e catalogo expandido para 627 obras.",
+  "published_at": "2026-10-24T13:35:00Z"
 }
