@@ -1,0 +1,23 @@
+{
+  "name": "letterboxd-curator-site",
+  "version": "1.0.0",
+  "description": "Letterboxd Curator web catalog and automated OpenTV feed provider",
+  "main": "index.html",
+  "scripts": {
+    "build": "node scripts/generate_opentv_feed.js",
+    "serve": "node scripts/serve_api.js",
+    "start": "node scripts/serve_api.js",
+    "validate": "node scripts/catalog_manager.js validate",
+    "stats": "node scripts/catalog_manager.js stats",
+    "undubbed": "node scripts/catalog_manager.js undubbed"
+  },
+  "keywords": [
+    "letterboxd",
+    "curator",
+    "opentv",
+    "android-tv",
+    "iptv"
+  ],
+  "author": "wenderfl",
+  "license": "GPL-3.0"
+}
