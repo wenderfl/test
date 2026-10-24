@@ -747,7 +747,7 @@
       "language": "Japanese",
       "country": "Japan",
       "awards": "18 wins & 12 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZGUeed12_V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7",
       "ratings": [
         {
           "Source": "Internet Movie Database",
@@ -757,13 +757,15 @@
       "imdbRating": "8.4",
       "imdbVotes": "450,000",
       "imdbID": "tt0119698",
-      "type": "movie"
+      "type": "movie",
+      "Poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7"
     },
     "iptvLink": {
       "available": true,
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4",
       "streamName": "Princesa Mononoke",
       "extension": "mp4"
-    }
+    },
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7"
   }
 ]

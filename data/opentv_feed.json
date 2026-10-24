@@ -1,6 +1,6 @@
 {
-  "version": 1792856949728,
-  "generatedAt": "2026-10-24T15:49:09.728Z",
+  "version": 1792857589296,
+  "generatedAt": "2026-10-24T15:59:49.296Z",
   "categoriesCount": 34,
   "moviesCount": 609,
   "linkedMoviesCount": 427,
@@ -3459,7 +3459,7 @@
         "language": "Japanese",
         "country": "Japan",
         "awards": "18 wins & 12 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZGUeed12_V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -3469,7 +3469,8 @@
         "imdbRating": "8.4",
         "imdbVotes": "450,000",
         "imdbID": "tt0119698",
-        "type": "movie"
+        "type": "movie",
+        "Poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7"
       },
       "iptvLink": {
         "available": true,
@@ -3479,7 +3480,8 @@
         "rating": 8.4,
         "year": "1997",
         "source": "Letterboxd Curator IPTV"
-      }
+      },
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7"
     },
     {
       "title": "Your Name.",
@@ -4153,19 +4155,19 @@
         "actors": "N/A",
         "genre": "N/A",
         "plot": "N/A",
-        "poster": "",
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/pf/lk/cj/4e/nCx0EESDNxwXGn7rkCU6cvXTpIB-0-600-0-900-crop.jpg?v=67361260f7",
         "imdbRating": "N/A",
         "rottenTomatoes": "N/A",
         "metascore": "N/A",
         "runtime": "N/A",
         "rated": "N/A",
         "ratings": [],
-        "Poster": ""
+        "Poster": "https://a.ltrbxd.com/resized/sm/upload/pf/lk/cj/4e/nCx0EESDNxwXGn7rkCU6cvXTpIB-0-600-0-900-crop.jpg?v=67361260f7"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/358113.mp4",
       "streamName": "Porco Rosso: O Último Herói Romântico",
       "streamAvailable": true,
-      "poster": "",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pf/lk/cj/4e/nCx0EESDNxwXGn7rkCU6cvXTpIB-0-600-0-900-crop.jpg?v=67361260f7",
       "iptvLink": null
     },
     {
@@ -4567,19 +4569,19 @@
         "actors": "N/A",
         "genre": "Animation, Action, Adventure, Comedy",
         "plot": "O ladrao cavalheiro Arsene Lupin III e as tres irmas ladras de arte Kisugi competem pelos tres quadros perdidos do pintor Michael Heinz em perseguicoes estilosas e bem-humoradas.",
-        "poster": "",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/5/8/4/8/925848-lupin-the-3rd-vs-cats-eye-0-600-0-900-crop.jpg?v=35d2a6a40c",
         "imdbRating": "7.5",
         "rottenTomatoes": "N/A",
         "metascore": "N/A",
         "runtime": "100 min",
         "rated": "PG",
         "ratings": [],
-        "Poster": ""
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/9/2/5/8/4/8/925848-lupin-the-3rd-vs-cats-eye-0-600-0-900-crop.jpg?v=35d2a6a40c"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/186452.mp4",
       "streamName": "LUPIN III vs. CAT’S EYE",
       "streamAvailable": true,
-      "poster": "",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/5/8/4/8/925848-lupin-the-3rd-vs-cats-eye-0-600-0-900-crop.jpg?v=35d2a6a40c",
       "iptvLink": null
     },
     {
@@ -4878,19 +4880,19 @@
         "actors": "N/A",
         "genre": "Animation, Action, Adventure, Comedy",
         "plot": "Yugi Muto e Kaiba duelam na cupula de batalha enquanto o antigo deus egipcio Anubis desperta para transformar o duelo em uma disputa magica cheia de monstros colossais e cartas miticas.",
-        "poster": "",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/1/45651-yu-gi-oh-the-movie-0-600-0-900-crop.jpg?v=c999bbc8f2",
         "imdbRating": "7.5",
         "rottenTomatoes": "N/A",
         "metascore": "N/A",
         "runtime": "100 min",
         "rated": "PG",
         "ratings": [],
-        "Poster": ""
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/1/45651-yu-gi-oh-the-movie-0-600-0-900-crop.jpg?v=c999bbc8f2"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/375064.mp4",
       "streamName": "Yu-Gi-Oh! O Filme: Pirâmide de Luz",
       "streamAvailable": true,
-      "poster": "",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/1/45651-yu-gi-oh-the-movie-0-600-0-900-crop.jpg?v=c999bbc8f2",
       "iptvLink": null
     },
     {
@@ -6868,7 +6870,7 @@
         "language": "English, Spanish, Icelandic",
         "country": "United States, United Kingdom",
         "awards": "4 wins & 17 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/9/2/24792-the-secret-life-of-walter-mitty-0-600-0-900-crop.jpg?v=73f95db9e2",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -6888,14 +6890,14 @@
         "imdbVotes": "340,000",
         "imdbID": "tt0359950",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/9/2/24792-the-secret-life-of-walter-mitty-0-600-0-900-crop.jpg?v=73f95db9e2"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20505.mp4",
       "streamId": 20505,
       "streamName": "A Vida Secreta de Walter Mitty",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/9/2/24792-the-secret-life-of-walter-mitty-0-600-0-900-crop.jpg?v=73f95db9e2",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20505.mp4",
@@ -6934,7 +6936,7 @@
         "language": "English, German",
         "country": "United States",
         "awards": "1 win & 7 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/az/sw/1h/jc/zbPNk5nR6kgG4hvW8j1pwyjiYPY-0-600-0-900-crop.jpg?v=9e8e854329",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -6954,14 +6956,14 @@
         "imdbVotes": "250,000",
         "imdbID": "tt0183505",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/sm/upload/az/sw/1h/jc/zbPNk5nR6kgG4hvW8j1pwyjiYPY-0-600-0-900-crop.jpg?v=9e8e854329"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100109.mp4",
       "streamId": 100109,
       "streamName": "Eu, Eu Mesmo & Irene",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/az/sw/1h/jc/zbPNk5nR6kgG4hvW8j1pwyjiYPY-0-600-0-900-crop.jpg?v=9e8e854329",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100109.mp4",
@@ -7000,7 +7002,7 @@
         "language": "English",
         "country": "United States",
         "awards": "2 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/9/1/50991-office-space-0-600-0-900-crop.jpg?v=ecc49b2fbf",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7020,14 +7022,14 @@
         "imdbVotes": "280,000",
         "imdbID": "tt0151804",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/9/1/50991-office-space-0-600-0-900-crop.jpg?v=ecc49b2fbf"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/106997.mp4",
       "streamId": 106997,
       "streamName": "Como Enlouquecer seu Chefe",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/9/1/50991-office-space-0-600-0-900-crop.jpg?v=ecc49b2fbf",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/106997.mp4",
@@ -7066,7 +7068,7 @@
         "language": "English",
         "country": "United States, Germany",
         "awards": "Nominated for 2 Oscars. 13 wins & 23 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/9/9749-wanted-0-600-0-900-crop.jpg?v=4a01b21fab",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7086,14 +7088,14 @@
         "imdbVotes": "400,000",
         "imdbID": "tt0493464",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/9/9749-wanted-0-600-0-900-crop.jpg?v=4a01b21fab"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20163.mp4",
       "streamId": 20163,
       "streamName": "O Procurado",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/9/9749-wanted-0-600-0-900-crop.jpg?v=4a01b21fab",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20163.mp4",
@@ -7132,7 +7134,7 @@
         "language": "English, Spanish, Russian",
         "country": "United States, Germany",
         "awards": "1 win & 2 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5/50905-bedazzled-0-600-0-900-crop.jpg?v=a2aae35f6e",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7152,14 +7154,14 @@
         "imdbVotes": "115,000",
         "imdbID": "tt0230030",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5/50905-bedazzled-0-600-0-900-crop.jpg?v=a2aae35f6e"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20601.mp4",
       "streamId": 20601,
       "streamName": "Endiabrado",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5/50905-bedazzled-0-600-0-900-crop.jpg?v=a2aae35f6e",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20601.mp4",
@@ -7198,7 +7200,7 @@
         "language": "English",
         "country": "United States",
         "awards": "1 nomination total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/6/44976-teen-wolf-0-600-0-900-crop.jpg?v=ac3f1e83c9",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7218,14 +7220,14 @@
         "imdbVotes": "85,000",
         "imdbID": "tt0090142",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/6/44976-teen-wolf-0-600-0-900-crop.jpg?v=ac3f1e83c9"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363901.mp4",
       "streamId": 363901,
       "streamName": "O Garoto do Futuro",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/6/44976-teen-wolf-0-600-0-900-crop.jpg?v=ac3f1e83c9",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363901.mp4",
@@ -7264,7 +7266,7 @@
         "language": "English",
         "country": "United States",
         "awards": "1 win & 3 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/7/1/46071-george-of-the-jungle-0-600-0-900-crop.jpg?v=7442e5da9f",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7280,14 +7282,14 @@
         "imdbVotes": "90,000",
         "imdbID": "tt0119190",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/7/1/46071-george-of-the-jungle-0-600-0-900-crop.jpg?v=7442e5da9f"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103139.mp4",
       "streamId": 103139,
       "streamName": "George O Rei da Floresta",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/7/1/46071-george-of-the-jungle-0-600-0-900-crop.jpg?v=7442e5da9f",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103139.mp4",
@@ -7392,7 +7394,7 @@
         "language": "English, Italian, Hebrew",
         "country": "United States, United Kingdom",
         "awards": "2 wins & 17 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/1/50941-night-at-the-museum-0-600-0-900-crop.jpg?v=8e664558ef",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7412,14 +7414,14 @@
         "imdbVotes": "370,000",
         "imdbID": "tt0477347",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/1/50941-night-at-the-museum-0-600-0-900-crop.jpg?v=8e664558ef"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20871.mp4",
       "streamId": 20871,
       "streamName": "Uma Noite no Museu",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/1/50941-night-at-the-museum-0-600-0-900-crop.jpg?v=8e664558ef",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20871.mp4",
@@ -7458,7 +7460,7 @@
         "language": "English",
         "country": "United States",
         "awards": "6 wins & 6 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/1/2/46012-the-waterboy-0-600-0-900-crop.jpg?v=55afe70212",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7478,14 +7480,14 @@
         "imdbVotes": "175,000",
         "imdbID": "tt0120484",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/1/2/46012-the-waterboy-0-600-0-900-crop.jpg?v=55afe70212"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382476.mp4",
       "streamId": 382476,
       "streamName": "O Rei da Água",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/1/2/46012-the-waterboy-0-600-0-900-crop.jpg?v=55afe70212",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382476.mp4",
@@ -7524,7 +7526,7 @@
         "language": "English",
         "country": "United States",
         "awards": "Won 1 Oscar. 58 wins & 104 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -7544,14 +7546,14 @@
         "imdbVotes": "290,000",
         "imdbID": "tt0181875",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03"
       },
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112995.mp4",
       "streamId": 112995,
       "streamName": "Quase Famosos (2000)",
       "streamAvailable": true,
       "isDirect": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112995.mp4",
@@ -10851,7 +10853,7 @@
         "language": "English",
         "country": "United States, United Kingdom",
         "awards": "6 wins & 6 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-600-0-900-crop.jpg?v=a286174883",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -10861,7 +10863,8 @@
         "imdbRating": "7.1",
         "imdbVotes": "179,831",
         "imdbID": "tt2866360",
-        "type": "movie"
+        "type": "movie",
+        "Poster": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-600-0-900-crop.jpg?v=a286174883"
       },
       "iptvLink": {
         "available": true,
@@ -10871,7 +10874,8 @@
         "rating": 7.1,
         "year": "2013",
         "source": "Letterboxd Curator IPTV"
-      }
+      },
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-600-0-900-crop.jpg?v=a286174883"
     },
     {
       "title": "Possessor",
@@ -10900,7 +10904,7 @@
         "language": "English",
         "country": "United Kingdom, Canada",
         "awards": "16 wins & 45 nominations total",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzIwNjA4M15BMl5BanBnXkFtZTgwMDUyMDgzNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-600-0-900-crop.jpg?v=c949ea1fc0",
         "ratings": [
           {
             "Source": "Internet Movie Database",
@@ -10910,7 +10914,8 @@
         "imdbRating": "6.5",
         "imdbVotes": "61,000",
         "imdbID": "tt5918996",
-        "type": "movie"
+        "type": "movie",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-600-0-900-crop.jpg?v=c949ea1fc0"
       },
       "iptvLink": {
         "available": true,
@@ -10920,7 +10925,8 @@
         "rating": 6.5,
         "year": "2020",
         "source": "Letterboxd Curator IPTV"
-      }
+      },
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-600-0-900-crop.jpg?v=c949ea1fc0"
     },
     {
       "title": "Ghost in the Shell",
@@ -21438,7 +21444,7 @@
     {
       "title": "Zoolander",
       "ptTitle": "Zoolander",
-      "year": 1918,
+      "year": 2001,
       "category": "loser-comedy",
       "letterboxdUrl": "https://letterboxd.com/film/zoolander/",
       "inWatchlist": false,
@@ -21449,7 +21455,7 @@
       "curatorReason": "Sátira debochada do mundo da moda e das vaidades vazias, com piadas absurdas que viraram referências culturais permanentes.",
       "omdb": {
         "title": "Stolen Hours",
-        "year": "1918",
+        "year": "2001",
         "rated": "N/A",
         "released": "07 Jan 1918",
         "runtime": "50 min",
@@ -21461,7 +21467,7 @@
         "language": "None",
         "country": "United States",
         "awards": "N/A",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzMwNWMxMGYtNzdjOC00OTljLWI4MDItNmQ3M2VlMTA4MWE1XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/9/8/47198-zoolander-0-600-0-900-crop.jpg?v=b30902c672",
         "ratings": [],
         "metascore": "N/A",
         "imdbRating": "N/A",
@@ -21469,20 +21475,20 @@
         "imdbID": "tt0190041",
         "boxOffice": "N/A",
         "type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzMwNWMxMGYtNzdjOC00OTljLWI4MDItNmQ3M2VlMTA4MWE1XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg"
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/9/8/47198-zoolander-0-600-0-900-crop.jpg?v=b30902c672"
       },
       "parentCategory": "besteirol",
       "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/307065.mp4",
       "streamName": "Zoolander",
       "streamAvailable": true,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzMwNWMxMGYtNzdjOC00OTljLWI4MDItNmQ3M2VlMTA4MWE1XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/9/8/47198-zoolander-0-600-0-900-crop.jpg?v=b30902c672",
       "iptvLink": {
         "available": true,
         "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/307065.mp4",
         "streamName": "Zoolander (Zoolander)",
         "extension": "mp4",
         "rating": null,
-        "year": "1918",
+        "year": "2001",
         "source": "Letterboxd Curator IPTV"
       }
     },
@@ -37327,7 +37333,7 @@
       "streamName": "Zoolander (Zoolander)",
       "extension": "mp4",
       "rating": null,
-      "year": "1918",
+      "year": "2001",
       "source": "Letterboxd Curator IPTV"
     },
     "Scott Pilgrim vs. the World": {

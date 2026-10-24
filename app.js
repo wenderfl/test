@@ -1329,11 +1329,14 @@ function renderTop10Row(container) {
         <svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg>
       </button>
       <div class="top10-carousel">
-        ${top10.map((m, index) => `
+        ${top10.map((m, index) => {
+          const fallback = getFallbackPosterSvg(m.ptTitle || m.title);
+          const poster = getMoviePosterUrl(m) || fallback;
+          return `
           <div class="top10-item" tabindex="0" data-title="${encodeURIComponent(m.title)}">
             <span class="top10-number">${index + 1}</span>
             <div class="top10-poster-wrap">
-              <img src="${getMoviePosterUrl(m) || getFallbackPosterSvg(m.ptTitle || m.title)}" alt="${escapeHtml(m.title)}" loading="lazy">
+              <img src="${poster}" alt="${escapeHtml(m.title)}" loading="lazy" onerror="if(this.src!=='${fallback}'){this.src='${fallback}';}">
               ${m.omdb?.imdbRating ? `<div class="card-rating-badge">★ ${m.omdb.imdbRating}</div>` : ''}
               ${m.dubbed ? `<div class="card-dub-badge">DUB</div>` : ''}
               ${userWatched.has(m.title) ? `
@@ -1342,7 +1345,7 @@ function renderTop10Row(container) {
                 </div>` : ''}
             </div>
           </div>
-        `).join("")}
+        `}).join("")}
       </div>
       <button class="shelf-nav-btn next" aria-label="Avançar">
         <svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg>
@@ -1692,7 +1695,8 @@ function renderModalSimilarMovies(movie) {
   similar.forEach(sim => {
     const card = document.createElement("div");
     card.className = "modal-similar-card";
-    const poster = getMoviePosterUrl(sim) || getFallbackPosterSvg(sim.ptTitle || sim.title);
+    const fallbackSvg = getFallbackPosterSvg(sim.ptTitle || sim.title);
+    const poster = getMoviePosterUrl(sim) || fallbackSvg;
     const profile = buildUserProfile();
     const matchScore = calculateMovieAffinity(sim, profile);
     const year = sim.year || (sim.omdb?.year) || "";
@@ -1704,7 +1708,7 @@ function renderModalSimilarMovies(movie) {
 
     card.innerHTML = `
       <div class="similar-card-poster">
-        <img src="${poster}" alt="${sim.ptTitle || sim.title}" loading="lazy">
+        <img src="${poster}" alt="${escapeHtml(sim.ptTitle || sim.title)}" loading="lazy" onerror="if(this.src!=='${fallbackSvg}'){this.src='${fallbackSvg}';}">
         <span class="similar-card-match">${matchScore}% Relevante</span>
         <button class="similar-card-play" title="Assistir">
           <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
