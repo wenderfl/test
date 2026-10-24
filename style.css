@@ -3187,13 +3187,13 @@ body {
    Android TV (Mi TV Stick 1080p) D-Pad Remote Focus & 10-Foot UI Engine
    ========================================================================== */
 
-/* Universal High-Visibility TV Focus Ring */
+/* Universal High-Visibility TV Focus Ring - Lightweight GPU footprint */
 :focus-visible,
 .tv-focused {
   outline: 3px solid #ffffff !important;
-  outline-offset: 3px !important;
-  box-shadow: 0 0 22px rgba(255, 255, 255, 0.95), 0 0 38px rgba(229, 9, 20, 0.8) !important;
-  transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.18s !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 14px rgba(255, 255, 255, 0.85), 0 0 20px rgba(229, 9, 20, 0.6) !important;
+  transition: transform 0.12s ease-out !important;
 }
 
 /* Card Focus Elevation for 1080p TV */
@@ -3201,17 +3201,18 @@ body {
 .poster-card.tv-focused,
 .top10-item:focus-visible,
 .top10-item.tv-focused {
-  transform: scale(1.15) !important;
+  transform: scale(1.12) translateZ(0) !important;
   z-index: 70 !important;
   outline: 4px solid #ffffff !important;
-  outline-offset: 3px !important;
-  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.95), 0 0 28px rgba(255, 255, 255, 0.95), 0 0 45px rgba(229, 9, 20, 0.85) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.9), 0 0 16px rgba(229, 9, 20, 0.75) !important;
+  will-change: transform !important;
 }
 
 /* TV Navigation Rail Expansion on D-Pad Focus */
 .nav-rail:focus-within {
   width: var(--rail-expanded-width) !important;
-  box-shadow: 24px 0 50px rgba(0, 0, 0, 0.95) !important;
+  box-shadow: 20px 0 35px rgba(0, 0, 0, 0.95) !important;
   z-index: 100 !important;
 }
 
@@ -3234,7 +3235,7 @@ body {
   background: rgba(255, 255, 255, 0.18) !important;
   outline: 2px solid #ffffff !important;
   outline-offset: -2px !important;
-  box-shadow: 0 0 16px rgba(229, 9, 20, 0.6) !important;
+  box-shadow: 0 0 12px rgba(229, 9, 20, 0.5) !important;
 }
 
 /* Hero Buttons TV Focus */
@@ -3246,10 +3247,10 @@ body {
 .btn-hero-circle.tv-focused,
 .hero-sound-btn:focus-visible,
 .hero-sound-btn.tv-focused {
-  transform: scale(1.08) !important;
+  transform: scale(1.06) !important;
   outline: 3px solid #ffffff !important;
-  outline-offset: 3px !important;
-  box-shadow: 0 0 22px rgba(255, 255, 255, 0.95), 0 0 35px rgba(229, 9, 20, 0.75) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.9), 0 0 24px rgba(229, 9, 20, 0.6) !important;
 }
 
 /* Detail Modal TV Focus */
@@ -3266,30 +3267,47 @@ body {
 .modal-similar-card:focus-visible,
 .modal-similar-card.tv-focused {
   outline: 3px solid #ffffff !important;
-  outline-offset: 3px !important;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.95), 0 0 35px rgba(229, 9, 20, 0.75) !important;
-  transform: scale(1.06) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 14px rgba(255, 255, 255, 0.9), 0 0 20px rgba(229, 9, 20, 0.6) !important;
+  transform: scale(1.05) !important;
 }
 
 .modal-similar-card:focus-visible,
 .modal-similar-card.tv-focused {
-  transform: scale(1.08) !important;
+  transform: scale(1.06) !important;
   z-index: 10 !important;
+  will-change: transform !important;
 }
 
-/* Hardware GPU Acceleration & 60 FPS Smoothness for Mi TV Stick (Amlogic) */
-.poster-card,
-.top10-item,
-.shelf-carousel,
+/* Hardware GPU Acceleration - Lightweight composition (avoids VRAM exhaustion on 1GB TV) */
 .hero-container,
 .modal-card,
-.modal-similar-card,
 .nav-rail {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  will-change: transform;
+}
+
+/* Disable expensive live Gaussian blurs on low-power TV GPU (Mali-450) */
+@media screen and (min-width: 960px) {
+  * {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+  .nav-rail {
+    background: #0d0d11 !important;
+  }
+  .modal-overlay,
+  .netflix-player-overlay {
+    background: rgba(10, 10, 14, 0.97) !important;
+  }
+  .modal-card {
+    background: #141419 !important;
+  }
+  .shelf-carousel {
+    scroll-behavior: auto !important;
+  }
 }
 
 /* 1080p TV Display Optimization (1920x1080 Full HD 10-Foot Distance) */

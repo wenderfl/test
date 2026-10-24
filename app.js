@@ -406,8 +406,16 @@ function calculateMovieAffinity(movie, profile) {
 }
 
 // ==========================================================================
-// Rendering: Netflix Cinematic Hero
+// Rendering: Netflix Cinematic Hero (with D-Pad Focus Debounce for 60 FPS TV)
 // ==========================================================================
+let heroDebounceTimer = null;
+function scheduleHeroRender(movie, delay = 220) {
+  clearTimeout(heroDebounceTimer);
+  heroDebounceTimer = setTimeout(() => {
+    renderHero(movie);
+  }, delay);
+}
+
 function renderHero(movie) {
   if (!movie) return;
   activeHeroMovie = movie;
@@ -777,7 +785,7 @@ function renderContentRows() {
     targetCategories = targetCategories.filter(c => c.parentCategory === "art");
   }
 
-  targetCategories.forEach(cat => {
+  function renderCategoryShelf(cat) {
     let catMovies = movies.filter(m => m.category === cat.id && !isMovieExcluded(m));
 
     // Search filter
@@ -791,7 +799,7 @@ function renderContentRows() {
       });
     }
 
-    if (!catMovies.length) return;
+    if (!catMovies.length) return null;
 
     // Apply sorting
     catMovies = sortMovieList(catMovies, currentSort, profile);
@@ -833,17 +841,42 @@ function renderContentRows() {
 
     if (prevBtn && carouselEl) {
       prevBtn.onclick = () => {
-        carouselEl.scrollBy({ left: -480, behavior: "smooth" });
+        carouselEl.scrollBy({ left: -480, behavior: "auto" });
       };
     }
     if (nextBtn && carouselEl) {
       nextBtn.onclick = () => {
-        carouselEl.scrollBy({ left: 480, behavior: "smooth" });
+        carouselEl.scrollBy({ left: 480, behavior: "auto" });
       };
     }
-  });
+    return section;
+  }
 
-  bindCardHoverAndClick();
+  // Render initial batch of categories immediately for instant interactivity
+  const initialBatch = targetCategories.slice(0, 4);
+  const remainingBatch = targetCategories.slice(4);
+
+  initialBatch.forEach(cat => renderCategoryShelf(cat));
+  bindCardHoverAndClick(container);
+
+  // Progressively render remaining shelves in background chunks (prevents TV main thread freezing)
+  if (remainingBatch.length > 0) {
+    let chunkIndex = 0;
+    const chunkSize = 4;
+    function renderNextChunk() {
+      if (chunkIndex >= remainingBatch.length) return;
+      const chunk = remainingBatch.slice(chunkIndex, chunkIndex + chunkSize);
+      chunk.forEach(cat => {
+        const sec = renderCategoryShelf(cat);
+        if (sec) bindCardHoverAndClick(sec);
+      });
+      chunkIndex += chunkSize;
+      if (chunkIndex < remainingBatch.length) {
+        setTimeout(renderNextChunk, 16);
+      }
+    }
+    setTimeout(renderNextChunk, 20);
+  }
 }
 
 // ==========================================================================
@@ -1211,7 +1244,8 @@ function createPosterCardHtml(m, options = {}) {
   const poster = rawPoster || fallbackSvg;
   const rating = m.omdb?.imdbRating;
   const isWatched = userWatched.has(m.title);
-  const matchScore = options.matchScore || (options.showMatch ? calculateMovieAffinity(m, buildUserProfile()) : null);
+  const profile = options.profile || (options.showMatch ? buildUserProfile() : null);
+  const matchScore = options.matchScore || (options.showMatch && profile ? calculateMovieAffinity(m, profile) : null);
   const progressPct = options.progressPct || null;
 
   return `
@@ -1254,10 +1288,13 @@ function sortMovieList(list, sortType, profile) {
 // ==========================================================================
 // Card Hover & Click Binding: Live Hero Synchronization
 // ==========================================================================
-function bindCardHoverAndClick() {
-  const allCards = document.querySelectorAll(".poster-card, .top10-item");
+function bindCardHoverAndClick(scope = document) {
+  const allCards = scope.querySelectorAll(".poster-card, .top10-item");
 
   allCards.forEach(card => {
+    if (card.dataset.bound) return;
+    card.dataset.bound = "1";
+
     const rawTitle = decodeURIComponent(card.dataset.title);
     const movie = movies.find(m => m.title === rawTitle) || userSavedMovies.get(rawTitle);
     if (!movie) return;
@@ -1271,16 +1308,16 @@ function bindCardHoverAndClick() {
       });
     }
 
-    // On Hover or Focus -> Instant Hero update & TV focus memory
+    // On Hover or Focus -> Debounced Hero update & TV focus memory (60 FPS on TV stick)
     card.addEventListener("mouseenter", () => {
       lastHeroInteractionTime = Date.now();
-      renderHero(movie);
+      scheduleHeroRender(movie, 120);
     });
     card.addEventListener("focus", () => {
       lastHeroInteractionTime = Date.now();
       lastFocusedCard = card;
       card.classList.add("tv-focused");
-      renderHero(movie);
+      scheduleHeroRender(movie, 220);
     });
     card.addEventListener("blur", () => {
       card.classList.remove("tv-focused");
@@ -2053,18 +2090,17 @@ let lastFocusedCard = null;
 
 function getHorizontallyClosestCard(shelfEl, referenceEl) {
   if (!shelfEl || !referenceEl) return null;
-  const cards = Array.from(shelfEl.querySelectorAll(".poster-card, .top10-item"));
+  const cards = shelfEl.querySelectorAll(".poster-card, .top10-item");
   if (!cards.length) return null;
 
-  const refRect = referenceEl.getBoundingClientRect();
-  const refCenter = refRect.left + refRect.width / 2;
+  const refCenter = referenceEl.offsetLeft + referenceEl.offsetWidth / 2;
 
   let bestCard = cards[0];
   let bestDist = Infinity;
 
-  for (const c of cards) {
-    const r = c.getBoundingClientRect();
-    const cCenter = r.left + r.width / 2;
+  for (let i = 0; i < cards.length; i++) {
+    const c = cards[i];
+    const cCenter = c.offsetLeft + c.offsetWidth / 2;
     const dist = Math.abs(cCenter - refCenter);
     if (dist < bestDist) {
       bestDist = dist;
@@ -2462,7 +2498,7 @@ function setupTVRemoteListeners() {
         if (next && (next.classList.contains("poster-card") || next.classList.contains("top10-item"))) {
           e.preventDefault();
           next.focus();
-          next.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+          next.scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
         }
         return;
       }
@@ -2472,7 +2508,7 @@ function setupTVRemoteListeners() {
         if (prev && (prev.classList.contains("poster-card") || prev.classList.contains("top10-item"))) {
           e.preventDefault();
           prev.focus();
-          prev.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+          prev.scrollIntoView({ behavior: "auto", block: "nearest", inline: "center" });
         } else {
           // At the beginning of the carousel: move focus to Left Navigation Rail (Signature Netflix TV interaction)
           e.preventDefault();
@@ -2490,7 +2526,7 @@ function setupTVRemoteListeners() {
           const targetCard = getHorizontallyClosestCard(nextShelf, activeEl);
           if (targetCard) {
             targetCard.focus();
-            targetCard.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
+            targetCard.scrollIntoView({ behavior: "auto", block: "center", inline: "center" });
           }
         }
         return;
@@ -2504,14 +2540,14 @@ function setupTVRemoteListeners() {
           const targetCard = getHorizontallyClosestCard(prevShelf, activeEl);
           if (targetCard) {
             targetCard.focus();
-            targetCard.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
+            targetCard.scrollIntoView({ behavior: "auto", block: "center", inline: "center" });
           }
         } else {
           // At top shelf: jump up to Hero section
           e.preventDefault();
           const heroPlay = document.getElementById("heroPlayBtn");
           if (heroPlay) {
-            window.scrollTo({ top: 0, behavior: "smooth" });
+            window.scrollTo({ top: 0, behavior: "auto" });
             heroPlay.focus();
           }
         }
