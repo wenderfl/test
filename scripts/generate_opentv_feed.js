@@ -176,6 +176,10 @@ window.DEFAULT_CATALOG = {
     fs.copyFileSync(MOVIES_FILE, path.join(OPENTV_ASSETS_DIR, 'movies.json'));
     fs.copyFileSync(LINKS_FILE, path.join(OPENTV_ASSETS_DIR, 'iptv_movie_links.json'));
     fs.copyFileSync(USER_STATE_FILE, path.join(OPENTV_ASSETS_DIR, 'user_state.json'));
+    const versionFile = path.join(DATA_DIR, 'version.json');
+    if (fs.existsSync(versionFile)) {
+      fs.copyFileSync(versionFile, path.join(OPENTV_ASSETS_DIR, 'version.json'));
+    }
     console.log(`[Sync] Successfully synchronized feed & assets into OpenTV (${OPENTV_ASSETS_DIR})`);
   }
 
