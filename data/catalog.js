@@ -646,7 +646,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sala Verde",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sala%20Verde.mp4",
+      "streamName": "Sala Verde (Green Room)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Hunt",
@@ -1100,7 +1108,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "The Belko Experiment",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_The%20Belko%20Experiment.mp4",
+      "streamName": "The Belko Experiment (The Belko Experiment)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bone Tomahawk",
@@ -1202,7 +1218,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Wyrmwood: O Fim dos Tempos",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjExNzM3NF5BMl5BanBnXkFtZTgwNTgxOTU5MzE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Wyrmwood%3A%20O%20Fim%20dos%20Tempos.mp4",
+      "streamName": "Wyrmwood: O Fim dos Tempos (Wyrmwood: Road of the Dead)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Shoot 'Em Up",
@@ -2669,7 +2693,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Promare",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Promare.mp4",
+      "streamName": "Promare (Promare)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball Super: Broly",
@@ -3017,7 +3049,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Titan A.E.",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Titan%20A.E..mp4",
+      "streamName": "Titan A.E. (Titan A.E.)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Sinbad: Legend of the Seven Seas",
@@ -3069,7 +3109,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sinbad: A Lenda dos Sete Mares",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMzE1ODI3NF5BMl5BanBnXkFtZTYwMDE3NDc2._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sinbad%3A%20A%20Lenda%20dos%20Sete%20Mares.mp4",
+      "streamName": "Sinbad: A Lenda dos Sete Mares (Sinbad: Legend of the Seven Seas)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2003",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Mitchells vs. the Machines",
@@ -3491,7 +3539,8 @@ window.DEFAULT_CATALOG = {
       "year": "1997",
       "source": "Letterboxd Curator IPTV"
     },
-    "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7"
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/fu/5h/fp/mj/mNqZOtJIQfFQPjo3hmYLIn8Qqhf-0-600-0-900-crop.jpg?v=aae03975f7",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4"
   },
   {
     "title": "Your Name.",
@@ -3529,7 +3578,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Your Name.",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDUxYzljN2UtNzg0ZC00MTY1LWFhMGEtMWQzMGIzMTgzZTY1XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "https://cdn-s01.pixel-sus-4k-image.com/stream/k/kimi-no-na-wa-dublado/01.mp4",
+      "streamName": "Your Name. (Your Name.)",
+      "extension": "mp4",
+      "rating": 4,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Silent Voice: The Movie",
@@ -3571,7 +3628,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Voz do Silêncio",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386784.mp4",
+      "streamName": "A Voz do Silêncio (A Silent Voice: The Movie)",
+      "extension": "mp4",
+      "rating": 8.2,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Boy and the Heron",
@@ -3617,7 +3682,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Menino e a Garça",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/289613.mp4",
+      "streamName": "O Menino e a Garça (The Boy and the Heron)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Suzume",
@@ -3659,7 +3732,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Suzume",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/255993.mp4",
+      "streamName": "Suzume (Suzume)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Weathering with You",
@@ -3705,7 +3786,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Tempo com Você",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMmJiYWI4ZjktMzgyZS00MjBiLThmOTYtZWJmOTUzOTFkMTFiXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/93477.mp4",
+      "streamName": "O Tempo com Você (Weathering with You)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Tale of the Princess Kaguya",
@@ -3751,7 +3840,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Conto da Princesa Kaguya",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_QL75_UY562_CR10,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/281753.mp4",
+      "streamName": "O Conto da Princesa Kaguya (The Tale of the Princess Kaguya)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "When Marnie Was There",
@@ -3797,7 +3894,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "As Memórias de Marnie",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjc4MDI2ZGUtOGZkNS00ZDFiLTllYTYtNGRmZDgxN2FiMjUzXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309904.mp4",
+      "streamName": "As Memórias de Marnie (When Marnie Was There)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2014",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Grave of the Fireflies",
@@ -3843,7 +3948,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Túmulo dos Vagalumes",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309722.mp4",
+      "streamName": "O Túmulo dos Vagalumes (Grave of the Fireflies)",
+      "extension": "mp4",
+      "rating": 8.5,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Mirai",
@@ -3889,7 +4002,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Mirai",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMGMxNzNjY2EtMTUxNi00MTU0LTg3NDUtYmM1YWRhYmFlMGE2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/370346.mp4",
+      "streamName": "Mirai (Mirai)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Girl Who Leapt Through Time",
@@ -3935,7 +4056,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Garota que Conquistou o Tempo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODE1YjEzYzYtNWVmZC00ZjU5LTgzNjgtZWRmNjhiMTVjNGU0XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/369379.mp4",
+      "streamName": "A Garota que Conquistou o Tempo (The Girl Who Leapt Through Time)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "5 Centimeters per Second",
@@ -3973,7 +4102,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Cinco Centímetros por Segundo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODVmZjhhYTYtYzRiOC00YzFiLThlZjMtZTQxNWY0MTI1MzlmXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "https://cdn-s01.pixel-sus-4k-image.com/stream/b/byousoku-5-centimeter/01.mp4",
+      "streamName": "Cinco Centímetros por Segundo (5 Centimeters per Second)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2007",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Tunnel to Summer, the Exit of Goodbyes",
@@ -4015,7 +4152,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Túnel para o Verão, a Saída das Despedidas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTgwOWZkMTMtMzg3ZC00ZDcxLWFiOTItZWJmYTUwYmUxY2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "https://cdn-s01.pixel-sus-4k-image.com/stream/n/natsu-e-no-tunnel-sayonara-no-deguchi-movie/01-720p.mp4",
+      "streamName": "O Túnel para o Verão, a Saída das Despedidas (The Tunnel to Summer, the Exit of Goodbyes)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Whisker Away",
@@ -4057,7 +4202,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Olhos de Gato",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNGY0MTYtYjE4ZC00MDI1LWJmNjgtMzA2MjhhOGY2ZDhjXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/275511.mp4",
+      "streamName": "Olhos de Gato (A Whisker Away)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "2020",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Maboroshi",
@@ -4099,7 +4252,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "maboroshi",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTk5NWVhM2QtMDhlOS00NGJhLTgwNDAtMWUwMjY4MjZjMmE4XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/241302.mp4",
+      "streamName": "maboroshi (Maboroshi)",
+      "extension": "mp4",
+      "rating": 6.4,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Inu-Oh",
@@ -4145,7 +4306,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Inu-Oh",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2I3NjIzYzItN2M4ZS00MWQwLTkzMGItODczNGU2ODRmZDA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/223118.mp4",
+      "streamName": "Inu-Oh (Inu-Oh)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2021",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Porco Rosso",
@@ -4178,7 +4347,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Porco Rosso: O Último Herói Romântico",
     "streamAvailable": true,
     "poster": "https://a.ltrbxd.com/resized/sm/upload/pf/lk/cj/4e/nCx0EESDNxwXGn7rkCU6cvXTpIB-0-600-0-900-crop.jpg?v=67361260f7",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/358113.mp4",
+      "streamName": "Porco Rosso: O Último Herói Romântico (Porco Rosso)",
+      "extension": "mp4",
+      "rating": null,
+      "year": "1992",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Secret World of Arrietty",
@@ -4224,7 +4401,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Mundo dos Pequeninos",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309720.mp4",
+      "streamName": "O Mundo dos Pequeninos (The Secret World of Arrietty)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "From Up on Poppy Hill",
@@ -4270,7 +4455,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Da Colina Kokuriko",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMWVjMWRhMzYtOGRmMi00ODExLTk2M2YtZDhjNGY5OWQ5NDY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/308384.mp4",
+      "streamName": "Da Colina Kokuriko (From Up on Poppy Hill)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "SPY x FAMILY CODE: White",
@@ -4316,7 +4509,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "SPY x FAMILY CÓDIGO: Branco",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDlmZGJkYTUtNDcwNi00YWMzLTkyNmMtOWQ3MzVhOTU5YWY0XkEyXkFqcGc@._V1_QL75_UY562_CR20,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/284564.mp4",
+      "streamName": "SPY x FAMILY CÓDIGO: Branco (SPY x FAMILY CODE: White)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
@@ -4354,7 +4555,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "KonoSuba: Legend of Crimson",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNGRjMzE3ZGQtN2QyNC00YzRlLWI1ZTgtZmI4MTJlYTZlNThkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/373824.mp4",
+      "streamName": "KonoSuba: As Bênçãos de Deus Neste Mundo Maravilhoso! Legend of Crimson (KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball Super: Super Hero",
@@ -4400,7 +4609,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball Super: SUPER HERO",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NmEwZGQtNWI1Ni00MTEyLTlkZDUtZDc5ZTJiOGYyNDQ5XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/202598.mp4",
+      "streamName": "Dragon Ball Super: Super-Herói (Dragon Ball Super: Super Hero)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "One Piece Film: Red",
@@ -4446,7 +4663,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "One Piece Film: Red",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTdjY2YxYTQtNjIzYy00ZDczLThhNTUtNmY2ZWNkZjZiMTYzXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380488.mp4",
+      "streamName": "One Piece Film: Red (One Piece Film: Red)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "One Piece: Stampede",
@@ -4488,7 +4713,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "One Piece: Stampede",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2FlYzRmZGMtM2Y5OC00NzFhLTgyNDAtZDk1YjdkZTlmMjE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/173284.mp4",
+      "streamName": "One Piece: Stampede (One Piece: Stampede)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "One Piece Film: Gold",
@@ -4521,7 +4754,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "One Piece Gold: O Filme",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjlhODcxYTEtNDBjNy00MDRkLWJjMDktOTEyZDA4ZTY2MGE2XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/339293.mp4",
+      "streamName": "One Piece Gold: O Filme (One Piece Film: Gold)",
+      "extension": "mp4",
+      "rating": null,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Stand by Me Doraemon 2",
@@ -4559,7 +4800,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "STAND BY ME Doraemon 2",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/144865.mp4",
+      "streamName": "Stand by Me Doraemon 2 (Stand by Me Doraemon 2)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2020",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Lupin III vs. Cat's Eye",
@@ -4592,7 +4841,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "LUPIN III vs. CAT’S EYE",
     "streamAvailable": true,
     "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/5/8/4/8/925848-lupin-the-3rd-vs-cats-eye-0-600-0-900-crop.jpg?v=35d2a6a40c",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/186452.mp4",
+      "streamName": "Lupin III vs. Olho de Gato (Lupin III vs. Cat's Eye)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball Z: Fusion Reborn",
@@ -4630,7 +4887,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball Z: Uma Nova Fusão",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOWI3OThmMzAtNTM4NC00MTkwLWI5N2QtNTlkMDgzNjg0ZjlmXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/131051.mp4",
+      "streamName": "Dragon Ball Z: Uma Nova Fusão (Dragon Ball Z: Fusion Reborn)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball Z: Wrath of the Dragon",
@@ -4668,7 +4933,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball Z: O Ataque do Dragão",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNWU1NDFlYjAtYTg0Zi00NjMyLTk3MzctNmI3NWMwZmFjNzk3XkEyXkFqcGc@._V1_QL75_UY562_CR12,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/373816.mp4",
+      "streamName": "Dragon Ball Z: O Ataque do Dragão (Dragon Ball Z: Wrath of the Dragon)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball Z: Resurrection 'F'",
@@ -4710,7 +4983,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball Z: O Renascimento de Freeza",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDYyZDQxMzAtYTRjMy00YzQ1LTk0NzYtNzhlYThiMTQzMjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/131054.mp4",
+      "streamName": "Dragon Ball Z: O Renascimento de Freeza (Dragon Ball Z: Resurrection 'F')",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball: The Path to Power",
@@ -4748,7 +5029,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball: A Caminho do Poder",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODczMjJmODEtODZiYS00OTNhLWFiMzktNTIzMDM4NTlmNTk3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112384.mp4",
+      "streamName": "Dragon Ball: A Caminho do Poder (Dragon Ball: The Path to Power)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "1996",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dragon Ball: Curse of the Blood Rubies",
@@ -4786,7 +5075,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dragon Ball: A Lenda de Shenlong",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZTBiZDEtZDk5Yi00NDA4LTk4MTItMGMwMGQ4NTBhNTc3XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20343.mp4",
+      "streamName": "Dragon Ball: A Lenda de Shenlong (Dragon Ball: Curse of the Blood Rubies)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "1986",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Boruto: Naruto the Movie",
@@ -4824,7 +5121,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Boruto: Naruto O Filme",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2Y0NGE5YjgtNzFlZS00NzJjLThlMDQtZDZhNjQxNTc2NmUwXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/300823.mp4",
+      "streamName": "Boruto: Naruto O Filme (Boruto: Naruto the Movie)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Jujutsu Kaisen 0",
@@ -4870,7 +5175,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Jujutsu Kaisen 0: O Filme",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzNhZTdmNDYtNTA0NC00MmNmLWIzYjUtNjg5NzNlYWQ0N2E5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/174618.mp4",
+      "streamName": "Jujutsu Kaisen 0: O Filme (Jujutsu Kaisen 0)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2021",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Yu-Gi-Oh! The Movie: Pyramid of Light",
@@ -4903,7 +5216,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Yu-Gi-Oh! O Filme: Pirâmide de Luz",
     "streamAvailable": true,
     "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/1/45651-yu-gi-oh-the-movie-0-600-0-900-crop.jpg?v=c999bbc8f2",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/375064.mp4",
+      "streamName": "Yu-Gi-Oh! O Filme: Pirâmide de Luz (Yu-Gi-Oh! The Movie: Pyramid of Light)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "My Hero Academia: Two Heroes",
@@ -4945,7 +5266,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "My Hero Academia: 2 Heróis - O Filme",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmI5OGU1OTYtODkzZS00YzA5LTlmYmEtMDQ1Njc3OGRhMWZjXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/29098.mp4",
+      "streamName": "My Hero Academia: 2 Heróis - O Filme (My Hero Academia: Two Heroes)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "My Hero Academia: You're Next",
@@ -4987,7 +5316,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "My Hero Academia: Agora é a Sua Vez",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNGVmZDJhNjItYzdlOC00ODA2LWFkYjctY2NmMzNiZTQ2NTVjXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/319067.mp4",
+      "streamName": "My Hero Academia: Agora é a Sua Vez (My Hero Academia: You're Next)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Ghost in the Shell: SAC_2045 Sustainable War",
@@ -5031,7 +5368,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/8/6/8/7/3/5/868735-ghost-in-the-shell-sac-2045-sustainable-war-0-600-0-900-crop.jpg?v=be39ad0e6f"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/395690.mp4",
+      "streamName": "Ghost in the Shell: SAC_2045 – Guerra Sustentável (Ghost in the Shell: SAC_2045 Sustainable War)",
+      "extension": "mp4",
+      "rating": 5.9,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Mononoke The Movie: The Phantom in the Rain",
@@ -5065,7 +5410,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/8/9/1/3/4/7/891347-mononoke-the-movie-the-phantom-in-the-rain-0-600-0-900-crop.jpg?v=cac615a47c"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/297119.mp4",
+      "streamName": "Mononoke - O Filme: O Fantasma na Chuva (Mononoke The Movie: The Phantom in the Rain)",
+      "extension": "mp4",
+      "rating": null,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Mononoke The Movie: Chapter 2 - The Ashes of Wrath",
@@ -5099,7 +5452,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQn0t7qhf8NAB0f4Xrpq0j84THJ.jpg"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/339570.mp4",
+      "streamName": "Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira (Mononoke The Movie: Chapter 2 - The Ashes of Wrath)",
+      "extension": "mp4",
+      "rating": null,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Resident Evil: Degeneration",
@@ -5143,7 +5504,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/1/4/43714-resident-evil-degeneration-0-600-0-900-crop.jpg?v=9574d07ee7"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108247.mp4",
+      "streamName": "Resident Evil: Degeneração (Resident Evil: Degeneration)",
+      "extension": "mp4",
+      "rating": 6.4,
+      "year": "2008",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bleach the Movie: The DiamondDust Rebellion",
@@ -5187,7 +5556,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/4/1/2/1/1/41211-bleach-the-movie-the-diamonddust-rebellion-0-600-0-900-crop.jpg?v=1c4b69a652"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/337581.mp4",
+      "streamName": "Bleach o Filme: A Rebelião do Pó de Diamante (Bleach the Movie: The DiamondDust Rebellion)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2007",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Resident Evil: Vendetta",
@@ -5235,7 +5612,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/3/3/4/3/2/9/334329-resident-evil-vendetta-0-600-0-900-crop.jpg?v=0cb72e8cbc"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108249.mp4",
+      "streamName": "Resident Evil: A Vingança (Resident Evil: Vendetta)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Resident Evil: Death Island",
@@ -5283,7 +5668,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/9/7/6/8/9/4/976894-resident-evil-death-island-0-600-0-900-crop.jpg?v=aba934d639"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/205547.mp4",
+      "streamName": "Resident Evil: Ilha da Morte (Resident Evil: Death Island)",
+      "extension": "mp4",
+      "rating": 5.7,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dante's Inferno: An Animated Epic",
@@ -5327,7 +5720,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/5/9/30759-dante-s-inferno-an-animated-epic-0-600-0-900-crop.jpg?v=e00307dea8"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/321258.mp4",
+      "streamName": "O Inferno de Dante: Uma Animação Épica (Dante's Inferno: An Animated Epic)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dead Leaves",
@@ -5371,7 +5772,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/3/1/41931-dead-leaves-0-600-0-900-crop.jpg?v=247f7c45da"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376776.mp4",
+      "streamName": "Dead Leaves (Dead Leaves)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Vampire Hunter D: Bloodlust",
@@ -5423,7 +5832,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/2/0/41920-vampire-hunter-d-bloodlust-0-600-0-900-crop.jpg?v=ff931c0f5b"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/367064.mp4",
+      "streamName": "Vampire Hunter D: Bloodlust (Vampire Hunter D: Bloodlust)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Chainsaw Man: The Movie - Reze Arc",
@@ -5475,7 +5892,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/2/6/7/3/1102673-chainsaw-man-the-movie-reze-arc-0-600-0-900-crop.jpg?v=d9227a11bd"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376601.mp4",
+      "streamName": "Chainsaw Man – O Filme: Arco da Reze (Chainsaw Man: The Movie - Reze Arc)",
+      "extension": "mp4",
+      "rating": 8.3,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bleach the Movie: Fade to Black",
@@ -5519,7 +5944,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/6/5/41165-bleach-the-movie-fade-to-black-0-600-0-900-crop.jpg?v=24e6fd1965"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/337578.mp4",
+      "streamName": "Bleach o Filme: Fade to Black (Bleach the Movie: Fade to Black)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2008",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
@@ -5553,7 +5986,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c55sXCaQBj3vuHqZe62tv90xCQS.jpg"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/389036.mp4",
+      "streamName": "Demon Slayer: Kimetsu no Yaiba - Castelo Infinito (Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle)",
+      "extension": "mp4",
+      "rating": null,
+      "year": "2025",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Attack on Titan: The Last Attack",
@@ -5597,7 +6038,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/1/2/2/1/8/6/9/1221869-attack-on-titan-the-last-attack-0-600-0-900-crop.jpg?v=88aeec26f5"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318591.mp4",
+      "streamName": "Attack on Titan: O Último Ataque (Attack on Titan: The Last Attack)",
+      "extension": "mp4",
+      "rating": 8.9,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Overlord: The Sacred Kingdom",
@@ -5641,7 +6090,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/9/1/4/0/3/4/914034-overlord-the-sacred-kingdom-0-600-0-900-crop.jpg?v=4e73faac56"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/319126.mp4",
+      "streamName": "Overlord: O Reino Sagrado (Overlord: The Sacred Kingdom)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bleach the Movie: Hell Verse",
@@ -5685,7 +6142,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/5/6/2/5/5/56255-bleach-the-movie-hell-verse-0-600-0-900-crop.jpg?v=1aa1a9f2b7"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/337579.mp4",
+      "streamName": "Bleach o Filme: O Inferno (Bleach the Movie: Hell Verse)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Evangelion: Death (True)²",
@@ -5729,7 +6194,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5NjQzMWMtNDIxOS00NGRlLTkwMzMtNzRhM2Q5ZjUwNmY0XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/328978.mp4",
+      "streamName": "Neon Genesis Evangelion: Morte e Renascimento (Evangelion: Death (True)²)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Saint Seiya: Warriors of the Final Holy Battle",
@@ -5773,7 +6246,15 @@ window.DEFAULT_CATALOG = {
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/6/9/5/6/1/69561-saint-seiya-warriors-of-the-final-holy-battle-0-600-0-900-crop.jpg?v=fcbf07eb42"
     },
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309880.mp4",
+      "streamName": "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon (Saint Seiya: Warriors of the Final Holy Battle)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "1989",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hellsing Ultimate",
@@ -5811,7 +6292,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Hellsing Ultimate",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTA2OWJiYzgtZWFiOS00ZmYyLWFiMjMtYzg5YjNlMTA5NGJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Hellsing%20Ultimate.mp4",
+      "streamName": "Hellsing Ultimate (Hellsing Ultimate)",
+      "extension": "mp4",
+      "rating": 8.2,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Psycho-Pass",
@@ -5895,7 +6384,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Fantasma do Futuro: Stand Alone Complex",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZmQwOWQtNDc3Mi00MzVhLWI5NGUtNzg2ODBhMWZhNjgzXkEyXkFqcGc@._V1_QL75_UY562_CR25,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Fantasma%20do%20Futuro%3A%20Stand%20Alone%20Complex.mp4",
+      "streamName": "O Fantasma do Futuro: Stand Alone Complex (Ghost in the Shell: Stand Alone Complex)",
+      "extension": "mp4",
+      "rating": 8.5,
+      "year": "2002",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Cyberpunk: Edgerunners",
@@ -5979,7 +6476,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Drifters",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NjA0NGUtNzhkNS00YmZkLTgyOWYtOTUyMzQzZWFmMWI1XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Drifters.mp4",
+      "streamName": "Drifters (Drifters)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Akame ga Kill!",
@@ -6111,7 +6616,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "ID:Invaded",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZWIwMmUwZGUtNTJiNy00Y2M1LTgxYjItODdhYTc3OGUxMGNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_ID%3AInvaded.mp4",
+      "streamName": "ID:Invaded (ID:Invaded)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2020",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Monster",
@@ -6291,7 +6804,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Kabaneri da Fortaleza de Ferro",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NTkwMTctYjRkNC00MWJiLTgxNmUtZTA3Yzk0OGI3NWU1XkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Kabaneri%20da%20Fortaleza%20de%20Ferro.mp4",
+      "streamName": "Kabaneri da Fortaleza de Ferro (Kabaneri of the Iron Fortress)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Akudama Drive",
@@ -6377,7 +6898,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "God Eater",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjJiY2VjYjQtZTg5MC00MzU4LWIzZDQtM2Y5OWU4ZmNkNTY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_God%20Eater.mp4",
+      "streamName": "God Eater (God Eater)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Seraph of the End",
@@ -6416,7 +6945,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Seraph of the End",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTllMDkyNGEtNzIzMi00ZmUyLTlhNjUtYzRmN2NhYzZmOTBmXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Seraph%20of%20the%20End.mp4",
+      "streamName": "Seraph of the End (Seraph of the End)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Tokyo Ghoul",
@@ -6502,7 +7039,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Vampiro no Jardim",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOGIwMzFjZmItYmExNS00YzE5LTkxMmUtNjBjZDc2YTZkMDdkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Vampiro%20no%20Jardim.mp4",
+      "streamName": "Vampiro no Jardim (Vampire in the Garden)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Levius",
@@ -6682,7 +7227,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "The Promised Neverland",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMGQ4ZGJhZTUtZDQ5Mi00NTI1LWEyYjItMzIxM2VlNmY4MDEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_The%20Promised%20Neverland.mp4",
+      "streamName": "The Promised Neverland (The Promised Neverland)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Terminator Zero",
@@ -6721,7 +7274,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Terminator Zero",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzk3YzI2ZDUtMmFjNy00ZmQwLWFiNWUtODcwMjllYWYwZmY2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Terminator%20Zero.mp4",
+      "streamName": "Terminator Zero (Terminator Zero)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "B: The Beginning",
@@ -6760,7 +7321,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "B: The Beginning",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BM2E1MzMyMzQtY2I2Mi00YWRiLWE2MzUtNzZiZDY5YTNlOTVlXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_B%3A%20The%20Beginning.mp4",
+      "streamName": "B: The Beginning (B: The Beginning)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dota: Dragon's Blood",
@@ -6893,7 +7462,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Appleseed Alpha",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTNhZjFhOTYtYjg4YS00OTA5LTgwOWMtMDY0ZGM5ZGE5NDk4XkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Appleseed%20Alpha.mp4",
+      "streamName": "Appleseed Alpha (Appleseed Alpha)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2014",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Chainsaw Man",
@@ -7167,7 +7744,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Devilman: Crybaby",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjRjOGI4M2YtMGQ4NC00OTk3LTg4MWItYjBjYzNiOGI0Y2ZkXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Devilman%3A%20Crybaby.mp4",
+      "streamName": "Devilman: Crybaby (Devilman: Crybaby)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "id": "the-way-way-back",
@@ -8410,7 +8995,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Videodrome: A Síndrome do Vídeo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Videodrome%3A%20A%20S%C3%ADndrome%20do%20V%C3%ADdeo.mp4",
+      "streamName": "Videodrome: A Síndrome do Vídeo (Videodrome)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1983",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Blob",
@@ -8638,7 +9231,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Escondido",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODg3YzNiYjQtZmMxZS00N2I3LTk0NGItMGFmMzZkY2I1MTlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Escondido.mp4",
+      "streamName": "O Escondido (The Hidden)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Scanners",
@@ -8690,7 +9291,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Scanners: Sua Mente Pode Destruir",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Scanners%3A%20Sua%20Mente%20Pode%20Destruir.mp4",
+      "streamName": "Scanners: Sua Mente Pode Destruir (Scanners)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "1981",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Altered States",
@@ -8742,7 +9351,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Viagens Alucinantes",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ZmU3ZjEtMmJkNC00MzZjLWEzZTEtZDdmN2Y3OWJhMmFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Viagens%20Alucinantes.mp4",
+      "streamName": "Viagens Alucinantes (Altered States)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1980",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hellbound: Hellraiser II",
@@ -8974,7 +9591,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dança Macabra",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTMwNTg0MDgtMGUwOC00YzAxLThiMWYtZGM1NmY2MTgxMDc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Dan%C3%A7a%20Macabra.mp4",
+      "streamName": "Dança Macabra (Brain Damage)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Leviathan",
@@ -9026,7 +9651,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Leviathan",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIxZTQ1OGEtZGY3OS00MGNlLWExM2YtZTkwNjdjMzJhMDA4XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Leviathan.mp4",
+      "streamName": "Leviathan (Leviathan)",
+      "extension": "mp4",
+      "rating": 5.8,
+      "year": "1989",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Prince of Darkness",
@@ -9184,7 +9817,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Seres Rastejantes",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NDQwOGItYTQ4Mi00MGFjLWEzYjMtMDZkMTIxMGJhNWIyXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Seres%20Rastejantes.mp4",
+      "streamName": "Seres Rastejantes (Slither)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The French Connection",
@@ -9341,7 +9982,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Lutador da Rua",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhZDNlOWQtODkxMi00MDMyLWE0YzAtNDFiMGFjMDhkN2Q0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Lutador%20da%20Rua.mp4",
+      "streamName": "Lutador da Rua (Hard Times)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1975",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Driver",
@@ -9553,7 +10202,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Viver e Morrer em Los Angeles",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Viver%20e%20Morrer%20em%20Los%20Angeles.mp4",
+      "streamName": "Viver e Morrer em Los Angeles (To Live and Die in L.A.)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "1985",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Road Warrior",
@@ -10244,7 +10901,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Ronin",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ronin.mp4",
+      "streamName": "Ronin (Ronin)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Some Like It Hot",
@@ -10296,7 +10961,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Quanto Mais Quente Melhor",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quanto%20Mais%20Quente%20Melhor.mp4",
+      "streamName": "Quanto Mais Quente Melhor (Some Like It Hot)",
+      "extension": "mp4",
+      "rating": 8.2,
+      "year": "1959",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Apartment",
@@ -10468,7 +11141,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Jovem Frankenstein",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_QL75_UX380_CR0,13,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Jovem%20Frankenstein.mp4",
+      "streamName": "O Jovem Frankenstein (Young Frankenstein)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "1974",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Blazing Saddles",
@@ -10580,7 +11261,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Trocando as Bolas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Trocando%20as%20Bolas.mp4",
+      "streamName": "Trocando as Bolas (Trading Places)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1983",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Tootsie",
@@ -10867,7 +11556,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Vida de Brian",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Vida%20de%20Brian.mp4",
+      "streamName": "A Vida de Brian (Monty Python's Life of Brian)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "1979",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Ferris Bueller's Day Off",
@@ -10910,7 +11607,7 @@ window.DEFAULT_CATALOG = {
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg"
     },
     "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363871.mp4",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20570.mp4",
     "streamName": "Curtindo a Vida Adoidado [L]",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
@@ -11671,7 +12368,8 @@ window.DEFAULT_CATALOG = {
       "year": "2013",
       "source": "Letterboxd Curator IPTV"
     },
-    "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-600-0-900-crop.jpg?v=a286174883"
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/ay/8h/oo/sDhWq6zSWW95Po5HJCeH0NVyblY-0-600-0-900-crop.jpg?v=a286174883",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/235636.mp4"
   },
   {
     "title": "Possessor",
@@ -11722,7 +12420,8 @@ window.DEFAULT_CATALOG = {
       "year": "2020",
       "source": "Letterboxd Curator IPTV"
     },
-    "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-600-0-900-crop.jpg?v=c949ea1fc0"
+    "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-600-0-900-crop.jpg?v=c949ea1fc0",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134030.mp4"
   },
   {
     "title": "Ghost in the Shell",
@@ -11768,7 +12467,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Fantasma do Futuro",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzljMjA3MTQtMjM1OS00OGJjLWJiYzctZDRiMTk1NWI5YzQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Fantasma%20do%20Futuro.mp4",
+      "streamName": "O Fantasma do Futuro (Ghost in the Shell)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "1996",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Strange Days",
@@ -11976,7 +12683,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "eXistenZ",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_eXistenZ.mp4",
+      "streamName": "eXistenZ (eXistenZ)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Scanner Darkly",
@@ -12022,7 +12737,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Homem Duplo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDliMjJiYTYtYWU0YS00OTUzLWI4MjMtYmM1YzgxNDcwOTZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Homem%20Duplo.mp4",
+      "streamName": "O Homem Duplo (A Scanner Darkly)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hardware",
@@ -12068,7 +12791,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Hardware: O Destruidor do Futuro",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDJlNWM0NmEtMTYwMy00ZWU4LTgxZDAtMmIwOTAwYTBjMzAyXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Hardware%3A%20O%20Destruidor%20do%20Futuro.mp4",
+      "streamName": "Hardware: O Destruidor do Futuro (Hardware)",
+      "extension": "mp4",
+      "rating": 6,
+      "year": "1990",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Minority Report",
@@ -12192,7 +12923,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O 13º Andar",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNGY0NjNiMGQtNGQwNy00YmMwLThhZmQtNzQ1OWUwOTE3NzhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%2013%C2%BA%20Andar.mp4",
+      "streamName": "O 13º Andar (The Thirteenth Floor)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Split Second",
@@ -12301,7 +13040,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Nirvana",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODgyY2Y2OGMtYjRkNi00MGFjLWIzM2QtN2MyOWU4YWQ3NDBkXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Nirvana.mp4",
+      "streamName": "Nirvana (Nirvana)",
+      "extension": "mp4",
+      "rating": 6.1,
+      "year": "1997",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Renaissance",
@@ -12332,7 +13079,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Renaissance",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEyMzA4ODQ3MV5BMl5BanBnXkFtZTcwMTkwNDUzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Renaissance.mp4",
+      "streamName": "Renaissance (Renaissance)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Universal Soldier",
@@ -12519,7 +13274,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Paprika",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paprika.mp4",
+      "streamName": "Paprika (Paprika)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Ghost in the Shell 2: Innocence",
@@ -12550,7 +13313,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Ghost in the Shell 2: A Inocência",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ5Y2NkYjktMjhlNS00YWQ2LTg0ZDItZjFmZGE0ZDE3MWQ3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ghost%20in%20the%20Shell%202%3A%20A%20Inoc%C3%AAncia.mp4",
+      "streamName": "Ghost in the Shell 2: A Inocência (Ghost in the Shell 2: Innocence)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Appleseed",
@@ -12581,7 +13352,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Appleseed: A Chave do Sobrevivente",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNWMxMzBkMTYtZDNmZS00YWUyLTliYTctY2MzNTY5MmVhMTQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Appleseed%3A%20A%20Chave%20do%20Sobrevivente.mp4",
+      "streamName": "Appleseed: A Chave do Sobrevivente (Appleseed)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Cowboy Bebop: The Movie",
@@ -12651,7 +13430,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "BLAME!",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNDI1NzgyNl5BMl5BanBnXkFtZTgwMTgzNTIzMjI@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_BLAME%21.mp4",
+      "streamName": "BLAME! (BLAME!)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Vesper",
@@ -12682,7 +13469,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Vesper",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODNiMDhjNTAtZDc4ZS00MmY2LTljOGMtNzU3M2JhOTQ5YmQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Vesper.mp4",
+      "streamName": "Vesper (Vesper)",
+      "extension": "mp4",
+      "rating": 6,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Chrysalis",
@@ -12791,7 +13586,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Natural City",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRkMGJjMzctMjI3My00ZWE1LTllMDctMTI4M2E0OTMyNDE2XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Natural%20City.mp4",
+      "streamName": "Natural City (Natural City)",
+      "extension": "mp4",
+      "rating": 5.7,
+      "year": "2003",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Casshern",
@@ -12822,7 +13625,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Casshern: Reencarnação do Mal",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzRmN2E0MmMtNGUxZi00YTQ0LWExN2QtZmY0OGQ3NzdlN2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Casshern%3A%20Reencarna%C3%A7%C3%A3o%20do%20Mal.mp4",
+      "streamName": "Casshern: Reencarnação do Mal (Casshern)",
+      "extension": "mp4",
+      "rating": 6,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Wonderful Days",
@@ -12961,7 +13772,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Turbo Kid",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NjkwNDQ0NF5BMl5BanBnXkFtZTgwMTkyOTE2NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Turbo%20Kid.mp4",
+      "streamName": "Turbo Kid (Turbo Kid)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Jung_E",
@@ -13111,7 +13930,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Juízo Final",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUwODU2NzE2OF5BMl5BanBnXkFtZTcwMTAwMDA2MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ju%C3%ADzo%20Final.mp4",
+      "streamName": "Juízo Final (Doomsday)",
+      "extension": "mp4",
+      "rating": 5.9,
+      "year": "2008",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Lockout",
@@ -13349,7 +14176,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Alienoid",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmI1N2MxYzEtNWFiYy00NDk1LWEzNWItZGE3MDRmYTMxYjdmXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Alienoid.mp4",
+      "streamName": "Alienoid (Alienoid)",
+      "extension": "mp4",
+      "rating": 6.3,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hotel Artemis",
@@ -13774,7 +14609,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Uma Loucura de Casamento",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2YzU0ODItNGRiNC00MmVlLTg5MGMtMmNlNDgyY2M1NGVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Uma%20Loucura%20de%20Casamento.mp4",
+      "streamName": "Uma Loucura de Casamento (Very Bad Things)",
+      "extension": "mp4",
+      "rating": 6.3,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Election",
@@ -13820,7 +14663,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Eleição",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTVmMWJiMTgtNmNmMS00NmI2LTgxZTAtNjdhODE2NTBlYTAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,18,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Elei%C3%A7%C3%A3o.mp4",
+      "streamName": "Eleição (Election)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Flirting with Disaster",
@@ -13920,7 +14771,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Cova Rasa",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjgyZDcwOGYtZDVmMi00NWY0LWI0NDUtMGFiMzA1YjRlMjZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cova%20Rasa.mp4",
+      "streamName": "Cova Rasa (Shallow Grave)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Guard",
@@ -14016,7 +14875,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Filth: O Nome da Ambição",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDUxMTQxODAxMV5BMl5BanBnXkFtZTcwOTMwNjM0OQ@@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Filth%3A%20O%20Nome%20da%20Ambi%C3%A7%C3%A3o.mp4",
+      "streamName": "Filth: O Nome da Ambição (Filth)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Withnail and I",
@@ -14062,7 +14929,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Withnail e Eu",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNmFlOGIyNTMtNjBhYy00NTRiLTg3YWEtMThhOWM5ODU4Y2M2XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Withnail%20e%20Eu.mp4",
+      "streamName": "Withnail e Eu (Withnail and I)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Four Lions",
@@ -14266,7 +15141,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Beijos e Tiros",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Beijos%20e%20Tiros.mp4",
+      "streamName": "Beijos e Tiros (Kiss Kiss Bang Bang)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2005",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Ruthless People",
@@ -14312,7 +15195,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Por Favor, Matem Minha Mulher",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWMxZGNjNGEtNjBlNy00MjFjLWIyZTQtN2ViMGViOGZkNTRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Por%20Favor%2C%20Matem%20Minha%20Mulher.mp4",
+      "streamName": "Por Favor, Matem Minha Mulher (Ruthless People)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1986",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Throw Momma from the Train",
@@ -14358,7 +15249,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Jogue a Mamãe do Trem",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjgyNjlmMjUtYjIyYy00OTY0LWI0YzgtZWNiYTI5MzM4MzA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Jogue%20a%20Mam%C3%A3e%20do%20Trem.mp4",
+      "streamName": "Jogue a Mamãe do Trem (Throw Momma from the Train)",
+      "extension": "mp4",
+      "rating": 6.3,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Ref",
@@ -14404,7 +15303,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Um Ladrão em Apuros",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODA5MDk1NjUtNTk5ZS00OGVhLThhMDItZTY1ZWY5ZDBiOTZmXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Um%20Ladr%C3%A3o%20em%20Apuros.mp4",
+      "streamName": "Um Ladrão em Apuros (The Ref)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1994",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Grosse Pointe Blank",
@@ -14450,7 +15357,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Matador em Conflito",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDJkMWJkMTgtZjljZS00ZDNlLWE2MjEtNjQ2NzI5NDk4MTRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Matador%20em%20Conflito.mp4",
+      "streamName": "Matador em Conflito (Grosse Pointe Blank)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "1997",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Heathers",
@@ -14550,7 +15465,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Lindas de Morrer",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZGNiMmMwZDMtMTVhNS00ODExLTgxMTgtMmEwYWU1YTNiYzVkXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Lindas%20de%20Morrer.mp4",
+      "streamName": "Lindas de Morrer (Drop Dead Gorgeous)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Fish Called Wanda",
@@ -14581,7 +15504,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Um Peixe Chamado Wanda",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjFhZDg1ZmEtYmI0Ny00MjM3LWIxNzItMzU1MzczZTljMTkxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Um%20Peixe%20Chamado%20Wanda.mp4",
+      "streamName": "Um Peixe Chamado Wanda (A Fish Called Wanda)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
@@ -14683,7 +15614,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Um Plano Simples",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BM2RiZGE0MGYtMmUxZS00NjZhLWJmNGEtMDNlN2RmMGFmOGJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Um%20Plano%20Simples.mp4",
+      "streamName": "Um Plano Simples (A Simple Plan)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bernie",
@@ -14785,7 +15724,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Calvario",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Calvario.mp4",
+      "streamName": "Calvario (Calvary)",
+      "extension": "mp4",
+      "rating": 7.4,
+      "year": "2014",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Sexy Beast",
@@ -15306,7 +16253,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Outra Face da Violência",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzk2MDFlOTktNjk3OC00N2RlLTgxOGUtNDI3NDcwYTA1ZjU5XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Outra%20Face%20da%20Viol%C3%AAncia.mp4",
+      "streamName": "A Outra Face da Violência (Rolling Thunder)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1977",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Lucky Number Slevin",
@@ -15465,7 +16420,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Headhunters",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTgzOTI2Nl5BMl5BanBnXkFtZTcwMjM5MDg0Nw@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Headhunters.mp4",
+      "streamName": "Headhunters (Headhunters)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Brawl in Cell Block 99",
@@ -15574,7 +16537,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Bullhead",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODk5MjQ3OF5BMl5BanBnXkFtZTcwNjQwNDUzNw@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Bullhead.mp4",
+      "streamName": "Bullhead (Bullhead)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Cold Pursuit",
@@ -15659,7 +16630,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Pusher",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BM2ExMDVmMzgtZDU0Ni00NzgyLTgxYzEtYThhZGM0MjMyMTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Pusher.mp4",
+      "streamName": "Pusher (Pusher)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "1996",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Warrior",
@@ -15871,7 +16850,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Senhores do Crime",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Senhores%20do%20Crime.mp4",
+      "streamName": "Senhores do Crime (Eastern Promises)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2007",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bronson",
@@ -15918,7 +16905,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Bronson",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTkyNTRkNWUtN2Q3MC00Mzg4LThlZTUtYzEyZjlkYjc1NDA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Bronson.mp4",
+      "streamName": "Bronson (Bronson)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2009",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Punisher",
@@ -17387,7 +18382,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Corra que a Policia Vem Ai! 2 1/2",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmNkMTItNzkzMi00NmY5LTg5MzQtMjg2YzRmOTY0ZmQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Corra%20que%20a%20Policia%20Vem%20Ai%21%202%201/2.mp4",
+      "streamName": "Corra que a Policia Vem Ai! 2 1/2 (The Naked Gun 2 1/2: The Smell of Fear)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1991",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Accepted",
@@ -18166,7 +19169,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Intermediário",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjMzZWFmZWEtNWE0My00MDcwLTg4YzItMTczOTJkN2Q2NGY0XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Intermedi%C3%A1rio.mp4",
+      "streamName": "O Intermediário (The Changeling)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "1980",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "In the Mouth of Madness",
@@ -18218,7 +19229,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "À Beira da Loucura",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_%C3%80%20Beira%20da%20Loucura.mp4",
+      "streamName": "À Beira da Loucura (In the Mouth of Madness)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Fog",
@@ -18330,7 +19349,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Marca da Pantera",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMzk0MDY3NjQtOGM4ZC00YjQ3LTg4ZTEtZDA3OWJhZWRjMzhmXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Marca%20da%20Pantera.mp4",
+      "streamName": "A Marca da Pantera (Cat People)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "1982",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Demons",
@@ -18382,7 +19409,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Demons: Filhos das Trevas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDQ3Nzc2ZjctNTc2Yi00ZDRkLThmY2EtNDEyNTYwZjIzMGFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Demons%3A%20Filhos%20das%20Trevas.mp4",
+      "streamName": "Demons: Filhos das Trevas (Demons)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "1985",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Fright Night",
@@ -18554,7 +19589,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Quando a Escuridão Chega",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5YTQ0YmMtOWVjYi00M2M2LWIwZjktYjcwZTRlMDg5ODlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quando%20a%20Escurid%C3%A3o%20Chega.mp4",
+      "streamName": "Quando a Escuridão Chega (Near Dark)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Day of the Dead",
@@ -18726,7 +19769,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Fantasma II",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMWIxM2U2ZWMtNjU4OC00Mzc3LWI2MjYtNTc5OWE4YmJlOWUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Fantasma%20II.mp4",
+      "streamName": "Fantasma II (Phantasm II)",
+      "extension": "mp4",
+      "rating": 6.4,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The People Under the Stairs",
@@ -18773,7 +19824,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "As Criaturas Atras das Paredes",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjgyOGEtNjM5ZS00MDM4LWJlNDEtN2JmNDY2NjRiZmY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Criaturas%20Atras%20das%20Paredes.mp4",
+      "streamName": "As Criaturas Atras das Paredes (The People Under the Stairs)",
+      "extension": "mp4",
+      "rating": 6.4,
+      "year": "1991",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Tales from the Crypt: Demon Knight",
@@ -19147,7 +20206,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Monkey Man",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODM2ZmZjYmQtNTA3NC00MmYzLWEwOTItMDNjYzc3MzI1NWNmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Monkey%20Man.mp4",
+      "streamName": "Monkey Man (Monkey Man)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2024",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Violent Night",
@@ -19521,7 +20588,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Polite Society",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmQ2ZDNhNjQtYjdjMS00MjEzLWJlYzYtM2U0OGE1OGNlZTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Polite%20Society.mp4",
+      "streamName": "Polite Society (Polite Society)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Happy Death Day",
@@ -19843,7 +20918,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "American Ultra: Armados e Alucinados",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_American%20Ultra%3A%20Armados%20e%20Alucinados.mp4",
+      "streamName": "American Ultra: Armados e Alucinados (American Ultra)",
+      "extension": "mp4",
+      "rating": 6.1,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Super",
@@ -20495,7 +21578,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Bater ou Correr em Londres",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDYxNzQ0ZWQtOTUxNi00ZDM5LWJhYWMtMGJlODgzMTE0NGFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Bater%20ou%20Correr%20em%20Londres.mp4",
+      "streamName": "Bater ou Correr em Londres (Shanghai Knights)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "2003",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hellboy",
@@ -20597,7 +21688,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Hellboy II: O Exercito Dourado",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Hellboy%20II%3A%20O%20Exercito%20Dourado.mp4",
+      "streamName": "Hellboy II: O Exercito Dourado (Hellboy II: The Golden Army)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2008",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Bottoms",
@@ -20644,7 +21743,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Clube da Luta Para Garotas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzEyNTNlNDAtNTMxOC00YzMzLWFkM2QtZmRiNGE5ZTQyMWFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Clube%20da%20Luta%20Para%20Garotas.mp4",
+      "streamName": "Clube da Luta Para Garotas (Bottoms)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "2023",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Separation",
@@ -20700,7 +21807,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Separation",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145233.mp4",
+      "streamName": "A Separação (A Separation)",
+      "extension": "mp4",
+      "rating": 8.3,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Salesman",
@@ -20756,7 +21871,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Apartamento",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTc0ODEwOV5BMl5BanBnXkFtZTgwNDAyOTY1MDI@._V1_QL75_UY562_CR4,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Apartamento.mp4",
+      "streamName": "O Apartamento (The Salesman)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Taste of Cherry",
@@ -20812,7 +21935,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Gosto de Cereja",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMGM3NzlmOGEtMWVjMS00ZjVlLTk4ZjItNzlmYWNjMmE2NzFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Gosto%20de%20Cereja.mp4",
+      "streamName": "Gosto de Cereja (Taste of Cherry)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "1997",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The White Balloon",
@@ -20992,7 +22123,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Cor do Paraíso",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTc3ZWJlMjQtYWEyZS00ZmQyLTk0YWMtMzdjYWJhMmJhMmMzXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Cor%20do%20Para%C3%ADso.mp4",
+      "streamName": "A Cor do Paraíso (The Color of Paradise)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Turtles Can Fly",
@@ -21048,7 +22187,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Tartarugas Podem Voar",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDU4MmU2MjAtYjI3ZC00MDhkLThhZTMtMmFkZWJmMTU2YjFhXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Tartarugas%20Podem%20Voar.mp4",
+      "streamName": "Tartarugas Podem Voar (Turtles Can Fly)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "2004",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Past",
@@ -21416,7 +22563,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Os Picaretas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZGM3MmIzZWQtMTIwYi00Y2ZjLWI1MTktYjg5YzUyYWZhMWQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Os%20Picaretas.mp4",
+      "streamName": "Os Picaretas (Bowfinger)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Role Models",
@@ -21528,7 +22683,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Heróis Fora de Órbita",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNThiMzQ3ZmUtYzRmMS00Njg2LWEzM2EtNGI3ZTAwNmFiOTlkXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Her%C3%B3is%20Fora%20de%20%C3%93rbita.mp4",
+      "streamName": "Heróis Fora de Órbita (Mystery Men)",
+      "extension": "mp4",
+      "rating": 6.1,
+      "year": "1999",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Tenacious D in the Pick of Destiny",
@@ -21760,7 +22923,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Queridinho da Vovó",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZGQyMjIyNzYtNGRjZi00OWUzLTkzNTAtZGZlNjViNGNiZTE4XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Queridinho%20da%20Vov%C3%B3.mp4",
+      "streamName": "O Queridinho da Vovó (Grandma's Boy)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2006",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Pineapple Express",
@@ -21983,7 +23154,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Pagando Bem, Que Mal Tem?",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3OWYzMDItOTAzZC00OGVkLTg0MDMtMGNmM2E5MTZkYTY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Pagando%20Bem%2C%20Que%20Mal%20Tem%3F.mp4",
+      "streamName": "Pagando Bem, Que Mal Tem? (Zack and Miri Make a Porno)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2008",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Disaster Artist",
@@ -22085,7 +23264,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Mais Um Verao Americano",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWY0ZTM4ZGQtYmU5Zi00NjEwLTlkZWQtNzk5OTQwNGM0M2M1XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Mais%20Um%20Verao%20Americano.mp4",
+      "streamName": "Mais Um Verao Americano (Wet Hot American Summer)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2001",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Mallrats",
@@ -22132,7 +23319,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Barrados no Shopping",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDM2MWVkMWItNjhjMy00MDUzLWEyOTAtN2I0MzNlZjc4Mjk0XkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Barrados%20no%20Shopping.mp4",
+      "streamName": "Barrados no Shopping (Mallrats)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "BASEketball",
@@ -22179,7 +23374,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sem Trapaca Nao Ha Graca",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYzA0ZWY2MDEtMzczMC00NjkyLThmYjItMDk4ZDRmMDE4MjJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sem%20Trapaca%20Nao%20Ha%20Graca.mp4",
+      "streamName": "Sem Trapaca Nao Ha Graca (BASEketball)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "School of Rock",
@@ -22462,7 +23665,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Solteirão",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MzY4OTY0NF5BMl5BanBnXkFtZTcwOTc3OTQwMw@@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Solteir%C3%A3o.mp4",
+      "streamName": "O Solteirão (Greenberg)",
+      "extension": "mp4",
+      "rating": 6.1,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Benny & Joon",
@@ -22574,7 +23785,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Ensina-me a Viver",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2YTQ4N2ItMzBmZC00ODIyLWIwNWEtODk2M2FjNjZhMDlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Ensina-me%20a%20Viver.mp4",
+      "streamName": "Ensina-me a Viver (Harold and Maude)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "1971",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "My Bodyguard",
@@ -22626,7 +23845,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Crescer Não É Fácil",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YWY0NjAtN2ZlMC00MDM5LTllMzAtYWM1MGE3MjQwMGMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Crescer%20N%C3%A3o%20%C3%89%20F%C3%A1cil.mp4",
+      "streamName": "Crescer Não É Fácil (My Bodyguard)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "1980",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Powder",
@@ -23026,7 +24253,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Angus: Como Eu Sou",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzcyZmM3YWMtNzYzMC00N2NiLTgzMWUtYjIzZWEyNzZlMWFiXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Angus%3A%20Como%20Eu%20Sou.mp4",
+      "streamName": "Angus: Como Eu Sou (Angus)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Hunt for the Wilderpeople",
@@ -23128,7 +24363,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sing Street: Musica e Sonho",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sing%20Street%3A%20Musica%20e%20Sonho.mp4",
+      "streamName": "Sing Street: Musica e Sonho (Sing Street)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Billy Elliot",
@@ -23175,7 +24418,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Billy Elliot",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZThiYjczMmItNjBhZC00NzcwLTkyZjUtZGRiM2FiOGRiNDQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Billy%20Elliot.mp4",
+      "streamName": "Billy Elliot (Billy Elliot)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Captain Fantastic",
@@ -23277,7 +24528,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "As Aventuras de Brigsby Bear",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgyODgyMTYzNV5BMl5BanBnXkFtZTgwMTk5NzY2MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Aventuras%20de%20Brigsby%20Bear.mp4",
+      "streamName": "As Aventuras de Brigsby Bear (Brigsby Bear)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Edward Scissorhands",
@@ -23320,7 +24579,7 @@ window.DEFAULT_CATALOG = {
       "Poster": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112928.mp4",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21235.mp4",
     "streamName": "Edward Mãos de Tesoura",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -23379,7 +24638,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Amizades Improvaveis",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA1Mjc4ODI0NzReQTJeQWpwZ15BbWU4MDQ3MzAwMjkx._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Amizades%20Improvaveis.mp4",
+      "streamName": "Amizades Improvaveis (The Fundamentals of Caring)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Wonder",
@@ -23536,7 +24803,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Moonrise Kingdom",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Moonrise%20Kingdom.mp4",
+      "streamName": "Moonrise Kingdom (Moonrise Kingdom)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2012",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Safety Not Guaranteed",
@@ -23748,7 +25023,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Um Homem Chamado Ove",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDlkNWFiZDItNGQ2My00MzdkLTgwMjUtNzU5YmYzYzMyM2Q2XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Um%20Homem%20Chamado%20Ove.mp4",
+      "streamName": "Um Homem Chamado Ove (A Man Called Ove)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Empire Records",
@@ -23795,7 +25078,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sex, Rock & Confusao",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTk1M2Q1NTEtNDk0ZS00OTBkLThkODctZGFjNmRhM2U3YTA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sex%2C%20Rock%20%26%20Confusao.mp4",
+      "streamName": "Sex, Rock & Confusao (Empire Records)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Secondhand Lions",
@@ -23897,7 +25188,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Vida em Preto e Branco",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmM4ZThmNzAtYzRmNi00ZjZmLThhYjAtYjU2YTcwMmY3MzRmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Vida%20em%20Preto%20e%20Branco.mp4",
+      "streamName": "A Vida em Preto e Branco (Pleasantville)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Three Colors: Red",
@@ -24273,7 +25572,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Sétimo Selo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20S%C3%A9timo%20Selo.mp4",
+      "streamName": "O Sétimo Selo (The Seventh Seal)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "1957",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Persona",
@@ -24329,7 +25636,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Quando Duas Mulheres Pecam",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Quando%20Duas%20Mulheres%20Pecam.mp4",
+      "streamName": "Quando Duas Mulheres Pecam (Persona)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "1966",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Caché",
@@ -24385,7 +25700,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Caché",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cach%C3%A9.mp4",
+      "streamName": "Caché (Caché)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2005",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "A Short Film About Love",
@@ -24437,7 +25760,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Não Amarás",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMjZlYzctMmQwNS00ZGU5LWI2N2EtOTI0YzQ2NTJmNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_N%C3%A3o%20Amar%C3%A1s.mp4",
+      "streamName": "Não Amarás (A Short Film About Love)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Ikiru",
@@ -25085,7 +26416,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Uma Jogada do Destino",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZmQzMDMwNWYtMDA5OC00ODE1LWFkNWEtNDJiNzU1ODk1N2I3XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Uma%20Jogada%20do%20Destino.mp4",
+      "streamName": "Uma Jogada do Destino (Judgment Night)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "1993",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Die Hard",
@@ -25674,7 +27013,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Banquete no Inferno",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTI0MzI5MTY1OV5BMl5BanBnXkFtZTcwMzU4MjYzMQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Banquete%20no%20Inferno.mp4",
+      "streamName": "Banquete no Inferno (Feast)",
+      "extension": "mp4",
+      "rating": 6.2,
+      "year": "2007",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Legion",
@@ -25878,7 +27225,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Miracle Mile: Sob a Mira Nuclear",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDNjOWYzMjMtY2Q0Yi00OWFjLThmOTUtMzdkNzA1YTkwY2JjXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Miracle%20Mile%3A%20Sob%20a%20Mira%20Nuclear.mp4",
+      "streamName": "Miracle Mile: Sob a Mira Nuclear (Miracle Mile)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "1988",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Night of the Comet",
@@ -26420,7 +27775,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Pancada de Chuva",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNmYzOGJiZGYtMzI2Zi00MzVmLWFiYmItNDA0ZDg4NDYzY2E0XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Pancada%20de%20Chuva.mp4",
+      "streamName": "Pancada de Chuva (Hard Rain)",
+      "extension": "mp4",
+      "rating": 5.9,
+      "year": "1998",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Purge: Election Year",
@@ -26531,7 +27894,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Paris, Texas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paris%2C%20Texas.mp4",
+      "streamName": "Paris, Texas (Paris, Texas)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "1984",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Wings of Desire",
@@ -26587,7 +27958,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "As Asas do Desejo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_As%20Asas%20do%20Desejo.mp4",
+      "streamName": "As Asas do Desejo (Wings of Desire)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Solaris",
@@ -26643,7 +28022,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Solaris",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Solaris.mp4",
+      "streamName": "Solaris (Solaris)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "1972",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Mirror",
@@ -26763,7 +28150,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Paterson",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Paterson.mp4",
+      "streamName": "Paterson (Paterson)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Tree of Life",
@@ -26883,7 +28278,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sono de Inverno",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_QL75_UY562_CR16,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sono%20de%20Inverno.mp4",
+      "streamName": "Sono de Inverno (Winter Sleep)",
+      "extension": "mp4",
+      "rating": 8,
+      "year": "2014",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Stalker",
@@ -27377,7 +28780,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Fronteira da Morte",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NDg3NjE5MF5BMl5BanBnXkFtZTgwNzQxNjA3NzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Fronteira%20da%20Morte.mp4",
+      "streamName": "Fronteira da Morte (Southbound)",
+      "extension": "mp4",
+      "rating": 5.9,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Skeleton Key",
@@ -27797,7 +29208,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Renascida das Trevas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM2ODM1OTA0M15BMl5BanBnXkFtZTgwMDMxMDI5MzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Renascida%20das%20Trevas.mp4",
+      "streamName": "Renascida das Trevas (The Lazarus Effect)",
+      "extension": "mp4",
+      "rating": 5.2,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "In the Tall Grass",
@@ -27951,7 +29370,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Coração de Satã",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNGNiN2ZjNDQtZjEyNS00ZGFjLWE4YWQtMDczZjU1ZDFlZDhlXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cora%C3%A7%C3%A3o%20de%20Sat%C3%A3.mp4",
+      "streamName": "Coração de Satã (Angel Heart)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1987",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Frailty",
@@ -28101,7 +29528,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Incidente",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMWEyNTk3MzYtYjA3ZC00MjJhLWFhMzAtM2JmYjI5NTM4M2IzXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Incidente.mp4",
+      "streamName": "O Incidente (The Incident)",
+      "extension": "mp4",
+      "rating": 6.3,
+      "year": "2014",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Autopsy of Jane Doe",
@@ -28197,7 +29632,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Exame",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDg2NzM2NzIwNF5BMl5BanBnXkFtZTcwODE2ODc1Mg@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Exame.mp4",
+      "streamName": "O Exame (Exam)",
+      "extension": "mp4",
+      "rating": 6.7,
+      "year": "2009",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Caller",
@@ -28393,7 +29836,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Os Parecidos",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTAxZjQ4YzYtNTQ0ZC00YWM2LTg4MDgtYjIxZGJiMzY5NjkzXkEyXkFqcGc@._V1_SX300.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Os%20Parecidos.mp4",
+      "streamName": "Os Parecidos (The Similars)",
+      "extension": "mp4",
+      "rating": 5.8,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Fermat's Room",
@@ -28435,7 +29886,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Quarto de Fermat",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNTcxMzgxN15BMl5BanBnXkFtZTcwMjQwODc3MQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Quarto%20de%20Fermat.mp4",
+      "streamName": "O Quarto de Fermat (Fermat's Room)",
+      "extension": "mp4",
+      "rating": 6.6,
+      "year": "2007",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dark Skies",
@@ -28805,7 +30264,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Vozes do Além",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZmM5YmFjNTUtZmQ4Yi00M2FkLThmM2MtZTMyZWEyYjBiZjkzXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Vozes%20do%20Al%C3%A9m.mp4",
+      "streamName": "Vozes do Além (White Noise)",
+      "extension": "mp4",
+      "rating": 5.5,
+      "year": "2005",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Box",
@@ -29014,7 +30481,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Sessao 9",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTNmZjU1ZmYtYzkwYS00Yzk3LWEwODQtZmFmOWZkNDY4OGEwXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Sessao%209.mp4",
+      "streamName": "Sessao 9 (Session 9)",
+      "extension": "mp4",
+      "rating": 6.3,
+      "year": "2001",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Fragile",
@@ -29214,7 +30689,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Morte dos Passaros",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2NmMDMzYmUtNGYwNC00ZDU3LWI3ZTctYzNkOTc3MzIwZTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Morte%20dos%20Passaros.mp4",
+      "streamName": "A Morte dos Passaros (Dead Birds)",
+      "extension": "mp4",
+      "rating": 5.6,
+      "year": "2005",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Below",
@@ -29612,7 +31095,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Temple Grandin",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Temple%20Grandin.mp4",
+      "streamName": "Temple Grandin (Temple Grandin)",
+      "extension": "mp4",
+      "rating": 8.2,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Spare Parts",
@@ -29664,7 +31155,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Spare Parts: Unidos por um Sonho",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzI4NTIyMF5BMl5BanBnXkFtZTgwMzIzNDMxMzE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Spare%20Parts%3A%20Unidos%20por%20um%20Sonho.mp4",
+      "streamName": "Spare Parts: Unidos por um Sonho (Spare Parts)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2015",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Contact",
@@ -29766,7 +31265,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Apollo 13: Do Desastre ao Triunfo",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Apollo%2013%3A%20Do%20Desastre%20ao%20Triunfo.mp4",
+      "streamName": "Apollo 13: Do Desastre ao Triunfo (Apollo 13)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Awakenings",
@@ -29868,7 +31375,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Curandeiro da Selva",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTU0YzY3MTgtYzhkMi00ZjQxLTk3NzctY2NmYWU5YjFkMDllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Curandeiro%20da%20Selva.mp4",
+      "streamName": "O Curandeiro da Selva (Medicine Man)",
+      "extension": "mp4",
+      "rating": 6,
+      "year": "1992",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Real Genius",
@@ -29915,7 +31430,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Academia de Genios",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Academia%20de%20Genios.mp4",
+      "streamName": "Academia de Genios (Real Genius)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "1985",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Searching for Bobby Fischer",
@@ -30187,7 +31710,7 @@ window.DEFAULT_CATALOG = {
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     },
     "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Cidade%20dos%20Sonhos.mp4",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/374351.mp4",
     "streamName": "Cidade dos Sonhos",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -30319,7 +31842,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Discreto Charme da Burguesia",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MDA0YTEtZTY4Mi00N2Y5LTk0ZjktMTY2ZGQzNGVlYzViXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Discreto%20Charme%20da%20Burguesia.mp4",
+      "streamName": "O Discreto Charme da Burguesia (The Discreet Charm of the Bourgeoisie)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "1972",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Holy Mountain",
@@ -30375,7 +31906,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Montanha Sagrada",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Montanha%20Sagrada.mp4",
+      "streamName": "A Montanha Sagrada (The Holy Mountain)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "1973",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Eraserhead",
@@ -30431,7 +31970,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Eraserhead",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Eraserhead.mp4",
+      "streamName": "Eraserhead (Eraserhead)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "1977",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Lost Highway",
@@ -30487,7 +32034,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Estrada Perdida",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Estrada%20Perdida.mp4",
+      "streamName": "Estrada Perdida (Lost Highway)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "1997",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Last Year at Marienbad",
@@ -30603,7 +32158,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Holy Motors",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_QL75_UY562_CR2,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Holy%20Motors.mp4",
+      "streamName": "Holy Motors (Holy Motors)",
+      "extension": "mp4",
+      "rating": 7,
+      "year": "2012",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Dead Man",
@@ -30659,7 +32222,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Dead Man",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Dead%20Man.mp4",
+      "streamName": "Dead Man (Dead Man)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1995",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Exterminating Angel",
@@ -30711,7 +32282,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "O Anjo Exterminador",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_O%20Anjo%20Exterminador.mp4",
+      "streamName": "O Anjo Exterminador (The Exterminating Angel)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "1962",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "The Lobster",
@@ -30955,7 +32534,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "A Conversação",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMmYyZmYwZmItMDQ1My00MTc3LTk4MDktZTcxMzYyNWU3MWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_A%20Conversa%C3%A7%C3%A3o.mp4",
+      "streamName": "A Conversação (The Conversation)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "1974",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "12 Monkeys",
@@ -32973,7 +34560,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Delicatessen",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Delicatessen.mp4",
+      "streamName": "Delicatessen (Delicatessen)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "1991",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Memories of Murder",
@@ -33136,7 +34731,15 @@ window.DEFAULT_CATALOG = {
     "streamName": "Nove Rainhas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5YTY1YWUtODU5OS00ZjExLTk0ZWEtOWM0Mjg4MTA1NWVjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "iptvLink": null
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/search_Nove%20Rainhas.mp4",
+      "streamName": "Nove Rainhas (Nine Queens)",
+      "extension": "mp4",
+      "rating": 7.9,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    }
   },
   {
     "title": "Another Round",

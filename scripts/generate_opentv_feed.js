@@ -80,6 +80,7 @@ function generateFeed() {
       (movie.ptTitle ? rawLinks[movie.ptTitle] : null) ||
       linkLookup.get(movie.title.trim().toLowerCase()) ||
       (movie.ptTitle ? linkLookup.get(movie.ptTitle.trim().toLowerCase()) : null) ||
+      movie.streamUrl ||
       movie.iptvLink;
 
     const streamUrl = extractStreamUrl(rawVal);
@@ -97,6 +98,7 @@ function generateFeed() {
       };
       return {
         ...movie,
+        streamUrl: streamUrl,
         iptvLink: iptvObj
       };
     } else {
@@ -108,7 +110,7 @@ function generateFeed() {
   });
 
   // Structured map of links for OpenTV client
-  const structuredLinks = {};
+  const structuredLinks = { ...rawLinks };
   for (const movie of enrichedMovies) {
     if (movie.iptvLink) {
       structuredLinks[movie.title] = movie.iptvLink;
@@ -117,6 +119,7 @@ function generateFeed() {
       }
     }
   }
+  saveJson(LINKS_FILE, structuredLinks);
 
   const now = new Date();
   const feed = {
