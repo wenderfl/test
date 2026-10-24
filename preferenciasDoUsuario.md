@@ -22,8 +22,9 @@ Documento de referência para curadoria, filtragem, motor de afinidade e recomen
    - Toda obra precisa ter versão dublada em PT-BR acessível e comprovada.
    - Obras em línguas sem dublagem comercial (como *Apocalypto*, que só existe em maia legendado) ou filmes cuja dublagem histórica de TV foi perdida e não existe no meio digital/streaming são desqualificados e substituídos.
 
-5. **Exclusões Específicas de Franquias**:
+5. **Exclusões Específicas de Franquias & Obras**:
    - Franquia *Evil Dead* (já vista/não sugerir em listas de terror).
+   - *Sousou no Frieren* (*Frieren: Beyond Journey's End* / *Frieren e a Jornada para o Além*): expressamente excluído pelo usuário, não adicionar ao catálogo em hipótese alguma.
 
 ---
 

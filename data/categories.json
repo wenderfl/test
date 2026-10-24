@@ -67,6 +67,7 @@
       "misfit",
       "cyberpunk",
       "anime",
+      "anime-art",
       "animation",
       "fury",
       "tactical-war",
@@ -383,6 +384,17 @@
     "glowColor": "rgba(236, 72, 153, 0.35)",
     "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M16 16s-1.5-2-4-2-4 2-4 2\"/><line x1=\"9\" x2=\"9.01\" y1=\"9\" y2=\"9\"/><line x1=\"15\" x2=\"15.01\" y1=\"9\" y2=\"9\"/></svg>",
     "description": "Obras profundas e sensíveis sobre dismorfia corporal, inadequação física, rejeição estética e a jornada de autoaceitação.",
+    "parentCategory": "art"
+  },
+  {
+    "id": "anime-art",
+    "name": "Cinema Anime Art",
+    "badgeLabel": "Anime Art & Cult",
+    "accentColor": "#f43f5e",
+    "gradient": "linear-gradient(135deg, #f43f5e 0%, #9f1239 100%)",
+    "glowColor": "rgba(244, 63, 94, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><polygon points=\"10 8 16 12 10 16 10 8\"/></svg>",
+    "description": "Obras-primas cinematográficas da animação japonesa autoral, com narrativas poéticas, estética deslumbrante e reflexões existenciais profundas.",
     "parentCategory": "art"
   }
 ]

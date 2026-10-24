@@ -217,13 +217,18 @@ function evaluateMoviePreferences(movie) {
   const director = (movie.omdb?.director || '').toLowerCase();
   const plot = (movie.omdb?.plot || movie.curatorNote || movie.curatorReason || '').toLowerCase();
 
-  // 1. HARD FILTER: Evil Dead exclusion
+  // 1. HARD FILTER: Evil Dead and Frieren exclusion
   const evilDeadRegex = /\bevil\s*dead\b|\barmy\s*of\s*darkness\b|\ba\s*morte\s*do\s*dem[oô]nio\b/i;
   if (evilDeadRegex.test(title) || evilDeadRegex.test(ptTitle)) {
     violations.push('Exclusao de Franquia: A franquia Evil Dead esta explicitamente excluida nas diretrizes.');
   }
   if (/uma noite alucinante/i.test(ptTitle) && (/evil dead/i.test(title) || /army of darkness/i.test(title) || /raimi/i.test(director))) {
     violations.push('Exclusao de Franquia: A franquia Evil Dead esta explicitamente excluida nas diretrizes.');
+  }
+
+  const frierenRegex = /\bfrieren\b|\bsousou\s*no\s*frieren\b/i;
+  if (frierenRegex.test(title) || frierenRegex.test(ptTitle)) {
+    violations.push('Exclusao Especifica: Frieren (Sousou no Frieren) esta expressamente excluido das recomendacoes pelo usuario.');
   }
 
   // 2. HARD FILTER: Dubbing in PT-BR
