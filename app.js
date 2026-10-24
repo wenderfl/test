@@ -169,20 +169,32 @@ async function loadCatalogData() {
   }
 }
 
+function getApiBase() {
+  if (typeof window !== "undefined" && (window.location.protocol === "http:" || window.location.protocol === "https:")) {
+    if (window.location.port === "8085") return "";
+  }
+  return "http://127.0.0.1:8085";
+}
+
 async function loadUserStateFromDisk() {
   try {
-    const apiBase = window.location.origin.includes(":8085") ? "" : "http://127.0.0.1:8085";
-    const res = await fetch(`${apiBase}/api/user-state`);
+    const apiBase = getApiBase();
+    const res = await fetch(`${apiBase}/api/user-state?_t=${Date.now()}`, {
+      cache: "no-store",
+      headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
+    });
     if (res.ok) {
       const data = await res.json();
       applyUserStateData(data);
+      updateDiskStatusUI(true, data);
       return;
     }
   } catch (err) {
-    console.warn("[UserState] Erro ao carregar da API:", err.message);
+    console.warn("[UserState] Erro ao carregar dados do disco via API:", err.message);
   }
 
-  // Fallback to localStorage
+  // Fallback to localStorage only if server is offline
+  updateDiskStatusUI(false);
   try {
     const raw = localStorage.getItem("lb_curator_user_state_v2");
     if (raw) applyUserStateData(JSON.parse(raw));
@@ -191,15 +203,44 @@ async function loadUserStateFromDisk() {
 
 function applyUserStateData(data) {
   if (!data) return;
-  if (Array.isArray(data.watched)) data.watched.forEach(t => userWatched.add(t));
-  if (Array.isArray(data.ignored)) data.ignored.forEach(t => userIgnored.add(t));
-  if (Array.isArray(data.undubbed)) data.undubbed.forEach(t => userUndubbed.add(t));
-  if (data.comments) Object.assign(userComments, data.comments);
+  if (Array.isArray(data.watched)) {
+    userWatched.clear();
+    data.watched.forEach(t => userWatched.add(t));
+  }
+  if (Array.isArray(data.ignored)) {
+    userIgnored.clear();
+    data.ignored.forEach(t => userIgnored.add(t));
+  }
+  if (Array.isArray(data.undubbed)) {
+    userUndubbed.clear();
+    data.undubbed.forEach(t => userUndubbed.add(t));
+  }
+  if (data.comments && typeof data.comments === "object") {
+    Object.keys(userComments).forEach(k => delete userComments[k]);
+    Object.assign(userComments, data.comments);
+  }
   if (Array.isArray(data.savedMovies)) {
+    userSavedMovies.clear();
     data.savedMovies.forEach(m => userSavedMovies.set(m.title, m));
   }
   if (Array.isArray(data.savedCategories)) {
+    userSavedCategories.clear();
     data.savedCategories.forEach(c => userSavedCategories.add(c));
+  }
+  if (data.playbackProgress && typeof data.playbackProgress === "object") {
+    Object.entries(data.playbackProgress).forEach(([title, val]) => {
+      const timeVal = typeof val === "object" ? val.currentTime : val;
+      try { localStorage.setItem(`progress_${title}`, String(timeVal)); } catch (e) {}
+    });
+  }
+  if (data.dspSettings && typeof data.dspSettings === "object" && typeof netflixDspSettings !== "undefined") {
+    Object.assign(netflixDspSettings, data.dspSettings);
+  }
+  if (data.videoSettings && typeof data.videoSettings === "object" && typeof netflixVideoSettings !== "undefined") {
+    Object.assign(netflixVideoSettings, data.videoSettings);
+  }
+  if (data.streamOverrides && typeof data.streamOverrides === "object" && typeof netflixCustomOverrides !== "undefined") {
+    Object.assign(netflixCustomOverrides, data.streamOverrides);
   }
   if (data.iptvUrl && !data.iptvUrl.includes("64606950")) {
     userIptvUrl = data.iptvUrl;
@@ -212,6 +253,24 @@ function applyUserStateData(data) {
     userIptvName = DEFAULT_IPTV_NAME;
   }
   if (data.googleUser && !currentGoogleUser) currentGoogleUser = data.googleUser;
+  if (data.googleClientId) {
+    try { localStorage.setItem("lb_curator_google_client_id", data.googleClientId); } catch (e) {}
+  }
+}
+
+function collectAllPlaybackProgress() {
+  const map = {};
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith("progress_")) {
+        const title = key.replace("progress_", "");
+        const val = parseFloat(localStorage.getItem(key) || "0");
+        if (val > 0) map[title] = val;
+      }
+    }
+  } catch (e) {}
+  return map;
 }
 
 async function saveUserStateToDisk() {
@@ -225,11 +284,18 @@ async function saveUserStateToDisk() {
     comments: userComments,
     savedMovies: savedMoviesList,
     savedCategories: savedCategoriesList,
+    playbackProgress: collectAllPlaybackProgress(),
+    dspSettings: typeof netflixDspSettings !== "undefined" ? netflixDspSettings : {},
+    videoSettings: typeof netflixVideoSettings !== "undefined" ? netflixVideoSettings : {},
+    streamOverrides: typeof netflixCustomOverrides !== "undefined" ? netflixCustomOverrides : {},
     iptvUrl: userIptvUrl,
     iptvName: userIptvName,
-    googleUser: currentGoogleUser
+    googleUser: currentGoogleUser,
+    googleClientId: localStorage.getItem("lb_curator_google_client_id") || "",
+    lastSyncedAt: new Date().toISOString()
   };
 
+  // Keep localStorage as local fallback mirror
   try {
     localStorage.setItem("lb_curator_user_state_v2", JSON.stringify(payload));
     if (currentGoogleUser) {
@@ -238,17 +304,71 @@ async function saveUserStateToDisk() {
   } catch (e) {}
 
   try {
-    const apiBase = window.location.origin.includes(":8085") ? "" : "http://127.0.0.1:8085";
-    await fetch(`${apiBase}/api/user-state`, {
+    const apiBase = getApiBase();
+    const res = await fetch(`${apiBase}/api/user-state`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache"
+      },
       body: JSON.stringify(payload)
     });
+    if (res.ok) {
+      updateDiskStatusUI(true, payload);
+    } else {
+      updateDiskStatusUI(false);
+      showToast("Aviso: Falha ao gravar no disco (user_state.json).");
+    }
   } catch (err) {
     console.warn("[UserState] Falha ao persistir no arquivo em disco:", err.message);
+    updateDiskStatusUI(false);
+    showToast("Aviso: Servidor de disco 8085 inacessivel. Inicie: npm run serve");
   }
 
   updateUserStatsUI();
+}
+
+async function reportUndubbedToDisk(movie, action = "add") {
+  if (!movie) return;
+  try {
+    const apiBase = getApiBase();
+    await fetch(`${apiBase}/api/undubbed`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        title: movie.title,
+        ptTitle: movie.ptTitle || null,
+        year: movie.year || null,
+        category: movie.category || null,
+        action: action
+      })
+    });
+  } catch (err) {
+    console.warn("[Undubbed] Erro ao sincronizar report no disco:", err.message);
+  }
+}
+
+function updateDiskStatusUI(isOnline, data = null) {
+  const diskDot = document.getElementById("diskDot");
+  const diskLabel = document.getElementById("diskLabel");
+  const navDiskStatus = document.getElementById("navDiskStatus");
+  if (!diskDot || !diskLabel) return;
+
+  if (isOnline) {
+    diskDot.style.background = "#46d369";
+    diskDot.style.boxShadow = "0 0 6px rgba(70, 211, 105, 0.5)";
+    diskLabel.textContent = "Disco: Conectado";
+    if (navDiskStatus) {
+      navDiskStatus.title = "Dados sincronizados no disco (data/user_state.json)";
+    }
+  } else {
+    diskDot.style.background = "#e50914";
+    diskDot.style.boxShadow = "0 0 6px rgba(229, 9, 20, 0.5)";
+    diskLabel.textContent = "Disco: Desconectado";
+    if (navDiskStatus) {
+      navDiskStatus.title = "Servidor local 8085 offline. Inicie com 'npm run serve'";
+    }
+  }
 }
 
 let heroAutoRotateTimer = null;
@@ -1661,13 +1781,13 @@ function syncModalActionButtons() {
 }
 
 // ==========================================================================
-// User Actions: Watch, Save, Ignore, Undubbed, Comments
+// User Actions: Watch, Save, Ignore, Undubbed, Comments (Direct Disk Sync)
 // ==========================================================================
 function toggleSaveMovie(movie) {
   if (!movie) return;
   if (userSavedMovies.has(movie.title)) {
     userSavedMovies.delete(movie.title);
-    showToast(`Removido da Minha Lista: ${movie.ptTitle || movie.title}`);
+    showToast(`Removido da Minha Lista (salvo no disco): ${movie.ptTitle || movie.title}`);
   } else {
     userSavedMovies.set(movie.title, {
       title: movie.title,
@@ -1681,7 +1801,7 @@ function toggleSaveMovie(movie) {
       letterboxdUrl: movie.letterboxdUrl,
       savedAt: new Date().toISOString()
     });
-    showToast(`Salvo na Minha Lista: ${movie.ptTitle || movie.title}`);
+    showToast(`Salvo na Minha Lista (salvo no disco): ${movie.ptTitle || movie.title}`);
   }
   syncModalActionButtons();
   if (activeHeroMovie && activeHeroMovie.title === movie.title) renderHero(movie);
@@ -1694,10 +1814,10 @@ function toggleWatchedMovie(movie) {
   if (userWatched.has(movie.title)) {
     userWatched.delete(movie.title);
     if (movie.ptTitle) userWatched.delete(movie.ptTitle);
-    showToast(`Desmarcado como visto: ${movie.ptTitle || movie.title}`);
+    showToast(`Desmarcado como visto (salvo no disco): ${movie.ptTitle || movie.title}`);
   } else {
     userWatched.add(movie.title);
-    showToast(`Marcado como visto: ${movie.ptTitle || movie.title}`);
+    showToast(`Marcado como visto (salvo no disco): ${movie.ptTitle || movie.title}`);
   }
   syncModalActionButtons();
   saveUserStateToDisk();
@@ -1713,10 +1833,10 @@ function toggleIgnoreMovie(movie) {
   if (userIgnored.has(movie.title)) {
     userIgnored.delete(movie.title);
     if (movie.ptTitle) userIgnored.delete(movie.ptTitle);
-    showToast(`Reativado nas recomendações: ${movie.ptTitle || movie.title}`);
+    showToast(`Reativado nas recomendações (salvo no disco): ${movie.ptTitle || movie.title}`);
   } else {
     userIgnored.add(movie.title);
-    showToast(`Ignorado das recomendações: ${movie.ptTitle || movie.title}`);
+    showToast(`Ignorado das recomendações (salvo no disco): ${movie.ptTitle || movie.title}`);
   }
   syncModalActionButtons();
   saveUserStateToDisk();
@@ -1729,16 +1849,20 @@ function toggleIgnoreMovie(movie) {
 
 function toggleUndubbedMovie(movie) {
   if (!movie) return;
+  let action = "add";
   if (userUndubbed.has(movie.title)) {
     userUndubbed.delete(movie.title);
     if (movie.ptTitle) userUndubbed.delete(movie.ptTitle);
-    showToast(`Removido da lista sem dublagem: ${movie.ptTitle || movie.title}`);
+    action = "remove";
+    showToast(`Removido da lista sem dublagem (salvo no disco): ${movie.ptTitle || movie.title}`);
   } else {
     userUndubbed.add(movie.title);
-    showToast(`Reportado para verificação de dublagem: ${movie.ptTitle || movie.title}`);
+    action = "add";
+    showToast(`Reportado sem dublagem (salvo no disco): ${movie.ptTitle || movie.title}`);
   }
   syncModalActionButtons();
   saveUserStateToDisk();
+  reportUndubbedToDisk(movie, action);
 }
 
 function saveCommentForMovie(movie, text, sentiment) {
@@ -1746,14 +1870,14 @@ function saveCommentForMovie(movie, text, sentiment) {
   if (!text.trim()) {
     delete userComments[movie.title];
     if (movie.ptTitle) delete userComments[movie.ptTitle];
-    showToast("Comentário removido");
+    showToast("Comentário removido do disco");
   } else {
     userComments[movie.title] = {
       text: text.trim(),
       sentiment: sentiment || "positive",
       updatedAt: new Date().toISOString()
     };
-    showToast("Avaliação e comentário salvos");
+    showToast("Avaliação e comentário salvos no disco");
   }
   syncModalActionButtons();
   saveUserStateToDisk();
@@ -2001,6 +2125,16 @@ function setupUIEventListeners() {
 
   const btnOpenEnginePanel = document.getElementById("btnOpenEnginePanel");
   if (btnOpenEnginePanel) btnOpenEnginePanel.onclick = openEngineModal;
+
+  const navDiskStatus = document.getElementById("navDiskStatus");
+  if (navDiskStatus) {
+    navDiskStatus.onclick = async () => {
+      showToast("Sincronizando com o disco...");
+      await loadUserStateFromDisk();
+      await saveUserStateToDisk();
+      showToast("Dados confirmados e gravados no disco (data/user_state.json)");
+    };
+  }
 
   const engineModalClose = document.getElementById("engineModalClose");
   if (engineModalClose) {

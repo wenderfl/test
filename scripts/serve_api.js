@@ -2,7 +2,7 @@
 /**
  * Letterboxd Curator Local API & Static Server
  * Provides CORS-enabled endpoints for OpenTV, Android TV sticks, and web browsers.
- * Supports bi-directional synchronization of user state (watched, saved, ignored).
+ * Guarantees persistent direct disk storage for user state, reports, and feeds.
  *
  * Strict compliance: Zero emojis, clean logging, zero dependencies.
  */
@@ -16,6 +16,7 @@ const PORT = parseInt(process.env.PORT || '8085', 10);
 const BASE_DIR = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(BASE_DIR, 'data');
 const USER_STATE_FILE = path.join(DATA_DIR, 'user_state.json');
+const UNDUBBED_FILE = path.join(DATA_DIR, 'undubbed_reports.json');
 
 const MIME_TYPES = {
   '.json': 'application/json; charset=utf-8',
@@ -32,9 +33,62 @@ const MIME_TYPES = {
 
 function setCorsHeaders(res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, HEAD');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Range, Cache-Control');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS, HEAD');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, Range, Cache-Control, Pragma, Expires');
   res.setHeader('Access-Control-Expose-Headers', 'Content-Length, Content-Range');
+}
+
+function sendJson(res, statusCode, data) {
+  res.writeHead(statusCode, {
+    'Content-Type': 'application/json; charset=utf-8',
+    'Cache-Control': 'no-store, no-cache, must-revalidate, proxy-revalidate',
+    'Pragma': 'no-cache',
+    'Expires': '0'
+  });
+  res.end(JSON.stringify(data, null, 2));
+}
+
+function loadJsonSafe(filePath, fallback = {}) {
+  try {
+    if (fs.existsSync(filePath)) {
+      return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    }
+  } catch (err) {
+    console.error(`[Disk] Error reading JSON from ${filePath}:`, err.message);
+  }
+  return fallback;
+}
+
+function saveJsonSafe(filePath, data) {
+  const tmpPath = `${filePath}.tmp.${Date.now()}`;
+  fs.writeFileSync(tmpPath, JSON.stringify(data, null, 2), 'utf8');
+  fs.renameSync(tmpPath, filePath);
+}
+
+function syncUndubbedFile(undubbedTitles) {
+  try {
+    const currentReports = loadJsonSafe(UNDUBBED_FILE, []);
+    const titleSet = new Set(undubbedTitles.map(t => String(t).toLowerCase().trim()));
+    
+    // Filter existing reports that are still in undubbed
+    const updatedReports = currentReports.filter(r => titleSet.has(String(r.title).toLowerCase().trim()));
+    
+    // Check if any title is missing from reports
+    const existingTitles = new Set(updatedReports.map(r => String(r.title).toLowerCase().trim()));
+    undubbedTitles.forEach(t => {
+      const normalized = String(t).toLowerCase().trim();
+      if (!existingTitles.has(normalized)) {
+        updatedReports.push({
+          title: t,
+          reportedAt: new Date().toISOString()
+        });
+      }
+    });
+
+    saveJsonSafe(UNDUBBED_FILE, updatedReports);
+  } catch (err) {
+    console.error('[Undubbed] Failed to synchronize undubbed_reports.json:', err.message);
+  }
 }
 
 const server = http.createServer((req, res) => {
@@ -51,19 +105,39 @@ const server = http.createServer((req, res) => {
 
   // 1. Healthcheck / Ping
   if (pathname === '/api/health' || pathname === '/health') {
-    res.writeHead(200, { 'Content-Type': 'application/json' });
-    res.end(JSON.stringify({ status: 'ok', server: 'LetterboxdCurator-OpenTV-Sync', timestamp: Date.now() }));
+    sendJson(res, 200, {
+      status: 'ok',
+      server: 'LetterboxdCurator-OpenTV-Sync',
+      diskPaths: {
+        userState: USER_STATE_FILE,
+        undubbedReports: UNDUBBED_FILE
+      },
+      timestamp: Date.now()
+    });
     return;
   }
 
-  // 2. Bi-directional User State Sync (POST from OpenTV)
+  // 2. GET User State from Disk
+  if (req.method === 'GET' && (pathname === '/api/user-state' || pathname === '/data/user_state.json')) {
+    const userState = loadJsonSafe(USER_STATE_FILE, {
+      watched: [],
+      ignored: [],
+      undubbed: [],
+      comments: {},
+      savedMovies: [],
+      savedCategories: []
+    });
+    sendJson(res, 200, userState);
+    return;
+  }
+
+  // 3. POST User State to Disk
   if (req.method === 'POST' && (pathname === '/api/user-state' || pathname === '/data/user_state.json')) {
     let body = '';
     req.on('data', chunk => {
       body += chunk;
-      if (body.length > 5 * 1024 * 1024) { // 5MB limit
-        res.writeHead(413, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ error: 'Payload too large' }));
+      if (body.length > 10 * 1024 * 1024) {
+        sendJson(res, 413, { error: 'Payload too large' });
         req.destroy();
       }
     });
@@ -71,42 +145,134 @@ const server = http.createServer((req, res) => {
     req.on('end', () => {
       try {
         const incomingState = JSON.parse(body);
-        let currentState = {};
-        if (fs.existsSync(USER_STATE_FILE)) {
-          currentState = JSON.parse(fs.readFileSync(USER_STATE_FILE, 'utf8'));
-        }
+        const currentState = loadJsonSafe(USER_STATE_FILE, {});
 
-        // Merge incoming state with existing state to avoid data loss
         const mergedState = {
           ...currentState,
           ...incomingState,
-          watched: Array.from(new Set([...(currentState.watched || []), ...(incomingState.watched || [])])),
-          ignored: Array.from(new Set([...(currentState.ignored || []), ...(incomingState.ignored || [])])),
-          undubbed: Array.from(new Set([...(currentState.undubbed || []), ...(incomingState.undubbed || [])])),
-          savedMovies: incomingState.savedMovies !== undefined ? incomingState.savedMovies : (currentState.savedMovies || []),
-          savedCategories: incomingState.savedCategories !== undefined ? incomingState.savedCategories : (currentState.savedCategories || []),
-          comments: { ...(currentState.comments || {}), ...(incomingState.comments || {}) },
+          watched: Array.isArray(incomingState.watched) ? incomingState.watched : (currentState.watched || []),
+          ignored: Array.isArray(incomingState.ignored) ? incomingState.ignored : (currentState.ignored || []),
+          undubbed: Array.isArray(incomingState.undubbed) ? incomingState.undubbed : (currentState.undubbed || []),
+          savedMovies: Array.isArray(incomingState.savedMovies) ? incomingState.savedMovies : (currentState.savedMovies || []),
+          savedCategories: Array.isArray(incomingState.savedCategories) ? incomingState.savedCategories : (currentState.savedCategories || []),
+          comments: incomingState.comments !== undefined ? incomingState.comments : (currentState.comments || {}),
+          playbackProgress: incomingState.playbackProgress !== undefined ? incomingState.playbackProgress : (currentState.playbackProgress || {}),
+          dspSettings: incomingState.dspSettings !== undefined ? incomingState.dspSettings : (currentState.dspSettings || {}),
+          videoSettings: incomingState.videoSettings !== undefined ? incomingState.videoSettings : (currentState.videoSettings || {}),
+          streamOverrides: incomingState.streamOverrides !== undefined ? incomingState.streamOverrides : (currentState.streamOverrides || {}),
+          iptvUrl: incomingState.iptvUrl !== undefined ? incomingState.iptvUrl : (currentState.iptvUrl || ''),
+          iptvName: incomingState.iptvName !== undefined ? incomingState.iptvName : (currentState.iptvName || ''),
+          googleUser: incomingState.googleUser !== undefined ? incomingState.googleUser : (currentState.googleUser || null),
           lastSyncedAt: new Date().toISOString()
         };
 
-        fs.writeFileSync(USER_STATE_FILE, JSON.stringify(mergedState, null, 2), 'utf8');
-        console.log(`[Sync] Updated user_state.json from OpenTV (${mergedState.watched.length} watched, ${mergedState.savedMovies.length} saved)`);
+        saveJsonSafe(USER_STATE_FILE, mergedState);
+        console.log(`[Disk] Saved user_state.json (${mergedState.watched.length} watched, ${mergedState.ignored.length} ignored, ${mergedState.undubbed.length} undubbed, ${mergedState.savedMovies.length} saved)`);
 
-        // Re-generate atomic feed in background so OpenTV and web have latest state
+        // Synchronize undubbed reports list
+        if (Array.isArray(mergedState.undubbed)) {
+          syncUndubbedFile(mergedState.undubbed);
+        }
+
+        // Re-generate atomic feed in background
         runCatchingFeed();
 
-        res.writeHead(200, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ success: true, updated: mergedState.lastSyncedAt }));
+        sendJson(res, 200, {
+          success: true,
+          savedToDisk: true,
+          filePath: USER_STATE_FILE,
+          updated: mergedState.lastSyncedAt
+        });
       } catch (err) {
         console.error('[Error] Failed to process user state update:', err.message);
-        res.writeHead(400, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ error: 'Invalid JSON payload' }));
+        sendJson(res, 400, { error: 'Invalid JSON payload' });
       }
     });
     return;
   }
 
-  // 3. Static File Serving (with clean fallbacks)
+  // 4. GET Undubbed Reports from Disk
+  if (req.method === 'GET' && (pathname === '/api/undubbed' || pathname === '/data/undubbed_reports.json')) {
+    const reports = loadJsonSafe(UNDUBBED_FILE, []);
+    sendJson(res, 200, reports);
+    return;
+  }
+
+  // 5. POST Undubbed Report to Disk
+  if (req.method === 'POST' && pathname === '/api/undubbed') {
+    let body = '';
+    req.on('data', chunk => {
+      body += chunk;
+      if (body.length > 1 * 1024 * 1024) {
+        sendJson(res, 413, { error: 'Payload too large' });
+        req.destroy();
+      }
+    });
+
+    req.on('end', () => {
+      try {
+        const payload = JSON.parse(body);
+        const action = payload.action || 'add';
+        const title = payload.title;
+
+        if (!title) {
+          sendJson(res, 400, { error: 'Movie title is required' });
+          return;
+        }
+
+        let reports = loadJsonSafe(UNDUBBED_FILE, []);
+        const normTarget = String(title).toLowerCase().trim();
+
+        if (action === 'remove') {
+          reports = reports.filter(r => String(r.title).toLowerCase().trim() !== normTarget);
+        } else {
+          const existingIdx = reports.findIndex(r => String(r.title).toLowerCase().trim() === normTarget);
+          const newEntry = {
+            title: payload.title,
+            ptTitle: payload.ptTitle || null,
+            year: payload.year || null,
+            category: payload.category || null,
+            reportedAt: new Date().toISOString()
+          };
+          if (existingIdx >= 0) {
+            reports[existingIdx] = { ...reports[existingIdx], ...newEntry };
+          } else {
+            reports.push(newEntry);
+          }
+        }
+
+        saveJsonSafe(UNDUBBED_FILE, reports);
+        console.log(`[Disk] Updated undubbed_reports.json (${action} "${title}", total: ${reports.length})`);
+
+        // Also update undubbed array in user_state.json
+        const userState = loadJsonSafe(USER_STATE_FILE, {});
+        let undubbedSet = new Set(userState.undubbed || []);
+        if (action === 'remove') {
+          undubbedSet.delete(title);
+          if (payload.ptTitle) undubbedSet.delete(payload.ptTitle);
+        } else {
+          undubbedSet.add(title);
+        }
+        userState.undubbed = Array.from(undubbedSet);
+        userState.lastSyncedAt = new Date().toISOString();
+        saveJsonSafe(USER_STATE_FILE, userState);
+
+        sendJson(res, 200, {
+          success: true,
+          action,
+          title,
+          totalReports: reports.length,
+          savedToDisk: true
+        });
+      } catch (err) {
+        console.error('[Error] Failed to process undubbed report:', err.message);
+        sendJson(res, 400, { error: 'Invalid JSON payload' });
+      }
+    });
+    return;
+  }
+
+  // 6. Static File Serving (with clean fallbacks and strict no-cache for json)
   let relativePath = pathname.replace(/^\/+/, '');
   if (!relativePath) relativePath = 'index.html';
 
@@ -121,7 +287,6 @@ const server = http.createServer((req, res) => {
 
   fs.stat(filePath, (err, stats) => {
     if (err || !stats.isFile()) {
-      // Fallback for /data/... if requested from root
       if (relativePath.startsWith('web/data/')) {
         const fixedPath = path.join(DATA_DIR, relativePath.replace(/^web\/data\//, ''));
         if (fs.existsSync(fixedPath)) {
@@ -130,8 +295,7 @@ const server = http.createServer((req, res) => {
         }
       }
 
-      res.writeHead(404, { 'Content-Type': 'application/json' });
-      res.end(JSON.stringify({ error: 'Not found', path: pathname }));
+      sendJson(res, 404, { error: 'Not found', path: pathname });
       return;
     }
 
@@ -145,7 +309,7 @@ function serveFile(filePath, res) {
 
   res.writeHead(200, {
     'Content-Type': contentType,
-    'Cache-Control': 'no-cache, must-revalidate',
+    'Cache-Control': ext === '.json' ? 'no-store, no-cache, must-revalidate' : 'no-cache, must-revalidate',
     'Pragma': 'no-cache'
   });
 
@@ -166,4 +330,5 @@ server.listen(PORT, '0.0.0.0', () => {
   console.log(`[Server] OpenTV Feed: http://0.0.0.0:${PORT}/data/opentv_feed.json`);
   console.log(`[Server] M3U Playlist: http://0.0.0.0:${PORT}/data/opentv_vod.m3u`);
   console.log(`[Server] User State API: http://0.0.0.0:${PORT}/api/user-state`);
+  console.log(`[Server] Undubbed Reports API: http://0.0.0.0:${PORT}/api/undubbed`);
 });

@@ -331,6 +331,50 @@ body {
   font-weight: 600;
 }
 
+.nav-disk-status {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 18px;
+  width: 100%;
+  color: #8c8c8c;
+  font-size: 0.72rem;
+  font-weight: 500;
+  user-select: none;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  border-radius: 4px;
+}
+
+.nav-disk-status:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+}
+
+.disk-dot {
+  width: 8px;
+  height: 8px;
+  min-width: 8px;
+  border-radius: 50%;
+  background: #46d369;
+  box-shadow: 0 0 6px rgba(70, 211, 105, 0.4);
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.disk-label {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  opacity: 0;
+  transform: translateX(-6px);
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.nav-rail:hover .disk-label {
+  opacity: 1;
+  transform: translateX(0);
+}
+
 /* MAIN CONTENT VIEWPORT */
 .main-viewport {
   flex: 1;
