@@ -3850,569 +3850,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjRjOGI4M2YtMGQ4NC00OTk3LTg4MWItYjBjYzNiOGI0Y2ZkXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
   },
   {
-    "id": "13-going-on-30",
-    "title": "13 Going on 30",
-    "ptTitle": "De Repente 30",
-    "year": 2004,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/13-going-on-30/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Comédia romântica clássica com Jennifer Garner e Mark Ruffalo. Uma garota de 13 anos inconformada com sua aparência e popularidade na escola deseja ter 30 anos e acorda no futuro.",
-    "curatorReason": "Uma reflexão calorosa sobre as armadilhas de rejeitar a própria juventude em busca de uma validação estética superficial e vazia.",
-    "omdb": {
-      "title": "13 Going on 30",
-      "year": "2004",
-      "rated": "PG-13",
-      "released": "23 Apr 2004",
-      "runtime": "98 min",
-      "genre": "Comedy, Fantasy, Romance",
-      "director": "Gary Winick",
-      "writer": "Josh Goldsmith, Cathy Yuspa",
-      "actors": "Jennifer Garner, Mark Ruffalo, Judy Greer",
-      "plot": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. Thanks to some magic wishing dust, Jenna's prayer has been answered. With a knockout body, a dream apartment, a fabulous wardrobe, an athlete boyfriend, a dream job, and superstar friends, this can't be a better life. Unfortunately, Jenna realizes that this is not what she wanted. The only one that she needs is her childhood best friend, Matt, a boy that she thought destroyed her party. But when she finds him, he's a grown up, and not the same person that she knew.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "11 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "65%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "57/100"
-        }
-      ],
-      "metascore": "57",
-      "imdbRating": "6.4",
-      "imdbVotes": "253,961",
-      "imdbID": "tt0337563",
-      "boxOffice": "$57,231,747",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20575.mp4",
-    "streamId": 20575,
-    "streamName": "De Repente 30",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
-    "id": "miss-congeniality",
-    "title": "Miss Congeniality",
-    "ptTitle": "Miss Simpatia",
-    "year": 2000,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/miss-congeniality/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Wan Macher",
-    "curatorNote": "Comédia de grande sucesso com Sandra Bullock como Gracie Hart, uma agente durona do FBI que precisa se disfarçar como concorrente no concurso de Miss Estados Unidos.",
-    "curatorReason": "Sátira inteligente sobre as pressões estéticas impostas às mulheres e a desmistificação do que significa beleza, feminilidade e valor próprio.",
-    "omdb": {
-      "title": "Meet the Parents",
-      "year": "2000",
-      "rated": "PG-13",
-      "released": "06 Oct 2000",
-      "runtime": "108 min",
-      "genre": "Comedy, Romance",
-      "director": "Jay Roach",
-      "writer": "Greg Glienna, Mary Ruth Clarke, Jim Herzfeld",
-      "actors": "Ben Stiller, Robert De Niro, Teri Polo",
-      "plot": "Madly in love with charming schoolteacher Pam, Greg Focker, an unambitious Chicago nurse and chronic underachiever, wants to make a good impression on her father, Jack, more than anything. And, in the following 48 hours, against the backdrop of a hectic weekend at her parents' house, Greg will have to put his skills to good use and, hopefully, charm his way out of trouble. However, there is one tiny detail: Jack has a knack for uncovering the truth, and Greg has been quite economical with it. Under those circumstances, will he ever get Jack's approval? Above all, is love blind?",
-      "language": "English, Thai, Spanish, Hebrew, French",
-      "country": "United States",
-      "awards": "Nominated for 1 Oscar. 7 wins & 15 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "85%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "73/100"
-        }
-      ],
-      "metascore": "73",
-      "imdbRating": "7.0",
-      "imdbVotes": "382,484",
-      "imdbID": "tt0212338",
-      "boxOffice": "$166,244,045",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382833.mp4",
-    "streamId": 382833,
-    "streamName": "Miss Simpatia",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
-    "id": "the-princess-diaries",
-    "title": "The Princess Diaries",
-    "ptTitle": "O Diário da Princesa",
-    "year": 2001,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/the-princess-diaries/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Clássico moderno dirigido por Garry Marshall estrelando Anne Hathaway como Mia Thermopolis, uma adolescente tímida e desajeitada que descobre ser herdeira do trono de Genovia.",
-    "curatorReason": "A icônica jornada de superação da timidez patológica e da autocrítica corporal, descobrindo liderança autêntica além das transformações visuais.",
-    "omdb": {
-      "title": "The Princess Diaries",
-      "year": "2001",
-      "rated": "G",
-      "released": "03 Aug 2001",
-      "runtime": "115 min",
-      "genre": "Comedy, Family, Romance",
-      "director": "Garry Marshall",
-      "writer": "Meg Cabot, Gina Wendkos",
-      "actors": "Julie Andrews, Anne Hathaway, Hector Elizondo",
-      "plot": "Mia Thermopolis (Anne Hathaway) is the average teenager - sweet, a little geeky, and pretty much invisible to everyone with the exception of her mother, best friend Lilly (Heather Matarazzo) and Lilly's older brother Michael (Robert Schwartzman). Making it through high school without throwing up is a challenge in itself for Mia, so it doesn't come as welcome news when her estranged grandmother, Queen Clarisse Renaldi (Dame Julie Andrews), shows up out of the blue and calmly informs her that she is in fact the heir to the throne of a European country called Genovia. Suddenly Mia's life is thrown into complete overload. She's being taught about scarves, waves, and pears in order to become a perfect Princess, she gets a makeover and a tough looking, yet sweet bodyguard and limo driver called Joe (Hector Elizondo). Things get out of hand when the media gets a hold of the story and suddenly Mia is thrust into the spotlight in the newspapers and in school. On top of all of that, Mia has a choice to make. She must decide by Genovia's Independence Day Ball whether she will relinquish her claim to the throne or to become the Princess and heir to the throne her father, Philippe Renaldi (Rene Auberjonois), and grandmother want her to be.",
-      "language": "English, Dutch, Italian",
-      "country": "United States, United Kingdom",
-      "awards": "3 wins & 11 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzNiYWQ4NjUtZjliMS00MTllLWIxNDItNGU1MjBkMTE3ODg1XkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "50%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "52/100"
-        }
-      ],
-      "metascore": "52",
-      "imdbRating": "6.4",
-      "imdbVotes": "186,402",
-      "imdbID": "tt0247638",
-      "boxOffice": "$108,248,956",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNiYWQ4NjUtZjliMS00MTllLWIxNDItNGU1MjBkMTE3ODg1XkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377244.mp4",
-    "streamId": 377244,
-    "streamName": "O Diário da Princesa",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzNiYWQ4NjUtZjliMS00MTllLWIxNDItNGU1MjBkMTE3ODg1XkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg"
-  },
-  {
-    "id": "hairspray",
-    "title": "Hairspray",
-    "ptTitle": "Hairspray: Em Busca da Fama",
-    "year": 2007,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/hairspray/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Musical contagiante com Nikki Blonsky, John Travolta e Zac Efron. Em Baltimore nos anos 60, Tracy Turnblad, uma garota gorda e cheia de talento, sonha em dançar na TV.",
-    "curatorReason": "Um hino vibrante contra a gordofobia e o preconceito racial, provando que a alegria e o carisma quebram qualquer padrão rígido de beleza.",
-    "omdb": {
-      "title": "Hairspray",
-      "year": "2007",
-      "rated": "PG",
-      "released": "20 Jul 2007",
-      "runtime": "117 min",
-      "genre": "Comedy, Drama, Musical",
-      "director": "Adam Shankman",
-      "writer": "Leslie Dixon, John Waters, Mark O&apos;Donnell",
-      "actors": "John Travolta, Queen Latifah, Nikki Blonsky",
-      "plot": "Tracy Turnblad, a teenager with all the right moves, is obsessed with the Corny Collins Show. Every day after school, she and her best friend Penny run home to watch the show and drool over the hot Link Larkin, much to Tracy's mother Edna's dismay. After one of the stars of the show leaves, Corny Collins holds auditions to see who will be the next teen regular. With the help of her friend Seaweed, Tracy is chosen, angering evil dance queen Amber Von Tussle and her mother Velma. Tracy then decides that it's not fair that black kids can only dance on the show once a month (on \"Negro Day\"), and with the help of Seaweed, Link, Penny, Motormouth Maybelle, her father, and Edna, she's going to integrate the show.....without denting her 'do.",
-      "language": "English",
-      "country": "United Kingdom, United States",
-      "awards": "Nominated for 1 BAFTA Award. 21 wins & 45 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzBiNjJhNmUtMjM0Yi00ZjZkLTliNzUtYWEyYmVkZTFhMmQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "92%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "metascore": "81",
-      "imdbRating": "6.7",
-      "imdbVotes": "147,060",
-      "imdbID": "tt0427327",
-      "boxOffice": "$118,946,291",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBiNjJhNmUtMjM0Yi00ZjZkLTliNzUtYWEyYmVkZTFhMmQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/376317.mp4",
-    "streamId": 376317,
-    "streamName": "Hairspray: Em Busca da Fama",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBiNjJhNmUtMjM0Yi00ZjZkLTliNzUtYWEyYmVkZTFhMmQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "id": "uglies",
-    "title": "Uglies",
-    "ptTitle": "Feios",
-    "year": 2005,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/uglies/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Ficção científica distópica baseada na obra de Scott Westerfeld com Joey King. Em uma sociedade futurista, todos os jovens de 16 anos são forçados a fazer cirurgias plásticas radicais para se tornarem 'Perfeitos'.",
-    "curatorReason": "Crítica direta e contundente à ditadura da beleza digital, à padronização cirúrgica dos rostos e ao apagamento da individualidade humana.",
-    "omdb": {
-      "title": "Mahô no ito ni kakeru",
-      "year": "2005",
-      "rated": "N/A",
-      "released": "18 Jan 2005",
-      "runtime": "43 min",
-      "genre": "Documentary",
-      "director": "N/A",
-      "writer": "N/A",
-      "actors": "Tomorowo Taguchi",
-      "plot": "N/A",
-      "language": "Japanese",
-      "country": "Japan",
-      "awards": "N/A",
-      "poster": "N/A",
-      "ratings": [],
-      "metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt1005697",
-      "boxOffice": "N/A",
-      "type": "episode",
-      "Poster": "N/A"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/285812.mp4",
-    "streamId": 285812,
-    "streamName": "Feios",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500"
-  },
-  {
-    "id": "clueless",
-    "title": "Clueless",
-    "ptTitle": "As Patricinhas de Beverly Hills",
-    "year": 1995,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/clueless/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Clássico adolescente cult de Amy Heckerling livremente inspirado em 'Emma' de Jane Austen, com Alicia Silverstone e Brittany Murphy.",
-    "curatorReason": "Analisa com inteligência e humor as ilusões das reformas estéticas escolares e o momento crucial em que a autenticidade vence as aparências fúteis.",
-    "omdb": {
-      "title": "Clueless",
-      "year": "1995",
-      "rated": "PG-13",
-      "released": "19 Jul 1995",
-      "runtime": "97 min",
-      "genre": "Comedy, Romance",
-      "director": "Amy Heckerling",
-      "writer": "Amy Heckerling",
-      "actors": "Alicia Silverstone, Stacey Dash, Brittany Murphy",
-      "plot": "Cher, a high school student in Beverly Hills, must survive the ups and downs of adolescent life. Her external demeanor at first seems superficial, but rather it hides her wit, charm, and intelligence which help her to deal with relationships, friends, family, school, and the all-important teenage social life.",
-      "language": "English, Spanish",
-      "country": "United States",
-      "awards": "7 wins & 12 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "73/100"
-        }
-      ],
-      "metascore": "73",
-      "imdbRating": "6.9",
-      "imdbVotes": "283,090",
-      "imdbID": "tt0112697",
-      "boxOffice": "$56,631,572",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/191955.mp4",
-    "streamId": 191955,
-    "streamName": "As Patricinhas de Beverly Hills",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
-    "id": "my-big-fat-greek-wedding",
-    "title": "My Big Fat Greek Wedding",
-    "ptTitle": "Casamento Grego",
-    "year": 2002,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/my-big-fat-greek-wedding/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Fenômeno de bilheteria escrito e estrelado por Nia Vardalos. Toula, uma mulher grego-americana de 30 anos que se sente feia e invisível na família, decide mudar de vida e estudar.",
-    "curatorReason": "Um retrato ternamente cômico sobre autoestima, amadurecimento tardio e a libertação dos rótulos impostos pela expectativa alheia.",
-    "omdb": {
-      "title": "My Big Fat Greek Wedding",
-      "year": "2002",
-      "rated": "PG",
-      "released": "02 Aug 2002",
-      "runtime": "95 min",
-      "genre": "Comedy, Drama, Romance",
-      "director": "Joel Zwick",
-      "writer": "Nia Vardalos",
-      "actors": "Nia Vardalos, John Corbett, Michael Constantine",
-      "plot": "Toula Portokalos is 30, Greek American, and works in her family's restaurant, Dancing Zorba's, in Chicago. All her father Gus wants is for her to get married to a nice Greek boy. But Toula is looking for more in life. Her mother convinces Gus to let her take some computer classes at college (making him think it's his idea). With those classes under her belt, she then takes over her aunt's travel agency (again making her father think it's his idea). She meets Ian Miller, a high school English teacher, WASP, and dreamboat she had made a fool of herself over at the restaurant; they date secretly for a while before her family finds out. Her father is livid over her dating a non-Greek. He has to learn to accept Ian; Ian has to learn to accept Toula's huge family, and Toula has to learn to accept herself.",
-      "language": "English, Greek",
-      "country": "Germany, United States",
-      "awards": "Nominated for 1 Oscar. 20 wins & 29 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMmQzYTQzYjYtMWY2My00YTQ1LTk4ZmQtMGQ2NzdlYmJhY2M0XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "76%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "62/100"
-        }
-      ],
-      "metascore": "62",
-      "imdbRating": "6.6",
-      "imdbVotes": "152,463",
-      "imdbID": "tt0259446",
-      "boxOffice": "$241,438,208",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQzYTQzYjYtMWY2My00YTQ1LTk4ZmQtMGQ2NzdlYmJhY2M0XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/48223.mp4",
-    "streamId": 48223,
-    "streamName": "Casamento Grego",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQzYTQzYjYtMWY2My00YTQ1LTk4ZmQtMGQ2NzdlYmJhY2M0XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg"
-  },
-  {
-    "id": "beauty-and-the-beast",
-    "title": "Beauty and the Beast",
-    "ptTitle": "A Bela e a Fera",
-    "year": 1991,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/beauty-and-the-beast/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Primeira animação da história indicada ao Oscar de Melhor Filme. Um príncipe arrogante é transformado em uma Fera horrível e isola-se em profundo autodesprezo e amargura.",
-    "curatorReason": "A lição perene sobre a feiura exterior gerada pela vaidade cruel e a redenção emocional através da gentileza, compaixão e amor desinteressado.",
-    "omdb": {
-      "title": "Beauty and the Beast",
-      "year": "1991",
-      "rated": "G",
-      "released": "22 Nov 1991",
-      "runtime": "84 min",
-      "genre": "Animation, Family, Fantasy",
-      "director": "Gary Trousdale, Kirk Wise",
-      "writer": "Linda Woolverton, Roger Allers, Brenda Chapman",
-      "actors": "Paige O&apos;Hara, Robby Benson, Jesse Corti",
-      "plot": "Having lived a life in selfishness, young Prince Adam is cursed by a mysterious enchantress to having the appearance of a monstrous beast. His only hope is to learn to love a young woman and earn her love in return in order to redeem himself. Ten years later, his chance shows itself when a young maiden named Belle (Paige O'Hara) offers to take her ill father Maurice's (Rex Everhart's) place as his prisoner. With help from the castle's enchanted staff, Belle learns to appreciate her captor and immediately falls in love with him. Back in the village however, unscrupulous hunter Gaston (Richard White) has his own plans for Belle.",
-      "language": "English, French",
-      "country": "United States, Japan",
-      "awards": "Won 2 Oscars. 34 wins & 32 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "95/100"
-        }
-      ],
-      "metascore": "95",
-      "imdbRating": "8.0",
-      "imdbVotes": "510,245",
-      "imdbID": "tt0101414",
-      "boxOffice": "$218,967,620",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/79217.mp4",
-    "streamId": 79217,
-    "streamName": "A Bela e a Fera",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
-    "id": "mean-girls",
-    "title": "Mean Girls",
-    "ptTitle": "Meninas Malvadas",
-    "year": 2004,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/mean-girls/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Comédia geracional escrita por Tina Fey com Lindsay Lohan e Rachel McAdams. Uma adolescente educada na África entra na escola pública dos EUA e ingressa no grupo das populares 'Poderosas'.",
-    "curatorReason": "Uma dissecação mordaz sobre como a insegurança com a própria aparência alimenta rivalidades tóxicas, humilhações e obsessões com a perfeição corporal.",
-    "omdb": {
-      "title": "Mean Girls",
-      "year": "2004",
-      "rated": "PG-13",
-      "released": "30 Apr 2004",
-      "runtime": "97 min",
-      "genre": "Comedy",
-      "director": "Mark Waters",
-      "writer": "Rosalind Wiseman, Tina Fey",
-      "actors": "Lindsay Lohan, Jonathan Bennett, Rachel McAdams",
-      "plot": "Lindsay Lohan stars as Cady Heron, a 16 year old homeschooled girl who not only makes the mistake of falling for Aaron Samuels (Jonathan Bennett), the ex-boyfriend of queenbee Regina George (Rachel McAdams), but also unintentionally joins The Plastics, led by Regina herself. Join Cady as she learns that high school life can and will be really tough.",
-      "language": "English, German, Vietnamese, Swahili",
-      "country": "United States, Canada",
-      "awards": "7 wins & 25 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "84%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "metascore": "66",
-      "imdbRating": "7.1",
-      "imdbVotes": "494,583",
-      "imdbID": "tt0377092",
-      "boxOffice": "$86,058,055",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/250698.mp4",
-    "streamId": 250698,
-    "streamName": "Meninas Malvadas",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg"
-  },
-  {
-    "id": "lady-bird",
-    "title": "Lady Bird",
-    "ptTitle": "Lady Bird: A Hora de Voar",
-    "year": 2017,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/lady-bird/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Indicado a 5 Oscars, escrito e dirigido por Greta Gerwig com Saoirse Ronan e Laurie Metcalf. Uma jovem no último ano do colégio luta com sua identidade, origem humilde e expectativas familiares.",
-    "curatorReason": "Crônica realista e afetuosa sobre a dor de querer ser especial, a vergonha socioeconômica e a complexa relação materna de amor e atrito.",
-    "omdb": {
-      "title": "Hidden Figures",
-      "year": "2017",
-      "rated": "PG",
-      "released": "06 Jan 2017",
-      "runtime": "127 min",
-      "genre": "Biography, Drama, History",
-      "director": "Theodore Melfi",
-      "writer": "Allison Schroeder, Theodore Melfi, Margot Lee Shetterly",
-      "actors": "Taraji P. Henson, Octavia Spencer, Janelle Monáe",
-      "plot": "As the United States raced against Russia to put a man in space, NASA found untapped talent in a group of female African-American mathematicians that served as the brains behind one of the greatest operations in U.S. history. Based on the unbelievably true life stories of three of these women known as \"human computers\", follow these women as they quickly rose the ranks of NASA alongside many of history's greatest minds specifically tasked with calculating the momentous launch of astronaut John Glenn into orbit, and guaranteeing his safe return. Dorothy Vaughan, Mary Jackson, and Katherine Goble Johnson crossed all gender, race, and professional lines while their brilliance and desire to dream big, beyond anything ever accomplished before by the human race, firmly cemented them in U.S. history as true American heroes.",
-      "language": "English",
-      "country": "United States",
-      "awards": "Nominated for 3 Oscars. 37 wins & 96 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "74/100"
-        }
-      ],
-      "metascore": "74",
-      "imdbRating": "7.8",
-      "imdbVotes": "294,777",
-      "imdbID": "tt4846340",
-      "boxOffice": "$169,607,287",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134045.mp4",
-    "streamId": 134045,
-    "streamName": "Lady Bird: A Hora de Voar",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "id": "the-way-way-back",
     "title": "The Way, Way Back",
     "ptTitle": "O Verão da Minha Vida",
@@ -4585,296 +4022,6 @@
     "streamAvailable": true,
     "isDirect": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BZDkyMzFhYjktYWE5My00YTVhLWE1NjEtZWMyNzliMDMzYzJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
-    "id": "bridget-jones-s-diary",
-    "title": "Bridget Jones's Diary",
-    "ptTitle": "O Diário de Bridget Jones",
-    "year": 2001,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/bridget-jones-s-diary/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Clássico contemporâneo com atuação indicada ao Oscar de Renée Zellweger ao lado de Colin Firth e Hugh Grant. Uma mulher solteira em Londres registra sua luta contra o peso, cigarros e a busca por amor.",
-    "curatorReason": "O monumento à imperfeição charmosa: a celebração inesquecível de uma protagonista amada 'exatamente do jeito que ela é'.",
-    "omdb": {
-      "title": "Bridget Jones's Diary",
-      "year": "2001",
-      "rated": "R",
-      "released": "13 Apr 2001",
-      "runtime": "97 min",
-      "genre": "Comedy, Drama, Romance",
-      "director": "Sharon Maguire",
-      "writer": "Helen Fielding, Andrew Davies, Richard Curtis",
-      "actors": "Renée Zellweger, Colin Firth, Hugh Grant",
-      "plot": "Bridget Jones (Renée Zellweger) is an average woman struggling against her age, her weight, her job, her lack of a man, and her many imperfections. As a New Year's Resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. The fireworks begin when her charming though disreputable boss takes an interest in the quirky Miss Jones. Thrown into the mix are Bridget's band of slightly eccentric friends and a rather disagreeable acquaintance into whom Bridget cannot seem to stop running or help finding quietly attractive.",
-      "language": "English",
-      "country": "Ireland, United Kingdom, France, United States",
-      "awards": "Nominated for 1 Oscar. 8 wins & 32 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "80%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "metascore": "66",
-      "imdbRating": "6.8",
-      "imdbVotes": "289,728",
-      "imdbID": "tt0243155",
-      "boxOffice": "$71,543,427",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386814.mp4",
-    "streamId": 386814,
-    "streamName": "O Diário de Bridget Jones",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "id": "legally-blonde",
-    "title": "Legally Blonde",
-    "ptTitle": "Legalmente Loira",
-    "year": 2001,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/legally-blonde/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Wan Macher",
-    "curatorNote": "Comédia aclamada de Robert Luketic com Reese Witherspoon. Julgada como fútil e intelectualmente incapaz pelo namorado por causa de seu visual rosa e loiro, Elle Woods entra em Direito em Harvard para provar seu valor.",
-    "curatorReason": "Uma declaração empoderadora sobre nunca diminuir a própria autenticidade ou estilo para caber nas caixas preconceituosas dos outros.",
-    "omdb": {
-      "title": "Legally Blonde",
-      "year": "2001",
-      "rated": "PG-13",
-      "released": "13 Jul 2001",
-      "runtime": "96 min",
-      "genre": "Comedy, Romance",
-      "director": "Robert Luketic",
-      "writer": "Amanda Brown, Karen McCullah, Kirsten Smith",
-      "actors": "Reese Witherspoon, Luke Wilson, Selma Blair",
-      "plot": "Elle Woods is a fashionable sorority queen of her college -- she has it all, a handsome boyfriend, wealth, and status. Things begin to change for Elle when her boyfriend, Warner dumps her and he starts dating Vivian, a law student. Elle decides to win back her former boyfriend by applying to Harvard Law School, she is able to pass her test and get into Harvard. Being in Harvard may not be easy for Elle, she soon falls in love with Emmett and she befriends Paulette, a manicurist at the nail salon. Along the way, Elle decides to take her studies more seriously and she must take on a court case when her role model Brooke Windham is accused of murdering her husband. Elle is determined to prove Brooke's innocence.",
-      "language": "English, Vietnamese",
-      "country": "United States",
-      "awards": "6 wins & 14 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "75%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "59/100"
-        }
-      ],
-      "metascore": "59",
-      "imdbRating": "6.5",
-      "imdbVotes": "294,356",
-      "imdbID": "tt0250494",
-      "boxOffice": "$96,673,082",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103140.mp4",
-    "streamId": 103140,
-    "streamName": "Legalmente Loira",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-  },
-  {
-    "id": "easy-a",
-    "title": "Easy A",
-    "ptTitle": "A Mentira",
-    "year": 2010,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/easy-a/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Comédia inteligente e aclamada estrelada por Emma Stone. Uma estudante comum do ensino médio inventa uma mentira para parecer mais experiente, mas os boatos fogem ao controle.",
-    "curatorReason": "Uma sátira espirituosa inspirada em 'A Letra Escarlate' sobre a necessidade desesperada de validação social, julgamento moral hipócrita e reconstrução da autoimagem.",
-    "omdb": {
-      "title": "Easy A",
-      "year": "2010",
-      "rated": "PG-13",
-      "released": "17 Sep 2010",
-      "runtime": "92 min",
-      "genre": "Comedy, Drama, Romance",
-      "director": "Will Gluck",
-      "writer": "Bert V. Royal",
-      "actors": "Emma Stone, Amanda Bynes, Penn Badgley",
-      "plot": "After a little white lie about losing her virginity gets out, a clean cut high school girl sees her life paralleling Hester Prynne's in \"The Scarlet Letter,\" which she is currently studying in school - until she decides to use the rumor mill to advance her social and financial standing.",
-      "language": "English",
-      "country": "United States",
-      "awards": "9 wins & 22 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "85%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "72/100"
-        }
-      ],
-      "metascore": "72",
-      "imdbRating": "7.0",
-      "imdbVotes": "448,642",
-      "imdbID": "tt1282140",
-      "boxOffice": "$58,401,464",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/388449.mp4",
-    "streamId": 388449,
-    "streamName": "A Mentira",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-  },
-  {
-    "id": "girl-interrupted",
-    "title": "Girl, Interrupted",
-    "ptTitle": "Garota, Interrompida",
-    "year": 2000,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/girl-interrupted/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Vencedor do Oscar de Melhor Atriz Coadjuvante para Angelina Jolie, estrelando Winona Ryder. Uma jovem desorientada com sensação de inadequação e vazio existencial é internada em uma instituição psiquiátrica nos anos 60.",
-    "curatorReason": "Uma imersão realista nas dores da juventude fraturada, nos dilemas de identidade e no processo difícil de reconstruir o afeto por si mesma.",
-    "omdb": {
-      "title": "Girl, Interrupted",
-      "year": "2000",
-      "rated": "R",
-      "released": "14 Jan 2000",
-      "runtime": "127 min",
-      "genre": "Biography, Drama",
-      "director": "James Mangold",
-      "writer": "James Mangold, Lisa Loomer, Anna Hamilton Phelan",
-      "actors": "Winona Ryder, Angelina Jolie, Clea DuVall",
-      "plot": "In 1967, Susanna Kaysen has a headache and chases a bottle of aspirin with a bottle of vodka. This lands her in the mental institution Claymoore, where Dr. Melvin Potts diagnoses her with borderline personality disorder. When she arrives at Claymoore Nurse Valerie Owens greets her and shows her around the women's ward where she meets Georgina Tuskin, a pathological liar fixated on \"The Wizard of Oz\"; Polly Clark, a childish schizophrenic; Janet Webber, a sardonic anorexic patient; Daisy Randone who won't let anyone into her room and only eats her father's chicken; and Lisa Rowe, a sociopath who controls the other patients and makes the Claymoore nurses' lives hell. Through the movie, Lisa gains and loses control over Susanna and shows how bad she can be. How long will Susanna last at Claymoore and how does she take back control of her life? This movie battles subjects such as mental heath, abuse, self-harm and suicide.",
-      "language": "English",
-      "country": "United States, Germany",
-      "awards": "Won 1 Oscar. 9 wins & 11 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "53%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "51/100"
-        }
-      ],
-      "metascore": "51",
-      "imdbRating": "7.3",
-      "imdbVotes": "237,271",
-      "imdbID": "tt0172493",
-      "boxOffice": "$28,912,646",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317453.mp4",
-    "streamId": 317453,
-    "streamName": "Garota, Interrompida",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
-    "id": "juno",
-    "title": "Juno",
-    "ptTitle": "Juno",
-    "year": 2007,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/juno/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Dublavídeo",
-    "curatorNote": "Vencedor do Oscar de Melhor Roteiro Original de Diablo Cody com Elliot Page e Michael Cera. Uma adolescente sarcástica e excêntrica enfrenta uma gravidez precoce e as mudanças radicais em seu corpo e vida.",
-    "curatorReason": "Um retrato sensível sobre autodefesa irônica, as inseguranças físicas e emocionais da gestação na adolescência e a busca por um lugar no mundo.",
-    "omdb": {
-      "title": "Juno",
-      "year": "2007",
-      "rated": "PG-13",
-      "released": "25 Dec 2007",
-      "runtime": "96 min",
-      "genre": "Comedy, Drama",
-      "director": "Jason Reitman",
-      "writer": "Diablo Cody",
-      "actors": "Elliot Page, Michael Cera, Jennifer Garner",
-      "plot": "A tale told over four seasons, starting in autumn when Juno, a 16-year-old high-school junior in Minnesota, discovers she's pregnant after one event in a chair with her best friend, Bleeker. In the waiting room of an abortion clinic, the quirky and whip-sharp Juno decides to give birth and to place the child with an adoptive couple. She finds one in the PennySaver personals, contacts them, tells her dad and step-mother, and carries on with school. The chosen parents, upscale yuppies (one of whom is cool and laid back, the other meticulous and uptight), meet Juno, sign papers, and the year unfolds. Will Juno's plan work, can she improvise, and what about Bleeker?",
-      "language": "English, Spanish",
-      "country": "United States, Canada",
-      "awards": "Won 1 Oscar. 90 wins & 101 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_QL75_UX380_CR0,15,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "metascore": "81",
-      "imdbRating": "7.4",
-      "imdbVotes": "575,858",
-      "imdbID": "tt0467406",
-      "boxOffice": "$143,495,265",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_QL75_UX380_CR0,15,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112935.mp4",
-    "streamId": 112935,
-    "streamName": "Juno",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_QL75_UX380_CR0,15,380,562_.jpg"
   },
   {
     "id": "anger-management",
@@ -5051,234 +4198,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIzZWZmM2ItNGMzOC00MGFiLTgxODgtNTQ2Mzk3ZWE1MzYxXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg"
   },
   {
-    "id": "10-things-i-hate-about-you",
-    "title": "10 Things I Hate About You",
-    "ptTitle": "10 Coisas que Eu Odeio em Você",
-    "year": 1999,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/10-things-i-hate-about-you/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Adaptação cult de 'A Megera Domada' de Shakespeare com Heath Ledger e Julia Stiles. Kat Stratford usa o cinismo e o isolamento como escudo contra a hipocrisia e as expectativas sociais da escola.",
-    "curatorReason": "Um clássico dos anos 90 sobre a coragem de não se submeter à necessidade de agradar os outros para ser aceita.",
-    "omdb": {
-      "title": "10 Things I Hate About You",
-      "year": "1999",
-      "rated": "PG-13",
-      "released": "31 Mar 1999",
-      "runtime": "97 min",
-      "genre": "Comedy, Drama, Romance",
-      "director": "Gil Junger",
-      "writer": "Karen McCullah, Kirsten Smith, William Shakespeare",
-      "actors": "Heath Ledger, Julia Stiles, Joseph Gordon-Levitt",
-      "plot": "Adapted from William Shakespeare's play \"The Taming of the Shrew,\" 10 Things I Hate About You starts off with Cameron, new student at Padua High, sitting in the office of the quirky guidance counselor Ms. Perky. He is then shown around the school by Michael, who will become his best friend. During his tour is when Cameron first sees Bianca Stratford, a beautiful sophomore with one problem: she isn't allowed to date. And neither is her \"shrew\" sister, Katarina, a senior who loves indie rock and feminist prose and hates conformity. But Kat and Bianca's father alters his house rule: now, Bianca can date... as long as Kat has a date, too. Now, in order for Cameron to date Bianca, he has to find someone to date Kat. So Michael helps him enlist the help of pretty-boy/jerk/model Joey Donner, tricking him into thinking that *he* will get to take Bianca out if he pays someone to take out Kat. His choice: Patrick Verona, a bad-boy with a mysterious reputation--some say he ate a live duck once, others that he lit a state trooper on fire, and even more claim that he had a brief porn career. Will Patrick win Kat's heart? Will Cameron win Bianca's? Or will everything hit the fan...?",
-      "language": "English, French",
-      "country": "United States",
-      "awards": "2 wins & 13 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "72%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "70/100"
-        }
-      ],
-      "metascore": "70",
-      "imdbRating": "7.4",
-      "imdbVotes": "463,499",
-      "imdbID": "tt0147800",
-      "boxOffice": "$38,178,166",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20479.mp4",
-    "streamId": 20479,
-    "streamName": "10 Coisas que Eu Odeio em Você",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
-    "id": "just-my-luck",
-    "title": "Just My Luck",
-    "ptTitle": "Sorte no Amor",
-    "year": 2006,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/just-my-luck/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Wan Macher",
-    "curatorNote": "Comédia romântica estrelada por Lindsay Lohan e Chris Pine. Jake é um jovem desastrado, com autoestima abalada e que atrai azar constante, cuja vida se inverte ao beijar a mulher mais sortuda de Manhattan.",
-    "curatorReason": "Uma metáfora divertida sobre como a crença na própria incapacidade gera autossabotagem e como a autoconfiança altera nossa postura perante a vida.",
-    "omdb": {
-      "title": "Just My Luck",
-      "year": "2006",
-      "rated": "PG-13",
-      "released": "12 May 2006",
-      "runtime": "103 min",
-      "genre": "Comedy, Fantasy, Romance",
-      "director": "Donald Petrie",
-      "writer": "I. Marlene King, Amy Harris, Jonathan Bernstein",
-      "actors": "Lindsay Lohan, Chris Pine, Samaire Armstrong",
-      "plot": "In Manhattan, Ashley Albright is a lucky woman and very successful in the agency where she works. The clumsy Jake Hardin is an unlucky aspirant manager of the rock band McFly, who is unsuccessfully trying to contact the entrepreneur Damon Phillips to promote his band. When Ashley meets Jake in a masquerade party, they kiss each other, swapping her fortune with his bad luck.",
-      "language": "English",
-      "country": "United States",
-      "awards": "7 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjdlOGItYjAyNy00OTliLTgyNjItY2FjNmIxYTE0YTNjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "14%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "29/100"
-        }
-      ],
-      "metascore": "29",
-      "imdbRating": "5.5",
-      "imdbVotes": "66,868",
-      "imdbID": "tt0397078",
-      "boxOffice": "$17,326,650",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjdlOGItYjAyNy00OTliLTgyNjItY2FjNmIxYTE0YTNjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/397934.mp4",
-    "streamId": 397934,
-    "streamName": "Sorte no Amor",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjdlOGItYjAyNy00OTliLTgyNjItY2FjNmIxYTE0YTNjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-  },
-  {
-    "id": "wild-child",
-    "title": "Wild Child",
-    "ptTitle": "Garota Mimada",
-    "year": 2008,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/wild-child/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Comédia adolescente estrelada por Emma Roberts. Uma jovem mimada e vaidosa de Malibu com carência afetiva é enviada pelo pai para um rígido colégio interno na Inglaterra.",
-    "curatorReason": "Uma jornada de amadurecimento onde a protagonista despe-se da armadura da futilidade e da vaidade superficial para encontrar lealdade e autoestima verdadeira.",
-    "omdb": {
-      "title": "Wild Child",
-      "year": "2008",
-      "rated": "PG-13",
-      "released": "15 Aug 2008",
-      "runtime": "98 min",
-      "genre": "Comedy",
-      "director": "Nick Moore",
-      "writer": "Lucy Dahl",
-      "actors": "Emma Roberts, Aidan Quinn, Natasha Richardson",
-      "plot": "Since Malibu brat Poppy Moore's mom passed away, she has pushed her rich, usually-absent dad Gerry shamelessly. When his patience wears out, she's shipped off to Abbey Mount, her mother's former English boarding school. On her first day she makes enemies of most of her dorm-mates, especially dominant lacrosse school captain Harriet, and the school's principal Mrs. Kingsley. Unwilling to accept the strict regime, she decides to misbehave and take the blame for everyone until she's dismissed. The school's only appealing feature is Kingsley's dashing son Freddie. Then the dream prince transfers his favor from ambitious, uptight Harriet to unruly Poppy, which changes everything.",
-      "language": "English",
-      "country": "United Kingdom, France, United States",
-      "awards": "N/A",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmVlZTY2ZGUtOTIzNi00N2E5LWI0YmItNjkyYTdjMjgwMDNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "40%"
-        }
-      ],
-      "metascore": "N/A",
-      "imdbRating": "6.1",
-      "imdbVotes": "69,547",
-      "imdbID": "tt1024255",
-      "boxOffice": "N/A",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmVlZTY2ZGUtOTIzNi00N2E5LWI0YmItNjkyYTdjMjgwMDNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/387052.mp4",
-    "streamId": 387052,
-    "streamName": "Garota Mimada",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmVlZTY2ZGUtOTIzNi00N2E5LWI0YmItNjkyYTdjMjgwMDNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-  },
-  {
-    "id": "she-s-the-man",
-    "title": "She's the Man",
-    "ptTitle": "Ela é o Cara",
-    "year": 2006,
-    "category": "baixa-autoestima",
-    "parentCategory": "art",
-    "letterboxdUrl": "https://letterboxd.com/film/she-s-the-man/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Wan Macher",
-    "curatorNote": "Adaptação moderna de 'Noite de Reis' com Amanda Bynes e Channing Tatum. Impedida de jogar futebol por ser mulher, Viola se disfarça de seu irmão gêmeo em um colégio rival para provar sua capacidade física e atlética.",
-    "curatorReason": "Uma comédia eletrizante sobre derrubar barreiras de gênero, vencer a subestimação e provar que talento e determinação independem do sexo biológico.",
-    "omdb": {
-      "title": "She's the Man",
-      "year": "2006",
-      "rated": "PG-13",
-      "released": "17 Mar 2006",
-      "runtime": "105 min",
-      "genre": "Comedy, Romance, Sport",
-      "director": "Andy Fickman",
-      "writer": "Ewan Leslie, Karen McCullah, Kirsten Smith",
-      "actors": "Amanda Bynes, Laura Ramsey, Channing Tatum",
-      "plot": "Viola Hastings (Bynes) is in a real jam. Complications threaten her scheme to pose as her twin brother, Sebastian (James Kirk), and take his place at a new boarding school. She falls in love with her handsome roommate, Duke (Tatum), who loves beautiful Olivia (Ramsey), who has fallen for Sebastian. As if that were not enough, Viola's twin returns from London ahead of schedule but has no idea that his sister has already replaced him on campus.",
-      "language": "English, French",
-      "country": "United States",
-      "awards": "2 wins & 5 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjVkM2VmZDYtM2E2OS00NTIwLThlZjctM2NkM2QwYmIxMTFiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "45%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "45/100"
-        }
-      ],
-      "metascore": "45",
-      "imdbRating": "6.4",
-      "imdbVotes": "196,994",
-      "imdbID": "tt0454945",
-      "boxOffice": "$33,741,133",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVkM2VmZDYtM2E2OS00NTIwLThlZjctM2NkM2QwYmIxMTFiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-    },
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/101655.mp4",
-    "streamId": 101655,
-    "streamName": "Ela é o Cara",
-    "streamAvailable": true,
-    "isDirect": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjVkM2VmZDYtM2E2OS00NTIwLThlZjctM2NkM2QwYmIxMTFiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-  },
-  {
     "id": "me-and-earl-and-the-dying-girl",
     "title": "Me and Earl and the Dying Girl",
     "ptTitle": "Eu, Você e a Garota Que Vai Morrer",
@@ -5335,6 +4254,629 @@
     "streamAvailable": true,
     "isDirect": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "the-secret-life-of-walter-mitty",
+    "title": "The Secret Life of Walter Mitty",
+    "ptTitle": "A Vida Secreta de Walter Mitty",
+    "year": 2013,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-secret-life-of-walter-mitty/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Ben Stiller dirige e estrela como Walter Mitty, um funcionário tímido e invisível de arquivo negativo que vive imerso em devaneios heroicos para compensar sua completa falta de autoconfiança no mundo real.",
+    "curatorReason": "O arquétipo perfeito da superação da timidez patológica e da timidez crônica: uma jornada deslumbrante onde a imaginação dá lugar à coragem viva e à realização do próprio valor.",
+    "omdb": {
+      "title": "The Secret Life of Walter Mitty",
+      "year": "2013",
+      "rated": "PG",
+      "released": "25 Dec 2013",
+      "runtime": "114 min",
+      "genre": "Adventure, Comedy, Drama",
+      "director": "Ben Stiller",
+      "writer": "Steve Conrad, James Thurber",
+      "actors": "Ben Stiller, Kristen Wiig, Jon Daly",
+      "plot": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he could have ever imagined.",
+      "language": "English, Spanish, Icelandic",
+      "country": "United States, United Kingdom",
+      "awards": "4 wins & 17 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "52%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ],
+      "metascore": "54",
+      "imdbRating": "7.3",
+      "imdbVotes": "340,000",
+      "imdbID": "tt0359950",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20505.mp4",
+    "streamId": 20505,
+    "streamName": "A Vida Secreta de Walter Mitty",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODQzNDQyMl5BMl5BanBnXkFtZTgwMTUzMzYzMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "me-myself-and-irene",
+    "title": "Me, Myself & Irene",
+    "ptTitle": "Eu, Eu Mesmo & Irene",
+    "year": 2000,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/me-myself-irene/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Jim Carrey na veia cômica direta de 'O Máskara'. Um policial rodoviário excessivamente complacente que nunca reage a abusos e humilhações desenvolve um alter ego agressivo e desbocado (Hank) para compensar sua passividade.",
+    "curatorReason": "O clássico estudo cômico da repressão da raiva e da baixa autoestima crônica, onde a falta de limites pessoais explode na criação de uma segunda personalidade sem filtros.",
+    "omdb": {
+      "title": "Me, Myself & Irene",
+      "year": "2000",
+      "rated": "R",
+      "released": "23 Jun 2000",
+      "runtime": "116 min",
+      "genre": "Comedy",
+      "director": "Bobby Farrelly, Peter Farrelly",
+      "writer": "Peter Farrelly, Mike Cerrone, Bobby Farrelly",
+      "actors": "Jim Carrey, Renée Zellweger, Anthony Anderson",
+      "plot": "A mild-mannered Rhode Island state trooper with a split personality is assigned to escort a woman back to New York, and must deal with his aggressive alter ego.",
+      "language": "English, German",
+      "country": "United States",
+      "awards": "1 win & 7 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "48%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "metascore": "49",
+      "imdbRating": "6.6",
+      "imdbVotes": "250,000",
+      "imdbID": "tt0183505",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/100109.mp4",
+    "streamId": 100109,
+    "streamName": "Eu, Eu Mesmo & Irene",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4ODU0MTQzM15BMl5BanBnXkFtZTYwODgyNDc4._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "office-space",
+    "title": "Office Space",
+    "ptTitle": "Como Enlouquecer seu Chefe",
+    "year": 1999,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/office-space/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Comédia cult definitiva de Mike Judge sobre a mediocridade corporativa. Um programador paralisado pelo medo de errar e pela subserviência passa por uma sessão de hipnose e decide simplesmente parar de ter medo.",
+    "curatorReason": "O manifesto catártico de libertação da autoanulação e do pavor da autoridade, transformando o desapego em confiança invencível.",
+    "omdb": {
+      "title": "Office Space",
+      "year": "1999",
+      "rated": "R",
+      "released": "19 Feb 1999",
+      "runtime": "89 min",
+      "genre": "Comedy",
+      "director": "Mike Judge",
+      "writer": "Mike Judge",
+      "actors": "Ron Livingston, Jennifer Aniston, David Herman",
+      "plot": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+      "language": "English",
+      "country": "United States",
+      "awards": "2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "metascore": "68",
+      "imdbRating": "7.6",
+      "imdbVotes": "280,000",
+      "imdbID": "tt0151804",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/106997.mp4",
+    "streamId": 106997,
+    "streamName": "Como Enlouquecer seu Chefe",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA4MzExMTkzNF5BMl5BanBnXkFtZTgwOTU5NTMwMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "wanted",
+    "title": "Wanted",
+    "ptTitle": "O Procurado",
+    "year": 2008,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/wanted/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Ação frenética e visceral dirigida por Timur Bekmambetov com James McAvoy, Angelina Jolie e Morgan Freeman. Wesley Gibson é um contador tímido, hipocondríaco e humilhado pelo chefe e pela namorada que descobre uma herança de reflexos sobre-humanos.",
+    "curatorReason": "A fantasia catártica máxima do perdedor impotente que canaliza ansiedade e baixa autoestima em foco absoluto, virando a mesa contra a opressão cotidiana.",
+    "omdb": {
+      "title": "Wanted",
+      "year": "2008",
+      "rated": "R",
+      "released": "27 Jun 2008",
+      "runtime": "110 min",
+      "genre": "Action, Crime, Thriller",
+      "director": "Timur Bekmambetov",
+      "writer": "Michael Brandt, Derek Haas, Chris Morgan",
+      "actors": "Angelina Jolie, James McAvoy, Morgan Freeman",
+      "plot": "A frustrated office worker discovers that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.",
+      "language": "English",
+      "country": "United States, Germany",
+      "awards": "Nominated for 2 Oscars. 13 wins & 23 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "metascore": "64",
+      "imdbRating": "6.7",
+      "imdbVotes": "400,000",
+      "imdbID": "tt0493464",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20163.mp4",
+    "streamId": 20163,
+    "streamName": "O Procurado",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjI1MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "bedazzled",
+    "title": "Bedazzled",
+    "ptTitle": "Endiabrado",
+    "year": 2000,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/bedazzled-2000/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Comédia de transformação fantástica de Harold Ramis com Brendan Fraser e Elizabeth Hurley. Elliot Richards é um operador de telemarketing nerd, desajeitado e totalmente ignorado que vende a alma ao Diabo por 7 desejos de transformação para conquistar sua colega.",
+    "curatorReason": "O irmão espiritual de 'O Máskara': cada desejo transforma o protagonista em uma caricatura absurda, provando que nenhuma persona artificial compensa a ausência de autoestima genuína e autenticidade.",
+    "omdb": {
+      "title": "Bedazzled",
+      "year": "2000",
+      "rated": "PG-13",
+      "released": "20 Oct 2000",
+      "runtime": "93 min",
+      "genre": "Comedy, Fantasy",
+      "director": "Harold Ramis",
+      "writer": "Peter Cook, Dudley Moore, Larry Gelbart",
+      "actors": "Brendan Fraser, Elizabeth Hurley, Frances O'Connor",
+      "plot": "Hopeless dork Elliot Richards is granted seven wishes by the Devil to ensnare Allison, the girl of his dreams, in exchange for his soul.",
+      "language": "English, Spanish, Russian",
+      "country": "United States, Germany",
+      "awards": "1 win & 2 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "metascore": "49",
+      "imdbRating": "6.1",
+      "imdbVotes": "115,000",
+      "imdbID": "tt0230030",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20601.mp4",
+    "streamId": 20601,
+    "streamName": "Endiabrado",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMzc0NDgtOGFkZi00NDExLTg1OGUtOTc0OTM0ZGNjY2FkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "teen-wolf",
+    "title": "Teen Wolf",
+    "ptTitle": "O Garoto do Futuro",
+    "year": 1985,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/teen-wolf/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Herbert Richers",
+    "curatorNote": "Clássico dos anos 80 estrelando Michael J. Fox. Scott Howard é um adolescente comum e inseguro, péssimo no basquete escolar, que descobre uma herança de família que o transforma em um lobisomem peludo e carismático.",
+    "curatorReason": "A grande metáfora pop da adolescência sobre a sedução de se tornar outra criatura para ganhar popularidade fácil e a lição final de vencer sendo apenas você mesmo.",
+    "omdb": {
+      "title": "Teen Wolf",
+      "year": "1985",
+      "rated": "PG",
+      "released": "23 Aug 1985",
+      "runtime": "91 min",
+      "genre": "Comedy, Fantasy",
+      "director": "Rod Daniel",
+      "writer": "Jeph Loeb, Matthew Weisman",
+      "actors": "Michael J. Fox, James Hampton, Susan Ursitti",
+      "plot": "An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf.",
+      "language": "English",
+      "country": "United States",
+      "awards": "1 nomination total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "45%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "metascore": "48",
+      "imdbRating": "6.1",
+      "imdbVotes": "85,000",
+      "imdbID": "tt0090142",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/363901.mp4",
+    "streamId": 363901,
+    "streamName": "O Garoto do Futuro",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIwMzY3M15BMl5BanBnXkFtZTcwNTY2OTk5MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "george-of-the-jungle",
+    "title": "George of the Jungle",
+    "ptTitle": "George, O Rei da Floresta",
+    "year": 1997,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/george-of-the-jungle/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Comédia clássica dos anos 90 com Brendan Fraser e Leslie Mann. Um homem criado por gorilas na selva é levado para a alta sociedade de San Francisco, enfrentando a inadequação social e o choque cultural com ingenuidade e pureza de espírito.",
+    "curatorReason": "O arquétipo clássico do peixe fora d'água: a celebração da espontaneidade e do carisma desarmante contra a hipocrisia e as regras vazias de etiqueta da alta sociedade.",
+    "omdb": {
+      "title": "George of the Jungle",
+      "year": "1997",
+      "rated": "PG",
+      "released": "16 Jul 1997",
+      "runtime": "92 min",
+      "genre": "Action, Adventure, Comedy, Family, Romance",
+      "director": "Sam Weisman",
+      "writer": "Jay Ward, Dana Olsen, Audrey Wells",
+      "actors": "Brendan Fraser, Leslie Mann, Thomas Haden Church",
+      "plot": "A man raised in the jungle tries to adapt to modern life after he falls for an American heiress.",
+      "language": "English",
+      "country": "United States",
+      "awards": "1 win & 3 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        }
+      ],
+      "metascore": "53",
+      "imdbRating": "5.6",
+      "imdbVotes": "90,000",
+      "imdbID": "tt0119190",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103139.mp4",
+    "streamId": 103139,
+    "streamName": "George O Rei da Floresta",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTM2OTkwOF5BMl5BanBnXkFtZTgwNTQzNzAyNzE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "meet-the-parents",
+    "title": "Meet the Parents",
+    "ptTitle": "Entrando Numa Fria",
+    "year": 2000,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/meet-the-parents/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Comédia de enorme sucesso dirigida por Jay Roach com Ben Stiller e Robert De Niro. Greg Focker é um enfermeiro afetuoso porém crônicamente inseguro que entra em colapso de ansiedade social ao passar um fim de semana tentando impressionar o sogro ex-agente da CIA.",
+    "curatorReason": "A autópsia hilária do complexo de inferioridade masculino: como o pavor do ridículo e a obsessão por validação externa transformam pequenos mal-entendidos em catástrofes monumentais.",
+    "omdb": {
+      "title": "Meet the Parents",
+      "year": "2000",
+      "rated": "PG-13",
+      "released": "06 Oct 2000",
+      "runtime": "108 min",
+      "genre": "Comedy, Romance",
+      "director": "Jay Roach",
+      "writer": "Greg Glienna, Mary Ruth Clarke, Jim Herzfeld",
+      "actors": "Ben Stiller, Robert De Niro, Teri Polo",
+      "plot": "Male nurse Greg Focker promotes his intentions to his girlfriend's father, who takes an immediate and intense dislike to him.",
+      "language": "English, Spanish, Thai",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 7 wins & 15 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "metascore": "73",
+      "imdbRating": "7.0",
+      "imdbVotes": "380,000",
+      "imdbID": "tt0212338",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320886.mp4",
+    "streamId": 320886,
+    "streamName": "Entrando Numa Fria",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "id": "night-at-the-museum",
+    "title": "Night at the Museum",
+    "ptTitle": "Uma Noite no Museu",
+    "year": 2006,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/night-at-the-museum/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Aventura cômica e calorosa com Ben Stiller, Robin Williams e Owen Wilson. Larry Daley é um pai divorciado que pula de emprego em emprego, atormentado pela sensação de ser um fracasso aos olhos do filho, até aceitar o cargo de guarda noturno no Museu de História Natural.",
+    "curatorReason": "A redescoberta da autoestima e da competência pessoal: sob pressão sobrenatural, o homem desacreditado por todos encontra liderança, inteligência e o respeito de quem ama.",
+    "omdb": {
+      "title": "Night at the Museum",
+      "year": "2006",
+      "rated": "PG",
+      "released": "22 Dec 2006",
+      "runtime": "108 min",
+      "genre": "Adventure, Comedy, Family, Fantasy",
+      "director": "Shawn Levy",
+      "writer": "Robert Ben Garant, Thomas Lennon, Milan Trenc",
+      "actors": "Ben Stiller, Carla Gugino, Ricky Gervais",
+      "plot": "A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+      "language": "English, Italian, Hebrew",
+      "country": "United States, United Kingdom",
+      "awards": "2 wins & 17 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "43%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "metascore": "48",
+      "imdbRating": "6.5",
+      "imdbVotes": "370,000",
+      "imdbID": "tt0477347",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20871.mp4",
+    "streamId": 20871,
+    "streamName": "Uma Noite no Museu",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4ODI3Ml5BMl5BanBnXkFtZTcwMDE3MTUzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "the-waterboy",
+    "title": "The Waterboy",
+    "ptTitle": "O Rei da Água",
+    "year": 1998,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/the-waterboy/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Double Sound",
+    "curatorNote": "Comédia clássica de Frank Coraci com Adam Sandler e Kathy Bates. Bobby Boucher é um homem de 31 anos gago, tímido e com baixa autoestima extrema, humilhado desde a infância pelo time de futebol americano universitário para o qual distribui água.",
+    "curatorReason": "A apoteose do azarão: Bobby canaliza décadas de zombaria reprimida e raiva em foco físico demolidor, tornando-se o maior jogador da liga e conquistando seu amor-próprio.",
+    "omdb": {
+      "title": "The Waterboy",
+      "year": "1998",
+      "rated": "PG-13",
+      "released": "06 Nov 1998",
+      "runtime": "90 min",
+      "genre": "Comedy, Sport",
+      "director": "Frank Coraci",
+      "writer": "Tim Herlihy, Adam Sandler",
+      "actors": "Adam Sandler, Kathy Bates, Henry Winkler",
+      "plot": "A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.",
+      "language": "English",
+      "country": "United States",
+      "awards": "6 wins & 6 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "33%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "41/100"
+        }
+      ],
+      "metascore": "41",
+      "imdbRating": "6.2",
+      "imdbVotes": "175,000",
+      "imdbID": "tt0120484",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/382476.mp4",
+    "streamId": 382476,
+    "streamName": "O Rei da Água",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg5NzA1N15BMl5BanBnXkFtZTgwNTU5NTE4MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "id": "almost-famous",
+    "title": "Almost Famous",
+    "ptTitle": "Quase Famosos",
+    "year": 2000,
+    "category": "baixa-autoestima",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/almost-famous/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Vencedor do Oscar de Melhor Roteiro Original escrito e dirigido por Cameron Crowe com Patrick Fugit, Billy Crudup e Frances McDormand. William Miller é um garoto de 15 anos tímido, deslocado e sem traquejo social que é contratado pela Rolling Stone para cobrir a turnê de uma banda de rock dos anos 70.",
+    "curatorReason": "O amadurecimento comovente de um jovem que se enxergava como 'desprovido de charme' e que encontra sua força através da honestidade intelectual e da escrita apaixonada.",
+    "omdb": {
+      "title": "Almost Famous",
+      "year": "2000",
+      "rated": "R",
+      "released": "22 Sep 2000",
+      "runtime": "122 min",
+      "genre": "Adventure, Comedy, Drama, Music",
+      "director": "Cameron Crowe",
+      "writer": "Cameron Crowe",
+      "actors": "Billy Crudup, Patrick Fugit, Kate Hudson",
+      "plot": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+      "language": "English",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 58 wins & 104 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "metascore": "90",
+      "imdbRating": "7.9",
+      "imdbVotes": "290,000",
+      "imdbID": "tt0181875",
+      "type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/112995.mp4",
+    "streamId": 112995,
+    "streamName": "Quase Famosos (2000)",
+    "streamAvailable": true,
+    "isDirect": true,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg5MDA4OF5BMl5BanBnXkFtZTcwNzUxMjUxMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Videodrome",
