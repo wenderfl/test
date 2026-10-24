@@ -243,57 +243,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg"
   },
   {
-    "title": "Crawl",
-    "year": 2019,
-    "category": "action-horror",
-    "ptTitle": "Predadores Assassinos",
-    "curatorNote": "Sobrevivência em alta voltagem dirigida por Alexandre Aja: uma nadadora profissional fica presa em um porão alagado durante um furacão de categoria 5, cercada por aligátores gigantescos e famintos.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Crawl",
-      "year": "2019",
-      "rated": "R",
-      "released": "12 Jul 2019",
-      "runtime": "87 min",
-      "genre": "Action, Horror, Thriller",
-      "director": "Alexandre Aja",
-      "writer": "Michael Rasmussen, Shawn Rasmussen",
-      "actors": "Kaya Scodelario, Barry Pepper, Morfydd Clark",
-      "plot": "Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.",
-      "language": "English",
-      "country": "United States",
-      "awards": "6 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "84%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "60/100"
-        }
-      ],
-      "imdbRating": "6.1",
-      "imdbVotes": "104,653",
-      "imdbID": "tt8364368",
-      "boxOffice": "$39,014,193",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "terror",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/391960.mp4",
-    "streamName": "Predadores Assassinos",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Attack the Block",
     "year": 2011,
     "category": "action-horror",

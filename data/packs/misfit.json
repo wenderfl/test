@@ -830,52 +830,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgyODgyMTYzNV5BMl5BanBnXkFtZTgwMTk5NzY2MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "The Peanut Butter Falcon",
-    "ptTitle": "The Peanut Butter Falcon",
-    "year": 2019,
-    "category": "misfit",
-    "letterboxdUrl": "https://letterboxd.com/film/the-peanut-butter-falcon/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Jovem com sindrome de Down foge de abrigo para se tornar lutador de wrestling e encontra amigo protetor na estrada.",
-    "curatorReason": "Jovem com sindrome de Down foge de abrigo para se tornar lutador de wrestling e encontra amigo protetor na estrada.",
-    "omdb": {
-      "director": "Tyler Nilson, Michael Schwartz",
-      "writer": "Tyler Nilson, Michael Schwartz",
-      "actors": "Zack Gottsagen, Ann Pierce, Dakota Johnson",
-      "genre": "Adventure, Comedy, Drama",
-      "plot": "Zak, a man with Down syndrome, runs away from a residential nursing home to pursue his dream of becoming a wrestler. Later, he meets with an outlaw who becomes his friend and coach.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "7.6",
-      "rottenTomatoes": "95%",
-      "metascore": "70",
-      "runtime": "97 min",
-      "rated": "PG-13",
-      "imdbID": "tt4364194",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "70/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/30596.mp4",
-    "streamName": "The Peanut Butter Falcon Legendado",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Edward Scissorhands",
     "ptTitle": "Edward Maos de Tesoura",
     "year": 1990,

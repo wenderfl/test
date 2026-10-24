@@ -1,56 +1,5 @@
 [
   {
-    "title": "Crank",
-    "year": 2006,
-    "category": "adventure",
-    "ptTitle": "Adrenalina",
-    "curatorNote": "Uma das experiências mais frenéticas e cinéticas do cinema moderno: Jason Statham precisa manter o pulso cardíaco no ápice para se manter vivo.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Crank",
-      "year": "2006",
-      "rated": "R",
-      "released": "01 Sep 2006",
-      "runtime": "88 min",
-      "genre": "Action, Crime, Thriller",
-      "director": "Mark Neveldine, Brian Taylor",
-      "writer": "Mark Neveldine, Brian Taylor",
-      "actors": "Jason Statham, Amy Smart, Carlos Sanz",
-      "plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
-      "language": "English, Spanish, Korean",
-      "country": "United States",
-      "awards": "2 wins & 2 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "62%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "57/100"
-        }
-      ],
-      "imdbRating": "6.9",
-      "imdbVotes": "280,310",
-      "imdbID": "tt0479884",
-      "boxOffice": "$27,838,408",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103371.mp4",
-    "streamName": "Adrenalina",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-  },
-  {
     "title": "Shoot 'Em Up",
     "year": 2007,
     "category": "adventure",

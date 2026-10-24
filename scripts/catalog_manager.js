@@ -3,11 +3,22 @@
  * Catalog Manager CLI
  * Optimized tool for AI agents and developers to manage, add, sync, and validate movies & categories.
  * Strict compliance: Zero emojis, pure vector SVG, verified dubbings, and Letterboxd check.
+ *
+ * Mandatory requirement:
+ * Whenever a movie is added, it MUST be verified whether the user @wender_fl has already watched it,
+ * and whether the user can like it according to preferenciasDoUsuario.md.
  */
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { generateFeed } = require('./generate_opentv_feed');
+const {
+  checkIfWatched,
+  evaluateMoviePreferences,
+  validateCandidateMovie,
+  normalizeTitle
+} = require('./user_preference_checker');
 
 const BASE_DIR = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(BASE_DIR, 'data');
@@ -15,7 +26,9 @@ const PACKS_DIR = path.join(DATA_DIR, 'packs');
 const CATEGORIES_FILE = path.join(DATA_DIR, 'categories.json');
 const MOVIES_FILE = path.join(DATA_DIR, 'movies.json');
 const CATALOG_BUNDLE_FILE = path.join(DATA_DIR, 'catalog.js');
-const CACHE_FILE = path.resolve(BASE_DIR, '..', 'data', 'letterboxd_cache.json');
+const SOURCE_CACHE = path.resolve(BASE_DIR, '..', 'letterboxd-mcp', 'data', 'letterboxd_cache.json');
+const LOCAL_CACHE = path.join(DATA_DIR, 'letterboxd_cache.json');
+const CACHE_FILE = fs.existsSync(SOURCE_CACHE) ? SOURCE_CACHE : LOCAL_CACHE;
 const OMDB_API_KEY = '8d5e8777';
 
 function loadJson(file, defaultVal = null) {
@@ -77,18 +90,6 @@ function fetchOmdb(title, year = null) {
   });
 }
 
-function checkUserHistory(title) {
-  const cache = loadJson(CACHE_FILE, {});
-  const watched = new Set((cache.films || []).map(f => (f.title || f.name || '').toLowerCase().trim()));
-  const watchlist = new Set((cache.watchlist || []).map(f => (f.title || f.name || '').toLowerCase().trim()));
-
-  const lower = title.toLowerCase().trim();
-  return {
-    isWatched: watched.has(lower),
-    inWatchlist: watchlist.has(lower)
-  };
-}
-
 // Commands
 const command = process.argv[2];
 
@@ -122,7 +123,7 @@ switch (command) {
       pack.forEach(movie => {
         const norm = movie.title.toLowerCase().trim();
         if (seenTitles.has(norm)) {
-          console.error(`[Error] Movie "${movie.title}" exists in multiple packs: "${seenTitles.get(norm)}" and "${cat}"! Um filme não pode pertencer a mais de uma categoria.`);
+          console.error(`[Error] Movie "${movie.title}" exists in multiple packs: "${seenTitles.get(norm)}" and "${cat}"! Um filme nao pode pertencer a mais de uma categoria.`);
           hasOverlap = true;
         } else {
           seenTitles.set(norm, cat);
@@ -142,6 +143,106 @@ switch (command) {
     break;
   }
 
+  case 'check':
+  case 'check-candidate': {
+    const inputArg = process.argv[3];
+    const yearArg = process.argv[4] || null;
+
+    if (!inputArg) {
+      console.error(`[Usage] node scripts/catalog_manager.js check <path-to-json-file | "Movie Title"> [year]`);
+      process.exit(1);
+    }
+
+    async function runCheck() {
+      if (fs.existsSync(inputArg)) {
+        const data = loadJson(inputArg);
+        const candidates = Array.isArray(data) ? data : [data];
+        console.log(`=== Verificacao de Candidatos contra Historico & preferenciasDoUsuario.md ===`);
+        console.log(`Total de filmes para analise: ${candidates.length}\n`);
+
+        candidates.forEach((cand, idx) => {
+          const res = validateCandidateMovie(cand);
+          console.log(`[#${idx + 1}] "${cand.title}" [${cand.year || 'N/A'}] (Categoria: ${cand.category || 'N/A'})`);
+          console.log(`  - Assistido por @wender_fl: ${res.watchedCheck.isWatched ? 'SIM (BLOQUEADO)' : 'Nao'}`);
+          if (res.watchedCheck.isWatched) {
+            console.log(`    Motivo: ${res.watchedCheck.reason}`);
+          }
+          console.log(`  - Afinidade IA Estimada: ${res.preferenceCheck.affinityScore}%`);
+          console.log(`  - Status de Preferencias: ${res.preferenceCheck.approved ? 'APROVADO' : 'REPROVADO'}`);
+          if (res.preferenceCheck.matchedThemes.length > 0) {
+            console.log(`  - Tematicas Correspondentes: ${res.preferenceCheck.matchedThemes.join(', ')}`);
+          }
+          if (res.preferenceCheck.violations.length > 0) {
+            console.log(`  - Violacoes: ${res.preferenceCheck.violations.join('; ')}`);
+          }
+          console.log(`  - Veredito Final: ${res.valid ? 'APROVADO PARA INCLUSAO' : 'RECUSADO'}\n`);
+        });
+      } else {
+        // Query by title string via OMDB
+        console.log(`[Check] Consultando OMDB para "${inputArg}" ${yearArg ? `(${yearArg})` : ''}...`);
+        try {
+          const omdb = await fetchOmdb(inputArg, yearArg);
+          if (!omdb || omdb.Response === 'False') {
+            console.error(`[Error] Filme nao encontrado no OMDB: "${inputArg}"`);
+            process.exit(1);
+          }
+
+          const candidate = {
+            title: omdb.Title,
+            ptTitle: omdb.Title,
+            year: parseInt(omdb.Year, 10),
+            category: 'general',
+            parentCategory: 'art',
+            dubbed: true,
+            omdb: {
+              director: omdb.Director,
+              genre: omdb.Genre,
+              country: omdb.Country,
+              imdbRating: omdb.imdbRating,
+              metascore: omdb.Metascore,
+              plot: omdb.Plot
+            }
+          };
+
+          const res = validateCandidateMovie(candidate);
+          console.log(`\n=== Relatorio de Compatibilidade: "${omdb.Title}" (${omdb.Year}) ===`);
+          console.log(`Diretor: ${omdb.Director} | Pais: ${omdb.Country} | Genero: ${omdb.Genre} | IMDb: ${omdb.imdbRating}`);
+          console.log(`\n1. Verificacao de Historico Letterboxd (@wender_fl):`);
+          console.log(`   - Ja assistido: ${res.watchedCheck.isWatched ? 'SIM (PROIBIDO ADICIONAR)' : 'NAO (Liberado)'}`);
+          if (res.watchedCheck.isWatched) {
+            console.log(`   - Detalhe: ${res.watchedCheck.reason}`);
+          }
+
+          console.log(`\n2. Verificacao de Preferencias (preferenciasDoUsuario.md):`);
+          console.log(`   - Score de Afinidade: ${res.preferenceCheck.affinityScore}% (Minimo: 75%)`);
+          console.log(`   - Status: ${res.preferenceCheck.approved ? 'APROVADO' : 'REPROVADO'}`);
+          if (res.preferenceCheck.matchedThemes.length > 0) {
+            console.log(`   - Tematicas Compatíveis:`);
+            res.preferenceCheck.matchedThemes.forEach(t => console.log(`     * ${t}`));
+          }
+          if (res.preferenceCheck.bonuses.length > 0) {
+            console.log(`   - Bonificacoes:`);
+            res.preferenceCheck.bonuses.forEach(b => console.log(`     + ${b.label} (+${b.points}%)`));
+          }
+          if (res.preferenceCheck.penalties.length > 0) {
+            console.log(`   - Penalidades:`);
+            res.preferenceCheck.penalties.forEach(p => console.log(`     - ${p.label} (${p.points}%)`));
+          }
+          if (res.preferenceCheck.violations.length > 0) {
+            console.log(`   - Restricoes Violadas:`);
+            res.preferenceCheck.violations.forEach(v => console.log(`     ! ${v}`));
+          }
+
+          console.log(`\n3. Veredito Final: ${res.valid ? 'APROVADO PARA O CATALOGO' : 'REPROVADO (Nao atende aos criterios obrigatorios)'}\n`);
+        } catch (err) {
+          console.error(`[Error] Falha na consulta:`, err.message);
+        }
+      }
+    }
+    runCheck();
+    break;
+  }
+
   case 'add': {
     const fileArg = process.argv[3];
     if (!fileArg || !fs.existsSync(fileArg)) {
@@ -151,43 +252,68 @@ switch (command) {
     const incoming = loadJson(fileArg);
     const moviesToAdd = Array.isArray(incoming) ? incoming : [incoming];
     const currentMovies = loadJson(MOVIES_FILE, []);
-    const existingTitles = new Set(currentMovies.map(m => m.title.toLowerCase()));
+    const categories = loadJson(CATEGORIES_FILE, []);
+    const catMap = new Map(categories.map(c => [c.id, c]));
+
+    console.log(`[Add] Processando ${moviesToAdd.length} filme(s) com validacao obrigatoria de historico e preferencias...`);
 
     let addedCount = 0;
+    let rejectedCount = 0;
+
     moviesToAdd.forEach(m => {
-      if (!existingTitles.has(m.title.toLowerCase())) {
-        const history = checkUserHistory(m.title);
-        m.watched = false;
-        m.inWatchlist = history.inWatchlist;
+      // 1. Mandatory candidate validation: Watched check + preferenciasDoUsuario.md check
+      const validation = validateCandidateMovie(m, currentMovies);
 
-        if (history.isWatched) {
-          console.warn(`[Warning] User @wender_fl has ALREADY WATCHED "${m.title}". Consider replacing.`);
-        }
-
-        currentMovies.push(m);
-        existingTitles.add(m.title.toLowerCase());
-        addedCount++;
-
-        // Also update individual pack file if category exists
-        const packFile = path.join(PACKS_DIR, `${m.category}.json`);
-        if (fs.existsSync(packFile)) {
-          const packData = loadJson(packFile, []);
-          packData.push(m);
-          saveJson(packFile, packData);
-        }
-      } else {
-        console.log(`[Skip] Movie already exists: "${m.title}"`);
+      if (!validation.valid) {
+        console.error(`\n[REPROVADO] Filme "${m.title}" nao pode ser adicionado:`);
+        validation.errors.forEach(err => console.error(`  - ${err}`));
+        rejectedCount++;
+        return;
       }
+
+      // 2. Category check
+      if (!catMap.has(m.category)) {
+        console.error(`\n[REPROVADO] Filme "${m.title}": categoria "${m.category}" nao existe em categories.json.`);
+        rejectedCount++;
+        return;
+      }
+
+      // 3. Parent category normalization
+      const targetCat = catMap.get(m.category);
+      m.parentCategory = targetCat.parentCategory;
+      m.watched = false;
+      m.inWatchlist = validation.watchedCheck.inWatchlist;
+
+      // 4. Add to currentMovies list
+      currentMovies.push(m);
+      addedCount++;
+
+      // 5. Update individual pack file
+      const packFile = path.join(PACKS_DIR, `${m.category}.json`);
+      if (fs.existsSync(packFile)) {
+        const packData = loadJson(packFile, []);
+        packData.push(m);
+        saveJson(packFile, packData);
+      }
+
+      console.log(`[APROVADO] "${m.title}" (${m.year || 'N/A'}) adicionado a "${m.category}" com ${validation.preferenceCheck.affinityScore}% de afinidade.`);
     });
 
-    saveJson(MOVIES_FILE, currentMovies);
-    updateBundle();
-    console.log(`[Success] Added ${addedCount} new movies to catalog.`);
+    if (addedCount > 0) {
+      saveJson(MOVIES_FILE, currentMovies);
+      updateBundle();
+      // Synchronize OpenTV feed automatically
+      generateFeed();
+      console.log(`\n[Sucesso] ${addedCount} filme(s) aprovado(s) e adicionado(s) ao catalogo e ao feed OpenTV.`);
+    }
+
+    if (rejectedCount > 0) {
+      console.log(`[Alerta] ${rejectedCount} filme(s) rejeitado(s) por violarem o historico do usuario ou as diretrizes de preferenciasDoUsuario.md.`);
+    }
     break;
   }
 
   case 'add-category': {
-    // Usage: node scripts/catalog_manager.js add-category --id <id> --name <name> --badge <label> --color <color> --icon <iconSvg>
     const args = process.argv.slice(3);
     const params = {};
     for (let i = 0; i < args.length; i += 2) {
@@ -196,7 +322,7 @@ switch (command) {
     }
 
     if (!params.id || !params.name) {
-      console.error(`[Usage] node scripts/catalog_manager.js add-category --id <id> --name <name> --badge <label> --color <hex> --icon <svg>`);
+      console.error(`[Usage] node scripts/catalog_manager.js add-category --id <id> --name <name> --badge <label> --color <hex> --icon <svg> --parent <terror|besteirol|art>`);
       process.exit(1);
     }
 
@@ -210,6 +336,7 @@ switch (command) {
       id: params.id,
       name: params.name,
       badgeLabel: params.badge || params.name,
+      parentCategory: params.parent || 'art',
       accentColor: params.color || '#00d2ff',
       gradient: params.gradient || `linear-gradient(135deg, ${params.color || '#00d2ff'} 0%, #0044aa 100%)`,
       glowColor: params.glow || `rgba(0, 210, 255, 0.35)`,
@@ -220,14 +347,13 @@ switch (command) {
     categories.push(newCat);
     saveJson(CATEGORIES_FILE, categories);
 
-    // Create empty pack
     const packFile = path.join(PACKS_DIR, `${newCat.id}.json`);
     if (!fs.existsSync(packFile)) {
       saveJson(packFile, []);
     }
 
     updateBundle();
-    console.log(`[Success] Added category "${newCat.name}" (${newCat.id})`);
+    console.log(`[Success] Added category "${newCat.name}" (${newCat.id}) under parent "${newCat.parentCategory}"`);
     break;
   }
 
@@ -254,7 +380,7 @@ switch (command) {
     const titles = new Set();
     let errors = 0;
 
-    // Check emojis in files
+    // 1. Check emojis in files
     [CATEGORIES_FILE, MOVIES_FILE].forEach(file => {
       const content = fs.readFileSync(file, 'utf8');
       if (emojiRegex.test(content)) {
@@ -263,7 +389,7 @@ switch (command) {
       }
     });
 
-    // Check duplicate movies across category packs (Strict: 1 movie = 1 category)
+    // 2. Check duplicate movies across category packs (Strict: 1 movie = 1 category)
     const packFiles = fs.existsSync(PACKS_DIR) ? fs.readdirSync(PACKS_DIR).filter(f => f.endsWith('.json')) : [];
     const packTitleMap = new Map();
     const packImdbMap = new Map();
@@ -302,6 +428,7 @@ switch (command) {
       }
     }
 
+    // 3. Movies integrity checks
     movies.forEach((m, idx) => {
       if (!m.title || !m.category) {
         console.error(`[Error] Movie #${idx} is missing title or category`);
@@ -322,7 +449,7 @@ switch (command) {
       titles.add(m.title.toLowerCase());
     });
 
-    // Verify all concrete categories have a valid parentCategory
+    // 4. Verify all concrete categories have a valid parentCategory
     const validParents = new Set(['terror', 'besteirol', 'art']);
     categories.forEach(c => {
       if (!c.isMegaCategory) {
@@ -333,12 +460,11 @@ switch (command) {
       }
     });
 
-    // Check against Letterboxd watched history
-    const cache = loadJson(CACHE_FILE, {});
-    const lbWatchedSet = new Set((cache.films || []).map(f => (f.name || f.title || '').toLowerCase().trim()));
+    // 5. Mandatory Watched Check on ALL movies in catalog using user_preference_checker
     movies.forEach(m => {
-      if (lbWatchedSet.has(m.title.toLowerCase().trim())) {
-        console.error(`[Rule Violation] Movie "${m.title}" was ALREADY WATCHED by @wender_fl on Letterboxd! It cannot be recommended.`);
+      const watchedCheck = checkIfWatched(m);
+      if (watchedCheck.isWatched) {
+        console.error(`[Rule Violation] Movie "${m.title}" was ALREADY WATCHED by @wender_fl on Letterboxd! (${watchedCheck.reason})`);
         errors++;
       }
     });
@@ -355,14 +481,14 @@ switch (command) {
   case 'undubbed': {
     const UNDUBBED_FILE = path.join(DATA_DIR, 'undubbed_reports.json');
     const reports = loadJson(UNDUBBED_FILE, []);
-    console.log(`=== Filmes Reportados Sem Dublagem (para Verificação IA) ===`);
+    console.log(`=== Filmes Reportados Sem Dublagem (para Verificacao IA) ===`);
     console.log(`Total Reportados: ${reports.length}\n`);
     if (reports.length === 0) {
       console.log(`Nenhum filme reportado sem dublagem no momento.`);
     } else {
       reports.forEach((r, idx) => {
         console.log(`${idx + 1}. "${r.title}" ${r.ptTitle ? `(${r.ptTitle})` : ''} [${r.year || 'N/A'}]`);
-        console.log(`   Coleção: ${r.category || 'N/A'} | Reportado em: ${r.reportedAt || 'N/A'}`);
+        console.log(`   Colecao: ${r.category || 'N/A'} | Reportado em: ${r.reportedAt || 'N/A'}`);
       });
     }
     break;
@@ -377,9 +503,10 @@ Available commands:
   node scripts/catalog_manager.js validate
   node scripts/catalog_manager.js sync-packs
   node scripts/catalog_manager.js undubbed
+  node scripts/catalog_manager.js check "Movie Title" [year]
+  node scripts/catalog_manager.js check-candidate <path-to-json-file>
   node scripts/catalog_manager.js add <path-to-movies-json>
-  node scripts/catalog_manager.js add-category --id <id> --name <name> --badge <label> --color <hex> --icon <svg>
+  node scripts/catalog_manager.js add-category --id <id> --name <name> --badge <label> --color <hex> --icon <svg> --parent <terror|besteirol|art>
   node scripts/catalog_manager.js fetch-omdb "Title" [year]
 `);
 }
-

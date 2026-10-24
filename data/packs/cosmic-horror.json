@@ -489,48 +489,48 @@
     }
   },
   {
-    "title": "Underwater",
-    "ptTitle": "Ameaça Profunda",
+    "title": "Possessor",
+    "ptTitle": "Possessor",
     "year": 2020,
     "category": "cosmic-horror",
     "parentCategory": "terror",
-    "letterboxdUrl": "https://letterboxd.com/film/underwater-2020/",
+    "letterboxdUrl": "https://letterboxd.com/film/possessor/",
     "inWatchlist": false,
     "watched": false,
     "dubbed": true,
     "dubbingStudio": "Delart",
-    "curatorNote": "Terror cósmico Lovecraftiano de sobrevivência na Fossa das Marianas, com atmosfera claustrofóbica e despertar de entidades ancestrais abissais.",
-    "curatorReason": "Ritmo frenético do início ao fim com design de som imersivo e visual impressionante de criaturas submarinas descomunais.",
+    "curatorNote": "Terror cósmico e psicológico visceral de Brandon Cronenberg onde uma assassina que invade corpos alheios através de implantes cerebrais perde o controle sobre sua própria consciência.",
+    "curatorReason": "Efeitos práticos alucinatórios, atmosfera sufocante de perda de identidade e violência clínica arrebatadora.",
     "omdb": {
-      "title": "Underwater",
+      "title": "Possessor",
       "year": "2020",
-      "rated": "PG-13",
-      "released": "10 Jan 2020",
-      "runtime": "95 min",
-      "genre": "Action, Adventure, Horror",
-      "director": "William Eubank",
-      "writer": "Brian Duffield, Adam Cozad",
-      "actors": "Kristen Stewart, Vincent Cassel, Mamoudou Athie",
-      "plot": "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility.",
+      "rated": "R",
+      "released": "02 Oct 2020",
+      "runtime": "103 min",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "director": "Brandon Cronenberg",
+      "writer": "Brandon Cronenberg",
+      "actors": "Andrea Riseborough, Christopher Abbott, Jennifer Jason Leigh",
+      "plot": "Tasya Vos, an elite corporate assassin, uses brain-implant technology to inhabit other bodies and eliminate high-profile targets.",
       "language": "English",
-      "country": "United States",
-      "awards": "1 win & 4 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "country": "United Kingdom, Canada",
+      "awards": "16 wins & 45 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzIwNjA4M15BMl5BanBnXkFtZTgwMDUyMDgzNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "5.9/10"
+          "Value": "6.5/10"
         }
       ],
-      "imdbRating": "5.9",
-      "imdbVotes": "110,563",
-      "imdbID": "tt5774060",
+      "imdbRating": "6.5",
+      "imdbVotes": "61,000",
+      "imdbID": "tt5918996",
       "type": "movie"
     },
     "iptvLink": {
       "available": true,
-      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4",
-      "streamName": "Ameaça Profunda",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134030.mp4",
+      "streamName": "Possessor",
       "extension": "mp4"
     }
   }

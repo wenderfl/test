@@ -243,57 +243,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg"
   },
   {
-    "title": "Crawl",
-    "year": 2019,
-    "category": "action-horror",
-    "ptTitle": "Predadores Assassinos",
-    "curatorNote": "Sobrevivência em alta voltagem dirigida por Alexandre Aja: uma nadadora profissional fica presa em um porão alagado durante um furacão de categoria 5, cercada por aligátores gigantescos e famintos.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Crawl",
-      "year": "2019",
-      "rated": "R",
-      "released": "12 Jul 2019",
-      "runtime": "87 min",
-      "genre": "Action, Horror, Thriller",
-      "director": "Alexandre Aja",
-      "writer": "Michael Rasmussen, Shawn Rasmussen",
-      "actors": "Kaya Scodelario, Barry Pepper, Morfydd Clark",
-      "plot": "Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.",
-      "language": "English",
-      "country": "United States",
-      "awards": "6 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "84%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "60/100"
-        }
-      ],
-      "imdbRating": "6.1",
-      "imdbVotes": "104,653",
-      "imdbID": "tt8364368",
-      "boxOffice": "$39,014,193",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "terror",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/391960.mp4",
-    "streamName": "Predadores Assassinos",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4NjJmZDgtMzk4MS00MmYzLWI0YjAtZWU0NTNmMDJhNzI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Attack the Block",
     "year": 2011,
     "category": "action-horror",
@@ -723,57 +672,6 @@
     "streamName": "Wyrmwood: O Fim dos Tempos",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjExNzM3NF5BMl5BanBnXkFtZTgwNTgxOTU5MzE@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Crank",
-    "year": 2006,
-    "category": "adventure",
-    "ptTitle": "Adrenalina",
-    "curatorNote": "Uma das experiências mais frenéticas e cinéticas do cinema moderno: Jason Statham precisa manter o pulso cardíaco no ápice para se manter vivo.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Crank",
-      "year": "2006",
-      "rated": "R",
-      "released": "01 Sep 2006",
-      "runtime": "88 min",
-      "genre": "Action, Crime, Thriller",
-      "director": "Mark Neveldine, Brian Taylor",
-      "writer": "Mark Neveldine, Brian Taylor",
-      "actors": "Jason Statham, Amy Smart, Carlos Sanz",
-      "plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
-      "language": "English, Spanish, Korean",
-      "country": "United States",
-      "awards": "2 wins & 2 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "62%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "57/100"
-        }
-      ],
-      "imdbRating": "6.9",
-      "imdbVotes": "280,310",
-      "imdbID": "tt0479884",
-      "boxOffice": "$27,838,408",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103371.mp4",
-    "streamName": "Adrenalina",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_QL75_UX380_CR0,2,380,562_.jpg"
   },
   {
     "title": "Shoot 'Em Up",
@@ -2328,108 +2226,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzYwZTRhMzMtMmRkNi00ODc2LWE0ODktNTUwYzVjMWJhMjViXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
-    "title": "Kubo and the Two Strings",
-    "year": 2016,
-    "category": "animation",
-    "ptTitle": "Kubo e as Cordas Mágicas",
-    "curatorNote": "Obra-prima artesanal da Laika que combina animação e fantasia épica com coreografias dinâmicas de artes marciais, combates contra monstros míticos e ritmo arrebatador.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Kubo and the Two Strings",
-      "year": "2016",
-      "rated": "PG",
-      "released": "19 Aug 2016",
-      "runtime": "101 min",
-      "genre": "Animation, Action, Adventure",
-      "director": "Travis Knight",
-      "writer": "Marc Haimes, Chris Butler, Shannon Tindle",
-      "actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
-      "plot": "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.",
-      "language": "English",
-      "country": "United States, Canada, United Kingdom",
-      "awards": "Nominated for 2 Oscars. 33 wins & 67 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "97%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "84/100"
-        }
-      ],
-      "imdbRating": "7.7",
-      "imdbVotes": "148,706",
-      "imdbID": "tt4302938",
-      "boxOffice": "$48,023,088",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/128570.mp4",
-    "streamName": "Kubo e as Cordas Mágicas",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "How to Train Your Dragon",
-    "year": 2010,
-    "category": "animation",
-    "ptTitle": "Como Treinar o Seu Dragão",
-    "curatorNote": "O ápice da aventura épica da DreamWorks: sequências de voo supersônicas de tirar o fôlego, manobras aéreas acrobáticas entre penhascos e batalhas colossais contra dragões gigantes.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "How to Train Your Dragon",
-      "year": "2010",
-      "rated": "PG",
-      "released": "26 Mar 2010",
-      "runtime": "98 min",
-      "genre": "Animation, Action, Adventure",
-      "director": "Dean DeBlois, Chris Sanders",
-      "writer": "William Davies, Dean DeBlois, Chris Sanders",
-      "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
-      "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
-      "language": "English",
-      "country": "United States",
-      "awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "99%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "75/100"
-        }
-      ],
-      "imdbRating": "8.1",
-      "imdbVotes": "910,697",
-      "imdbID": "tt0892769",
-      "boxOffice": "$217,581,231",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/335543.mp4",
-    "streamName": "Como Treinar o Seu Dragão 4K",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-  },
-  {
     "title": "Sinbad: Legend of the Seven Seas",
     "year": 2003,
     "category": "animation",
@@ -2481,57 +2277,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMzE1ODI3NF5BMl5BanBnXkFtZTYwMDE3NDc2._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
-    "title": "The Road to El Dorado",
-    "year": 2000,
-    "category": "animation",
-    "ptTitle": "O Caminho para El Dorado",
-    "curatorNote": "Corrida cômica e vibrante através do Novo Mundo: ritmo ágil, fugas acrobáticas, humor físico brilhante e dublagem brasileira clássica inesquecível.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "The Road to El Dorado",
-      "year": "2000",
-      "rated": "PG",
-      "released": "31 Mar 2000",
-      "runtime": "89 min",
-      "genre": "Animation, Adventure, Comedy",
-      "director": "Bibo Bergeron, Don Paul, Jeffrey Katzenberg",
-      "writer": "Ted Elliott, Terry Rossio, Karey Kirkpatrick",
-      "actors": "Kevin Kline, Kenneth Branagh, Rosie Perez",
-      "plot": "Two swindlers get their hands on a map to the fabled city of gold, El Dorado.",
-      "language": "English",
-      "country": "United States",
-      "awards": "1 win & 12 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "49%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "51/100"
-        }
-      ],
-      "imdbRating": "6.9",
-      "imdbVotes": "121,138",
-      "imdbID": "tt0138749",
-      "boxOffice": "$50,863,742",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/64389.mp4",
-    "streamName": "O Caminho para El Dorado",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDBmYTEtYjM3MS00NDhkLWFhNjYtZGYxYzA2OGUyZjQ2XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
-  },
-  {
     "title": "The Mitchells vs. the Machines",
     "year": 2021,
     "category": "animation",
@@ -2581,149 +2326,6 @@
     "streamName": "A Família Mitchell e a Revolta das Máquinas",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Rise of the Guardians",
-    "year": 2012,
-    "category": "animation",
-    "ptTitle": "A Origem dos Guardiões",
-    "curatorNote": "Ação de fantasia cinética e espetacular: lendas do folclore unidas em batalhas de alta velocidade contra os pesadelos que ameaçam o mundo.",
-    "inWatchlist": false,
-    "watched": false,
-    "omdb": {
-      "title": "Rise of the Guardians",
-      "year": "2012",
-      "rated": "PG",
-      "released": "21 Nov 2012",
-      "runtime": "97 min",
-      "genre": "Animation, Action, Adventure",
-      "director": "Peter Ramsey",
-      "writer": "David Lindsay-Abaire, William Joyce, Chris Appelhans",
-      "actors": "Hugh Jackman, Alec Baldwin, Isla Fisher",
-      "plot": "When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world.",
-      "language": "English, French",
-      "country": "United States, India",
-      "awards": "14 wins & 32 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_QL75_UX380_CR0,14,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "74%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "58/100"
-        }
-      ],
-      "imdbRating": "7.2",
-      "imdbVotes": "211,979",
-      "imdbID": "tt1446192",
-      "boxOffice": "$103,412,758",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_QL75_UX380_CR0,14,380,562_.jpg"
-    },
-    "dubbed": true,
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/378648.mp4",
-    "streamName": "A Origem dos Guardiões",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_QL75_UX380_CR0,14,380,562_.jpg"
-  },
-  {
-    "title": "Klaus",
-    "ptTitle": "Klaus",
-    "year": 2019,
-    "category": "animation",
-    "letterboxdUrl": "https://letterboxd.com/film/klaus/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Animacao 2D inovadora e visualmente deslumbrante sobre um carteiro egoista e um carpinteiro solitario que transformam uma ilha gelida.",
-    "curatorReason": "Animacao 2D inovadora e visualmente deslumbrante sobre um carteiro egoista e um carpinteiro solitario que transformam uma ilha gelida.",
-    "omdb": {
-      "director": "Carlos Martínez López, Sergio Pablos",
-      "writer": "Sergio Pablos, Jim Mahoney, Zach Lewis",
-      "actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones",
-      "genre": "Animation, Adventure, Comedy",
-      "plot": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "8.2",
-      "rottenTomatoes": "95%",
-      "metascore": "65",
-      "runtime": "96 min",
-      "rated": "PG",
-      "imdbID": "tt4729430",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "65/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/30651.mp4",
-    "streamName": "Klaus",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "ParaNorman",
-    "ptTitle": "ParaNorman",
-    "year": 2012,
-    "category": "animation",
-    "letterboxdUrl": "https://letterboxd.com/film/paranorman/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Stop-motion primoroso da Laika sobre um garoto que conversa com fantasmas e precisa salvar sua cidade de uma maldicao secular.",
-    "curatorReason": "Stop-motion primoroso da Laika sobre um garoto que conversa com fantasmas e precisa salvar sua cidade de uma maldicao secular.",
-    "omdb": {
-      "director": "Chris Butler, Sam Fell",
-      "writer": "Chris Butler",
-      "actors": "Kodi Smit-McPhee, Anna Kendrick, Christopher Mintz-Plasse",
-      "genre": "Animation, Adventure, Comedy",
-      "plot": "A misunderstood boy takes on ghosts, zombies and grown-ups to save his town from a centuries-old curse.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTI0MjA3M2ItY2QzMS00MzZiLWE5YTAtM2ZlODk1MjBhNjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "imdbRating": "7.0",
-      "rottenTomatoes": "89%",
-      "metascore": "72",
-      "runtime": "92 min",
-      "rated": "PG",
-      "imdbID": "tt1623288",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "89%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "72/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI0MjA3M2ItY2QzMS00MzZiLWE5YTAtM2ZlODk1MjBhNjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318534.mp4",
-    "streamName": "ParaNorman",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI0MjA3M2ItY2QzMS00MzZiLWE5YTAtM2ZlODk1MjBhNjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
   },
   {
     "title": "Wolfwalkers",
@@ -2937,61 +2539,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "WALL-E",
-    "ptTitle": "WALL-E",
-    "year": 2008,
-    "category": "animation",
-    "letterboxdUrl": "https://letterboxd.com/film/wall-e/",
-    "inWatchlist": false,
-    "watched": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Vencedor do Oscar de Melhor Animação da Pixar, dirigido por Andrew Stanton. Um solitário robô compactador de lixo cuida de uma Terra abandonada há séculos.",
-    "curatorReason": "Narrativa visual quase silenciosa de pura poesia cinematográfica sobre amor, solidão cósmica e a urgência ecológica de resgatar nossa humanidade.",
-    "omdb": {
-      "title": "WALL·E",
-      "year": "2008",
-      "rated": "G",
-      "released": "27 Jun 2008",
-      "runtime": "98 min",
-      "genre": "Animation, Adventure, Family",
-      "director": "Andrew Stanton",
-      "writer": "Andrew Stanton, Pete Docter, Jim Reardon",
-      "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
-      "plot": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny.",
-      "language": "English",
-      "country": "United States, Japan",
-      "awards": "Won 1 Oscar. 96 wins & 95 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "95/100"
-        }
-      ],
-      "metascore": "95",
-      "imdbRating": "8.4",
-      "imdbVotes": "1,344,711",
-      "imdbID": "tt0910970",
-      "boxOffice": "$223,808,164",
-      "type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/110836.mp4",
-    "streamName": "WALL-E",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Inside Out 2",
     "ptTitle": "Divertida Mente 2",
     "year": 2024,
@@ -3045,6 +2592,52 @@
     "streamName": "Divertida Mente 2",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+  },
+  {
+    "title": "Princess Mononoke",
+    "ptTitle": "Princesa Mononoke",
+    "year": 1997,
+    "category": "animation",
+    "parentCategory": "art",
+    "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke/",
+    "inWatchlist": false,
+    "watched": false,
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "curatorNote": "Obra-prima épica de animação tradicional do Studio Ghibli e Hayao Miyazaki sobre o confronto devastador entre humanos e espíritos da floresta.",
+    "curatorReason": "Visual arrebatador pintado à mão, trilha sonora monumental e narrativa mitológica sem heróis fáceis ou maniqueísmo moral.",
+    "omdb": {
+      "title": "Princess Mononoke",
+      "year": "1997",
+      "rated": "PG-13",
+      "released": "19 Dec 1999",
+      "runtime": "134 min",
+      "genre": "Animation, Action, Adventure, Fantasy",
+      "director": "Hayao Miyazaki",
+      "writer": "Hayao Miyazaki, Neil Gaiman",
+      "actors": "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka",
+      "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony.",
+      "language": "Japanese",
+      "country": "Japan",
+      "awards": "18 wins & 12 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZGUeed12_V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        }
+      ],
+      "imdbRating": "8.4",
+      "imdbVotes": "450,000",
+      "imdbID": "tt0119698",
+      "type": "movie"
+    },
+    "iptvLink": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4",
+      "streamName": "Princesa Mononoke",
+      "extension": "mp4"
+    }
   },
   {
     "title": "Hellsing Ultimate",
@@ -8624,48 +8217,48 @@
     }
   },
   {
-    "title": "Underwater",
-    "ptTitle": "Ameaça Profunda",
+    "title": "Possessor",
+    "ptTitle": "Possessor",
     "year": 2020,
     "category": "cosmic-horror",
     "parentCategory": "terror",
-    "letterboxdUrl": "https://letterboxd.com/film/underwater-2020/",
+    "letterboxdUrl": "https://letterboxd.com/film/possessor/",
     "inWatchlist": false,
     "watched": false,
     "dubbed": true,
     "dubbingStudio": "Delart",
-    "curatorNote": "Terror cósmico Lovecraftiano de sobrevivência na Fossa das Marianas, com atmosfera claustrofóbica e despertar de entidades ancestrais abissais.",
-    "curatorReason": "Ritmo frenético do início ao fim com design de som imersivo e visual impressionante de criaturas submarinas descomunais.",
+    "curatorNote": "Terror cósmico e psicológico visceral de Brandon Cronenberg onde uma assassina que invade corpos alheios através de implantes cerebrais perde o controle sobre sua própria consciência.",
+    "curatorReason": "Efeitos práticos alucinatórios, atmosfera sufocante de perda de identidade e violência clínica arrebatadora.",
     "omdb": {
-      "title": "Underwater",
+      "title": "Possessor",
       "year": "2020",
-      "rated": "PG-13",
-      "released": "10 Jan 2020",
-      "runtime": "95 min",
-      "genre": "Action, Adventure, Horror",
-      "director": "William Eubank",
-      "writer": "Brian Duffield, Adam Cozad",
-      "actors": "Kristen Stewart, Vincent Cassel, Mamoudou Athie",
-      "plot": "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility.",
+      "rated": "R",
+      "released": "02 Oct 2020",
+      "runtime": "103 min",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "director": "Brandon Cronenberg",
+      "writer": "Brandon Cronenberg",
+      "actors": "Andrea Riseborough, Christopher Abbott, Jennifer Jason Leigh",
+      "plot": "Tasya Vos, an elite corporate assassin, uses brain-implant technology to inhabit other bodies and eliminate high-profile targets.",
       "language": "English",
-      "country": "United States",
-      "awards": "1 win & 4 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "country": "United Kingdom, Canada",
+      "awards": "16 wins & 45 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzIwNjA4M15BMl5BanBnXkFtZTgwMDUyMDgzNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "5.9/10"
+          "Value": "6.5/10"
         }
       ],
-      "imdbRating": "5.9",
-      "imdbVotes": "110,563",
-      "imdbID": "tt5774060",
+      "imdbRating": "6.5",
+      "imdbVotes": "61,000",
+      "imdbID": "tt5918996",
       "type": "movie"
     },
     "iptvLink": {
       "available": true,
-      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4",
-      "streamName": "Ameaça Profunda",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134030.mp4",
+      "streamName": "Possessor",
       "extension": "mp4"
     }
   },
@@ -15386,52 +14979,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
-    "title": "Kate",
-    "ptTitle": "Kate",
-    "year": 2021,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/kate/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Assassina de elite envenenada tem menos de 24 horas para se vingar pelas ruas de Toquio com tiroteios viscerais.",
-    "curatorReason": "Assassina de elite envenenada tem menos de 24 horas para se vingar pelas ruas de Toquio com tiroteios viscerais.",
-    "omdb": {
-      "director": "Cedric Nicolas-Troyan",
-      "writer": "Umair Aleem",
-      "actors": "Mary Elizabeth Winstead, Woody Harrelson, Miku Martineau",
-      "genre": "Action, Adventure, Crime",
-      "plot": "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTliYmJjYzQtOTU1Mi00NDE1LTgxZTEtYmQwOTk1NTZlOTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "6.3",
-      "rottenTomatoes": "45%",
-      "metascore": "47",
-      "runtime": "106 min",
-      "rated": "R",
-      "imdbID": "tt7737528",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "45%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "47/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTliYmJjYzQtOTU1Mi00NDE1LTgxZTEtYmQwOTk1NTZlOTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/127407.mp4",
-    "streamName": "Kate",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTliYmJjYzQtOTU1Mi00NDE1LTgxZTEtYmQwOTk1NTZlOTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Polite Society",
     "ptTitle": "Polite Society",
     "year": 2023,
@@ -15476,98 +15023,6 @@
     "streamName": "Polite Society",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BYmQ2ZDNhNjQtYjdjMS00MjEzLWJlYzYtM2U0OGE1OGNlZTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Jolt",
-    "ptTitle": "Jolt: Furia Fatal",
-    "year": 2021,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/jolt/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Seguranca de boate com impulsos assassinos controlados por colete de eletrochoque usa sua furia descomunal para vingar namorado.",
-    "curatorReason": "Seguranca de boate com impulsos assassinos controlados por colete de eletrochoque usa sua furia descomunal para vingar namorado.",
-    "omdb": {
-      "director": "Tanya Wexler",
-      "writer": "Scott Wascha",
-      "actors": "Kate Beckinsale, Jai Courtney, Stanley Tucci",
-      "genre": "Action, Comedy, Crime",
-      "plot": "A bouncer with a slightly murderous anger-management problem that she controls with the help of an electrode-lined vest she uses to shock herself back to normalcy whenever she gets homicidal.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-      "imdbRating": "5.6",
-      "rottenTomatoes": "40%",
-      "metascore": "48",
-      "runtime": "91 min",
-      "rated": "R",
-      "imdbID": "tt10228134",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "40%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "48/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/113025.mp4",
-    "streamName": "Jolt: Fúria Fatal",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDJmMjBiYTItOGUwMC00M2U2LWI3NTMtMDkzYTgzZGUzODAyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg"
-  },
-  {
-    "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
-    "ptTitle": "Aves de Rapina",
-    "year": 2020,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Harley Quinn e grupo improvavel de heroinas assumem seu proprio poder e dominam Gotham com atitude e porrada colorida.",
-    "curatorReason": "Harley Quinn e grupo improvavel de heroinas assumem seu proprio poder e dominam Gotham com atitude e porrada colorida.",
-    "omdb": {
-      "director": "Cathy Yan",
-      "writer": "Christina Hodson, Paul Dini, Bruce Timm",
-      "actors": "Margot Robbie, Rosie Perez, Mary Elizabeth Winstead",
-      "genre": "Action, Comedy, Crime",
-      "plot": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "imdbRating": "6.0",
-      "rottenTomatoes": "79%",
-      "metascore": "60",
-      "runtime": "109 min",
-      "rated": "R",
-      "imdbID": "tt7713068",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "79%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "60/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/41848.mp4",
-    "streamName": "Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn [L]",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Happy Death Day",
@@ -16306,182 +15761,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDI2NjgxNl5BMl5BanBnXkFtZTcwMTYyNjA3NQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
   },
   {
-    "title": "The Babysitter",
-    "ptTitle": "A Baba",
-    "year": 2017,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/the-babysitter/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Garoto timido e covarde descobre que a baba lidera um culto satanico e usa engenhosidade para derrotar o bando na propria casa.",
-    "curatorReason": "Garoto timido e covarde descobre que a baba lidera um culto satanico e usa engenhosidade para derrotar o bando na propria casa.",
-    "omdb": {
-      "director": "McG",
-      "writer": "Brian Duffield",
-      "actors": "Judah Lewis, Samara Weaving, Robbie Amell",
-      "genre": "Comedy, Horror",
-      "plot": "When Cole stays up past his bedtime, he discovers that his babysitter belongs to an evil cult that will stop at nothing to keep him quiet.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "6.4",
-      "rottenTomatoes": "N/A",
-      "metascore": "N/A",
-      "runtime": "85 min",
-      "rated": "TV-MA",
-      "imdbID": "tt4225622",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/186745.mp4",
-    "streamName": "A Babá 4K [HDR]",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "The Babysitter: Killer Queen",
-    "ptTitle": "A Baba: Rainha da Morte",
-    "year": 2020,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/the-babysitter-killer-queen/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Dois anos apos o pesadelo, o jovem agora destemido enfrenta novos rituais com humor acido e armadilhas caseiras.",
-    "curatorReason": "Dois anos apos o pesadelo, o jovem agora destemido enfrenta novos rituais com humor acido e armadilhas caseiras.",
-    "omdb": {
-      "director": "McG",
-      "writer": "Dan Lagana, Brad Morris, Jimmy Warden",
-      "actors": "Judah Lewis, Samara Weaving, Jenna Ortega",
-      "genre": "Comedy, Horror",
-      "plot": "Two years after Cole survived a satanic blood cult, he's living another nightmare: high school. And the demons from his past? Still making his life hell.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODk1ZmQ4ODItZjcwZi00MTUxLWE1YWMtMDY2NWJhNzJjMGEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "5.8",
-      "rottenTomatoes": "46%",
-      "metascore": "22",
-      "runtime": "101 min",
-      "rated": "TV-MA",
-      "imdbID": "tt11024272",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "46%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "22/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODk1ZmQ4ODItZjcwZi00MTUxLWE1YWMtMDY2NWJhNzJjMGEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/189908.mp4",
-    "streamName": "A Babá: Rainha da Morte 4K [Hybrid]",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODk1ZmQ4ODItZjcwZi00MTUxLWE1YWMtMDY2NWJhNzJjMGEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Spontaneous",
-    "ptTitle": "Espontanea",
-    "year": 2020,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/spontaneous/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Alunos do ultimo ano comecam a explodir espontaneamente e jovem debochada decide abracar seu poder e viver sem arrependimentos.",
-    "curatorReason": "Alunos do ultimo ano comecam a explodir espontaneamente e jovem debochada decide abracar seu poder e viver sem arrependimentos.",
-    "omdb": {
-      "director": "Brian Duffield",
-      "writer": "Brian Duffield, Aaron Starmer",
-      "actors": "Katherine Langford, Charlie Plummer, Yvonne Orji",
-      "genre": "Comedy, Drama, Horror",
-      "plot": "Get ready for the outrageous coming-of-age love story about growing up...and blowing up. When students in their school begin exploding (literally), seniors Mara and Dylan struggle to survive in a world where each moment may be the...",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOGI4YzVmYWMtMjg3OS00YTgyLWJkNzItNzVlZTg1NjUxYWRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "imdbRating": "6.5",
-      "rottenTomatoes": "96%",
-      "metascore": "78",
-      "runtime": "101 min",
-      "rated": "R",
-      "imdbID": "tt5774062",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "78/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI4YzVmYWMtMjg3OS00YTgyLWJkNzItNzVlZTg1NjUxYWRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/380561.mp4",
-    "streamName": "Espontânea [L]",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGI4YzVmYWMtMjg3OS00YTgyLWJkNzItNzVlZTg1NjUxYWRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
-  },
-  {
-    "title": "Drive Angry",
-    "ptTitle": "Furia Sobre Rodas",
-    "year": 2011,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/drive-angry/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "curatorNote": "Nicolas Cage foge do inferno em muscle car carregado de chumbo para resgatar neta sequestrada por culto.",
-    "curatorReason": "Nicolas Cage foge do inferno em muscle car carregado de chumbo para resgatar neta sequestrada por culto.",
-    "omdb": {
-      "director": "Patrick Lussier",
-      "writer": "Todd Farmer, Patrick Lussier",
-      "actors": "Nicolas Cage, Amber Heard, William Fichtner",
-      "genre": "Action, Comedy, Crime",
-      "plot": "A vengeful father escapes from hell and chases after the men who killed his daughter and kidnapped his granddaughter.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "5.4",
-      "rottenTomatoes": "46%",
-      "metascore": "44",
-      "runtime": "104 min",
-      "rated": "R",
-      "imdbID": "tt1502404",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "46%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "44/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/320756.mp4",
-    "streamName": "Fúria Sobre Rodas",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
     "title": "Smokin' Aces",
     "ptTitle": "A Ultima Cartada",
     "year": 2007,
@@ -16572,52 +15851,6 @@
     "streamName": "Bater ou Correr em Londres",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDYxNzQ0ZWQtOTUxNi00ZDM5LWJhYWMtMGJlODgzMTE0NGFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "Beverly Hills Cop",
-    "ptTitle": "Um Tira da Pesada",
-    "year": 1984,
-    "category": "inner-power",
-    "letterboxdUrl": "https://letterboxd.com/film/beverly-hills-cop/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "Herbert Richers",
-    "curatorNote": "Axel Foley usa labia imbativel, inteligencia urbana e atitude inabalavel para investigar assassinato em Beverly Hills.",
-    "curatorReason": "Axel Foley usa labia imbativel, inteligencia urbana e atitude inabalavel para investigar assassinato em Beverly Hills.",
-    "omdb": {
-      "director": "Martin Brest",
-      "writer": "Daniel Petrie Jr., Danilo Bach",
-      "actors": "Eddie Murphy, Judge Reinhold, John Ashton",
-      "genre": "Action, Comedy, Crime",
-      "plot": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "imdbRating": "7.4",
-      "rottenTomatoes": "83%",
-      "metascore": "66",
-      "runtime": "105 min",
-      "rated": "R",
-      "imdbID": "tt0086960",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
-    },
-    "parentCategory": "besteirol",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20864.mp4",
-    "streamName": "Um Tira da Pesada 3",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg"
   },
   {
     "title": "Hellboy",
@@ -19118,52 +18351,6 @@
     "streamName": "As Aventuras de Brigsby Bear",
     "streamAvailable": true,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgyODgyMTYzNV5BMl5BanBnXkFtZTgwMTk5NzY2MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-  },
-  {
-    "title": "The Peanut Butter Falcon",
-    "ptTitle": "The Peanut Butter Falcon",
-    "year": 2019,
-    "category": "misfit",
-    "letterboxdUrl": "https://letterboxd.com/film/the-peanut-butter-falcon/",
-    "inWatchlist": false,
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "curatorNote": "Jovem com sindrome de Down foge de abrigo para se tornar lutador de wrestling e encontra amigo protetor na estrada.",
-    "curatorReason": "Jovem com sindrome de Down foge de abrigo para se tornar lutador de wrestling e encontra amigo protetor na estrada.",
-    "omdb": {
-      "director": "Tyler Nilson, Michael Schwartz",
-      "writer": "Tyler Nilson, Michael Schwartz",
-      "actors": "Zack Gottsagen, Ann Pierce, Dakota Johnson",
-      "genre": "Adventure, Comedy, Drama",
-      "plot": "Zak, a man with Down syndrome, runs away from a residential nursing home to pursue his dream of becoming a wrestler. Later, he meets with an outlaw who becomes his friend and coach.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "imdbRating": "7.6",
-      "rottenTomatoes": "95%",
-      "metascore": "70",
-      "runtime": "97 min",
-      "rated": "PG-13",
-      "imdbID": "tt4364194",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "70/100"
-        }
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    },
-    "parentCategory": "art",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/30596.mp4",
-    "streamName": "The Peanut Butter Falcon Legendado",
-    "streamAvailable": true,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
   },
   {
     "title": "Edward Scissorhands",

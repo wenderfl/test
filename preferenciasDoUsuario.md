@@ -109,3 +109,30 @@ Documento de referência para curadoria, filtragem, motor de afinidade e recomen
 | Filme americano comum dos anos 2000 (2003–2009) | **-18% penalidade** |
 | Fórmulas comerciais genéricas de Hollywood | **-12% penalidade** |
 | Reportado sem dublagem | **Aviso imediato para substituição** |
+
+---
+
+## 5. Validação Obrigatória na Inclusão de Qualquer Filme (`user_preference_checker.js`)
+
+A partir desta versão, **nenhum filme pode ser adicionado ao catálogo** sem passar pelo motor de verificação obrigatório automatizado.
+
+### Critérios de Bloqueio Imediato (Hard Gates):
+1. **Histórico Letterboxd**: Se o filme constar no perfil do usuário **@wender_fl** (`letterboxd_cache.json` ou `letterboxd_watched.json`) ou na lista de assistidos/ignorados em `user_state.json`, a inclusão é sumariamente recusada.
+2. **Dublagem PT-BR**: Toda obra precisa ter dublagem comprovada (`dubbed: true` e não constar em `undubbed_reports.json`).
+3. **Filtro Temporal 2003-2009**: Produções comerciais americanas de grande estúdio desse período são rejeitadas, a menos que sejam comédias intencionalmente bobas de perdedores/misfits ou obras autorais de diretores aclamados.
+4. **Anti-Sexismo**: Obras com male gaze vulgar ou piadas depreciativas são bloqueadas.
+5. **Franquias Bloqueadas**: A franquia *Evil Dead* é estritamente proibida no catálogo.
+6. **Não-Repetição**: O filme não pode existir em nenhuma outra categoria do catálogo.
+7. **Score Mínimo de Afinidade**: O filme deve atingir score de afinidade igual ou superior a **75%** com base no cálculo dos pesos e bônus das temáticas A a O.
+
+### Comandos de Verificação:
+- Testar compatibilidade de candidato antes de adicionar:
+  `npm run check "Nome do Filme" [ano]`
+- Validar lote de candidatos via JSON:
+  `npm run check <caminho-do-arquivo.json>`
+- Adicionar filmes com validação obrigatória e atualização automática do feed:
+  `npm run add <caminho-do-arquivo.json>`
+- Auditar catálogo completo e histórico:
+  `npm run validate`
+  `npm run revise`
+

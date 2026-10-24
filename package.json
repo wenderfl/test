@@ -10,7 +10,9 @@
     "validate": "node scripts/catalog_manager.js validate",
     "stats": "node scripts/catalog_manager.js stats",
     "undubbed": "node scripts/catalog_manager.js undubbed",
-    "revise": "node scripts/revise_watched_movies.js"
+    "revise": "node scripts/revise_watched_movies.js",
+    "check": "node scripts/catalog_manager.js check",
+    "add": "node scripts/catalog_manager.js add"
   },
   "keywords": [
     "letterboxd",

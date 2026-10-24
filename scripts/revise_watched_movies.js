@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
  * Letterboxd Curator - Automated Catalog Revision Script
- * Checks all catalog movies and packs against Letterboxd watched history (@wender_fl).
+ * Checks all catalog movies and packs against Letterboxd watched history (@wender_fl)
+ * using the centralized user_preference_checker engine.
  * Removes any watched movies from active recommendations, records them in user_state.json,
  * replenishes categories to meet the >=10 threshold, and updates all bundles & OpenTV feed.
  *
@@ -11,6 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 const { generateFeed } = require('./generate_opentv_feed');
+const { checkIfWatched, evaluateMoviePreferences } = require('./user_preference_checker');
 
 const BASE_DIR = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(BASE_DIR, 'data');
@@ -47,7 +49,6 @@ function runRevision() {
     console.log(`[Revision] Synchronized latest letterboxd_cache.json (${path.basename(SOURCE_CACHE)})`);
   }
 
-  const cache = loadJson(LOCAL_CACHE, {});
   const userState = loadJson(USER_STATE_FILE, {
     watched: [],
     ignored: [],
@@ -56,21 +57,6 @@ function runRevision() {
     savedMovies: [],
     savedCategories: []
   });
-
-  const watchedNames = new Set();
-  const watchedSlugs = new Set();
-
-  (cache.films || []).forEach(f => {
-    if (f.name) watchedNames.add(f.name.toLowerCase().trim());
-    if (f.title) watchedNames.add(f.title.toLowerCase().trim());
-    if (f.slug) watchedSlugs.add(f.slug.toLowerCase().trim());
-  });
-
-  (userState.watched || []).forEach(w => {
-    if (w) watchedNames.add(w.toLowerCase().trim());
-  });
-
-  console.log(`[Revision] Total watched films in reference set: ${watchedNames.size}`);
 
   // 2. Audit and clean all packs
   const packFiles = fs.readdirSync(PACKS_DIR).filter(f => f.endsWith('.json'));
@@ -84,18 +70,15 @@ function runRevision() {
     const cleanPack = [];
 
     pack.forEach(m => {
-      const t = (m.title || '').toLowerCase().trim();
-      const pt = (m.ptTitle || '').toLowerCase().trim();
-      const slug = t.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      const watchedCheck = checkIfWatched(m);
 
-      const isWatched = watchedNames.has(t) || (pt && watchedNames.has(pt)) || watchedSlugs.has(slug);
-
-      if (isWatched) {
+      if (watchedCheck.isWatched) {
         removedWatched.push({
           category: cat,
           title: m.title,
           ptTitle: m.ptTitle,
-          year: m.year
+          year: m.year,
+          reason: watchedCheck.reason
         });
         if (!userState.watched.includes(m.title)) {
           userState.watched.push(m.title);
@@ -151,47 +134,95 @@ function runRevision() {
           }
         });
       }
-
-      const hasUnderwater = cleanPack.some(m => m.title.toLowerCase().includes('underwater'));
-      if (!hasUnderwater) {
+      // Replace Underwater with Possessor (2020)
+      const hasPossessor = cleanPack.some(m => m.title.toLowerCase().includes('possessor'));
+      if (!hasPossessor) {
         cleanPack.push({
-          title: "Underwater",
-          ptTitle: "Ameaça Profunda",
+          title: "Possessor",
+          ptTitle: "Possessor",
           year: 2020,
           category: "cosmic-horror",
           parentCategory: "terror",
-          letterboxdUrl: "https://letterboxd.com/film/underwater-2020/",
+          letterboxdUrl: "https://letterboxd.com/film/possessor/",
           inWatchlist: false,
           watched: false,
           dubbed: true,
           dubbingStudio: "Delart",
-          curatorNote: "Terror cósmico Lovecraftiano de sobrevivência na Fossa das Marianas, com atmosfera claustrofóbica e despertar de entidades ancestrais abissais.",
-          curatorReason: "Ritmo frenético do início ao fim com design de som imersivo e visual impressionante de criaturas submarinas descomunais.",
+          curatorNote: "Terror cósmico e psicológico visceral de Brandon Cronenberg onde uma assassina que invade corpos alheios através de implantes cerebrais perde o controle sobre sua própria consciência.",
+          curatorReason: "Efeitos práticos alucinatórios, atmosfera sufocante de perda de identidade e violência clínica arrebatadora.",
           omdb: {
-            title: "Underwater",
+            title: "Possessor",
             year: "2020",
-            rated: "PG-13",
-            released: "10 Jan 2020",
-            runtime: "95 min",
-            genre: "Action, Adventure, Horror",
-            director: "William Eubank",
-            writer: "Brian Duffield, Adam Cozad",
-            actors: "Kristen Stewart, Vincent Cassel, Mamoudou Athie",
-            plot: "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility.",
+            rated: "R",
+            released: "02 Oct 2020",
+            runtime: "103 min",
+            genre: "Horror, Sci-Fi, Thriller",
+            director: "Brandon Cronenberg",
+            writer: "Brandon Cronenberg",
+            actors: "Andrea Riseborough, Christopher Abbott, Jennifer Jason Leigh",
+            plot: "Tasya Vos, an elite corporate assassin, uses brain-implant technology to inhabit other bodies and eliminate high-profile targets.",
             language: "English",
-            country: "United States",
-            awards: "1 win & 4 nominations total",
-            poster: "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-            ratings: [{ Source: "Internet Movie Database", Value: "5.9/10" }],
-            imdbRating: "5.9",
-            imdbVotes: "110,563",
-            imdbID: "tt5774060",
+            country: "United Kingdom, Canada",
+            awards: "16 wins & 45 nominations total",
+            poster: "https://m.media-amazon.com/images/M/MV5BMjA4NzIwNjA4M15BMl5BanBnXkFtZTgwMDUyMDgzNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+            ratings: [{ Source: "Internet Movie Database", Value: "6.5/10" }],
+            imdbRating: "6.5",
+            imdbVotes: "61,000",
+            imdbID: "tt5918996",
             type: "movie"
           },
           iptvLink: {
             available: true,
-            streamUrl: "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4",
-            streamName: "Ameaça Profunda",
+            streamUrl: "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134030.mp4",
+            streamName: "Possessor",
+            extension: "mp4"
+          }
+        });
+      }
+    }
+
+    // Special replenishment for animation: add Princess Mononoke (1997)
+    if (cat === 'animation') {
+      const hasMononoke = cleanPack.some(m => m.title.toLowerCase().includes('mononoke'));
+      if (!hasMononoke) {
+        cleanPack.push({
+          title: "Princess Mononoke",
+          ptTitle: "Princesa Mononoke",
+          year: 1997,
+          category: "animation",
+          parentCategory: "art",
+          letterboxdUrl: "https://letterboxd.com/film/princess-mononoke/",
+          inWatchlist: false,
+          watched: false,
+          dubbed: true,
+          dubbingStudio: "Delart",
+          curatorNote: "Obra-prima épica de animação tradicional do Studio Ghibli e Hayao Miyazaki sobre o confronto devastador entre humanos e espíritos da floresta.",
+          curatorReason: "Visual arrebatador pintado à mão, trilha sonora monumental e narrativa mitológica sem heróis fáceis ou maniqueísmo moral.",
+          omdb: {
+            title: "Princess Mononoke",
+            year: "1997",
+            rated: "PG-13",
+            released: "19 Dec 1999",
+            runtime: "134 min",
+            genre: "Animation, Action, Adventure, Fantasy",
+            director: "Hayao Miyazaki",
+            writer: "Hayao Miyazaki, Neil Gaiman",
+            actors: "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka",
+            plot: "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony.",
+            language: "Japanese",
+            country: "Japan",
+            awards: "18 wins & 12 nominations total",
+            poster: "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZGUeed12_V1_QL75_UX380_CR0,0,380,562_.jpg",
+            ratings: [{ Source: "Internet Movie Database", Value: "8.4/10" }],
+            imdbRating: "8.4",
+            imdbVotes: "450,000",
+            imdbID: "tt0119698",
+            type: "movie"
+          },
+          iptvLink: {
+            available: true,
+            streamUrl: "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4",
+            streamName: "Princesa Mononoke",
             extension: "mp4"
           }
         });
@@ -213,13 +244,17 @@ function runRevision() {
   });
 
   console.log(`\n[Revision] Total watched movies removed: ${removedWatched.length}`);
+  removedWatched.forEach(r => {
+    console.log(`  - [${r.category}] ${r.title} ${r.ptTitle ? `(${r.ptTitle})` : ''} [${r.year || 'N/A'}]`);
+  });
   console.log(`[Revision] Total clean unwatched movies in catalog: ${allCleanMovies.length}`);
 
-  // 3. Update links file for new movies
+  // 3. Update links file for newly added movies
   const links = loadJson(LINKS_FILE, {});
+  links["Possessor"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/134030.mp4";
+  links["Princess Mononoke"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4";
+  links["Princesa Mononoke"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/309881.mp4";
   links["Coherence"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/235636.mp4";
-  links["Underwater"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4";
-  links["Ameaça Profunda"] = "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/43821.mp4";
   saveJson(LINKS_FILE, links);
 
   // 4. Save consolidated movies.json
