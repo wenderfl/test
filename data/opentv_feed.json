@@ -1,9 +1,9 @@
 {
-  "version": 1792859632200,
-  "generatedAt": "2026-10-24T16:33:52.200Z",
-  "categoriesCount": 35,
-  "moviesCount": 627,
-  "linkedMoviesCount": 627,
+  "version": 1793549236469,
+  "generatedAt": "2026-11-01T16:07:16.469Z",
+  "categoriesCount": 36,
+  "moviesCount": 645,
+  "linkedMoviesCount": 645,
   "linksCount": 1374,
   "categories": [
     {
@@ -84,7 +84,8 @@
         "poetic-cinema",
         "surrealism",
         "moral-dilemma",
-        "baixa-autoestima"
+        "baixa-autoestima",
+        "solitude"
       ]
     },
     {
@@ -427,6 +428,17 @@
       "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M12 2a8 8 0 0 0-8 8v12l3-3 2.5 2.5L12 19l2.5 2.5L17 19l3 3V10a8 8 0 0 0-8-8z\"/><circle cx=\"9\" cy=\"10\" r=\"1\"/><circle cx=\"15\" cy=\"10\" r=\"1\"/></svg>",
       "description": "Longas-metragens de animação japonesa voltados ao horror psicológico, mistérios macabros, criaturas aterrorizantes e terror visceral.",
       "parentCategory": "terror"
+    },
+    {
+      "id": "solitude",
+      "name": "Solidão & Isolamento",
+      "badgeLabel": "Solidão & Introspecção",
+      "accentColor": "#64748b",
+      "gradient": "linear-gradient(135deg, #64748b 0%, #334155 100%)",
+      "glowColor": "rgba(100, 116, 139, 0.35)",
+      "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/></svg>",
+      "description": "Obras intimistas e profundas sobre o isolamento humano, a melancolia existencial, o silêncio urbano e a busca por conexão em um mundo distante.",
+      "parentCategory": "art"
     }
   ],
   "movies": [
@@ -30812,6 +30824,1078 @@
       }
     },
     {
+      "title": "The Banshees of Inisherin",
+      "ptTitle": "Os Banshees de Inisherin",
+      "year": 2022,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Em uma ilha remota da Irlanda, o rompimento abrupto de uma longa amizade expõe o vazio da solidao humana, o desespero existencial e a incapacidade de conexao.",
+      "curatorReason": "Em uma ilha remota da Irlanda, o rompimento abrupto de uma longa amizade expõe o vazio da solidao humana, o desespero existencial e a incapacidade de conexao.",
+      "letterboxdUrl": "https://letterboxd.com/film/the-banshees-of-inisherin/",
+      "dubbed": true,
+      "dubbingStudio": "TV Group Digital",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182314.mp4",
+      "streamName": "Os Banshees de Inisherin",
+      "omdb": {
+        "title": "The Banshees of Inisherin",
+        "year": "2022",
+        "rated": "R",
+        "released": "04 Nov 2022",
+        "runtime": "114 min",
+        "genre": "Comedy, Drama",
+        "director": "Martin McDonagh",
+        "writer": "Martin McDonagh",
+        "actors": "Colin Farrell, Brendan Gleeson, Kerry Condon",
+        "plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Nominated for 9 Oscars. 150 wins & 375 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "87/100"
+          }
+        ],
+        "imdbRating": "7.6",
+        "imdbVotes": "299,981",
+        "imdbID": "tt11813216",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182314.mp4",
+        "streamName": "Os Banshees de Inisherin (The Banshees of Inisherin)",
+        "extension": "mp4",
+        "rating": 7.6,
+        "year": "2022",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Lost in Translation",
+      "ptTitle": "Encontros e Desencontros",
+      "year": 2003,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.",
+      "curatorReason": "Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.",
+      "letterboxdUrl": "https://letterboxd.com/film/lost-in-translation/",
+      "dubbed": true,
+      "dubbingStudio": "Double Sound",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4",
+      "streamName": "Encontros e Desencontros",
+      "omdb": {
+        "title": "Lost in Translation",
+        "year": "2003",
+        "rated": "R",
+        "released": "03 Oct 2003",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama",
+        "director": "Sofia Coppola",
+        "writer": "Sofia Coppola",
+        "actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
+        "plot": "A fading movie star and a neglected married young woman come to be unlikely soulmates in Tokyo.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Won 1 Oscar. 98 wins & 133 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "91/100"
+          }
+        ],
+        "imdbRating": "7.7",
+        "imdbVotes": "535,644",
+        "imdbID": "tt0335266",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4",
+        "streamName": "Encontros e Desencontros (Lost in Translation)",
+        "extension": "mp4",
+        "rating": 7.7,
+        "year": "2003",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Inside Llewyn Davis",
+      "ptTitle": "Inside Llewyn Davis: Balada de um Homem Comum",
+      "year": 2013,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um cantor folk sem rumo vaga pelo inverno rigoroso de Nova York nos anos 1960 com um violao e um gato, enfrentando o fracasso artistico e o isolamento emocional.",
+      "curatorReason": "Um cantor folk sem rumo vaga pelo inverno rigoroso de Nova York nos anos 1960 com um violao e um gato, enfrentando o fracasso artistico e o isolamento emocional.",
+      "letterboxdUrl": "https://letterboxd.com/film/inside-llewyn-davis/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/6/7/73367-inside-llewyn-davis-0-600-0-900-crop.jpg?v=df06f071fa",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/324827.mp4",
+      "streamName": "Inside Llewyn Davis: Balada de um Homem Comum",
+      "omdb": {
+        "title": "Another Day, Another Time: Celebrating the Music of Inside Llewyn Davis",
+        "year": "2013",
+        "rated": "Unrated",
+        "released": "13 Dec 2013",
+        "runtime": "101 min",
+        "genre": "Documentary, Music, Musical",
+        "director": "Christopher Wilcha",
+        "writer": "Roteirista Autoral",
+        "actors": "The Avett Brothers, Scott Avett, Seth Avett",
+        "plot": "A concert inspired by the Coen Brothers' film, 'Inside Llewyn Davis,' which is set in the 1960s Greenwich Village folk music scene, featuring live performances of the film's music, as well as songs from the early 1960s. Performers...",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "N/A",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/6/7/73367-inside-llewyn-davis-0-600-0-900-crop.jpg?v=df06f071fa",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+          }
+        ],
+        "imdbRating": "8.1",
+        "imdbVotes": "601",
+        "imdbID": "tt3358552",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/6/7/73367-inside-llewyn-davis-0-600-0-900-crop.jpg?v=df06f071fa"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/324827.mp4",
+        "streamName": "Inside Llewyn Davis: Balada de um Homem Comum (Inside Llewyn Davis)",
+        "extension": "mp4",
+        "rating": 8.1,
+        "year": "2013",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Nomadland",
+      "ptTitle": "Nomadland",
+      "year": 2020,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.",
+      "curatorReason": "Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.",
+      "letterboxdUrl": "https://letterboxd.com/film/nomadland/",
+      "dubbed": true,
+      "dubbingStudio": "TV Group Digital",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103154.mp4",
+      "streamName": "Nomadland",
+      "omdb": {
+        "title": "Nomadland",
+        "year": "2021",
+        "rated": "R",
+        "released": "19 Feb 2021",
+        "runtime": "107 min",
+        "genre": "Drama",
+        "director": "Chloé Zhao",
+        "writer": "Chloé Zhao, Jessica Bruder",
+        "actors": "Frances McDormand, David Strathairn, Linda May",
+        "plot": "After losing everything in the Great Recession, a woman in her sixties embarks on a journey through the American West, living as a van-dwelling nomad.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Won 3 Oscars. 254 wins & 160 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "87/100"
+          }
+        ],
+        "imdbRating": "7.3",
+        "imdbVotes": "222,695",
+        "imdbID": "tt9770150",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103154.mp4",
+        "streamName": "Nomadland (Nomadland)",
+        "extension": "mp4",
+        "rating": 7.3,
+        "year": "2020",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Ad Astra",
+      "ptTitle": "Ad Astra - Rumo às Estrelas",
+      "year": 2019,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.",
+      "curatorReason": "Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.",
+      "letterboxdUrl": "https://letterboxd.com/film/ad-astra-2019/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4",
+      "streamName": "Ad Astra - Rumo às Estrelas",
+      "omdb": {
+        "title": "Ad Astra",
+        "year": "2019",
+        "rated": "PG-13",
+        "released": "20 Sep 2019",
+        "runtime": "123 min",
+        "genre": "Adventure, Drama, Mystery",
+        "director": "James Gray",
+        "writer": "James Gray, Ethan Gross",
+        "actors": "Brad Pitt, Tommy Lee Jones, Ruth Negga",
+        "plot": "An astronaut embarks on a space mission to investigate a threat to the universe and uncover the truth about his father who disappeared thirty years ago.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Nominated for 1 Oscar. 11 wins & 75 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "80/100"
+          }
+        ],
+        "imdbRating": "6.5",
+        "imdbVotes": "285,197",
+        "imdbID": "tt2935510",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4",
+        "streamName": "Ad Astra - Rumo às Estrelas (Ad Astra)",
+        "extension": "mp4",
+        "rating": 6.5,
+        "year": "2019",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Gravity",
+      "ptTitle": "Gravidade",
+      "year": 2013,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.",
+      "curatorReason": "Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.",
+      "letterboxdUrl": "https://letterboxd.com/film/gravity-2013/",
+      "dubbed": true,
+      "dubbingStudio": "Wan Mächer",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4",
+      "streamName": "Gravidade",
+      "omdb": {
+        "title": "Gravity",
+        "year": "2013",
+        "rated": "PG-13",
+        "released": "04 Oct 2013",
+        "runtime": "91 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "director": "Alfonso Cuarón",
+        "writer": "Alfonso Cuarón, Jonás Cuarón",
+        "actors": "Sandra Bullock, George Clooney, Ed Harris",
+        "plot": "Two astronauts must survive in space after their shuttle is hit by debris during a spacewalk.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Won 7 Oscars. 242 wins & 189 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "96/100"
+          }
+        ],
+        "imdbRating": "7.7",
+        "imdbVotes": "907,621",
+        "imdbID": "tt1454468",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4",
+        "streamName": "Gravidade (Gravity)",
+        "extension": "mp4",
+        "rating": 7.7,
+        "year": "2013",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Detachment",
+      "ptTitle": "Indiferença",
+      "year": 2011,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.",
+      "curatorReason": "Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.",
+      "letterboxdUrl": "https://letterboxd.com/film/detachment/",
+      "dubbed": true,
+      "dubbingStudio": "Centauro",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4",
+      "streamName": "Indiferença",
+      "omdb": {
+        "title": "Detachment",
+        "year": "2012",
+        "rated": "Not Rated",
+        "released": "01 Feb 2012",
+        "runtime": "98 min",
+        "genre": "Drama",
+        "director": "Tony Kaye",
+        "writer": "Carl Lund",
+        "actors": "Adrien Brody, Christina Hendricks, Marcia Gay Harden",
+        "plot": "A substitute teacher who drifts from classroom to classroom finds a connection to the students and teachers during his latest assignment.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "8 wins & 4 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "52/100"
+          }
+        ],
+        "imdbRating": "7.7",
+        "imdbVotes": "114,323",
+        "imdbID": "tt1683526",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4",
+        "streamName": "Indiferença (Detachment)",
+        "extension": "mp4",
+        "rating": 7.7,
+        "year": "2011",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "A Ghost Story",
+      "ptTitle": "Sombras da Vida",
+      "year": 2017,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um fantasma coberto por um lencol branco permanece preso a casa onde viveu com sua esposa, testemunhando a passagem das eras em uma contemplacao atemporal da solidao.",
+      "curatorReason": "Um fantasma coberto por um lencol branco permanece preso a casa onde viveu com sua esposa, testemunhando a passagem das eras em uma contemplacao atemporal da solidao.",
+      "letterboxdUrl": "https://letterboxd.com/film/a-ghost-story-2017/",
+      "dubbed": true,
+      "dubbingStudio": "UniDub",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzcyNTc1ODQzMF5BMl5BanBnXkFtZTgwNTgzMzY4MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317060.mp4",
+      "streamName": "Sombras da Vida",
+      "omdb": {
+        "title": "A Ghost Story",
+        "year": "2017",
+        "rated": "R",
+        "released": "28 Jul 2017",
+        "runtime": "92 min",
+        "genre": "Drama, Fantasy, Mystery",
+        "director": "David Lowery",
+        "writer": "David Lowery",
+        "actors": "Casey Affleck, Rooney Mara, McColm Cephas Jr.",
+        "plot": "In this singular exploration of legacy, love, loss, and the enormity of existence, a recently deceased, white-sheeted ghost returns to his suburban home to try to reconnect with his bereft wife.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "11 wins & 21 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzcyNTc1ODQzMF5BMl5BanBnXkFtZTgwNTgzMzY4MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "84/100"
+          }
+        ],
+        "imdbRating": "6.8",
+        "imdbVotes": "87,715",
+        "imdbID": "tt6265828",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyNTc1ODQzMF5BMl5BanBnXkFtZTgwNTgzMzY4MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317060.mp4",
+        "streamName": "Sombras da Vida (A Ghost Story)",
+        "extension": "mp4",
+        "rating": 6.8,
+        "year": "2017",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Locke",
+      "ptTitle": "Locke",
+      "year": 2013,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.",
+      "curatorReason": "Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.",
+      "letterboxdUrl": "https://letterboxd.com/film/locke/",
+      "dubbed": true,
+      "dubbingStudio": "Vox Mundi",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31777.mp4",
+      "streamName": "Locke",
+      "omdb": {
+        "title": "Locke",
+        "year": "2014",
+        "rated": "R",
+        "released": "18 Apr 2014",
+        "runtime": "85 min",
+        "genre": "Drama",
+        "director": "Steven Knight",
+        "writer": "Steven Knight",
+        "actors": "Tom Hardy, Olivia Colman, Ruth Wilson",
+        "plot": "Ivan Locke, a dedicated family man and successful construction manager, receives a phone call that sets in motion a series of events that threaten his carefully cultivated existence.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "7 wins & 33 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "83/100"
+          }
+        ],
+        "imdbRating": "7.1",
+        "imdbVotes": "171,015",
+        "imdbID": "tt2692904",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31777.mp4",
+        "streamName": "Locke (Locke)",
+        "extension": "mp4",
+        "rating": 7.1,
+        "year": "2013",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Melancholia",
+      "ptTitle": "Melancolia",
+      "year": 2011,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.",
+      "curatorReason": "Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.",
+      "letterboxdUrl": "https://letterboxd.com/film/melancholia-2011/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4",
+      "streamName": "Melancolia",
+      "omdb": {
+        "title": "Melancholia",
+        "year": "2011",
+        "rated": "R",
+        "released": "26 May 2011",
+        "runtime": "135 min",
+        "genre": "Drama, Sci-Fi",
+        "director": "Lars von Trier",
+        "writer": "Lars von Trier",
+        "actors": "Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland",
+        "plot": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "36 wins & 95 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "81/100"
+          }
+        ],
+        "imdbRating": "7.1",
+        "imdbVotes": "210,346",
+        "imdbID": "tt1527186",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4",
+        "streamName": "Melancolia (Melancholia)",
+        "extension": "mp4",
+        "rating": 7.1,
+        "year": "2011",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Leave No Trace",
+      "ptTitle": "Sem Rastros",
+      "year": 2018,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.",
+      "curatorReason": "Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.",
+      "letterboxdUrl": "https://letterboxd.com/film/leave-no-trace/",
+      "dubbed": true,
+      "dubbingStudio": "Som de Vera Cruz",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4",
+      "streamName": "Sem Rastros",
+      "omdb": {
+        "title": "Leave No Trace",
+        "year": "2018",
+        "rated": "PG",
+        "released": "29 Jun 2018",
+        "runtime": "109 min",
+        "genre": "Adventure, Drama",
+        "director": "Debra Granik",
+        "writer": "Debra Granik, Anne Rosellini, Peter Rock",
+        "actors": "Thomasin McKenzie, Ben Foster, Jeffery Rifflard",
+        "plot": "A father and his seventeen-year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon when a small mistake derails their lives forever.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "18 wins & 92 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "88/100"
+          }
+        ],
+        "imdbRating": "7.1",
+        "imdbVotes": "71,076",
+        "imdbID": "tt3892172",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4",
+        "streamName": "Sem Rastros (Leave No Trace)",
+        "extension": "mp4",
+        "rating": 7.1,
+        "year": "2018",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "First Man",
+      "ptTitle": "O Primeiro Homem",
+      "year": 2018,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.",
+      "curatorReason": "A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.",
+      "letterboxdUrl": "https://letterboxd.com/film/first-man/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4",
+      "streamName": "O Primeiro Homem",
+      "omdb": {
+        "title": "First Man",
+        "year": "2018",
+        "rated": "PG-13",
+        "released": "12 Oct 2018",
+        "runtime": "141 min",
+        "genre": "Biography, Drama, History",
+        "director": "Damien Chazelle",
+        "writer": "Josh Singer, James R. Hansen",
+        "actors": "Ryan Gosling, Claire Foy, Jason Clarke",
+        "plot": "A look back at the life of astronaut Neil Armstrong and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Won 1 Oscar. 32 wins & 193 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "84/100"
+          }
+        ],
+        "imdbRating": "7.3",
+        "imdbVotes": "220,014",
+        "imdbID": "tt1213641",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4",
+        "streamName": "O Primeiro Homem (First Man)",
+        "extension": "mp4",
+        "rating": 7.3,
+        "year": "2018",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Cast Away",
+      "ptTitle": "Náufrago",
+      "year": 2000,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Apos um acidente aereo, um executivo meticuloso fica anos isolado em uma ilha deserta no Pacifico, confrontando a solidao total e o sentido da existencia humana.",
+      "curatorReason": "Apos um acidente aereo, um executivo meticuloso fica anos isolado em uma ilha deserta no Pacifico, confrontando a solidao total e o sentido da existencia humana.",
+      "letterboxdUrl": "https://letterboxd.com/film/cast-away/",
+      "dubbed": true,
+      "dubbingStudio": "VTI Rio",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21049.mp4",
+      "streamName": "Naufrago",
+      "omdb": {
+        "title": "Cast Away",
+        "year": "2000",
+        "rated": "PG-13",
+        "released": "22 Dec 2000",
+        "runtime": "143 min",
+        "genre": "Adventure, Drama, Romance",
+        "director": "Robert Zemeckis",
+        "writer": "William Broyles Jr.",
+        "actors": "Tom Hanks, Helen Hunt, Paul Sanchez",
+        "plot": "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Nominated for 2 Oscars. 15 wins & 36 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "74/100"
+          }
+        ],
+        "imdbRating": "7.8",
+        "imdbVotes": "697,768",
+        "imdbID": "tt0162222",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21049.mp4",
+        "streamName": "Náufrago (Cast Away)",
+        "extension": "mp4",
+        "rating": 7.8,
+        "year": "2000",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "127 Hours",
+      "ptTitle": "127 Horas",
+      "year": 2010,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.",
+      "curatorReason": "Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.",
+      "letterboxdUrl": "https://letterboxd.com/film/127-hours/",
+      "dubbed": true,
+      "dubbingStudio": "Dublavídeo",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4",
+      "streamName": "127 Horas",
+      "omdb": {
+        "title": "127 Hours",
+        "year": "2011",
+        "rated": "R",
+        "released": "28 Jan 2011",
+        "runtime": "94 min",
+        "genre": "Biography, Drama",
+        "director": "Danny Boyle",
+        "writer": "Aron Ralston, Danny Boyle, Simon Beaufoy",
+        "actors": "James Franco, Amber Tamblyn, Kate Mara",
+        "plot": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Nominated for 6 Oscars. 23 wins & 150 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "82/100"
+          }
+        ],
+        "imdbRating": "7.5",
+        "imdbVotes": "428,646",
+        "imdbID": "tt1542344",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4",
+        "streamName": "127 Horas (127 Hours)",
+        "extension": "mp4",
+        "rating": 7.5,
+        "year": "2010",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "The Road",
+      "ptTitle": "A Estrada",
+      "year": 2009,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Pai e filho caminham por uma America pos-apocaliptica gelada e devastada, mantendo viva a chama interior da humanidade em meio ao abandono e a solidao extrema.",
+      "curatorReason": "Pai e filho caminham por uma America pos-apocaliptica gelada e devastada, mantendo viva a chama interior da humanidade em meio ao abandono e a solidao extrema.",
+      "letterboxdUrl": "https://letterboxd.com/film/the-road-2009/",
+      "dubbed": true,
+      "dubbingStudio": "Clone",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377822.mp4",
+      "streamName": "A Estrada",
+      "omdb": {
+        "title": "The Road",
+        "year": "2009",
+        "rated": "R",
+        "released": "18 Dec 2009",
+        "runtime": "111 min",
+        "genre": "Drama, Thriller",
+        "director": "John Hillcoat",
+        "writer": "Joe Penhall, Cormac McCarthy",
+        "actors": "Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee",
+        "plot": "In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Nominated for 1 BAFTA Award. 5 wins & 34 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "74%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "64/100"
+          }
+        ],
+        "imdbRating": "7.2",
+        "imdbVotes": "274,033",
+        "imdbID": "tt0898367",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_QL75_UY562_CR1,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377822.mp4",
+        "streamName": "A Estrada (The Road)",
+        "extension": "mp4",
+        "rating": 7.2,
+        "year": "2009",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Pig",
+      "ptTitle": "Pig - A Vingança",
+      "year": 2021,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.",
+      "curatorReason": "Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.",
+      "letterboxdUrl": "https://letterboxd.com/film/pig-2021/",
+      "dubbed": true,
+      "dubbingStudio": "UniDub",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4",
+      "streamName": "Pig - A Vingança",
+      "omdb": {
+        "title": "Pig",
+        "year": "2021",
+        "rated": "R",
+        "released": "16 Jul 2021",
+        "runtime": "92 min",
+        "genre": "Drama, Mystery",
+        "director": "Michael Sarnoski",
+        "writer": "Vanessa Block, Michael Sarnoski",
+        "actors": "Nicolas Cage, Alex Wolff, Adam Arkin",
+        "plot": "A truffle hunter who lives alone in the Oregon wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "39 wins & 75 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "82/100"
+          }
+        ],
+        "imdbRating": "6.9",
+        "imdbVotes": "106,881",
+        "imdbID": "tt11003218",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4",
+        "streamName": "Pig - A Vingança (Pig)",
+        "extension": "mp4",
+        "rating": 6.9,
+        "year": "2021",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Buried",
+      "ptTitle": "Enterrado Vivo",
+      "year": 2010,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um motorista civil americano trabalhando no Iraque acorda enterrado vivo dentro de um caixao de madeira apenas com um isqueiro e um telefone celular.",
+      "curatorReason": "Um motorista civil americano trabalhando no Iraque acorda enterrado vivo dentro de um caixao de madeira apenas com um isqueiro e um telefone celular.",
+      "letterboxdUrl": "https://letterboxd.com/film/buried/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/0/35350-buried-0-600-0-900-crop.jpg?v=5d3289afbf",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/401715.mp4",
+      "streamName": "Enterrado Vivo",
+      "omdb": {
+        "title": "Buried",
+        "year": "2010",
+        "rated": "R",
+        "released": "15 Oct 2010",
+        "runtime": "95 min",
+        "genre": "Drama, Mystery, Thriller",
+        "director": "Rodrigo Cortés",
+        "writer": "Chris Sparling",
+        "actors": "Ryan Reynolds, José Luis García-Pérez, Robert Paterson",
+        "plot": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic dea...",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "16 wins & 33 nominations total",
+        "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/0/35350-buried-0-600-0-900-crop.jpg?v=5d3289afbf",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
+          }
+        ],
+        "imdbRating": "6.9",
+        "imdbVotes": "177,679",
+        "imdbID": "tt1462758",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/0/35350-buried-0-600-0-900-crop.jpg?v=5d3289afbf"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/401715.mp4",
+        "streamName": "Enterrado Vivo (Buried)",
+        "extension": "mp4",
+        "rating": 6.9,
+        "year": "2010",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
+      "title": "Manchester by the Sea",
+      "ptTitle": "Manchester à Beira-Mar",
+      "year": 2016,
+      "category": "solitude",
+      "parentCategory": "art",
+      "curatorNote": "Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.",
+      "curatorReason": "Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.",
+      "letterboxdUrl": "https://letterboxd.com/film/manchester-by-the-sea/",
+      "dubbed": true,
+      "dubbingStudio": "Delart",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4",
+      "streamName": "Manchester A Beira Mar",
+      "omdb": {
+        "title": "Manchester by the Sea",
+        "year": "2016",
+        "rated": "R",
+        "released": "16 Dec 2016",
+        "runtime": "137 min",
+        "genre": "Drama",
+        "director": "Kenneth Lonergan",
+        "writer": "Kenneth Lonergan",
+        "actors": "Casey Affleck, Michelle Williams, Kyle Chandler",
+        "plot": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+        "language": "English, Portuguese",
+        "country": "United States",
+        "awards": "Won 2 Oscars. 129 wins & 269 nominations total",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "96/100"
+          }
+        ],
+        "imdbRating": "7.8",
+        "imdbVotes": "364,375",
+        "imdbID": "tt4034228",
+        "type": "movie",
+        "response": "True",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      },
+      "iptvLink": {
+        "available": true,
+        "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4",
+        "streamName": "Manchester à Beira-Mar (Manchester by the Sea)",
+        "extension": "mp4",
+        "rating": 7.8,
+        "year": "2016",
+        "source": "Letterboxd Curator IPTV"
+      }
+    },
+    {
       "title": "The Boy Who Harnessed the Wind",
       "year": 2019,
       "category": "study",
@@ -45675,6 +46759,312 @@
       "extension": "mp4",
       "rating": 7.9,
       "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "The Banshees of Inisherin": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182314.mp4",
+      "streamName": "Os Banshees de Inisherin (The Banshees of Inisherin)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Os Banshees de Inisherin": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182314.mp4",
+      "streamName": "Os Banshees de Inisherin (The Banshees of Inisherin)",
+      "extension": "mp4",
+      "rating": 7.6,
+      "year": "2022",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Lost in Translation": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4",
+      "streamName": "Encontros e Desencontros (Lost in Translation)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2003",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Encontros e Desencontros": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4",
+      "streamName": "Encontros e Desencontros (Lost in Translation)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2003",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Inside Llewyn Davis": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/324827.mp4",
+      "streamName": "Inside Llewyn Davis: Balada de um Homem Comum (Inside Llewyn Davis)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Inside Llewyn Davis: Balada de um Homem Comum": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/324827.mp4",
+      "streamName": "Inside Llewyn Davis: Balada de um Homem Comum (Inside Llewyn Davis)",
+      "extension": "mp4",
+      "rating": 8.1,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Nomadland": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103154.mp4",
+      "streamName": "Nomadland (Nomadland)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2020",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Ad Astra": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4",
+      "streamName": "Ad Astra - Rumo às Estrelas (Ad Astra)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Ad Astra - Rumo às Estrelas": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4",
+      "streamName": "Ad Astra - Rumo às Estrelas (Ad Astra)",
+      "extension": "mp4",
+      "rating": 6.5,
+      "year": "2019",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Gravity": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4",
+      "streamName": "Gravidade (Gravity)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Gravidade": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4",
+      "streamName": "Gravidade (Gravity)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Detachment": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4",
+      "streamName": "Indiferença (Detachment)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Indiferença": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4",
+      "streamName": "Indiferença (Detachment)",
+      "extension": "mp4",
+      "rating": 7.7,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "A Ghost Story": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317060.mp4",
+      "streamName": "Sombras da Vida (A Ghost Story)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Sombras da Vida": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317060.mp4",
+      "streamName": "Sombras da Vida (A Ghost Story)",
+      "extension": "mp4",
+      "rating": 6.8,
+      "year": "2017",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Locke": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31777.mp4",
+      "streamName": "Locke (Locke)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2013",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Melancholia": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4",
+      "streamName": "Melancolia (Melancholia)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Melancolia": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4",
+      "streamName": "Melancolia (Melancholia)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2011",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Leave No Trace": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4",
+      "streamName": "Sem Rastros (Leave No Trace)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Sem Rastros": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4",
+      "streamName": "Sem Rastros (Leave No Trace)",
+      "extension": "mp4",
+      "rating": 7.1,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "First Man": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4",
+      "streamName": "O Primeiro Homem (First Man)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "O Primeiro Homem": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4",
+      "streamName": "O Primeiro Homem (First Man)",
+      "extension": "mp4",
+      "rating": 7.3,
+      "year": "2018",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Cast Away": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21049.mp4",
+      "streamName": "Náufrago (Cast Away)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Náufrago": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21049.mp4",
+      "streamName": "Náufrago (Cast Away)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2000",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "127 Hours": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4",
+      "streamName": "127 Horas (127 Hours)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "127 Horas": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4",
+      "streamName": "127 Horas (127 Hours)",
+      "extension": "mp4",
+      "rating": 7.5,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "The Road": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377822.mp4",
+      "streamName": "A Estrada (The Road)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "2009",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "A Estrada": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377822.mp4",
+      "streamName": "A Estrada (The Road)",
+      "extension": "mp4",
+      "rating": 7.2,
+      "year": "2009",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Pig": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4",
+      "streamName": "Pig - A Vingança (Pig)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2021",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Pig - A Vingança": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4",
+      "streamName": "Pig - A Vingança (Pig)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2021",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Buried": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/401715.mp4",
+      "streamName": "Enterrado Vivo (Buried)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Enterrado Vivo": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/401715.mp4",
+      "streamName": "Enterrado Vivo (Buried)",
+      "extension": "mp4",
+      "rating": 6.9,
+      "year": "2010",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Manchester by the Sea": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4",
+      "streamName": "Manchester à Beira-Mar (Manchester by the Sea)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2016",
+      "source": "Letterboxd Curator IPTV"
+    },
+    "Manchester à Beira-Mar": {
+      "available": true,
+      "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4",
+      "streamName": "Manchester à Beira-Mar (Manchester by the Sea)",
+      "extension": "mp4",
+      "rating": 7.8,
+      "year": "2016",
       "source": "Letterboxd Curator IPTV"
     }
   },

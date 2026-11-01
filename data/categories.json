@@ -77,7 +77,8 @@
       "poetic-cinema",
       "surrealism",
       "moral-dilemma",
-      "baixa-autoestima"
+      "baixa-autoestima",
+      "solitude"
     ]
   },
   {
@@ -420,5 +421,16 @@
     "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><path d=\"M12 2a8 8 0 0 0-8 8v12l3-3 2.5 2.5L12 19l2.5 2.5L17 19l3 3V10a8 8 0 0 0-8-8z\"/><circle cx=\"9\" cy=\"10\" r=\"1\"/><circle cx=\"15\" cy=\"10\" r=\"1\"/></svg>",
     "description": "Longas-metragens de animação japonesa voltados ao horror psicológico, mistérios macabros, criaturas aterrorizantes e terror visceral.",
     "parentCategory": "terror"
+  },
+  {
+    "id": "solitude",
+    "name": "Solidão & Isolamento",
+    "badgeLabel": "Solidão & Introspecção",
+    "accentColor": "#64748b",
+    "gradient": "linear-gradient(135deg, #64748b 0%, #334155 100%)",
+    "glowColor": "rgba(100, 116, 139, 0.35)",
+    "iconSvg": "<svg class=\"icon icon-stroke\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/></svg>",
+    "description": "Obras intimistas e profundas sobre o isolamento humano, a melancolia existencial, o silêncio urbano e a busca por conexão em um mundo distante.",
+    "parentCategory": "art"
   }
 ]
