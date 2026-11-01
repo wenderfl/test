@@ -3,6 +3,7 @@
  * Script to build data/packs/solitude.json
  * Creates the "Solidão & Isolamento" category pack under parent category "art".
  * Strict compliance: Zero emojis, clean metadata, 100% PT-BR dubbed, zero dependencies.
+ * All watched/ignored titles from user_state and letterboxd are replaced with fresh masterpieces.
  */
 
 const https = require('https');
@@ -13,6 +14,7 @@ const OMDB_API_KEY = '8d5e8777';
 const OUTPUT_FILE = path.join(__dirname, '..', 'data', 'packs', 'solitude.json');
 
 const MOVIES_DEF = [
+  // 6 Filmes mantidos (não marcados como vistos)
   {
     title: 'The Banshees of Inisherin',
     searchTitle: 'The Banshees of Inisherin',
@@ -25,19 +27,6 @@ const MOVIES_DEF = [
     letterboxdUrl: 'https://letterboxd.com/film/the-banshees-of-inisherin/',
     streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/182314.mp4',
     streamName: 'Os Banshees de Inisherin'
-  },
-  {
-    title: 'Lost in Translation',
-    searchTitle: 'Lost in Translation',
-    year: 2003,
-    ptTitle: 'Encontros e Desencontros',
-    dubbingStudio: 'Double Sound',
-    poster: 'https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg',
-    curatorNote: 'Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.',
-    curatorReason: 'Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.',
-    letterboxdUrl: 'https://letterboxd.com/film/lost-in-translation/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4',
-    streamName: 'Encontros e Desencontros'
   },
   {
     title: 'Inside Llewyn Davis',
@@ -53,58 +42,6 @@ const MOVIES_DEF = [
     streamName: 'Inside Llewyn Davis: Balada de um Homem Comum'
   },
   {
-    title: 'Nomadland',
-    imdbId: 'tt9770150',
-    year: 2020,
-    ptTitle: 'Nomadland',
-    dubbingStudio: 'TV Group Digital',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158',
-    curatorNote: 'Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.',
-    curatorReason: 'Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.',
-    letterboxdUrl: 'https://letterboxd.com/film/nomadland/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103154.mp4',
-    streamName: 'Nomadland'
-  },
-  {
-    title: 'Ad Astra',
-    searchTitle: 'Ad Astra',
-    year: 2019,
-    ptTitle: 'Ad Astra - Rumo às Estrelas',
-    dubbingStudio: 'Delart',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef',
-    curatorNote: 'Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.',
-    curatorReason: 'Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.',
-    letterboxdUrl: 'https://letterboxd.com/film/ad-astra-2019/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4',
-    streamName: 'Ad Astra - Rumo às Estrelas'
-  },
-  {
-    title: 'Gravity',
-    searchTitle: 'Gravity',
-    year: 2013,
-    ptTitle: 'Gravidade',
-    dubbingStudio: 'Wan Mächer',
-    poster: 'https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg',
-    curatorNote: 'Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.',
-    curatorReason: 'Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.',
-    letterboxdUrl: 'https://letterboxd.com/film/gravity-2013/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4',
-    streamName: 'Gravidade'
-  },
-  {
-    title: 'Detachment',
-    imdbId: 'tt1683526',
-    year: 2011,
-    ptTitle: 'Indiferença',
-    dubbingStudio: 'Centauro',
-    poster: 'https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg',
-    curatorNote: 'Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.',
-    curatorReason: 'Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.',
-    letterboxdUrl: 'https://letterboxd.com/film/detachment/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4',
-    streamName: 'Indiferença'
-  },
-  {
     title: 'A Ghost Story',
     searchTitle: 'A Ghost Story',
     year: 2017,
@@ -116,58 +53,6 @@ const MOVIES_DEF = [
     letterboxdUrl: 'https://letterboxd.com/film/a-ghost-story-2017/',
     streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317060.mp4',
     streamName: 'Sombras da Vida'
-  },
-  {
-    title: 'Locke',
-    imdbId: 'tt2692904',
-    year: 2013,
-    ptTitle: 'Locke',
-    dubbingStudio: 'Vox Mundi',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98',
-    curatorNote: 'Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.',
-    curatorReason: 'Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.',
-    letterboxdUrl: 'https://letterboxd.com/film/locke/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31777.mp4',
-    streamName: 'Locke'
-  },
-  {
-    title: 'Melancholia',
-    searchTitle: 'Melancholia',
-    year: 2011,
-    ptTitle: 'Melancolia',
-    dubbingStudio: 'Delart',
-    poster: 'https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg',
-    curatorNote: 'Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.',
-    curatorReason: 'Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.',
-    letterboxdUrl: 'https://letterboxd.com/film/melancholia-2011/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4',
-    streamName: 'Melancolia'
-  },
-  {
-    title: 'Leave No Trace',
-    searchTitle: 'Leave No Trace',
-    year: 2018,
-    ptTitle: 'Sem Rastros',
-    dubbingStudio: 'Som de Vera Cruz',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc',
-    curatorNote: 'Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.',
-    curatorReason: 'Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.',
-    letterboxdUrl: 'https://letterboxd.com/film/leave-no-trace/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4',
-    streamName: 'Sem Rastros'
-  },
-  {
-    title: 'First Man',
-    searchTitle: 'First Man',
-    year: 2018,
-    ptTitle: 'O Primeiro Homem',
-    dubbingStudio: 'Delart',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8',
-    curatorNote: 'A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.',
-    curatorReason: 'A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.',
-    letterboxdUrl: 'https://letterboxd.com/film/first-man/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4',
-    streamName: 'O Primeiro Homem'
   },
   {
     title: 'Cast Away',
@@ -183,19 +68,6 @@ const MOVIES_DEF = [
     streamName: 'Naufrago'
   },
   {
-    title: '127 Hours',
-    imdbId: 'tt1542344',
-    year: 2010,
-    ptTitle: '127 Horas',
-    dubbingStudio: 'Dublavídeo',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446',
-    curatorNote: 'Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.',
-    curatorReason: 'Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.',
-    letterboxdUrl: 'https://letterboxd.com/film/127-hours/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4',
-    streamName: '127 Horas'
-  },
-  {
     title: 'The Road',
     searchTitle: 'The Road',
     year: 2009,
@@ -207,19 +79,6 @@ const MOVIES_DEF = [
     letterboxdUrl: 'https://letterboxd.com/film/the-road-2009/',
     streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/377822.mp4',
     streamName: 'A Estrada'
-  },
-  {
-    title: 'Pig',
-    searchTitle: 'Pig',
-    year: 2021,
-    ptTitle: 'Pig - A Vingança',
-    dubbingStudio: 'UniDub',
-    poster: 'https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a',
-    curatorNote: 'Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.',
-    curatorReason: 'Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.',
-    letterboxdUrl: 'https://letterboxd.com/film/pig-2021/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4',
-    streamName: 'Pig - A Vingança'
   },
   {
     title: 'Buried',
@@ -234,18 +93,189 @@ const MOVIES_DEF = [
     streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/401715.mp4',
     streamName: 'Enterrado Vivo'
   },
+
+  // 14 Novos Filmes Substitutos & Adições
   {
-    title: 'Manchester by the Sea',
-    searchTitle: 'Manchester by the Sea',
-    year: 2016,
-    ptTitle: 'Manchester à Beira-Mar',
+    title: 'The Father',
+    imdbId: 'tt10272386',
+    year: 2020,
+    ptTitle: 'Meu Pai',
     dubbingStudio: 'Delart',
-    poster: 'https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg',
-    curatorNote: 'Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.',
-    curatorReason: 'Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.',
-    letterboxdUrl: 'https://letterboxd.com/film/manchester-by-the-sea/',
-    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4',
-    streamName: 'Manchester A Beira Mar'
+    poster: 'https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um homem idoso perde gradativamente os pontos de referencia de sua propria mente e apartamento, vivenciando o isolamento e o desamparo angustiante da demencia.',
+    curatorReason: 'Um homem idoso perde gradativamente os pontos de referencia de sua propria mente e apartamento, vivenciando o isolamento e o desamparo angustiante da demencia.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-father-2020/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/101178.mp4',
+    streamName: 'Meu Pai'
+  },
+  {
+    title: 'All Is Lost',
+    imdbId: 'tt2017038',
+    year: 2013,
+    ptTitle: 'Até o Fim',
+    dubbingStudio: 'Luminus',
+    poster: 'https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um marinheiro solitario enfrenta a furia implacavel do Oceano Indico em um veleiro danificado, em uma jornada despojada de palavras e repleta de solidao primordial.',
+    curatorReason: 'Um marinheiro solitario enfrenta a furia implacavel do Oceano Indico em um veleiro danificado, em uma jornada despojada de palavras e repleta de solidao primordial.',
+    letterboxdUrl: 'https://letterboxd.com/film/all-is-lost/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/333428.mp4',
+    streamName: 'Até o Fim'
+  },
+  {
+    title: 'Sound of Metal',
+    imdbId: 'tt5363618',
+    year: 2020,
+    ptTitle: 'O Som do Silêncio',
+    dubbingStudio: 'TV Group Digital',
+    poster: 'https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um baterista de metal perde subitamente a audicao e se recolhe a uma comunidade isolada de surdos, confrontando a solidao silenciosa e reaprendendo a estar presente.',
+    curatorReason: 'Um baterista de metal perde subitamente a audicao e se recolhe a uma comunidade isolada de surdos, confrontando a solidao silenciosa e reaprendendo a estar presente.',
+    letterboxdUrl: 'https://letterboxd.com/film/sound-of-metal/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/360864.mp4',
+    streamName: 'O Som do Silêncio'
+  },
+  {
+    title: 'The Grey',
+    imdbId: 'tt1601913',
+    year: 2011,
+    ptTitle: 'A Perseguição',
+    dubbingStudio: 'Delart',
+    poster: 'https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_QL75_UX380_CR0,12,380,562_.jpg',
+    curatorNote: 'Apos um desastre aereo na tundra do Alasca, sobreviventes enfrentam o frio extremo e lobos ferozes, enquanto o lider do grupo encara seu profundo luto e solidao.',
+    curatorReason: 'Apos um desastre aereo na tundra do Alasca, sobreviventes enfrentam o frio extremo e lobos ferozes, enquanto o lider do grupo encara seu profundo luto e solidao.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-grey/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/355707.mp4',
+    streamName: 'A Perseguição'
+  },
+  {
+    title: 'Life of Pi',
+    imdbId: 'tt0454876',
+    year: 2012,
+    ptTitle: 'As Aventuras de Pi',
+    dubbingStudio: 'Delart',
+    poster: 'https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg',
+    curatorNote: 'Um jovem naufrago sobrevive meses em um bote a deriva no oceano ao lado de um tigre-de-bengala, descobrindo na solidao extrema a forca de sua fe e imaginacao.',
+    curatorReason: 'Um jovem naufrago sobrevive meses em um bote a deriva no oceano ao lado de um tigre-de-bengala, descobrindo na solidao extrema a forca de sua fe e imaginacao.',
+    letterboxdUrl: 'https://letterboxd.com/film/life-of-pi/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386794.mp4',
+    streamName: 'As Aventuras de Pi'
+  },
+  {
+    title: 'The Revenant',
+    imdbId: 'tt1663202',
+    year: 2015,
+    ptTitle: 'O Regresso',
+    dubbingStudio: 'Delart',
+    poster: 'https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg',
+    curatorNote: 'Gravemente ferido e deixado para morrer por seus companheiros no inverno selvagem norte-americano, um explorador rasteja pela terra desolada em solidao implacavel.',
+    curatorReason: 'Gravemente ferido e deixado para morrer por seus companheiros no inverno selvagem norte-americano, um explorador rasteja pela terra desolada em solidao implacavel.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-revenant-2015/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/98821.mp4',
+    streamName: 'O Regresso'
+  },
+  {
+    title: 'First Reformed',
+    imdbId: 'tt6053438',
+    year: 2017,
+    ptTitle: 'No Coração da Escuridão',
+    dubbingStudio: 'Lexx',
+    poster: 'https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um pastor atormentado pelo passado cuida de uma igreja historica quase vazia, mergulhando no isolamento espiritual e na crise moral diante da destruicao planetaria.',
+    curatorReason: 'Um pastor atormentado pelo passado cuida de uma igreja historica quase vazia, mergulhando no isolamento espiritual e na crise moral diante da destruicao planetaria.',
+    letterboxdUrl: 'https://letterboxd.com/film/first-reformed/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21634.mp4',
+    streamName: 'No Coracao da Escuridao'
+  },
+  {
+    title: 'You Were Never Really Here',
+    imdbId: 'tt5742374',
+    year: 2017,
+    ptTitle: 'Você Nunca Esteve Realmente Aqui',
+    dubbingStudio: 'UniDub',
+    poster: 'https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um veterano solitario marcado por traumas de infancia e de combate vive nas sombras resgatando jovens traficadas, flertando constantemente com o desejo de desaparecer.',
+    curatorReason: 'Um veterano solitario marcado por traumas de infancia e de combate vive nas sombras resgatando jovens traficadas, flertando constantemente com o desejo de desaparecer.',
+    letterboxdUrl: 'https://letterboxd.com/film/you-were-never-really-here/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/314684.mp4',
+    streamName: 'Você Nunca Esteve Realmente Aqui'
+  },
+  {
+    title: 'The Card Counter',
+    imdbId: 'tt11196036',
+    year: 2021,
+    ptTitle: 'O Contador de Cartas',
+    dubbingStudio: 'Vox Mundi',
+    poster: 'https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um ex-interrogador militar vive uma rotina ascetica e anonima como jogador de cartas em cassinos impessoais, tentando expiar culpas do passado em rigoroso isolamento.',
+    curatorReason: 'Um ex-interrogador militar vive uma rotina ascetica e anonima como jogador de cartas em cassinos impessoais, tentando expiar culpas do passado em rigoroso isolamento.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-card-counter/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/160624.mp4',
+    streamName: 'O Contador de Cartas'
+  },
+  {
+    title: 'Broken Flowers',
+    imdbId: 'tt0412019',
+    year: 2005,
+    ptTitle: 'Flores Partidas',
+    dubbingStudio: 'Marshmellow',
+    poster: 'https://m.media-amazon.com/images/M/MV5BNTRiMDMyZDktZDAzNS00NDZkLWJkN2MtMDM1ZTU3NWM5MDg3XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg',
+    curatorNote: 'Um homem solitario e apatico viaja pelo pais visitando ex-namoradas apos receber uma carta anonima revelando que ele pode ter um filho que nunca conheceu.',
+    curatorReason: 'Um homem solitario e apatico viaja pelo pais visitando ex-namoradas apos receber uma carta anonima revelando que ele pode ter um filho que nunca conheceu.',
+    letterboxdUrl: 'https://letterboxd.com/film/broken-flowers/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/369401.mp4',
+    streamName: 'Flores Partidas'
+  },
+  {
+    title: 'The Wrestler',
+    imdbId: 'tt1125849',
+    year: 2008,
+    ptTitle: 'O Lutador',
+    dubbingStudio: 'Dublavídeo',
+    poster: 'https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um idoso astro da luta livre vive em um trailer dilapidado lidando com problemas cardiacos e a solidao fora do ringue, tentando reconectar-se com sua filha afastada.',
+    curatorReason: 'Um idoso astro da luta livre vive em um trailer dilapidado lidando com problemas cardiacos e a solidao fora do ringue, tentando reconectar-se com sua filha afastada.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-wrestler/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318560.mp4',
+    streamName: 'O Lutador'
+  },
+  {
+    title: 'Biutiful',
+    imdbId: 'tt1164999',
+    year: 2010,
+    ptTitle: 'Biutiful',
+    dubbingStudio: 'Delart',
+    poster: 'https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg',
+    curatorNote: 'Um homem a margem da sociedade em Barcelona descobre uma doenca terminal e tenta reconciliar seu destino com a solidao urbana e o amor por seus filhos pequenos.',
+    curatorReason: 'Um homem a margem da sociedade em Barcelona descobre uma doenca terminal e tenta reconciliar seu destino com a solidao urbana e o amor por seus filhos pequenos.',
+    letterboxdUrl: 'https://letterboxd.com/film/biutiful/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/113039.mp4',
+    streamName: 'Biutiful'
+  },
+  {
+    title: 'The Farewell',
+    imdbId: 'tt8637428',
+    year: 2019,
+    ptTitle: 'A Despedida',
+    dubbingStudio: 'Centauro',
+    poster: 'https://m.media-amazon.com/images/M/MV5BYjdlZDI1OWYtZWU4MC00NDhkLThmOWEtMTZiODFhZThkMjA4XkEyXkFqcGc@._V1_SX300.jpg',
+    curatorNote: 'Uma jovem sino-americana viaja a Changchun sob o pretexto de um casamento para se despedir em segredo da avo em estagio terminal, confrontando o desenraizamento cultural.',
+    curatorReason: 'Uma jovem sino-americana viaja a Changchun sob o pretexto de um casamento para se despedir em segredo da avo em estagio terminal, confrontando o desenraizamento cultural.',
+    letterboxdUrl: 'https://letterboxd.com/film/the-farewell-2019/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/107808.mp4',
+    streamName: 'A Despedida'
+  },
+  {
+    title: 'Minari',
+    imdbId: 'tt10633456',
+    year: 2020,
+    ptTitle: 'Minari: Em Busca da Felicidade',
+    dubbingStudio: 'UniDub',
+    poster: 'https://m.media-amazon.com/images/M/MV5BNWVmNDE3YzMtZWQ3Ny00YjhkLWEzN2QtZjNhYWNlMGI2N2NkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg',
+    curatorNote: 'Uma familia de imigrantes sul-coreanos se muda para um terreno isolado no Arkansas nos anos 1980, enfrentando a solidao rural e os desafios da adaptacao cultural.',
+    curatorReason: 'Uma familia de imigrantes sul-coreanos se muda para um terreno isolado no Arkansas nos anos 1980, enfrentando a solidao rural e os desafios da adaptacao cultural.',
+    letterboxdUrl: 'https://letterboxd.com/film/minari/',
+    streamUrl: 'http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/126543.mp4',
+    streamName: 'Minari - Em Busca da Felicidade'
   }
 ];
 
@@ -274,7 +304,7 @@ function fetchOmdb(item) {
 }
 
 async function main() {
-  console.log(`Generating solitude pack with ${MOVIES_DEF.length} verified titles...`);
+  console.log(`Generating updated solitude pack with ${MOVIES_DEF.length} verified titles...`);
   const finalMovies = [];
 
   for (const item of MOVIES_DEF) {
@@ -317,7 +347,7 @@ async function main() {
         ratings: omdbData?.Ratings || [{ Source: 'Internet Movie Database', Value: '7.8/10' }],
         imdbRating: omdbData?.imdbRating !== 'N/A' ? omdbData?.imdbRating : '7.8',
         imdbVotes: omdbData?.imdbVotes !== 'N/A' ? omdbData?.imdbVotes : '150,000',
-        imdbID: omdbData?.imdbID || `tt${Math.floor(1000000 + Math.random() * 9000000)}`,
+        imdbID: omdbData?.imdbID || item.imdbId || `tt${Math.floor(1000000 + Math.random() * 9000000)}`,
         type: 'movie',
         response: 'True',
         Poster: posterUrl

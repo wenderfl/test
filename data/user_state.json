@@ -78,7 +78,18 @@
     "Spontaneous",
     "Drive Angry",
     "Beverly Hills Cop",
-    "The Peanut Butter Falcon"
+    "The Peanut Butter Falcon",
+    "Manchester by the Sea",
+    "Gravity",
+    "Detachment",
+    "127 Hours",
+    "First Man",
+    "Locke",
+    "Leave No Trace",
+    "Pig",
+    "Ad Astra",
+    "Nomadland",
+    "Melancholia"
   ],
   "ignored": [
     "Malignant",
@@ -98,7 +109,8 @@
     "The Road to El Dorado",
     "Rise of the Guardians",
     "Klaus",
-    "ParaNorman"
+    "ParaNorman",
+    "Lost in Translation"
   ],
   "comments": {},
   "undubbed": [],
@@ -133,5 +145,18 @@
     "provider": "google_dev",
     "loggedAt": "2026-10-22T20:41:45.928Z"
   },
-  "lastSyncedAt": "2026-10-24T15:24:24.434Z"
+  "lastSyncedAt": "2026-11-01T16:10:38.135Z",
+  "playbackProgress": {},
+  "dspSettings": {
+    "dialogueBoost": true,
+    "compressor": true,
+    "volumeBoost": false
+  },
+  "videoSettings": {
+    "cinemaGrade": true,
+    "ditherGrain": true,
+    "aspectFill": false
+  },
+  "streamOverrides": {},
+  "googleClientId": ""
 }

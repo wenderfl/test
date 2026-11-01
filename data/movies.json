@@ -25452,57 +25452,6 @@
     }
   },
   {
-    "title": "Lost in Translation",
-    "ptTitle": "Encontros e Desencontros",
-    "year": 2003,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.",
-    "curatorReason": "Dois estrangeiros solitarios cruzam caminhos em Toquio, encontrando no olhar do outro um refugio silencioso contra a solidao urbana e o desencanto com a vida.",
-    "letterboxdUrl": "https://letterboxd.com/film/lost-in-translation/",
-    "dubbed": true,
-    "dubbingStudio": "Double Sound",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/130256.mp4",
-    "streamName": "Encontros e Desencontros",
-    "omdb": {
-      "title": "Lost in Translation",
-      "year": "2003",
-      "rated": "R",
-      "released": "03 Oct 2003",
-      "runtime": "102 min",
-      "genre": "Comedy, Drama",
-      "director": "Sofia Coppola",
-      "writer": "Sofia Coppola",
-      "actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
-      "plot": "A fading movie star and a neglected married young woman come to be unlikely soulmates in Tokyo.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Won 1 Oscar. 98 wins & 133 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "91/100"
-        }
-      ],
-      "imdbRating": "7.7",
-      "imdbVotes": "535,644",
-      "imdbID": "tt0335266",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg"
-    }
-  },
-  {
     "title": "Inside Llewyn Davis",
     "ptTitle": "Inside Llewyn Davis: Balada de um Homem Comum",
     "year": 2013,
@@ -25543,210 +25492,6 @@
       "type": "movie",
       "response": "True",
       "Poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/6/7/73367-inside-llewyn-davis-0-600-0-900-crop.jpg?v=df06f071fa"
-    }
-  },
-  {
-    "title": "Nomadland",
-    "ptTitle": "Nomadland",
-    "year": 2020,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.",
-    "curatorReason": "Apos perder tudo na recessao, uma mulher na casa dos sessenta anos cruza as vastidoes do oeste americano em sua van, descobrindo uma solidao serena e resiliente.",
-    "letterboxdUrl": "https://letterboxd.com/film/nomadland/",
-    "dubbed": true,
-    "dubbingStudio": "TV Group Digital",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/103154.mp4",
-    "streamName": "Nomadland",
-    "omdb": {
-      "title": "Nomadland",
-      "year": "2021",
-      "rated": "R",
-      "released": "19 Feb 2021",
-      "runtime": "107 min",
-      "genre": "Drama",
-      "director": "Chloé Zhao",
-      "writer": "Chloé Zhao, Jessica Bruder",
-      "actors": "Frances McDormand, David Strathairn, Linda May",
-      "plot": "After losing everything in the Great Recession, a woman in her sixties embarks on a journey through the American West, living as a van-dwelling nomad.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Won 3 Oscars. 254 wins & 160 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
-        }
-      ],
-      "imdbRating": "7.3",
-      "imdbVotes": "222,695",
-      "imdbID": "tt9770150",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/6/6/2/509662-nomadland-0-600-0-900-crop.jpg?v=942a672158"
-    }
-  },
-  {
-    "title": "Ad Astra",
-    "ptTitle": "Ad Astra - Rumo às Estrelas",
-    "year": 2019,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.",
-    "curatorReason": "Uma odisseia espacial silenciosa e reflexiva pelas bordas do sistema solar, onde o abismo do cosmos espelha a solidao e a desconexao emocional de um astronauta.",
-    "letterboxdUrl": "https://letterboxd.com/film/ad-astra-2019/",
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318518.mp4",
-    "streamName": "Ad Astra - Rumo às Estrelas",
-    "omdb": {
-      "title": "Ad Astra",
-      "year": "2019",
-      "rated": "PG-13",
-      "released": "20 Sep 2019",
-      "runtime": "123 min",
-      "genre": "Adventure, Drama, Mystery",
-      "director": "James Gray",
-      "writer": "James Gray, Ethan Gross",
-      "actors": "Brad Pitt, Tommy Lee Jones, Ruth Negga",
-      "plot": "An astronaut embarks on a space mission to investigate a threat to the universe and uncover the truth about his father who disappeared thirty years ago.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Nominated for 1 Oscar. 11 wins & 75 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "80/100"
-        }
-      ],
-      "imdbRating": "6.5",
-      "imdbVotes": "285,197",
-      "imdbID": "tt2935510",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef"
-    }
-  },
-  {
-    "title": "Gravity",
-    "ptTitle": "Gravidade",
-    "year": 2013,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.",
-    "curatorReason": "Isolada na escuridao infinita da orbita terrestre apos a destruicao de sua nave, uma astronauta luta pela sobrevivencia enquanto encara o luto e a solidao absoluta.",
-    "letterboxdUrl": "https://letterboxd.com/film/gravity-2013/",
-    "dubbed": true,
-    "dubbingStudio": "Wan Mächer",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/108286.mp4",
-    "streamName": "Gravidade",
-    "omdb": {
-      "title": "Gravity",
-      "year": "2013",
-      "rated": "PG-13",
-      "released": "04 Oct 2013",
-      "runtime": "91 min",
-      "genre": "Drama, Sci-Fi, Thriller",
-      "director": "Alfonso Cuarón",
-      "writer": "Alfonso Cuarón, Jonás Cuarón",
-      "actors": "Sandra Bullock, George Clooney, Ed Harris",
-      "plot": "Two astronauts must survive in space after their shuttle is hit by debris during a spacewalk.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Won 7 Oscars. 242 wins & 189 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "96/100"
-        }
-      ],
-      "imdbRating": "7.7",
-      "imdbVotes": "907,621",
-      "imdbID": "tt1454468",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg"
-    }
-  },
-  {
-    "title": "Detachment",
-    "ptTitle": "Indiferença",
-    "year": 2011,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.",
-    "curatorReason": "Um professor substituto vaga de escola em escola evitando apego emocional para nao reviver traumas do passado, ate ser confrontado pela solidao de seus alunos.",
-    "letterboxdUrl": "https://letterboxd.com/film/detachment/",
-    "dubbed": true,
-    "dubbingStudio": "Centauro",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/247274.mp4",
-    "streamName": "Indiferença",
-    "omdb": {
-      "title": "Detachment",
-      "year": "2012",
-      "rated": "Not Rated",
-      "released": "01 Feb 2012",
-      "runtime": "98 min",
-      "genre": "Drama",
-      "director": "Tony Kaye",
-      "writer": "Carl Lund",
-      "actors": "Adrien Brody, Christina Hendricks, Marcia Gay Harden",
-      "plot": "A substitute teacher who drifts from classroom to classroom finds a connection to the students and teachers during his latest assignment.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "8 wins & 4 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "59%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "52/100"
-        }
-      ],
-      "imdbRating": "7.7",
-      "imdbVotes": "114,323",
-      "imdbID": "tt1683526",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_QL75_UY562_CR3,0,380,562_.jpg"
     }
   },
   {
@@ -25801,210 +25546,6 @@
     }
   },
   {
-    "title": "Locke",
-    "ptTitle": "Locke",
-    "year": 2013,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.",
-    "curatorReason": "Durante uma viagem noturna de carro solitária, um engenheiro atende telefonemas decisivos que desmantelam irreversivelmente sua carreira, seu casamento e sua familia.",
-    "letterboxdUrl": "https://letterboxd.com/film/locke/",
-    "dubbed": true,
-    "dubbingStudio": "Vox Mundi",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/31777.mp4",
-    "streamName": "Locke",
-    "omdb": {
-      "title": "Locke",
-      "year": "2014",
-      "rated": "R",
-      "released": "18 Apr 2014",
-      "runtime": "85 min",
-      "genre": "Drama",
-      "director": "Steven Knight",
-      "writer": "Steven Knight",
-      "actors": "Tom Hardy, Olivia Colman, Ruth Wilson",
-      "plot": "Ivan Locke, a dedicated family man and successful construction manager, receives a phone call that sets in motion a series of events that threaten his carefully cultivated existence.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "7 wins & 33 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "90%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "83/100"
-        }
-      ],
-      "imdbRating": "7.1",
-      "imdbVotes": "171,015",
-      "imdbID": "tt2692904",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-600-0-900-crop.jpg?v=0795b09b98"
-    }
-  },
-  {
-    "title": "Melancholia",
-    "ptTitle": "Melancolia",
-    "year": 2011,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.",
-    "curatorReason": "Duas irmas lidam de maneiras opostas com o casamento desfeito e a noticia de que um planeta errante esta em rota de colisao irreversivel com a Terra.",
-    "letterboxdUrl": "https://letterboxd.com/film/melancholia-2011/",
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/317715.mp4",
-    "streamName": "Melancolia",
-    "omdb": {
-      "title": "Melancholia",
-      "year": "2011",
-      "rated": "R",
-      "released": "26 May 2011",
-      "runtime": "135 min",
-      "genre": "Drama, Sci-Fi",
-      "director": "Lars von Trier",
-      "writer": "Lars von Trier",
-      "actors": "Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland",
-      "plot": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "36 wins & 95 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "80%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "imdbRating": "7.1",
-      "imdbVotes": "210,346",
-      "imdbID": "tt1527186",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    }
-  },
-  {
-    "title": "Leave No Trace",
-    "ptTitle": "Sem Rastros",
-    "year": 2018,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.",
-    "curatorReason": "Um pai veterano traumatizado pela guerra e sua filha adolescente vivem isolados em uma floresta publica, refugiando-se do barulho e das exigencias da sociedade.",
-    "letterboxdUrl": "https://letterboxd.com/film/leave-no-trace/",
-    "dubbed": true,
-    "dubbingStudio": "Som de Vera Cruz",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/23934.mp4",
-    "streamName": "Sem Rastros",
-    "omdb": {
-      "title": "Leave No Trace",
-      "year": "2018",
-      "rated": "PG",
-      "released": "29 Jun 2018",
-      "runtime": "109 min",
-      "genre": "Adventure, Drama",
-      "director": "Debra Granik",
-      "writer": "Debra Granik, Anne Rosellini, Peter Rock",
-      "actors": "Thomasin McKenzie, Ben Foster, Jeffery Rifflard",
-      "plot": "A father and his seventeen-year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon when a small mistake derails their lives forever.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "18 wins & 92 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "88/100"
-        }
-      ],
-      "imdbRating": "7.1",
-      "imdbVotes": "71,076",
-      "imdbID": "tt3892172",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/0/4/1/376041-leave-no-trace-0-600-0-900-crop.jpg?v=f079c0c9bc"
-    }
-  },
-  {
-    "title": "First Man",
-    "ptTitle": "O Primeiro Homem",
-    "year": 2018,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.",
-    "curatorReason": "A missao historica de Neil Armstrong ate a Lua retratada como uma jornada de silencioso luto pessoal, isolamento emocional e coragem contida.",
-    "letterboxdUrl": "https://letterboxd.com/film/first-man/",
-    "dubbed": true,
-    "dubbingStudio": "Delart",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21454.mp4",
-    "streamName": "O Primeiro Homem",
-    "omdb": {
-      "title": "First Man",
-      "year": "2018",
-      "rated": "PG-13",
-      "released": "12 Oct 2018",
-      "runtime": "141 min",
-      "genre": "Biography, Drama, History",
-      "director": "Damien Chazelle",
-      "writer": "Josh Singer, James R. Hansen",
-      "actors": "Ryan Gosling, Claire Foy, Jason Clarke",
-      "plot": "A look back at the life of astronaut Neil Armstrong and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Won 1 Oscar. 32 wins & 193 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "87%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "84/100"
-        }
-      ],
-      "imdbRating": "7.3",
-      "imdbVotes": "220,014",
-      "imdbID": "tt1213641",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/8/1/1/305811-first-man-0-600-0-900-crop.jpg?v=4b9c3337c8"
-    }
-  },
-  {
     "title": "Cast Away",
     "ptTitle": "Náufrago",
     "year": 2000,
@@ -26053,57 +25594,6 @@
       "type": "movie",
       "response": "True",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
-    }
-  },
-  {
-    "title": "127 Hours",
-    "ptTitle": "127 Horas",
-    "year": 2010,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.",
-    "curatorReason": "Preso por uma rocha em uma fenda remota em Utah sem ter avisado ninguem de sua viagem, um aventureiro solitario reflete sobre sua vida a beira da morte.",
-    "letterboxdUrl": "https://letterboxd.com/film/127-hours/",
-    "dubbed": true,
-    "dubbingStudio": "Dublavídeo",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/20885.mp4",
-    "streamName": "127 Horas",
-    "omdb": {
-      "title": "127 Hours",
-      "year": "2011",
-      "rated": "R",
-      "released": "28 Jan 2011",
-      "runtime": "94 min",
-      "genre": "Biography, Drama",
-      "director": "Danny Boyle",
-      "writer": "Aron Ralston, Danny Boyle, Simon Beaufoy",
-      "actors": "James Franco, Amber Tamblyn, Kate Mara",
-      "plot": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "Nominated for 6 Oscars. 23 wins & 150 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "82/100"
-        }
-      ],
-      "imdbRating": "7.5",
-      "imdbVotes": "428,646",
-      "imdbID": "tt1542344",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/5/0/21050-127-hours-0-600-0-900-crop.jpg?v=00379b4446"
     }
   },
   {
@@ -26158,57 +25648,6 @@
     }
   },
   {
-    "title": "Pig",
-    "ptTitle": "Pig - A Vingança",
-    "year": 2021,
-    "category": "solitude",
-    "parentCategory": "art",
-    "curatorNote": "Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.",
-    "curatorReason": "Um eremita taciturno que vive isolado na floresta de Oregon com sua porca cacadora de trufas precisa retornar a Portland quando seu animal de estimacao e roubado.",
-    "letterboxdUrl": "https://letterboxd.com/film/pig-2021/",
-    "dubbed": true,
-    "dubbingStudio": "UniDub",
-    "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/145960.mp4",
-    "streamName": "Pig - A Vingança",
-    "omdb": {
-      "title": "Pig",
-      "year": "2021",
-      "rated": "R",
-      "released": "16 Jul 2021",
-      "runtime": "92 min",
-      "genre": "Drama, Mystery",
-      "director": "Michael Sarnoski",
-      "writer": "Vanessa Block, Michael Sarnoski",
-      "actors": "Nicolas Cage, Alex Wolff, Adam Arkin",
-      "plot": "A truffle hunter who lives alone in the Oregon wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.",
-      "language": "English, Portuguese",
-      "country": "United States",
-      "awards": "39 wins & 75 nominations total",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a",
-      "ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "82/100"
-        }
-      ],
-      "imdbRating": "6.9",
-      "imdbVotes": "106,881",
-      "imdbID": "tt11003218",
-      "type": "movie",
-      "response": "True",
-      "Poster": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a"
-    }
-  },
-  {
     "title": "Buried",
     "ptTitle": "Enterrado Vivo",
     "year": 2010,
@@ -26260,54 +25699,713 @@
     }
   },
   {
-    "title": "Manchester by the Sea",
-    "ptTitle": "Manchester à Beira-Mar",
-    "year": 2016,
+    "title": "The Father",
+    "ptTitle": "Meu Pai",
+    "year": 2020,
     "category": "solitude",
     "parentCategory": "art",
-    "curatorNote": "Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.",
-    "curatorReason": "Um zelador solitario e fechado em seu proprio luto e forcado a voltar a sua cidade natal para cuidar do sobrinho orfao, confrontando tragedias do passado.",
-    "letterboxdUrl": "https://letterboxd.com/film/manchester-by-the-sea/",
+    "curatorNote": "Um homem idoso perde gradativamente os pontos de referencia de sua propria mente e apartamento, vivenciando o isolamento e o desamparo angustiante da demencia.",
+    "curatorReason": "Um homem idoso perde gradativamente os pontos de referencia de sua propria mente e apartamento, vivenciando o isolamento e o desamparo angustiante da demencia.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-father-2020/",
     "dubbed": true,
     "dubbingStudio": "Delart",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/24936.mp4",
-    "streamName": "Manchester A Beira Mar",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/101178.mp4",
+    "streamName": "Meu Pai",
     "omdb": {
-      "title": "Manchester by the Sea",
-      "year": "2016",
-      "rated": "R",
-      "released": "16 Dec 2016",
-      "runtime": "137 min",
-      "genre": "Drama",
-      "director": "Kenneth Lonergan",
-      "writer": "Kenneth Lonergan",
-      "actors": "Casey Affleck, Michelle Williams, Kyle Chandler",
-      "plot": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+      "title": "The Father",
+      "year": "2021",
+      "rated": "PG-13",
+      "released": "26 Feb 2021",
+      "runtime": "97 min",
+      "genre": "Drama, Mystery",
+      "director": "Florian Zeller",
+      "writer": "Christopher Hampton, Florian Zeller",
+      "actors": "Anthony Hopkins, Olivia Colman, Mark Gatiss",
+      "plot": "A man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
       "language": "English, Portuguese",
       "country": "United States",
-      "awards": "Won 2 Oscars. 129 wins & 269 nominations total",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "awards": "Won 2 Oscars. 39 wins & 171 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.8/10"
+          "Value": "8.2/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "96%"
+          "Value": "98%"
         },
         {
           "Source": "Metacritic",
-          "Value": "96/100"
+          "Value": "88/100"
         }
       ],
-      "imdbRating": "7.8",
-      "imdbVotes": "364,375",
-      "imdbID": "tt4034228",
+      "imdbRating": "8.2",
+      "imdbVotes": "250,587",
+      "imdbID": "tt10272386",
       "type": "movie",
       "response": "True",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "All Is Lost",
+    "ptTitle": "Até o Fim",
+    "year": 2013,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um marinheiro solitario enfrenta a furia implacavel do Oceano Indico em um veleiro danificado, em uma jornada despojada de palavras e repleta de solidao primordial.",
+    "curatorReason": "Um marinheiro solitario enfrenta a furia implacavel do Oceano Indico em um veleiro danificado, em uma jornada despojada de palavras e repleta de solidao primordial.",
+    "letterboxdUrl": "https://letterboxd.com/film/all-is-lost/",
+    "dubbed": true,
+    "dubbingStudio": "Luminus",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/333428.mp4",
+    "streamName": "Até o Fim",
+    "omdb": {
+      "title": "All Is Lost",
+      "year": "2013",
+      "rated": "PG-13",
+      "released": "25 Oct 2013",
+      "runtime": "106 min",
+      "genre": "Action, Adventure, Drama",
+      "director": "J.C. Chandor",
+      "writer": "J.C. Chandor",
+      "actors": "Robert Redford",
+      "plot": "After a collision with a shipping container at sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 3 wins & 48 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "imdbRating": "6.9",
+      "imdbVotes": "88,497",
+      "imdbID": "tt2017038",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "Sound of Metal",
+    "ptTitle": "O Som do Silêncio",
+    "year": 2020,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um baterista de metal perde subitamente a audicao e se recolhe a uma comunidade isolada de surdos, confrontando a solidao silenciosa e reaprendendo a estar presente.",
+    "curatorReason": "Um baterista de metal perde subitamente a audicao e se recolhe a uma comunidade isolada de surdos, confrontando a solidao silenciosa e reaprendendo a estar presente.",
+    "letterboxdUrl": "https://letterboxd.com/film/sound-of-metal/",
+    "dubbed": true,
+    "dubbingStudio": "TV Group Digital",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/360864.mp4",
+    "streamName": "O Som do Silêncio",
+    "omdb": {
+      "title": "Sound of Metal",
+      "year": "2020",
+      "rated": "R",
+      "released": "04 Dec 2020",
+      "runtime": "120 min",
+      "genre": "Drama, Music",
+      "director": "Darius Marder",
+      "writer": "Darius Marder, Abraham Marder, Derek Cianfrance",
+      "actors": "Riz Ahmed, Olivia Cooke, Paul Raci",
+      "plot": "A drummer begins to experience hearing loss and fears for his music career.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Won 2 Oscars. 90 wins & 179 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "imdbRating": "7.7",
+      "imdbVotes": "189,527",
+      "imdbID": "tt5363618",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "The Grey",
+    "ptTitle": "A Perseguição",
+    "year": 2011,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Apos um desastre aereo na tundra do Alasca, sobreviventes enfrentam o frio extremo e lobos ferozes, enquanto o lider do grupo encara seu profundo luto e solidao.",
+    "curatorReason": "Apos um desastre aereo na tundra do Alasca, sobreviventes enfrentam o frio extremo e lobos ferozes, enquanto o lider do grupo encara seu profundo luto e solidao.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-grey/",
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_QL75_UX380_CR0,12,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/355707.mp4",
+    "streamName": "A Perseguição",
+    "omdb": {
+      "title": "The Grey",
+      "year": "2012",
+      "rated": "R",
+      "released": "27 Jan 2012",
+      "runtime": "117 min",
+      "genre": "Action, Adventure, Drama",
+      "director": "Joe Carnahan",
+      "writer": "Joe Carnahan, Ian Mackenzie Jeffers",
+      "actors": "Liam Neeson, Dermot Mulroney, Frank Grillo",
+      "plot": "A skilled huntsman leads six oil workers to survival after their plane crashes in the Alaskan wilderness, but a pack of merciless wolves haunts their every step.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "2 wins & 9 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_QL75_UX380_CR0,12,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "276,406",
+      "imdbID": "tt1601913",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_QL75_UX380_CR0,12,380,562_.jpg"
+    }
+  },
+  {
+    "title": "Life of Pi",
+    "ptTitle": "As Aventuras de Pi",
+    "year": 2012,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um jovem naufrago sobrevive meses em um bote a deriva no oceano ao lado de um tigre-de-bengala, descobrindo na solidao extrema a forca de sua fe e imaginacao.",
+    "curatorReason": "Um jovem naufrago sobrevive meses em um bote a deriva no oceano ao lado de um tigre-de-bengala, descobrindo na solidao extrema a forca de sua fe e imaginacao.",
+    "letterboxdUrl": "https://letterboxd.com/film/life-of-pi/",
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/386794.mp4",
+    "streamName": "As Aventuras de Pi",
+    "omdb": {
+      "title": "Life of Pi",
+      "year": "2012",
+      "rated": "PG",
+      "released": "21 Nov 2012",
+      "runtime": "127 min",
+      "genre": "Adventure, Drama, Fantasy",
+      "director": "Ang Lee",
+      "writer": "Yann Martel, David Magee",
+      "actors": "Suraj Sharma, Irrfan Khan, Ayush Tandon",
+      "plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Won 4 Oscars. 81 wins & 134 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "imdbRating": "7.9",
+      "imdbVotes": "706,845",
+      "imdbID": "tt0454876",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+    }
+  },
+  {
+    "title": "The Revenant",
+    "ptTitle": "O Regresso",
+    "year": 2015,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Gravemente ferido e deixado para morrer por seus companheiros no inverno selvagem norte-americano, um explorador rasteja pela terra desolada em solidao implacavel.",
+    "curatorReason": "Gravemente ferido e deixado para morrer por seus companheiros no inverno selvagem norte-americano, um explorador rasteja pela terra desolada em solidao implacavel.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-revenant-2015/",
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/98821.mp4",
+    "streamName": "O Regresso",
+    "omdb": {
+      "title": "The Revenant",
+      "year": "2016",
+      "rated": "R",
+      "released": "08 Jan 2016",
+      "runtime": "156 min",
+      "genre": "Action, Drama, Western",
+      "director": "Alejandro G. Iñárritu",
+      "writer": "Mark L. Smith, Alejandro G. Iñárritu, Michael Punke",
+      "actors": "Leonardo DiCaprio, Tom Hardy, Will Poulter",
+      "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Won 3 Oscars. 95 wins & 196 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "imdbRating": "8.0",
+      "imdbVotes": "964,233",
+      "imdbID": "tt1663202",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+    }
+  },
+  {
+    "title": "First Reformed",
+    "ptTitle": "No Coração da Escuridão",
+    "year": 2017,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um pastor atormentado pelo passado cuida de uma igreja historica quase vazia, mergulhando no isolamento espiritual e na crise moral diante da destruicao planetaria.",
+    "curatorReason": "Um pastor atormentado pelo passado cuida de uma igreja historica quase vazia, mergulhando no isolamento espiritual e na crise moral diante da destruicao planetaria.",
+    "letterboxdUrl": "https://letterboxd.com/film/first-reformed/",
+    "dubbed": true,
+    "dubbingStudio": "Lexx",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/21634.mp4",
+    "streamName": "No Coracao da Escuridao",
+    "omdb": {
+      "title": "First Reformed",
+      "year": "2018",
+      "rated": "R",
+      "released": "08 Jun 2018",
+      "runtime": "113 min",
+      "genre": "Drama, Mystery, Thriller",
+      "director": "Paul Schrader",
+      "writer": "Paul Schrader",
+      "actors": "Ethan Hawke, Amanda Seyfried, Cedric The Entertainer",
+      "plot": "A minister of a small congregation in upstate New York grapples with mounting despair brought on by tragedy, worldly concerns and a tormented past.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 1 Oscar. 62 wins & 108 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "imdbRating": "7.1",
+      "imdbVotes": "68,597",
+      "imdbID": "tt6053438",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "You Were Never Really Here",
+    "ptTitle": "Você Nunca Esteve Realmente Aqui",
+    "year": 2017,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um veterano solitario marcado por traumas de infancia e de combate vive nas sombras resgatando jovens traficadas, flertando constantemente com o desejo de desaparecer.",
+    "curatorReason": "Um veterano solitario marcado por traumas de infancia e de combate vive nas sombras resgatando jovens traficadas, flertando constantemente com o desejo de desaparecer.",
+    "letterboxdUrl": "https://letterboxd.com/film/you-were-never-really-here/",
+    "dubbed": true,
+    "dubbingStudio": "UniDub",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/314684.mp4",
+    "streamName": "Você Nunca Esteve Realmente Aqui",
+    "omdb": {
+      "title": "You Were Never Really Here",
+      "year": "2018",
+      "rated": "R",
+      "released": "06 Apr 2018",
+      "runtime": "89 min",
+      "genre": "Crime, Drama, Thriller",
+      "director": "Lynne Ramsay",
+      "writer": "Lynne Ramsay, Jonathan Ames",
+      "actors": "Joaquin Phoenix, Judith Roberts, Ekaterina Samsonov",
+      "plot": "A traumatized veteran unafraid of violence tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered leading to what could be his death trip or his awakening.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 1 BAFTA Award. 24 wins & 78 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "imdbRating": "6.7",
+      "imdbVotes": "136,707",
+      "imdbID": "tt5742374",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "The Card Counter",
+    "ptTitle": "O Contador de Cartas",
+    "year": 2021,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um ex-interrogador militar vive uma rotina ascetica e anonima como jogador de cartas em cassinos impessoais, tentando expiar culpas do passado em rigoroso isolamento.",
+    "curatorReason": "Um ex-interrogador militar vive uma rotina ascetica e anonima como jogador de cartas em cassinos impessoais, tentando expiar culpas do passado em rigoroso isolamento.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-card-counter/",
+    "dubbed": true,
+    "dubbingStudio": "Vox Mundi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/160624.mp4",
+    "streamName": "O Contador de Cartas",
+    "omdb": {
+      "title": "The Card Counter",
+      "year": "2021",
+      "rated": "R",
+      "released": "10 Sep 2021",
+      "runtime": "111 min",
+      "genre": "Crime, Drama, Thriller",
+      "director": "Paul Schrader",
+      "writer": "Paul Schrader",
+      "actors": "Oscar Isaac, Tiffany Haddish, Tye Sheridan",
+      "plot": "William Tell is an ex-military interrogator living under the radar as a low-stakes gambler. When he encounters a young man looking to commit revenge against a mutual enemy, he takes him on the casino circuit to set him on a new path.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "3 wins & 22 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "imdbRating": "6.2",
+      "imdbVotes": "47,710",
+      "imdbID": "tt11196036",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "Broken Flowers",
+    "ptTitle": "Flores Partidas",
+    "year": 2005,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um homem solitario e apatico viaja pelo pais visitando ex-namoradas apos receber uma carta anonima revelando que ele pode ter um filho que nunca conheceu.",
+    "curatorReason": "Um homem solitario e apatico viaja pelo pais visitando ex-namoradas apos receber uma carta anonima revelando que ele pode ter um filho que nunca conheceu.",
+    "letterboxdUrl": "https://letterboxd.com/film/broken-flowers/",
+    "dubbed": true,
+    "dubbingStudio": "Marshmellow",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRiMDMyZDktZDAzNS00NDZkLWJkN2MtMDM1ZTU3NWM5MDg3XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/369401.mp4",
+    "streamName": "Flores Partidas",
+    "omdb": {
+      "title": "Broken Flowers",
+      "year": "2005",
+      "rated": "R",
+      "released": "26 Aug 2005",
+      "runtime": "106 min",
+      "genre": "Comedy, Drama, Mystery",
+      "director": "Jim Jarmusch",
+      "writer": "Jim Jarmusch, Bill Raden, Sara Driver",
+      "actors": "Bill Murray, Jessica Lange, Sharon Stone",
+      "plot": "As the extremely withdrawn Don Johnston is dumped by his latest woman, he receives an anonymous letter from a former lover informing him that he has a son who may be looking for him. A freelance sleuth neighbor moves Don to embark...",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "5 wins & 14 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTRiMDMyZDktZDAzNS00NDZkLWJkN2MtMDM1ZTU3NWM5MDg3XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "imdbRating": "7.1",
+      "imdbVotes": "110,823",
+      "imdbID": "tt0412019",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRiMDMyZDktZDAzNS00NDZkLWJkN2MtMDM1ZTU3NWM5MDg3XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "The Wrestler",
+    "ptTitle": "O Lutador",
+    "year": 2008,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um idoso astro da luta livre vive em um trailer dilapidado lidando com problemas cardiacos e a solidao fora do ringue, tentando reconectar-se com sua filha afastada.",
+    "curatorReason": "Um idoso astro da luta livre vive em um trailer dilapidado lidando com problemas cardiacos e a solidao fora do ringue, tentando reconectar-se com sua filha afastada.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-wrestler/",
+    "dubbed": true,
+    "dubbingStudio": "Dublavídeo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/318560.mp4",
+    "streamName": "O Lutador",
+    "omdb": {
+      "title": "The Wrestler",
+      "year": "2009",
+      "rated": "R",
+      "released": "30 Jan 2009",
+      "runtime": "109 min",
+      "genre": "Drama, Sport",
+      "director": "Darren Aronofsky",
+      "writer": "Robert Siegel",
+      "actors": "Mickey Rourke, Marisa Tomei, Evan Rachel Wood",
+      "plot": "A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 58 wins & 93 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "imdbRating": "7.9",
+      "imdbVotes": "333,020",
+      "imdbID": "tt1125849",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "Biutiful",
+    "ptTitle": "Biutiful",
+    "year": 2010,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Um homem a margem da sociedade em Barcelona descobre uma doenca terminal e tenta reconciliar seu destino com a solidao urbana e o amor por seus filhos pequenos.",
+    "curatorReason": "Um homem a margem da sociedade em Barcelona descobre uma doenca terminal e tenta reconciliar seu destino com a solidao urbana e o amor por seus filhos pequenos.",
+    "letterboxdUrl": "https://letterboxd.com/film/biutiful/",
+    "dubbed": true,
+    "dubbingStudio": "Delart",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/113039.mp4",
+    "streamName": "Biutiful",
+    "omdb": {
+      "title": "Biutiful",
+      "year": "2011",
+      "rated": "R",
+      "released": "04 Feb 2011",
+      "runtime": "148 min",
+      "genre": "Drama, Romance",
+      "director": "Alejandro G. Iñárritu",
+      "writer": "Alejandro G. Iñárritu, Armando Bo, Nicolás Giacobone",
+      "actors": "Javier Bardem, Maricel Álvarez, Hanaa Bouchaib",
+      "plot": "A man dying of cancer tries his best to leave the world on his own terms.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 2 Oscars. 21 wins & 65 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "imdbRating": "7.4",
+      "imdbVotes": "98,745",
+      "imdbID": "tt1164999",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    }
+  },
+  {
+    "title": "The Farewell",
+    "ptTitle": "A Despedida",
+    "year": 2019,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Uma jovem sino-americana viaja a Changchun sob o pretexto de um casamento para se despedir em segredo da avo em estagio terminal, confrontando o desenraizamento cultural.",
+    "curatorReason": "Uma jovem sino-americana viaja a Changchun sob o pretexto de um casamento para se despedir em segredo da avo em estagio terminal, confrontando o desenraizamento cultural.",
+    "letterboxdUrl": "https://letterboxd.com/film/the-farewell-2019/",
+    "dubbed": true,
+    "dubbingStudio": "Centauro",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdlZDI1OWYtZWU4MC00NDhkLThmOWEtMTZiODFhZThkMjA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/107808.mp4",
+    "streamName": "A Despedida",
+    "omdb": {
+      "title": "The Farewell",
+      "year": "2019",
+      "rated": "PG",
+      "released": "09 Aug 2019",
+      "runtime": "100 min",
+      "genre": "Comedy, Drama",
+      "director": "Lulu Wang",
+      "writer": "Lulu Wang",
+      "actors": "Shuzhen Zhao, Awkwafina, X Mayo",
+      "plot": "A Chinese family discovers their grandmother has only a short while left to live and decide to keep her in the dark, scheduling a wedding to gather before she dies.",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Nominated for 1 BAFTA Award37 wins & 194 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjdlZDI1OWYtZWU4MC00NDhkLThmOWEtMTZiODFhZThkMjA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "imdbRating": "7.5",
+      "imdbVotes": "72,726",
+      "imdbID": "tt8637428",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjdlZDI1OWYtZWU4MC00NDhkLThmOWEtMTZiODFhZThkMjA4XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  },
+  {
+    "title": "Minari",
+    "ptTitle": "Minari: Em Busca da Felicidade",
+    "year": 2020,
+    "category": "solitude",
+    "parentCategory": "art",
+    "curatorNote": "Uma familia de imigrantes sul-coreanos se muda para um terreno isolado no Arkansas nos anos 1980, enfrentando a solidao rural e os desafios da adaptacao cultural.",
+    "curatorReason": "Uma familia de imigrantes sul-coreanos se muda para um terreno isolado no Arkansas nos anos 1980, enfrentando a solidao rural e os desafios da adaptacao cultural.",
+    "letterboxdUrl": "https://letterboxd.com/film/minari/",
+    "dubbed": true,
+    "dubbingStudio": "UniDub",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWVmNDE3YzMtZWQ3Ny00YjhkLWEzN2QtZjNhYWNlMGI2N2NkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+    "streamUrl": "http://contrafilenabrasa.net:80/movie/frc-561250/Yrwa1z/126543.mp4",
+    "streamName": "Minari - Em Busca da Felicidade",
+    "omdb": {
+      "title": "Minari",
+      "year": "2021",
+      "rated": "PG-13",
+      "released": "12 Feb 2021",
+      "runtime": "115 min",
+      "genre": "Drama",
+      "director": "Lee Isaac Chung",
+      "writer": "Lee Isaac Chung",
+      "actors": "Steven Yeun, Han Ye-ri, Alan Kim",
+      "plot": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a ...",
+      "language": "English, Portuguese",
+      "country": "United States",
+      "awards": "Won 1 Oscar. 120 wins & 241 nominations total",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWVmNDE3YzMtZWQ3Ny00YjhkLWEzN2QtZjNhYWNlMGI2N2NkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "imdbRating": "7.4",
+      "imdbVotes": "127,653",
+      "imdbID": "tt10633456",
+      "type": "movie",
+      "response": "True",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWVmNDE3YzMtZWQ3Ny00YjhkLWEzN2QtZjNhYWNlMGI2N2NkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg"
     }
   },
   {
